@@ -1,0 +1,2 @@
+# slotsizes
+slot size json
