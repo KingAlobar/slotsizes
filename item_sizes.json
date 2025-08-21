@@ -1,0 +1,6714 @@
+[
+  {
+    "itemType": "ACOGOptic",
+    "slotSize": 2
+  },
+  {
+    "itemType": "ACOGOptic_6x",
+    "slotSize": 6
+  },
+  {
+    "itemType": "AgaricusMushroom",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Airborne",
+    "slotSize": 12
+  },
+  {
+    "itemType": "AirborneMask",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AK101",
+    "slotSize": 24
+  },
+  {
+    "itemType": "AK101_Black",
+    "slotSize": 24
+  },
+  {
+    "itemType": "AK101_Green",
+    "slotSize": 24
+  },
+  {
+    "itemType": "AK74",
+    "slotSize": 24
+  },
+  {
+    "itemType": "AK74_Black",
+    "slotSize": 24
+  },
+  {
+    "itemType": "AK74_Green",
+    "slotSize": 24
+  },
+  {
+    "itemType": "AK74_Hndgrd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AK74_WoodBttstck",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AK_Bayonet",
+    "slotSize": 3
+  },
+  {
+    "itemType": "AK_FoldingBttstck",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AK_FoldingBttstck_Black",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AK_FoldingBttstck_Green",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AK_PlasticBttstck",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AK_PlasticBttstck_Black",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AK_PlasticBttstck_Green",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AK_PlasticHndgrd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AK_RailHndgrd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AK_RailHndgrd_Black",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AK_RailHndgrd_Green",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AK_Suppressor",
+    "slotSize": 3
+  },
+  {
+    "itemType": "AK_WoodBttstck",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AK_WoodBttstck_Black",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AK_WoodBttstck_Camo",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AK_WoodHndgrd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AK_WoodHndgrd_Black",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AK_WoodHndgrd_Camo",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AKM",
+    "slotSize": 24
+  },
+  {
+    "itemType": "AKM_TESTBED",
+    "slotSize": 24
+  },
+  {
+    "itemType": "AKS74U",
+    "slotSize": 18
+  },
+  {
+    "itemType": "AKS74U_Black",
+    "slotSize": 18
+  },
+  {
+    "itemType": "AKS74U_Bttstck",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AKS74U_Green",
+    "slotSize": 18
+  },
+  {
+    "itemType": "AlarmClock_Blue",
+    "slotSize": 4
+  },
+  {
+    "itemType": "AlarmClock_Green",
+    "slotSize": 4
+  },
+  {
+    "itemType": "AlarmClock_Red",
+    "slotSize": 4
+  },
+  {
+    "itemType": "AliceBag_Black",
+    "slotSize": 42
+  },
+  {
+    "itemType": "AliceBag_Camo",
+    "slotSize": 42
+  },
+  {
+    "itemType": "AliceBag_Green",
+    "slotSize": 42
+  },
+  {
+    "itemType": "Ammo_12gaPellets",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Ammo_12gaRubberSlug",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Ammo_12gaSlug",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Ammo_22",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Ammo_308Win",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Ammo_308WinTracer",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Ammo_357",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Ammo_380",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Ammo_40mm_Chemgas",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Ammo_40mm_Explosive",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Ammo_40mm_Smoke_Black",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Ammo_40mm_Smoke_Green",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Ammo_40mm_Smoke_Red",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Ammo_40mm_Smoke_White",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Ammo_45ACP",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Ammo_545x39",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Ammo_545x39Tracer",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Ammo_556x45",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Ammo_556x45Tracer",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Ammo_762x39",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Ammo_762x39Tracer",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Ammo_762x54",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Ammo_762x54Tracer",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Ammo_9x19",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Ammo_9x39",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Ammo_9x39AP",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Ammo_CupidsBolt",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Ammo_Flare",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Ammo_FlareBlue",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Ammo_FlareGreen",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Ammo_FlareRed",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Ammo_HuntingBolt",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Ammo_ImprovisedBolt_1",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Ammo_ImprovisedBolt_2",
+    "slotSize": 4
+  },
+  {
+    "itemType": "AmmoBox",
+    "slotSize": 20
+  },
+  {
+    "itemType": "AmmoBox_00buck_10rnd",
+    "slotSize": 1
+  },
+  {
+    "itemType": "AmmoBox_12gaRubberSlug_10Rnd",
+    "slotSize": 1
+  },
+  {
+    "itemType": "AmmoBox_12gaSlug_10Rnd",
+    "slotSize": 1
+  },
+  {
+    "itemType": "AmmoBox_22_50Rnd",
+    "slotSize": 1
+  },
+  {
+    "itemType": "AmmoBox_308Win_20Rnd",
+    "slotSize": 1
+  },
+  {
+    "itemType": "AmmoBox_308WinTracer_20Rnd",
+    "slotSize": 1
+  },
+  {
+    "itemType": "AmmoBox_357_20Rnd",
+    "slotSize": 1
+  },
+  {
+    "itemType": "AmmoBox_380_35rnd",
+    "slotSize": 1
+  },
+  {
+    "itemType": "AmmoBox_45ACP_25rnd",
+    "slotSize": 1
+  },
+  {
+    "itemType": "AmmoBox_545x39_20Rnd",
+    "slotSize": 1
+  },
+  {
+    "itemType": "AmmoBox_545x39Tracer_20Rnd",
+    "slotSize": 1
+  },
+  {
+    "itemType": "AmmoBox_556x45_20Rnd",
+    "slotSize": 1
+  },
+  {
+    "itemType": "AmmoBox_556x45Tracer_20Rnd",
+    "slotSize": 1
+  },
+  {
+    "itemType": "AmmoBox_762x39_20Rnd",
+    "slotSize": 1
+  },
+  {
+    "itemType": "AmmoBox_762x39Tracer_20Rnd",
+    "slotSize": 1
+  },
+  {
+    "itemType": "AmmoBox_762x54_20Rnd",
+    "slotSize": 1
+  },
+  {
+    "itemType": "AmmoBox_762x54Tracer_20Rnd",
+    "slotSize": 1
+  },
+  {
+    "itemType": "AmmoBox_9x19_25rnd",
+    "slotSize": 1
+  },
+  {
+    "itemType": "AmmoBox_9x39_20Rnd",
+    "slotSize": 1
+  },
+  {
+    "itemType": "AmmoBox_9x39AP_20Rnd",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Animal_BosTaurus_Brown",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Animal_BosTaurus_Spotted",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Animal_BosTaurus_White",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Animal_BosTaurusF_Brown",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Animal_BosTaurusF_Spotted",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Animal_BosTaurusF_White",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Animal_CanisLupus_Grey",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Animal_CanisLupus_White",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Animal_CapraHircus_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Animal_CapraHircus_Brown",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Animal_CapraHircus_White",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Animal_CapraHircusF",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Animal_CapreolusCapreolus",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Animal_CapreolusCapreolusF",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Animal_CervusElaphus",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Animal_CervusElaphusF",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Animal_GallusGallusDomesticus",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Animal_GallusGallusDomesticusF_Brown",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Animal_GallusGallusDomesticusF_Spotted",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Animal_GallusGallusDomesticusF_White",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Animal_LepusEuropaeus",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Animal_OvisAries",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Animal_OvisAriesF",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Animal_RangiferTarandus",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Animal_RangiferTarandus_Xmas",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Animal_RangiferTarandusF",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Animal_SusDomesticus",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Animal_SusScrofa",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Animal_UrsusArctos",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Animal_VulpesVulpes",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Anniversary_FireworksLauncher",
+    "slotSize": 16
+  },
+  {
+    "itemType": "AnniversaryBox",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "AntiChemInjector",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AntiPestsSpray",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Apple",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Armband_Altis",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_APA",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_BabyDeer",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_Bear",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_Black",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_Blue",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_Bohemia",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_BrainZ",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_Cannibals",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_CDF",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_Chedaki",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_CHEL",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_Chernarus",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_CMC",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_Crook",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_DayZ",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_Green",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_HunterZ",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_Livonia",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_LivoniaArmy",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_LivoniaPolice",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_NAPA",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_NSahrani",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_Orange",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_Pink",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_Pirates",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_Red",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_Refuge",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_Rex",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_Rooster",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_RSTA",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_Snake",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_SSahrani",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_TEC",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_UEC",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_White",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_Wolf",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_Yellow",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_Zagorky",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Armband_Zenit",
+    "slotSize": 2
+  },
+  {
+    "itemType": "ArmyPouch_Beige",
+    "slotSize": 20
+  },
+  {
+    "itemType": "ArmyPouch_Black",
+    "slotSize": 20
+  },
+  {
+    "itemType": "ArmyPouch_Camo",
+    "slotSize": 20
+  },
+  {
+    "itemType": "ArmyPouch_Green",
+    "slotSize": 20
+  },
+  {
+    "itemType": "AssaultBag_Black",
+    "slotSize": 20
+  },
+  {
+    "itemType": "AssaultBag_Green",
+    "slotSize": 20
+  },
+  {
+    "itemType": "AssaultBag_Ttsko",
+    "slotSize": 20
+  },
+  {
+    "itemType": "AssaultBag_Winter",
+    "slotSize": 20
+  },
+  {
+    "itemType": "ASVAL",
+    "slotSize": 24
+  },
+  {
+    "itemType": "AthleticShoes_Black",
+    "slotSize": 8
+  },
+  {
+    "itemType": "AthleticShoes_Blue",
+    "slotSize": 8
+  },
+  {
+    "itemType": "AthleticShoes_Brown",
+    "slotSize": 8
+  },
+  {
+    "itemType": "AthleticShoes_Green",
+    "slotSize": 8
+  },
+  {
+    "itemType": "AthleticShoes_Grey",
+    "slotSize": 8
+  },
+  {
+    "itemType": "Aug",
+    "slotSize": 24
+  },
+  {
+    "itemType": "AugShort",
+    "slotSize": 18
+  },
+  {
+    "itemType": "AuriculariaMushroom",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AviatorGlasses",
+    "slotSize": 2
+  },
+  {
+    "itemType": "aw",
+    "slotSize": 10
+  },
+  {
+    "itemType": "B95",
+    "slotSize": 27
+  },
+  {
+    "itemType": "B95_Black",
+    "slotSize": 27
+  },
+  {
+    "itemType": "B95_Green",
+    "slotSize": 27
+  },
+  {
+    "itemType": "Bait",
+    "slotSize": 1
+  },
+  {
+    "itemType": "BakedBeansCan",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BakedBeansCan_Opened",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Balaclava3Holes_Beige",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Balaclava3Holes_Black",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Balaclava3Holes_Blue",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Balaclava3Holes_Green",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Balaclava3Holes_White",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Balaclava_BDU",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Balaclava_Beige",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Balaclava_Black",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Balaclava_Blackskull",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Balaclava_Blue",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Balaclava_Chain",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Balaclava_Green",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Balaclava_Pig",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Balaclava_Pink",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Balaclava_White",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BalaclavaMask_BDU",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BalaclavaMask_Beige",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BalaclavaMask_Black",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BalaclavaMask_Blackskull",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BalaclavaMask_Blue",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BalaclavaMask_Chain",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BalaclavaMask_Green",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BalaclavaMask_Pig",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BalaclavaMask_Pink",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BalaclavaMask_White",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Ballerinas_Blue",
+    "slotSize": 8
+  },
+  {
+    "itemType": "Ballerinas_Red",
+    "slotSize": 8
+  },
+  {
+    "itemType": "Ballerinas_White",
+    "slotSize": 8
+  },
+  {
+    "itemType": "Ballerinas_Yellow",
+    "slotSize": 8
+  },
+  {
+    "itemType": "BallisticHelmet_BDU",
+    "slotSize": 12
+  },
+  {
+    "itemType": "BallisticHelmet_Black",
+    "slotSize": 12
+  },
+  {
+    "itemType": "BallisticHelmet_Desert",
+    "slotSize": 12
+  },
+  {
+    "itemType": "BallisticHelmet_Green",
+    "slotSize": 12
+  },
+  {
+    "itemType": "BallisticHelmet_Navy",
+    "slotSize": 12
+  },
+  {
+    "itemType": "BallisticHelmet_UN",
+    "slotSize": 12
+  },
+  {
+    "itemType": "BallisticHelmet_Winter",
+    "slotSize": 12
+  },
+  {
+    "itemType": "BallisticHelmet_Woodland",
+    "slotSize": 12
+  },
+  {
+    "itemType": "BandageDressing",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Bandana_Blackpattern",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Bandana_Blue",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Bandana_Camopattern",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Bandana_Greenpattern",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Bandana_Pink",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Bandana_Polkapattern",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Bandana_Redpattern",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Bandana_Yellow",
+    "slotSize": 3
+  },
+  {
+    "itemType": "BarbedBaseballBat",
+    "slotSize": 7
+  },
+  {
+    "itemType": "BarbedWire",
+    "slotSize": 8
+  },
+  {
+    "itemType": "Bark_Birch",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Bark_Oak",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Barrel_Blue",
+    "slotSize": 150
+  },
+  {
+    "itemType": "Barrel_Green",
+    "slotSize": 150
+  },
+  {
+    "itemType": "Barrel_Red",
+    "slotSize": 150
+  },
+  {
+    "itemType": "Barrel_Yellow",
+    "slotSize": 150
+  },
+  {
+    "itemType": "BarrelHoles_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "BarrelHoles_Green",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "BarrelHoles_Red",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "BarrelHoles_Yellow",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "BaseballBat",
+    "slotSize": 7
+  },
+  {
+    "itemType": "BaseballCap_Beige",
+    "slotSize": 3
+  },
+  {
+    "itemType": "BaseballCap_Beige",
+    "slotSize": 6
+  },
+  {
+    "itemType": "BaseballCap_Black",
+    "slotSize": 6
+  },
+  {
+    "itemType": "BaseballCap_Blue",
+    "slotSize": 6
+  },
+  {
+    "itemType": "BaseballCap_Camo",
+    "slotSize": 6
+  },
+  {
+    "itemType": "BaseballCap_CMMG_Black",
+    "slotSize": 6
+  },
+  {
+    "itemType": "BaseballCap_CMMG_Pink",
+    "slotSize": 6
+  },
+  {
+    "itemType": "BaseballCap_Olive",
+    "slotSize": 6
+  },
+  {
+    "itemType": "BaseballCap_Pink",
+    "slotSize": 6
+  },
+  {
+    "itemType": "BaseballCap_Red",
+    "slotSize": 6
+  },
+  {
+    "itemType": "BaseRadio",
+    "slotSize": 25
+  },
+  {
+    "itemType": "Battery9V",
+    "slotSize": 1
+  },
+  {
+    "itemType": "BatteryCharger",
+    "slotSize": 9
+  },
+  {
+    "itemType": "BDUJacket",
+    "slotSize": 12
+  },
+  {
+    "itemType": "BDUPants",
+    "slotSize": 12
+  },
+  {
+    "itemType": "BeanieHat_Beige",
+    "slotSize": 6
+  },
+  {
+    "itemType": "BeanieHat_Black",
+    "slotSize": 6
+  },
+  {
+    "itemType": "BeanieHat_Blue",
+    "slotSize": 6
+  },
+  {
+    "itemType": "BeanieHat_Brown",
+    "slotSize": 6
+  },
+  {
+    "itemType": "BeanieHat_Green",
+    "slotSize": 6
+  },
+  {
+    "itemType": "BeanieHat_Grey",
+    "slotSize": 6
+  },
+  {
+    "itemType": "BeanieHat_Pink",
+    "slotSize": 6
+  },
+  {
+    "itemType": "BeanieHat_Red",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Bear_Beige",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Bear_Dark",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Bear_Pink",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Bear_White",
+    "slotSize": 6
+  },
+  {
+    "itemType": "BearPelt",
+    "slotSize": 32
+  },
+  {
+    "itemType": "BearSteakMeat",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BearTrap",
+    "slotSize": 21
+  },
+  {
+    "itemType": "Binoculars",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Bitterlings",
+    "slotSize": 2
+  },
+  {
+    "itemType": "BloodBagEmpty",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BloodBagFull",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BloodBagIV",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BloodTestKit",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Blouse_Blue",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Blouse_Green",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Blouse_Violet",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Blouse_White",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Blowtorch",
+    "slotSize": 12
+  },
+  {
+    "itemType": "BoarSteakMeat",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Boat_01_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Boat_01_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Boat_01_Camo",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Boat_01_Orange",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "BoletusMushroom",
+    "slotSize": 2
+  },
+  {
+    "itemType": "BomberJacket_Black",
+    "slotSize": 12
+  },
+  {
+    "itemType": "BomberJacket_Blue",
+    "slotSize": 12
+  },
+  {
+    "itemType": "BomberJacket_Brown",
+    "slotSize": 12
+  },
+  {
+    "itemType": "BomberJacket_Grey",
+    "slotSize": 12
+  },
+  {
+    "itemType": "BomberJacket_Maroon",
+    "slotSize": 12
+  },
+  {
+    "itemType": "BomberJacket_Olive",
+    "slotSize": 12
+  },
+  {
+    "itemType": "BomberJacket_SkyBlue",
+    "slotSize": 12
+  },
+  {
+    "itemType": "Bone",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BoneBait",
+    "slotSize": 1
+  },
+  {
+    "itemType": "BoneHook",
+    "slotSize": 1
+  },
+  {
+    "itemType": "BoneKnife",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Bonfire",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "BoonieHat_Black",
+    "slotSize": 6
+  },
+  {
+    "itemType": "BoonieHat_Blue",
+    "slotSize": 6
+  },
+  {
+    "itemType": "BoonieHat_DPM",
+    "slotSize": 6
+  },
+  {
+    "itemType": "BoonieHat_Dubok",
+    "slotSize": 6
+  },
+  {
+    "itemType": "BoonieHat_Flecktran",
+    "slotSize": 6
+  },
+  {
+    "itemType": "BoonieHat_NavyBlue",
+    "slotSize": 6
+  },
+  {
+    "itemType": "BoonieHat_Olive",
+    "slotSize": 6
+  },
+  {
+    "itemType": "BoonieHat_Orange",
+    "slotSize": 6
+  },
+  {
+    "itemType": "BoonieHat_Red",
+    "slotSize": 6
+  },
+  {
+    "itemType": "BoonieHat_Tan",
+    "slotSize": 6
+  },
+  {
+    "itemType": "BoonieHat_Winter",
+    "slotSize": 6
+  },
+  {
+    "itemType": "BoxCerealCrunchin",
+    "slotSize": 9
+  },
+  {
+    "itemType": "BrassKnuckles_Dull",
+    "slotSize": 2
+  },
+  {
+    "itemType": "BrassKnuckles_Shiny",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Breeches_Beetcheck",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Breeches_Beige",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Breeches_Black",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Breeches_Blackcheck",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Breeches_Blue",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Breeches_Browncheck",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Breeches_Green",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Breeches_Pink",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Breeches_Red",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Breeches_White",
+    "slotSize": 6
+  },
+  {
+    "itemType": "BrisketSpread",
+    "slotSize": 2
+  },
+  {
+    "itemType": "BrisketSpread_Opened",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Broom",
+    "slotSize": 16
+  },
+  {
+    "itemType": "Broom_Birch",
+    "slotSize": 16
+  },
+  {
+    "itemType": "BudenovkaHat_Gray",
+    "slotSize": 6
+  },
+  {
+    "itemType": "BUISOptic",
+    "slotSize": 1
+  },
+  {
+    "itemType": "BurlapSack",
+    "slotSize": 6
+  },
+  {
+    "itemType": "BurlapSackCover",
+    "slotSize": 6
+  },
+  {
+    "itemType": "BurlapStrip",
+    "slotSize": 3
+  },
+  {
+    "itemType": "BushlatPoliceJacket_Blue",
+    "slotSize": 12
+  },
+  {
+    "itemType": "CableReel",
+    "slotSize": 12
+  },
+  {
+    "itemType": "Camonet",
+    "slotSize": 21
+  },
+  {
+    "itemType": "Candycane_Green",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Candycane_Red",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Candycane_RedGreen",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Candycane_Yellow",
+    "slotSize": 2
+  },
+  {
+    "itemType": "CaninaBerry",
+    "slotSize": 1
+  },
+  {
+    "itemType": "CanisterGasoline",
+    "slotSize": 30
+  },
+  {
+    "itemType": "CanOpener",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Canteen",
+    "slotSize": 1
+  },
+  {
+    "itemType": "CanvasBag_Medical",
+    "slotSize": 20
+  },
+  {
+    "itemType": "CanvasBag_Olive",
+    "slotSize": 20
+  },
+  {
+    "itemType": "CanvasPants_Beige",
+    "slotSize": 6
+  },
+  {
+    "itemType": "CanvasPants_Blue",
+    "slotSize": 6
+  },
+  {
+    "itemType": "CanvasPants_Grey",
+    "slotSize": 6
+  },
+  {
+    "itemType": "CanvasPants_Red",
+    "slotSize": 6
+  },
+  {
+    "itemType": "CanvasPants_Violet",
+    "slotSize": 12
+  },
+  {
+    "itemType": "CanvasPantsMidi_Beige",
+    "slotSize": 6
+  },
+  {
+    "itemType": "CanvasPantsMidi_Blue",
+    "slotSize": 6
+  },
+  {
+    "itemType": "CanvasPantsMidi_Grey",
+    "slotSize": 6
+  },
+  {
+    "itemType": "CanvasPantsMidi_Red",
+    "slotSize": 6
+  },
+  {
+    "itemType": "CanvasPantsMidi_Violet",
+    "slotSize": 6
+  },
+  {
+    "itemType": "CarBattery",
+    "slotSize": 9
+  },
+  {
+    "itemType": "CargoPants_Beige",
+    "slotSize": 12
+  },
+  {
+    "itemType": "CargoPants_Black",
+    "slotSize": 12
+  },
+  {
+    "itemType": "CargoPants_Blue",
+    "slotSize": 12
+  },
+  {
+    "itemType": "CargoPants_Green",
+    "slotSize": 12
+  },
+  {
+    "itemType": "CargoPants_Grey",
+    "slotSize": 12
+  },
+  {
+    "itemType": "Carp",
+    "slotSize": 6
+  },
+  {
+    "itemType": "CarpFilletMeat",
+    "slotSize": 3
+  },
+  {
+    "itemType": "CarRadiator",
+    "slotSize": 20
+  },
+  {
+    "itemType": "CarTent",
+    "slotSize": 50
+  },
+  {
+    "itemType": "CatFoodCan",
+    "slotSize": 1
+  },
+  {
+    "itemType": "CatFoodCan_Opened",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Cauldron",
+    "slotSize": 12
+  },
+  {
+    "itemType": "Chainmail",
+    "slotSize": 12
+  },
+  {
+    "itemType": "Chainmail_Coif",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Chainmail_Leggings",
+    "slotSize": 12
+  },
+  {
+    "itemType": "CharcoalTablets",
+    "slotSize": 2
+  },
+  {
+    "itemType": "ChelatingTablets",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Chemlight_Blue",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Chemlight_Green",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Chemlight_Red",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Chemlight_White",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Chemlight_Yellow",
+    "slotSize": 2
+  },
+  {
+    "itemType": "ChernarusMap",
+    "slotSize": 2
+  },
+  {
+    "itemType": "ChernarusMap_Open",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ChernarusSportShirt",
+    "slotSize": 6
+  },
+  {
+    "itemType": "ChestHolster",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Chestplate",
+    "slotSize": 25
+  },
+  {
+    "itemType": "ChickenBreastMeat",
+    "slotSize": 2
+  },
+  {
+    "itemType": "ChickenFeather",
+    "slotSize": 11
+  },
+  {
+    "itemType": "ChildBag_Blue",
+    "slotSize": 16
+  },
+  {
+    "itemType": "ChildBag_Green",
+    "slotSize": 16
+  },
+  {
+    "itemType": "ChildBag_Red",
+    "slotSize": 16
+  },
+  {
+    "itemType": "Chips",
+    "slotSize": 4
+  },
+  {
+    "itemType": "ChristmasHeadband_Antlers",
+    "slotSize": 4
+  },
+  {
+    "itemType": "ChristmasHeadband_Gingerbread",
+    "slotSize": 4
+  },
+  {
+    "itemType": "ChristmasHeadband_Trees",
+    "slotSize": 4
+  },
+  {
+    "itemType": "ChristmasTree",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivilianBelt",
+    "slotSize": 3
+  },
+  {
+    "itemType": "ClaymoreMine",
+    "slotSize": 12
+  },
+  {
+    "itemType": "Cleaver",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Colt1911",
+    "slotSize": 6
+  },
+  {
+    "itemType": "CombatBoots_Beige",
+    "slotSize": 16
+  },
+  {
+    "itemType": "CombatBoots_Black",
+    "slotSize": 16
+  },
+  {
+    "itemType": "CombatBoots_Brown",
+    "slotSize": 16
+  },
+  {
+    "itemType": "CombatBoots_Green",
+    "slotSize": 16
+  },
+  {
+    "itemType": "CombatBoots_Grey",
+    "slotSize": 16
+  },
+  {
+    "itemType": "CombatKnife",
+    "slotSize": 3
+  },
+  {
+    "itemType": "CombinationLock",
+    "slotSize": 9
+  },
+  {
+    "itemType": "CombinationLock4",
+    "slotSize": 9
+  },
+  {
+    "itemType": "Compass",
+    "slotSize": 2
+  },
+  {
+    "itemType": "ConstructionHelmet_Blue",
+    "slotSize": 12
+  },
+  {
+    "itemType": "ConstructionHelmet_Lime",
+    "slotSize": 12
+  },
+  {
+    "itemType": "ConstructionHelmet_Orange",
+    "slotSize": 12
+  },
+  {
+    "itemType": "ConstructionHelmet_Red",
+    "slotSize": 12
+  },
+  {
+    "itemType": "ConstructionHelmet_White",
+    "slotSize": 12
+  },
+  {
+    "itemType": "ConstructionHelmet_Yellow",
+    "slotSize": 12
+  },
+  {
+    "itemType": "ContaminatedArea_Dynamic",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CookingStand",
+    "slotSize": 8
+  },
+  {
+    "itemType": "CourierBag",
+    "slotSize": 16
+  },
+  {
+    "itemType": "Cover_Improvised",
+    "slotSize": 4
+  },
+  {
+    "itemType": "CowboyHat_black",
+    "slotSize": 6
+  },
+  {
+    "itemType": "CowboyHat_Brown",
+    "slotSize": 6
+  },
+  {
+    "itemType": "CowboyHat_darkBrown",
+    "slotSize": 6
+  },
+  {
+    "itemType": "CowboyHat_green",
+    "slotSize": 6
+  },
+  {
+    "itemType": "CowPelt",
+    "slotSize": 21
+  },
+  {
+    "itemType": "CowSteakMeat",
+    "slotSize": 4
+  },
+  {
+    "itemType": "CoyoteBag_Brown",
+    "slotSize": 30
+  },
+  {
+    "itemType": "CoyoteBag_Green",
+    "slotSize": 30
+  },
+  {
+    "itemType": "CoyoteBag_Winter",
+    "slotSize": 30
+  },
+  {
+    "itemType": "CrabCan",
+    "slotSize": 2
+  },
+  {
+    "itemType": "CrabCan_Opened",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Crackers",
+    "slotSize": 4
+  },
+  {
+    "itemType": "CraterellusMushroom",
+    "slotSize": 2
+  },
+  {
+    "itemType": "CrookedNose",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Crossbow_Autumn",
+    "slotSize": 45
+  },
+  {
+    "itemType": "Crossbow_Black",
+    "slotSize": 45
+  },
+  {
+    "itemType": "Crossbow_Summer",
+    "slotSize": 45
+  },
+  {
+    "itemType": "Crossbow_Wood",
+    "slotSize": 45
+  },
+  {
+    "itemType": "Crowbar",
+    "slotSize": 6
+  },
+  {
+    "itemType": "CrudeMachete",
+    "slotSize": 4
+  },
+  {
+    "itemType": "CZ527",
+    "slotSize": 27
+  },
+  {
+    "itemType": "CZ527_Black",
+    "slotSize": 27
+  },
+  {
+    "itemType": "CZ527_Camo",
+    "slotSize": 27
+  },
+  {
+    "itemType": "CZ527_Green",
+    "slotSize": 27
+  },
+  {
+    "itemType": "CZ550",
+    "slotSize": 30
+  },
+  {
+    "itemType": "CZ61",
+    "slotSize": 12
+  },
+  {
+    "itemType": "CZ75",
+    "slotSize": 6
+  },
+  {
+    "itemType": "DarkMotoHelmet_Black",
+    "slotSize": 16
+  },
+  {
+    "itemType": "DarkMotoHelmet_Blue",
+    "slotSize": 16
+  },
+  {
+    "itemType": "DarkMotoHelmet_Green",
+    "slotSize": 16
+  },
+  {
+    "itemType": "DarkMotoHelmet_Grey",
+    "slotSize": 16
+  },
+  {
+    "itemType": "DarkMotoHelmet_Lime",
+    "slotSize": 16
+  },
+  {
+    "itemType": "DarkMotoHelmet_Red",
+    "slotSize": 16
+  },
+  {
+    "itemType": "DarkMotoHelmet_White",
+    "slotSize": 16
+  },
+  {
+    "itemType": "DarkMotoHelmet_Yellow",
+    "slotSize": 16
+  },
+  {
+    "itemType": "DarkMotoHelmet_YellowScarred",
+    "slotSize": 16
+  },
+  {
+    "itemType": "DarkMotoHelmet_YellowScarred_Test",
+    "slotSize": 16
+  },
+  {
+    "itemType": "DeadChicken_Brown",
+    "slotSize": 9
+  },
+  {
+    "itemType": "DeadChicken_Spotted",
+    "slotSize": 9
+  },
+  {
+    "itemType": "DeadChicken_White",
+    "slotSize": 9
+  },
+  {
+    "itemType": "DeadFox",
+    "slotSize": 12
+  },
+  {
+    "itemType": "DeadRabbit",
+    "slotSize": 9
+  },
+  {
+    "itemType": "DeadRooster",
+    "slotSize": 9
+  },
+  {
+    "itemType": "Deagle",
+    "slotSize": 8
+  },
+  {
+    "itemType": "Deagle_Gold",
+    "slotSize": 8
+  },
+  {
+    "itemType": "DeerPelt",
+    "slotSize": 18
+  },
+  {
+    "itemType": "DeerSteakMeat",
+    "slotSize": 2
+  },
+  {
+    "itemType": "DenimJacket",
+    "slotSize": 12
+  },
+  {
+    "itemType": "Derringer_Black",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Derringer_Grey",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Derringer_Pink",
+    "slotSize": 2
+  },
+  {
+    "itemType": "DesignerGlasses",
+    "slotSize": 2
+  },
+  {
+    "itemType": "DirtBikeHelmet_Black",
+    "slotSize": 12
+  },
+  {
+    "itemType": "DirtBikeHelmet_Blue",
+    "slotSize": 12
+  },
+  {
+    "itemType": "DirtBikeHelmet_Chernarus",
+    "slotSize": 12
+  },
+  {
+    "itemType": "DirtBikeHelmet_Green",
+    "slotSize": 12
+  },
+  {
+    "itemType": "DirtBikeHelmet_Khaki",
+    "slotSize": 12
+  },
+  {
+    "itemType": "DirtBikeHelmet_Mouthguard",
+    "slotSize": 3
+  },
+  {
+    "itemType": "DirtBikeHelmet_Police",
+    "slotSize": 12
+  },
+  {
+    "itemType": "DirtBikeHelmet_Red",
+    "slotSize": 12
+  },
+  {
+    "itemType": "DirtBikeHelmet_Visor",
+    "slotSize": 3
+  },
+  {
+    "itemType": "DisinfectantAlcohol",
+    "slotSize": 2
+  },
+  {
+    "itemType": "DisinfectantSpray",
+    "slotSize": 3
+  },
+  {
+    "itemType": "DogFoodCan",
+    "slotSize": 2
+  },
+  {
+    "itemType": "DogFoodCan_Opened",
+    "slotSize": 2
+  },
+  {
+    "itemType": "DownJacket_Blue",
+    "slotSize": 25
+  },
+  {
+    "itemType": "DownJacket_Green",
+    "slotSize": 25
+  },
+  {
+    "itemType": "DownJacket_Orange",
+    "slotSize": 25
+  },
+  {
+    "itemType": "DownJacket_Red",
+    "slotSize": 25
+  },
+  {
+    "itemType": "DressShoes_Beige",
+    "slotSize": 8
+  },
+  {
+    "itemType": "DressShoes_Black",
+    "slotSize": 8
+  },
+  {
+    "itemType": "DressShoes_Brown",
+    "slotSize": 8
+  },
+  {
+    "itemType": "DressShoes_Sunburst",
+    "slotSize": 8
+  },
+  {
+    "itemType": "DressShoes_White",
+    "slotSize": 8
+  },
+  {
+    "itemType": "DryBag_Black",
+    "slotSize": 30
+  },
+  {
+    "itemType": "DryBag_Blue",
+    "slotSize": 30
+  },
+  {
+    "itemType": "DryBag_Green",
+    "slotSize": 30
+  },
+  {
+    "itemType": "DryBag_Orange",
+    "slotSize": 30
+  },
+  {
+    "itemType": "DryBag_Red",
+    "slotSize": 30
+  },
+  {
+    "itemType": "DryBag_Yellow",
+    "slotSize": 30
+  },
+  {
+    "itemType": "DrysackBag_Green",
+    "slotSize": 20
+  },
+  {
+    "itemType": "DrysackBag_Orange",
+    "slotSize": 20
+  },
+  {
+    "itemType": "DrysackBag_Yellow",
+    "slotSize": 20
+  },
+  {
+    "itemType": "DuctTape",
+    "slotSize": 4
+  },
+  {
+    "itemType": "DuffelBagSmall_Camo",
+    "slotSize": 20
+  },
+  {
+    "itemType": "DuffelBagSmall_Green",
+    "slotSize": 20
+  },
+  {
+    "itemType": "DuffelBagSmall_Medical",
+    "slotSize": 20
+  },
+  {
+    "itemType": "EasterEgg",
+    "slotSize": 1
+  },
+  {
+    "itemType": "ElectronicRepairKit",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Engraved1911",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Epinephrine",
+    "slotSize": 2
+  },
+  {
+    "itemType": "EpoxyPutty",
+    "slotSize": 2
+  },
+  {
+    "itemType": "EyeMask_Black",
+    "slotSize": 2
+  },
+  {
+    "itemType": "EyeMask_Blue",
+    "slotSize": 2
+  },
+  {
+    "itemType": "EyeMask_Christmas",
+    "slotSize": 2
+  },
+  {
+    "itemType": "EyeMask_Dead",
+    "slotSize": 2
+  },
+  {
+    "itemType": "EyeMask_NewYears",
+    "slotSize": 2
+  },
+  {
+    "itemType": "EyeMask_Red",
+    "slotSize": 2
+  },
+  {
+    "itemType": "EyeMask_Valentines",
+    "slotSize": 2
+  },
+  {
+    "itemType": "EyeMask_Yellow",
+    "slotSize": 2
+  },
+  {
+    "itemType": "EyePatch_Improvised",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Fabric",
+    "slotSize": 12
+  },
+  {
+    "itemType": "FaceCover_Improvised",
+    "slotSize": 3
+  },
+  {
+    "itemType": "FAL",
+    "slotSize": 24
+  },
+  {
+    "itemType": "Fal_FoldingBttstck",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Fal_OeBttstck",
+    "slotSize": 2
+  },
+  {
+    "itemType": "FAMAS",
+    "slotSize": 18
+  },
+  {
+    "itemType": "FangeKnife",
+    "slotSize": 4
+  },
+  {
+    "itemType": "FarmingHoe",
+    "slotSize": 14
+  },
+  {
+    "itemType": "FeetCover_Improvised",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Fence",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "FenceKit",
+    "slotSize": 5
+  },
+  {
+    "itemType": "FieldShovel",
+    "slotSize": 10
+  },
+  {
+    "itemType": "FilteringBottle",
+    "slotSize": 3
+  },
+  {
+    "itemType": "FireExtinguisher",
+    "slotSize": 24
+  },
+  {
+    "itemType": "FirefighterAxe",
+    "slotSize": 14
+  },
+  {
+    "itemType": "FirefighterAxe_Black",
+    "slotSize": 14
+  },
+  {
+    "itemType": "FirefighterAxe_Green",
+    "slotSize": 14
+  },
+  {
+    "itemType": "FirefighterJacket_Beige",
+    "slotSize": 16
+  },
+  {
+    "itemType": "FirefighterJacket_Black",
+    "slotSize": 16
+  },
+  {
+    "itemType": "FirefightersHelmet_Red",
+    "slotSize": 12
+  },
+  {
+    "itemType": "FirefightersHelmet_White",
+    "slotSize": 12
+  },
+  {
+    "itemType": "FirefightersHelmet_Yellow",
+    "slotSize": 12
+  },
+  {
+    "itemType": "FirefightersPants_Beige",
+    "slotSize": 16
+  },
+  {
+    "itemType": "FirefightersPants_Black",
+    "slotSize": 16
+  },
+  {
+    "itemType": "Fireplace",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "FireplaceFireBarrel",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "FireplaceIndoor",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Firewood",
+    "slotSize": 10
+  },
+  {
+    "itemType": "FireworksLauncher",
+    "slotSize": 16
+  },
+  {
+    "itemType": "FirstAidKit",
+    "slotSize": 9
+  },
+  {
+    "itemType": "FishingRod",
+    "slotSize": 10
+  },
+  {
+    "itemType": "FishNetTrap",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Flag_Altis",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Flag_APA",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Flag_BabyDeer",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Flag_Bear",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Flag_Bohemia",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Flag_BrainZ",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Flag_Cannibals",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Flag_CDF",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Flag_Chedaki",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Flag_CHEL",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Flag_Chernarus",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Flag_CMC",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Flag_Crook",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Flag_DayZ",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Flag_HunterZ",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Flag_Livonia",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Flag_LivoniaArmy",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Flag_LivoniaPolice",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Flag_NAPA",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Flag_NSahrani",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Flag_Pirates",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Flag_Refuge",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Flag_Rex",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Flag_Rooster",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Flag_RSTA",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Flag_Snake",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Flag_SSahrani",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Flag_TEC",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Flag_UEC",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Flag_White",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Flag_Wolf",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Flag_Zagorky",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Flag_Zenit",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Flaregun",
+    "slotSize": 4
+  },
+  {
+    "itemType": "FlashGrenade",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Flashlight",
+    "slotSize": 3
+  },
+  {
+    "itemType": "FlatCap_Black",
+    "slotSize": 6
+  },
+  {
+    "itemType": "FlatCap_BlackCheck",
+    "slotSize": 6
+  },
+  {
+    "itemType": "FlatCap_Blue",
+    "slotSize": 6
+  },
+  {
+    "itemType": "FlatCap_Brown",
+    "slotSize": 6
+  },
+  {
+    "itemType": "FlatCap_BrownCheck",
+    "slotSize": 6
+  },
+  {
+    "itemType": "FlatCap_Grey",
+    "slotSize": 6
+  },
+  {
+    "itemType": "FlatCap_GreyCheck",
+    "slotSize": 6
+  },
+  {
+    "itemType": "FlatCap_Red",
+    "slotSize": 6
+  },
+  {
+    "itemType": "FNP45_MRDSOptic",
+    "slotSize": 1
+  },
+  {
+    "itemType": "FNX45",
+    "slotSize": 6
+  },
+  {
+    "itemType": "FoxPelt",
+    "slotSize": 12
+  },
+  {
+    "itemType": "FoxSteakMeat",
+    "slotSize": 2
+  },
+  {
+    "itemType": "FryingPan",
+    "slotSize": 12
+  },
+  {
+    "itemType": "FurCourierBag",
+    "slotSize": 16
+  },
+  {
+    "itemType": "FurImprovisedBag",
+    "slotSize": 20
+  },
+  {
+    "itemType": "GardenLime",
+    "slotSize": 15
+  },
+  {
+    "itemType": "GardenPlot",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "GardenPlotGreenhouse",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "GardenPlotPolytunnel",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Gas",
+    "slotSize": 12
+  },
+  {
+    "itemType": "Gas_Filter",
+    "slotSize": 4
+  },
+  {
+    "itemType": "GasMask",
+    "slotSize": 9
+  },
+  {
+    "itemType": "GasMask_Filter",
+    "slotSize": 2
+  },
+  {
+    "itemType": "GasMask_Filter_Improvised",
+    "slotSize": 2
+  },
+  {
+    "itemType": "GhillieAtt_Mossy",
+    "slotSize": 12
+  },
+  {
+    "itemType": "GhillieAtt_Tan",
+    "slotSize": 12
+  },
+  {
+    "itemType": "GhillieAtt_Winter",
+    "slotSize": 12
+  },
+  {
+    "itemType": "GhillieAtt_Woodland",
+    "slotSize": 12
+  },
+  {
+    "itemType": "GhillieBushrag_Mossy",
+    "slotSize": 12
+  },
+  {
+    "itemType": "GhillieBushrag_Tan",
+    "slotSize": 12
+  },
+  {
+    "itemType": "GhillieBushrag_Winter",
+    "slotSize": 12
+  },
+  {
+    "itemType": "GhillieBushrag_Woodland",
+    "slotSize": 12
+  },
+  {
+    "itemType": "GhillieHood_Mossy",
+    "slotSize": 12
+  },
+  {
+    "itemType": "GhillieHood_Tan",
+    "slotSize": 12
+  },
+  {
+    "itemType": "GhillieHood_Winter",
+    "slotSize": 12
+  },
+  {
+    "itemType": "GhillieHood_Woodland",
+    "slotSize": 12
+  },
+  {
+    "itemType": "GhillieSuit_Mossy",
+    "slotSize": 30
+  },
+  {
+    "itemType": "GhillieSuit_Tan",
+    "slotSize": 30
+  },
+  {
+    "itemType": "GhillieSuit_Winter",
+    "slotSize": 30
+  },
+  {
+    "itemType": "GhillieSuit_Woodland",
+    "slotSize": 30
+  },
+  {
+    "itemType": "GhillieTop_Mossy",
+    "slotSize": 16
+  },
+  {
+    "itemType": "GhillieTop_Tan",
+    "slotSize": 16
+  },
+  {
+    "itemType": "GhillieTop_Winter",
+    "slotSize": 16
+  },
+  {
+    "itemType": "GhillieTop_Woodland",
+    "slotSize": 16
+  },
+  {
+    "itemType": "GiftBox_Large_1",
+    "slotSize": 25
+  },
+  {
+    "itemType": "GiftBox_Large_2",
+    "slotSize": 25
+  },
+  {
+    "itemType": "GiftBox_Large_3",
+    "slotSize": 25
+  },
+  {
+    "itemType": "GiftBox_Large_4",
+    "slotSize": 25
+  },
+  {
+    "itemType": "GiftBox_Medium_1",
+    "slotSize": 16
+  },
+  {
+    "itemType": "GiftBox_Medium_2",
+    "slotSize": 16
+  },
+  {
+    "itemType": "GiftBox_Medium_3",
+    "slotSize": 16
+  },
+  {
+    "itemType": "GiftBox_Medium_4",
+    "slotSize": 16
+  },
+  {
+    "itemType": "GiftBox_Small_1",
+    "slotSize": 4
+  },
+  {
+    "itemType": "GiftBox_Small_2",
+    "slotSize": 4
+  },
+  {
+    "itemType": "GiftBox_Small_3",
+    "slotSize": 4
+  },
+  {
+    "itemType": "GiftBox_Small_4",
+    "slotSize": 4
+  },
+  {
+    "itemType": "GiftWrapPaper",
+    "slotSize": 4
+  },
+  {
+    "itemType": "GlassBottle",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Glock19",
+    "slotSize": 6
+  },
+  {
+    "itemType": "GlowPlug",
+    "slotSize": 2
+  },
+  {
+    "itemType": "GoatPelt",
+    "slotSize": 15
+  },
+  {
+    "itemType": "GoatSteakMeat",
+    "slotSize": 2
+  },
+  {
+    "itemType": "GorkaEJacket_Autumn",
+    "slotSize": 12
+  },
+  {
+    "itemType": "GorkaEJacket_Flat",
+    "slotSize": 12
+  },
+  {
+    "itemType": "GorkaEJacket_PautRev",
+    "slotSize": 12
+  },
+  {
+    "itemType": "GorkaEJacket_Summer",
+    "slotSize": 12
+  },
+  {
+    "itemType": "GorkaEJacket_Winter",
+    "slotSize": 12
+  },
+  {
+    "itemType": "GorkaHelmet",
+    "slotSize": 16
+  },
+  {
+    "itemType": "GorkaHelmet_Black",
+    "slotSize": 6
+  },
+  {
+    "itemType": "GorkaHelmet_Black",
+    "slotSize": 16
+  },
+  {
+    "itemType": "GorkaHelmet_Green",
+    "slotSize": 6
+  },
+  {
+    "itemType": "GorkaHelmet_Green",
+    "slotSize": 16
+  },
+  {
+    "itemType": "GorkaHelmetVisor",
+    "slotSize": 6
+  },
+  {
+    "itemType": "GorkaPants_Autumn",
+    "slotSize": 12
+  },
+  {
+    "itemType": "GorkaPants_Flat",
+    "slotSize": 12
+  },
+  {
+    "itemType": "GorkaPants_PautRev",
+    "slotSize": 12
+  },
+  {
+    "itemType": "GorkaPants_Summer",
+    "slotSize": 12
+  },
+  {
+    "itemType": "GorkaPants_Winter",
+    "slotSize": 12
+  },
+  {
+    "itemType": "GP5Gas",
+    "slotSize": 9
+  },
+  {
+    "itemType": "GP5GasMask",
+    "slotSize": 9
+  },
+  {
+    "itemType": "GPSReceiver",
+    "slotSize": 2
+  },
+  {
+    "itemType": "GreatHelm",
+    "slotSize": 16
+  },
+  {
+    "itemType": "GreenBellPepper",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Grenade_ChemGas",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Guts",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Hacksaw",
+    "slotSize": 8
+  },
+  {
+    "itemType": "Hammer",
+    "slotSize": 6
+  },
+  {
+    "itemType": "HandcuffKeys",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Handcuffs",
+    "slotSize": 2
+  },
+  {
+    "itemType": "HandcuffsLocked",
+    "slotSize": 2
+  },
+  {
+    "itemType": "HandDrillKit",
+    "slotSize": 4
+  },
+  {
+    "itemType": "HandSaw",
+    "slotSize": 8
+  },
+  {
+    "itemType": "HandsCover_Improvised",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Hatchet",
+    "slotSize": 8
+  },
+  {
+    "itemType": "HeadCover_Improvised",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Headdress_Wolf",
+    "slotSize": 12
+  },
+  {
+    "itemType": "HeadlightH7",
+    "slotSize": 1
+  },
+  {
+    "itemType": "HeadlightH7_Box",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Headtorch_Black",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Headtorch_Grey",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Heatpack",
+    "slotSize": 2
+  },
+  {
+    "itemType": "HighCapacity_Black",
+    "slotSize": 12
+  },
+  {
+    "itemType": "HighCapacity_Olive",
+    "slotSize": 12
+  },
+  {
+    "itemType": "HighCapacityVest_Black",
+    "slotSize": 12
+  },
+  {
+    "itemType": "HighCapacityVest_Olive",
+    "slotSize": 12
+  },
+  {
+    "itemType": "HikingBoots_Black",
+    "slotSize": 16
+  },
+  {
+    "itemType": "HikingBoots_Brown",
+    "slotSize": 16
+  },
+  {
+    "itemType": "HikingBootsLow_Beige",
+    "slotSize": 12
+  },
+  {
+    "itemType": "HikingBootsLow_Black",
+    "slotSize": 12
+  },
+  {
+    "itemType": "HikingBootsLow_Blue",
+    "slotSize": 12
+  },
+  {
+    "itemType": "HikingBootsLow_Grey",
+    "slotSize": 12
+  },
+  {
+    "itemType": "HikingJacket_Black",
+    "slotSize": 12
+  },
+  {
+    "itemType": "HikingJacket_Blue",
+    "slotSize": 12
+  },
+  {
+    "itemType": "HikingJacket_Green",
+    "slotSize": 12
+  },
+  {
+    "itemType": "HikingJacket_Red",
+    "slotSize": 12
+  },
+  {
+    "itemType": "HipPack_Black",
+    "slotSize": 8
+  },
+  {
+    "itemType": "HipPack_Green",
+    "slotSize": 8
+  },
+  {
+    "itemType": "HipPack_Medical",
+    "slotSize": 8
+  },
+  {
+    "itemType": "HipPack_Party",
+    "slotSize": 8
+  },
+  {
+    "itemType": "Hockey",
+    "slotSize": 6
+  },
+  {
+    "itemType": "HockeyHelmet_Black",
+    "slotSize": 12
+  },
+  {
+    "itemType": "HockeyHelmet_Blue",
+    "slotSize": 12
+  },
+  {
+    "itemType": "HockeyHelmet_Red",
+    "slotSize": 12
+  },
+  {
+    "itemType": "HockeyHelmet_White",
+    "slotSize": 12
+  },
+  {
+    "itemType": "HockeyMask",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Honey",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Hoodie_Black",
+    "slotSize": 9
+  },
+  {
+    "itemType": "Hoodie_Blue",
+    "slotSize": 9
+  },
+  {
+    "itemType": "Hoodie_Brown",
+    "slotSize": 9
+  },
+  {
+    "itemType": "Hoodie_Green",
+    "slotSize": 9
+  },
+  {
+    "itemType": "Hoodie_Grey",
+    "slotSize": 9
+  },
+  {
+    "itemType": "Hoodie_Red",
+    "slotSize": 9
+  },
+  {
+    "itemType": "Hook",
+    "slotSize": 1
+  },
+  {
+    "itemType": "HumanSteakMeat",
+    "slotSize": 3
+  },
+  {
+    "itemType": "HunterPants_Autumn",
+    "slotSize": 12
+  },
+  {
+    "itemType": "HunterPants_Brown",
+    "slotSize": 12
+  },
+  {
+    "itemType": "HunterPants_Spring",
+    "slotSize": 12
+  },
+  {
+    "itemType": "HunterPants_Summer",
+    "slotSize": 12
+  },
+  {
+    "itemType": "HunterPants_Winter",
+    "slotSize": 12
+  },
+  {
+    "itemType": "Hunting",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Hunting_Winter",
+    "slotSize": 6
+  },
+  {
+    "itemType": "HuntingBag",
+    "slotSize": 30
+  },
+  {
+    "itemType": "HuntingBag_Hannah",
+    "slotSize": 30
+  },
+  {
+    "itemType": "HuntingJacket_Autumn",
+    "slotSize": 12
+  },
+  {
+    "itemType": "HuntingJacket_Brown",
+    "slotSize": 12
+  },
+  {
+    "itemType": "HuntingJacket_Spring",
+    "slotSize": 12
+  },
+  {
+    "itemType": "HuntingJacket_Summer",
+    "slotSize": 12
+  },
+  {
+    "itemType": "HuntingJacket_Winter",
+    "slotSize": 12
+  },
+  {
+    "itemType": "HuntingKnife",
+    "slotSize": 3
+  },
+  {
+    "itemType": "HuntingOptic",
+    "slotSize": 4
+  },
+  {
+    "itemType": "HuntingVest",
+    "slotSize": 6
+  },
+  {
+    "itemType": "HuntingVest_Winter",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Iceaxe",
+    "slotSize": 8
+  },
+  {
+    "itemType": "ImprovisedBag",
+    "slotSize": 20
+  },
+  {
+    "itemType": "ImprovisedExplosive",
+    "slotSize": 12
+  },
+  {
+    "itemType": "ImprovisedFishingRod",
+    "slotSize": 9
+  },
+  {
+    "itemType": "ImprovisedSuppressor",
+    "slotSize": 3
+  },
+  {
+    "itemType": "IodineTincture",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Izh18",
+    "slotSize": 24
+  },
+  {
+    "itemType": "Izh18Shotgun",
+    "slotSize": 24
+  },
+  {
+    "itemType": "Izh43Shotgun",
+    "slotSize": 27
+  },
+  {
+    "itemType": "Jeans_Black",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Jeans_Blue",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Jeans_BlueDark",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Jeans_Brown",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Jeans_Green",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Jeans_Grey",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Jig",
+    "slotSize": 1
+  },
+  {
+    "itemType": "JoggingShoes_Black",
+    "slotSize": 8
+  },
+  {
+    "itemType": "JoggingShoes_Blue",
+    "slotSize": 8
+  },
+  {
+    "itemType": "JoggingShoes_Red",
+    "slotSize": 8
+  },
+  {
+    "itemType": "JoggingShoes_Violet",
+    "slotSize": 8
+  },
+  {
+    "itemType": "JoggingShoes_White",
+    "slotSize": 8
+  },
+  {
+    "itemType": "JumpsuitJacket_Blue",
+    "slotSize": 12
+  },
+  {
+    "itemType": "JumpsuitJacket_Gray",
+    "slotSize": 12
+  },
+  {
+    "itemType": "JumpsuitJacket_Green",
+    "slotSize": 12
+  },
+  {
+    "itemType": "JumpsuitJacket_Red",
+    "slotSize": 12
+  },
+  {
+    "itemType": "JumpsuitPants_Blue",
+    "slotSize": 6
+  },
+  {
+    "itemType": "JumpsuitPants_Green",
+    "slotSize": 6
+  },
+  {
+    "itemType": "JumpsuitPants_Grey",
+    "slotSize": 6
+  },
+  {
+    "itemType": "JumpsuitPants_Red",
+    "slotSize": 6
+  },
+  {
+    "itemType": "JungleBoots_Beige",
+    "slotSize": 16
+  },
+  {
+    "itemType": "JungleBoots_Black",
+    "slotSize": 16
+  },
+  {
+    "itemType": "JungleBoots_Brown",
+    "slotSize": 16
+  },
+  {
+    "itemType": "JungleBoots_Green",
+    "slotSize": 16
+  },
+  {
+    "itemType": "JungleBoots_Olive",
+    "slotSize": 16
+  },
+  {
+    "itemType": "KashtanOptic",
+    "slotSize": 4
+  },
+  {
+    "itemType": "KazuarOptic",
+    "slotSize": 12
+  },
+  {
+    "itemType": "KitchenKnife",
+    "slotSize": 3
+  },
+  {
+    "itemType": "KitchenTimer",
+    "slotSize": 1
+  },
+  {
+    "itemType": "KobraOptic",
+    "slotSize": 4
+  },
+  {
+    "itemType": "KukriKnife",
+    "slotSize": 4
+  },
+  {
+    "itemType": "LabCoat",
+    "slotSize": 9
+  },
+  {
+    "itemType": "LactariusMushroom",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Land_Boat_Small9_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Container_1Aoh_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Container_1Bo_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Container_1Mo_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Container_1Moh_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Train_Wagon_Box_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Train_Wagon_Box_Mil_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_hb01_aban1_blue_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_hb01_aban1_police",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_hb01_aban1_white_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_hb01_aban2_blue_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_hb01_aban2_green_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_hb01_aban2_police",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_hb02_aban1_blue_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_hb02_aban1_red_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_hb02_aban2_black_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_hb02_aban2_blue_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_hb02_aban2_red_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_Ikarus_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_offroad02_aban1_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_offroad02_aban2_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_S1023_Medic_Beige_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_sed01_aban1_black_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_sed01_aban1_police",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_sed01_aban1_police_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_sed01_aban1_white_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_sed01_aban1_wine_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_sed01_aban2_black_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_sed01_aban2_police",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_sed01_aban2_police_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_sed02_aban1_grey_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_sed02_aban1_red_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_sed02_aban1_yellow_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_sed02_aban2_grey_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_sed02_aban2_red_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_sed02_aban2_yellow_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_Tractor_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_Trailer_Closed_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_wreck_truck01_aban1_blue_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_wreck_truck01_aban1_firetruck_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_wreck_truck01_aban1_green_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_wreck_truck01_aban1_orange_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_wreck_truck01_aban2_blue_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_wreck_truck01_aban2_firetruck_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_wreck_truck01_aban2_green_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_V3S_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_Volha_Police",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "LandMineTrap",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Lard",
+    "slotSize": 4
+  },
+  {
+    "itemType": "LargeGasCanister",
+    "slotSize": 12
+  },
+  {
+    "itemType": "LargeTent",
+    "slotSize": 40
+  },
+  {
+    "itemType": "LeafCrown_Autumn",
+    "slotSize": 4
+  },
+  {
+    "itemType": "LeafCrown_Spring",
+    "slotSize": 4
+  },
+  {
+    "itemType": "LeafCrown_Summer",
+    "slotSize": 4
+  },
+  {
+    "itemType": "LeafCrown_Winter",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Leather_Beige",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Leather_Black",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Leather_Brown",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Leather_Natural",
+    "slotSize": 4
+  },
+  {
+    "itemType": "LeatherBelt_Beige",
+    "slotSize": 3
+  },
+  {
+    "itemType": "LeatherBelt_Black",
+    "slotSize": 3
+  },
+  {
+    "itemType": "LeatherBelt_Brown",
+    "slotSize": 3
+  },
+  {
+    "itemType": "LeatherBelt_Natural",
+    "slotSize": 3
+  },
+  {
+    "itemType": "LeatherGloves_Beige",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "LeatherGloves_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "LeatherGloves_Brown",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "LeatherGloves_Natural",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "LeatherHat_Beige",
+    "slotSize": 12
+  },
+  {
+    "itemType": "LeatherHat_Black",
+    "slotSize": 12
+  },
+  {
+    "itemType": "LeatherHat_Brown",
+    "slotSize": 12
+  },
+  {
+    "itemType": "LeatherHat_Natural",
+    "slotSize": 12
+  },
+  {
+    "itemType": "LeatherJacket_Beige",
+    "slotSize": 16
+  },
+  {
+    "itemType": "LeatherJacket_Black",
+    "slotSize": 16
+  },
+  {
+    "itemType": "LeatherJacket_Brown",
+    "slotSize": 16
+  },
+  {
+    "itemType": "LeatherJacket_Natural",
+    "slotSize": 16
+  },
+  {
+    "itemType": "LeatherKnifeSheath",
+    "slotSize": 3
+  },
+  {
+    "itemType": "LeatherPants_Beige",
+    "slotSize": 16
+  },
+  {
+    "itemType": "LeatherPants_Black",
+    "slotSize": 16
+  },
+  {
+    "itemType": "LeatherPants_Brown",
+    "slotSize": 16
+  },
+  {
+    "itemType": "LeatherPants_Natural",
+    "slotSize": 16
+  },
+  {
+    "itemType": "LeatherSack_Beige",
+    "slotSize": 30
+  },
+  {
+    "itemType": "LeatherSack_Black",
+    "slotSize": 30
+  },
+  {
+    "itemType": "LeatherSack_Brown",
+    "slotSize": 30
+  },
+  {
+    "itemType": "LeatherSack_Natural",
+    "slotSize": 30
+  },
+  {
+    "itemType": "LeatherSewingKit",
+    "slotSize": 6
+  },
+  {
+    "itemType": "LeatherShirt_Natural",
+    "slotSize": 6
+  },
+  {
+    "itemType": "LeatherShoes_Beige",
+    "slotSize": 8
+  },
+  {
+    "itemType": "LeatherShoes_Black",
+    "slotSize": 8
+  },
+  {
+    "itemType": "LeatherShoes_Brown",
+    "slotSize": 8
+  },
+  {
+    "itemType": "LeatherShoes_Natural",
+    "slotSize": 8
+  },
+  {
+    "itemType": "LeatherShoes_Sunburst",
+    "slotSize": 8
+  },
+  {
+    "itemType": "LeatherShoes_White",
+    "slotSize": 8
+  },
+  {
+    "itemType": "LeatherStorage_Beige",
+    "slotSize": 12
+  },
+  {
+    "itemType": "LeatherStorage_Black",
+    "slotSize": 12
+  },
+  {
+    "itemType": "LeatherStorage_Brown",
+    "slotSize": 12
+  },
+  {
+    "itemType": "LeatherStorage_Natural",
+    "slotSize": 12
+  },
+  {
+    "itemType": "LeatherStorageVest_Beige",
+    "slotSize": 12
+  },
+  {
+    "itemType": "LeatherStorageVest_Black",
+    "slotSize": 12
+  },
+  {
+    "itemType": "LeatherStorageVest_Brown",
+    "slotSize": 12
+  },
+  {
+    "itemType": "LeatherStorageVest_Natural",
+    "slotSize": 12
+  },
+  {
+    "itemType": "LegsCover_Improvised",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Lockpick",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Longhorn",
+    "slotSize": 10
+  },
+  {
+    "itemType": "LongTorch",
+    "slotSize": 8
+  },
+  {
+    "itemType": "LongWoodenStick",
+    "slotSize": 8
+  },
+  {
+    "itemType": "LugWrench",
+    "slotSize": 5
+  },
+  {
+    "itemType": "Lunchmeat",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Lunchmeat_Opened",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M14",
+    "slotSize": 27
+  },
+  {
+    "itemType": "M16A2",
+    "slotSize": 27
+  },
+  {
+    "itemType": "M18SmokeGrenade_Green",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M18SmokeGrenade_Purple",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M18SmokeGrenade_Red",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M18SmokeGrenade_White",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M18SmokeGrenade_Yellow",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M4_CarryHandleOptic",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M4_CQBBttstck",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M4_MPBttstck",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M4_MPHndgrd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M4_OEBttstck",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M4_PlasticHndgrd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M4_RISHndgrd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M4_RISHndgrd_Black",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M4_RISHndgrd_Green",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M4_Suppressor",
+    "slotSize": 3
+  },
+  {
+    "itemType": "M4_T3NRDSOptic",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M4A1",
+    "slotSize": 24
+  },
+  {
+    "itemType": "M4A1_Black",
+    "slotSize": 24
+  },
+  {
+    "itemType": "M4A1_Green",
+    "slotSize": 24
+  },
+  {
+    "itemType": "M65Jacket_Black",
+    "slotSize": 12
+  },
+  {
+    "itemType": "M65Jacket_Khaki",
+    "slotSize": 12
+  },
+  {
+    "itemType": "M65Jacket_Olive",
+    "slotSize": 12
+  },
+  {
+    "itemType": "M65Jacket_Tan",
+    "slotSize": 12
+  },
+  {
+    "itemType": "M67Grenade",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M68Optic",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M79",
+    "slotSize": 18
+  },
+  {
+    "itemType": "M9A1_Bayonet",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Mace",
+    "slotSize": 8
+  },
+  {
+    "itemType": "Machete",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Mackerel",
+    "slotSize": 8
+  },
+  {
+    "itemType": "MackerelFilletMeat",
+    "slotSize": 3
+  },
+  {
+    "itemType": "MacrolepiotaMushroom",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Mag_1911_7Rnd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Mag_AK101_30Rnd",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Mag_AK74_30Rnd",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Mag_AK74_45Rnd",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Mag_AKM_30Rnd",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Mag_AKM_Drum75Rnd",
+    "slotSize": 9
+  },
+  {
+    "itemType": "Mag_AKM_Drum_TEST",
+    "slotSize": 9
+  },
+  {
+    "itemType": "Mag_AKM_Palm30Rnd",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Mag_Aug_30Rnd",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Mag_CMAG_10Rnd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Mag_CMAG_20Rnd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Mag_CMAG_30Rnd",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Mag_CMAG_40Rnd",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Mag_CZ527_5rnd",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Mag_CZ550_10Rnd",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Mag_CZ61_20Rnd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Mag_CZ75_15Rnd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Mag_Deagle_9rnd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Mag_FAL_20Rnd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Mag_FAMAS_25Rnd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Mag_FNX45_15Rnd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Mag_Glock_15Rnd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Mag_IJ70_8Rnd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Mag_M14_10Rnd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Mag_M14_20Rnd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Mag_MKII_10Rnd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Mag_MP5_15Rnd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Mag_MP5_30Rnd",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Mag_P1_8Rnd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Mag_PM73_15Rnd",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Mag_PM73_25Rnd",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Mag_PP19_64Rnd",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Mag_Ruger1022_15Rnd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Mag_Ruger1022_30Rnd",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Mag_Saiga_5Rnd",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Mag_Saiga_8Rnd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Mag_Saiga_Drum20Rnd",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Mag_Scout_5Rnd",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Mag_SSG82_5rnd",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Mag_STANAG_30Rnd",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Mag_STANAG_60Rnd",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Mag_SV98_10Rnd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Mag_SVD_10Rnd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Mag_UMP_25Rnd",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Mag_VAL_20Rnd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Mag_Vikhr_30Rnd",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Mag_VSS_10Rnd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Magnum",
+    "slotSize": 8
+  },
+  {
+    "itemType": "MakarovIJ70",
+    "slotSize": 4
+  },
+  {
+    "itemType": "ManSuit_Beige",
+    "slotSize": 12
+  },
+  {
+    "itemType": "ManSuit_Black",
+    "slotSize": 12
+  },
+  {
+    "itemType": "ManSuit_Blue",
+    "slotSize": 12
+  },
+  {
+    "itemType": "ManSuit_Brown",
+    "slotSize": 12
+  },
+  {
+    "itemType": "ManSuit_DarkGrey",
+    "slotSize": 12
+  },
+  {
+    "itemType": "ManSuit_Khaki",
+    "slotSize": 12
+  },
+  {
+    "itemType": "ManSuit_LightGrey",
+    "slotSize": 12
+  },
+  {
+    "itemType": "ManSuit_White",
+    "slotSize": 12
+  },
+  {
+    "itemType": "Marmalade",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Matchbox",
+    "slotSize": 1
+  },
+  {
+    "itemType": "MeatTenderizer",
+    "slotSize": 6
+  },
+  {
+    "itemType": "MedicalScrubsHat_Blue",
+    "slotSize": 3
+  },
+  {
+    "itemType": "MedicalScrubsHat_Green",
+    "slotSize": 3
+  },
+  {
+    "itemType": "MedicalScrubsHat_White",
+    "slotSize": 3
+  },
+  {
+    "itemType": "MedicalScrubsPants_Blue",
+    "slotSize": 6
+  },
+  {
+    "itemType": "MedicalScrubsPants_Green",
+    "slotSize": 6
+  },
+  {
+    "itemType": "MedicalScrubsPants_White",
+    "slotSize": 6
+  },
+  {
+    "itemType": "MedicalScrubsShirt_Blue",
+    "slotSize": 6
+  },
+  {
+    "itemType": "MedicalScrubsShirt_Green",
+    "slotSize": 6
+  },
+  {
+    "itemType": "MedicalScrubsShirt_White",
+    "slotSize": 6
+  },
+  {
+    "itemType": "MedievalBoots",
+    "slotSize": 12
+  },
+  {
+    "itemType": "MediumGasCanister",
+    "slotSize": 12
+  },
+  {
+    "itemType": "MediumTent",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "MediumTent_Green",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "MediumTent_Orange",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Megaphone",
+    "slotSize": 12
+  },
+  {
+    "itemType": "MetalPlate",
+    "slotSize": 100
+  },
+  {
+    "itemType": "MetalWire",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Mich2001Helmet",
+    "slotSize": 12
+  },
+  {
+    "itemType": "MilitaryBelt",
+    "slotSize": 3
+  },
+  {
+    "itemType": "MilitaryBeret_CDF",
+    "slotSize": 3
+  },
+  {
+    "itemType": "MilitaryBeret_ChDKZ",
+    "slotSize": 3
+  },
+  {
+    "itemType": "MilitaryBeret_NZ",
+    "slotSize": 3
+  },
+  {
+    "itemType": "MilitaryBeret_Red",
+    "slotSize": 3
+  },
+  {
+    "itemType": "MilitaryBeret_UN",
+    "slotSize": 3
+  },
+  {
+    "itemType": "MilitaryBoots_Beige",
+    "slotSize": 16
+  },
+  {
+    "itemType": "MilitaryBoots_Black",
+    "slotSize": 16
+  },
+  {
+    "itemType": "MilitaryBoots_Bluerock",
+    "slotSize": 16
+  },
+  {
+    "itemType": "MilitaryBoots_Brown",
+    "slotSize": 16
+  },
+  {
+    "itemType": "MilitaryBoots_Redpunk",
+    "slotSize": 16
+  },
+  {
+    "itemType": "Mime_Female",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Mime_Male",
+    "slotSize": 6
+  },
+  {
+    "itemType": "MimeMask_Female",
+    "slotSize": 2
+  },
+  {
+    "itemType": "MimeMask_Male",
+    "slotSize": 2
+  },
+  {
+    "itemType": "MiniDress_BlueChecker",
+    "slotSize": 9
+  },
+  {
+    "itemType": "MiniDress_BlueWithDots",
+    "slotSize": 9
+  },
+  {
+    "itemType": "MiniDress_BrownChecker",
+    "slotSize": 9
+  },
+  {
+    "itemType": "MiniDress_GreenChecker",
+    "slotSize": 9
+  },
+  {
+    "itemType": "MiniDress_Pink",
+    "slotSize": 9
+  },
+  {
+    "itemType": "MiniDress_PinkChecker",
+    "slotSize": 9
+  },
+  {
+    "itemType": "MiniDress_RedChecker",
+    "slotSize": 9
+  },
+  {
+    "itemType": "MiniDress_WhiteChecker",
+    "slotSize": 9
+  },
+  {
+    "itemType": "MK4Optic_Black",
+    "slotSize": 1
+  },
+  {
+    "itemType": "MK4Optic_Green",
+    "slotSize": 1
+  },
+  {
+    "itemType": "MK4Optic_Tan",
+    "slotSize": 1
+  },
+  {
+    "itemType": "MKII",
+    "slotSize": 8
+  },
+  {
+    "itemType": "MorozkoHat",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Morphine",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Mosin9130",
+    "slotSize": 27
+  },
+  {
+    "itemType": "Mosin9130_Black",
+    "slotSize": 27
+  },
+  {
+    "itemType": "Mosin9130_Camo",
+    "slotSize": 27
+  },
+  {
+    "itemType": "Mosin9130_Green",
+    "slotSize": 27
+  },
+  {
+    "itemType": "Mosin_Bayonet",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Mosin_Compensator",
+    "slotSize": 1
+  },
+  {
+    "itemType": "MotoHelmet_Black",
+    "slotSize": 16
+  },
+  {
+    "itemType": "MotoHelmet_Blue",
+    "slotSize": 16
+  },
+  {
+    "itemType": "MotoHelmet_Green",
+    "slotSize": 16
+  },
+  {
+    "itemType": "MotoHelmet_Grey",
+    "slotSize": 16
+  },
+  {
+    "itemType": "MotoHelmet_Lime",
+    "slotSize": 16
+  },
+  {
+    "itemType": "MotoHelmet_Red",
+    "slotSize": 16
+  },
+  {
+    "itemType": "MotoHelmet_White",
+    "slotSize": 16
+  },
+  {
+    "itemType": "MotoHelmet_Yellow",
+    "slotSize": 16
+  },
+  {
+    "itemType": "MountainBag_Blue",
+    "slotSize": 35
+  },
+  {
+    "itemType": "MountainBag_Green",
+    "slotSize": 35
+  },
+  {
+    "itemType": "MountainBag_Orange",
+    "slotSize": 35
+  },
+  {
+    "itemType": "MountainBag_Red",
+    "slotSize": 35
+  },
+  {
+    "itemType": "MouthRag",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Mp133Shotgun",
+    "slotSize": 27
+  },
+  {
+    "itemType": "MP5_Compensator",
+    "slotSize": 1
+  },
+  {
+    "itemType": "MP5_PlasticHndgrd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "MP5_RailHndgrd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "MP5K",
+    "slotSize": 15
+  },
+  {
+    "itemType": "MP5k_StockBttstck",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Nail",
+    "slotSize": 1
+  },
+  {
+    "itemType": "NailBox",
+    "slotSize": 1
+  },
+  {
+    "itemType": "NailedBaseballBat",
+    "slotSize": 7
+  },
+  {
+    "itemType": "NavyUniformJacket",
+    "slotSize": 20
+  },
+  {
+    "itemType": "NavyUniformPants",
+    "slotSize": 6
+  },
+  {
+    "itemType": "NBCBootsGray",
+    "slotSize": 4
+  },
+  {
+    "itemType": "NBCBootsWhite",
+    "slotSize": 4
+  },
+  {
+    "itemType": "NBCBootsYellow",
+    "slotSize": 4
+  },
+  {
+    "itemType": "NBCGlovesGray",
+    "slotSize": 4
+  },
+  {
+    "itemType": "NBCGlovesYellow",
+    "slotSize": 4
+  },
+  {
+    "itemType": "NBCGray",
+    "slotSize": 4
+  },
+  {
+    "itemType": "NBCHoodGray",
+    "slotSize": 4
+  },
+  {
+    "itemType": "NBCHoodWhite",
+    "slotSize": 4
+  },
+  {
+    "itemType": "NBCHoodYellow",
+    "slotSize": 4
+  },
+  {
+    "itemType": "NBCJacketGray",
+    "slotSize": 6
+  },
+  {
+    "itemType": "NBCJacketWhite",
+    "slotSize": 6
+  },
+  {
+    "itemType": "NBCJacketYellow",
+    "slotSize": 6
+  },
+  {
+    "itemType": "NBCPantsGray",
+    "slotSize": 6
+  },
+  {
+    "itemType": "NBCPantsWhite",
+    "slotSize": 6
+  },
+  {
+    "itemType": "NBCPantsYellow",
+    "slotSize": 6
+  },
+  {
+    "itemType": "NBCYellow",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Netting",
+    "slotSize": 6
+  },
+  {
+    "itemType": "NioshFace",
+    "slotSize": 4
+  },
+  {
+    "itemType": "NioshFaceMask",
+    "slotSize": 4
+  },
+  {
+    "itemType": "NorseHelm",
+    "slotSize": 16
+  },
+  {
+    "itemType": "NurseDress_Blue",
+    "slotSize": 9
+  },
+  {
+    "itemType": "NurseDress_White",
+    "slotSize": 9
+  },
+  {
+    "itemType": "NVGHeadstrap",
+    "slotSize": 9
+  },
+  {
+    "itemType": "NVGoggles",
+    "slotSize": 4
+  },
+  {
+    "itemType": "NylonKnifeSheath",
+    "slotSize": 3
+  },
+  {
+    "itemType": "OfficerHat",
+    "slotSize": 6
+  },
+  {
+    "itemType": "OKZKCap_Beige",
+    "slotSize": 4
+  },
+  {
+    "itemType": "OKZKCap_Green",
+    "slotSize": 4
+  },
+  {
+    "itemType": "OMKJacket_Navy",
+    "slotSize": 12
+  },
+  {
+    "itemType": "OMKPants_Navy",
+    "slotSize": 12
+  },
+  {
+    "itemType": "OMNO_Brown",
+    "slotSize": 4
+  },
+  {
+    "itemType": "OMNO_Gray",
+    "slotSize": 4
+  },
+  {
+    "itemType": "OMNOGloves_Brown",
+    "slotSize": 4
+  },
+  {
+    "itemType": "OMNOGloves_Gray",
+    "slotSize": 4
+  },
+  {
+    "itemType": "OrientalMachete",
+    "slotSize": 4
+  },
+  {
+    "itemType": "OrienteeringCompass",
+    "slotSize": 2
+  },
+  {
+    "itemType": "OvenIndoor",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "P1",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Padded_Beige",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Padded_Brown",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Padded_Threat",
+    "slotSize": 4
+  },
+  {
+    "itemType": "PaddedGloves_Beige",
+    "slotSize": 6
+  },
+  {
+    "itemType": "PaddedGloves_Brown",
+    "slotSize": 6
+  },
+  {
+    "itemType": "PaddedGloves_Threat",
+    "slotSize": 6
+  },
+  {
+    "itemType": "PainkillerTablets",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Pajka",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Pajka_Opened",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Paper",
+    "slotSize": 1
+  },
+  {
+    "itemType": "ParamedicJacket_Blue",
+    "slotSize": 12
+  },
+  {
+    "itemType": "ParamedicJacket_Crimson",
+    "slotSize": 12
+  },
+  {
+    "itemType": "ParamedicJacket_Green",
+    "slotSize": 12
+  },
+  {
+    "itemType": "ParamedicPants_Blue",
+    "slotSize": 12
+  },
+  {
+    "itemType": "ParamedicPants_Crimson",
+    "slotSize": 12
+  },
+  {
+    "itemType": "ParamedicPants_Green",
+    "slotSize": 12
+  },
+  {
+    "itemType": "PartyTent",
+    "slotSize": 36
+  },
+  {
+    "itemType": "PartyTent_Blue",
+    "slotSize": 36
+  },
+  {
+    "itemType": "PartyTent_Brown",
+    "slotSize": 36
+  },
+  {
+    "itemType": "PartyTent_Lunapark",
+    "slotSize": 36
+  },
+  {
+    "itemType": "Pate",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Pate_Opened",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Payday_Chains",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Payday_Dallas",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Payday_Hoxton",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Payday_Wolf",
+    "slotSize": 6
+  },
+  {
+    "itemType": "PaydayMask_Chains",
+    "slotSize": 4
+  },
+  {
+    "itemType": "PaydayMask_Dallas",
+    "slotSize": 4
+  },
+  {
+    "itemType": "PaydayMask_Hoxton",
+    "slotSize": 4
+  },
+  {
+    "itemType": "PaydayMask_Wolf",
+    "slotSize": 4
+  },
+  {
+    "itemType": "PeachesCan",
+    "slotSize": 4
+  },
+  {
+    "itemType": "PeachesCan_Opened",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Pear",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Pen_Black",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Pen_Blue",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Pen_Green",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Pen_Red",
+    "slotSize": 1
+  },
+  {
+    "itemType": "PepperSeeds",
+    "slotSize": 1
+  },
+  {
+    "itemType": "PepperSeedsPack",
+    "slotSize": 1
+  },
+  {
+    "itemType": "PersonalRadio",
+    "slotSize": 3
+  },
+  {
+    "itemType": "PetrolLighter",
+    "slotSize": 1
+  },
+  {
+    "itemType": "PetushokHat_Black",
+    "slotSize": 4
+  },
+  {
+    "itemType": "PetushokHat_Green",
+    "slotSize": 4
+  },
+  {
+    "itemType": "PetushokHat_Yellow",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Pickaxe",
+    "slotSize": 18
+  },
+  {
+    "itemType": "PigPelt",
+    "slotSize": 15
+  },
+  {
+    "itemType": "PigSteakMeat",
+    "slotSize": 2
+  },
+  {
+    "itemType": "PileOfWoodenPlanks",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "PilotkaCap",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Pipe",
+    "slotSize": 6
+  },
+  {
+    "itemType": "PipeWrench",
+    "slotSize": 10
+  },
+  {
+    "itemType": "PistolOptic",
+    "slotSize": 3
+  },
+  {
+    "itemType": "PistolSuppressor",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Pitchfork",
+    "slotSize": 16
+  },
+  {
+    "itemType": "Plant_Pepper",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Plant_Potato",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Plant_Pumpkin",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Plant_Tomato",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Plant_Zucchini",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "PlantMaterial",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Plastic_Explosive",
+    "slotSize": 6
+  },
+  {
+    "itemType": "PlateCarrier",
+    "slotSize": 25
+  },
+  {
+    "itemType": "PlateCarrier_Black",
+    "slotSize": 25
+  },
+  {
+    "itemType": "PlateCarrier_Camo",
+    "slotSize": 25
+  },
+  {
+    "itemType": "PlateCarrier_Green",
+    "slotSize": 25
+  },
+  {
+    "itemType": "PlateCarrier_Winter",
+    "slotSize": 25
+  },
+  {
+    "itemType": "PlateCarrierHolster",
+    "slotSize": 6
+  },
+  {
+    "itemType": "PlateCarrierHolster_Black",
+    "slotSize": 6
+  },
+  {
+    "itemType": "PlateCarrierHolster_Camo",
+    "slotSize": 6
+  },
+  {
+    "itemType": "PlateCarrierHolster_Green",
+    "slotSize": 6
+  },
+  {
+    "itemType": "PlateCarrierHolster_Winter",
+    "slotSize": 6
+  },
+  {
+    "itemType": "PlateCarrierPouches",
+    "slotSize": 15
+  },
+  {
+    "itemType": "PlateCarrierPouches_Black",
+    "slotSize": 15
+  },
+  {
+    "itemType": "PlateCarrierPouches_Camo",
+    "slotSize": 15
+  },
+  {
+    "itemType": "PlateCarrierPouches_Green",
+    "slotSize": 15
+  },
+  {
+    "itemType": "PlateCarrierPouches_Winter",
+    "slotSize": 15
+  },
+  {
+    "itemType": "PlateCarrierVest",
+    "slotSize": 25
+  },
+  {
+    "itemType": "PlateCarrierVest_Black",
+    "slotSize": 25
+  },
+  {
+    "itemType": "PlateCarrierVest_Camo",
+    "slotSize": 25
+  },
+  {
+    "itemType": "PlateCarrierVest_Green",
+    "slotSize": 25
+  },
+  {
+    "itemType": "PlateCarrierVest_Winter",
+    "slotSize": 25
+  },
+  {
+    "itemType": "PleurotusMushroom",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Pliers",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Plum",
+    "slotSize": 1
+  },
+  {
+    "itemType": "PM73Rak",
+    "slotSize": 12
+  },
+  {
+    "itemType": "Police",
+    "slotSize": 12
+  },
+  {
+    "itemType": "PoliceCap",
+    "slotSize": 6
+  },
+  {
+    "itemType": "PoliceJacket",
+    "slotSize": 12
+  },
+  {
+    "itemType": "PoliceJacketOrel",
+    "slotSize": 12
+  },
+  {
+    "itemType": "PolicePants",
+    "slotSize": 6
+  },
+  {
+    "itemType": "PolicePantsOrel",
+    "slotSize": 12
+  },
+  {
+    "itemType": "PoliceVest",
+    "slotSize": 12
+  },
+  {
+    "itemType": "PorkCan",
+    "slotSize": 2
+  },
+  {
+    "itemType": "PorkCan_Opened",
+    "slotSize": 2
+  },
+  {
+    "itemType": "PortableGasLamp",
+    "slotSize": 12
+  },
+  {
+    "itemType": "PortableGasStove",
+    "slotSize": 12
+  },
+  {
+    "itemType": "Pot",
+    "slotSize": 12
+  },
+  {
+    "itemType": "Potato",
+    "slotSize": 2
+  },
+  {
+    "itemType": "PotatoSeed",
+    "slotSize": 2
+  },
+  {
+    "itemType": "PowderedMilk",
+    "slotSize": 2
+  },
+  {
+    "itemType": "PowerGenerator",
+    "slotSize": 100
+  },
+  {
+    "itemType": "PP19",
+    "slotSize": 18
+  },
+  {
+    "itemType": "PP19_Bttstck",
+    "slotSize": 2
+  },
+  {
+    "itemType": "PressVest_Blue",
+    "slotSize": 16
+  },
+  {
+    "itemType": "PressVest_LightBlue",
+    "slotSize": 16
+  },
+  {
+    "itemType": "PrisonerCap",
+    "slotSize": 6
+  },
+  {
+    "itemType": "PrisonUniformJacket",
+    "slotSize": 9
+  },
+  {
+    "itemType": "PrisonUniformPants",
+    "slotSize": 6
+  },
+  {
+    "itemType": "PSO11Optic",
+    "slotSize": 6
+  },
+  {
+    "itemType": "PSO1Optic",
+    "slotSize": 6
+  },
+  {
+    "itemType": "PSO6Optic",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Pumpkin",
+    "slotSize": 4
+  },
+  {
+    "itemType": "PumpkinHelmet",
+    "slotSize": 4
+  },
+  {
+    "itemType": "PumpkinSeeds",
+    "slotSize": 1
+  },
+  {
+    "itemType": "PumpkinSeedsPack",
+    "slotSize": 1
+  },
+  {
+    "itemType": "PunchedCard",
+    "slotSize": 2
+  },
+  {
+    "itemType": "PurificationTablets",
+    "slotSize": 2
+  },
+  {
+    "itemType": "PUScopeOptic",
+    "slotSize": 3
+  },
+  {
+    "itemType": "QuiltedJacket_Black",
+    "slotSize": 16
+  },
+  {
+    "itemType": "QuiltedJacket_Blue",
+    "slotSize": 16
+  },
+  {
+    "itemType": "QuiltedJacket_Green",
+    "slotSize": 16
+  },
+  {
+    "itemType": "QuiltedJacket_Grey",
+    "slotSize": 16
+  },
+  {
+    "itemType": "QuiltedJacket_Orange",
+    "slotSize": 16
+  },
+  {
+    "itemType": "QuiltedJacket_Red",
+    "slotSize": 16
+  },
+  {
+    "itemType": "QuiltedJacket_Violet",
+    "slotSize": 16
+  },
+  {
+    "itemType": "QuiltedJacket_Yellow",
+    "slotSize": 16
+  },
+  {
+    "itemType": "R12",
+    "slotSize": 27
+  },
+  {
+    "itemType": "RabbitLegMeat",
+    "slotSize": 2
+  },
+  {
+    "itemType": "RabbitPelt",
+    "slotSize": 6
+  },
+  {
+    "itemType": "RabbitSnareTrap",
+    "slotSize": 4
+  },
+  {
+    "itemType": "RadarCap_Black",
+    "slotSize": 6
+  },
+  {
+    "itemType": "RadarCap_Blue",
+    "slotSize": 6
+  },
+  {
+    "itemType": "RadarCap_Brown",
+    "slotSize": 6
+  },
+  {
+    "itemType": "RadarCap_Green",
+    "slotSize": 6
+  },
+  {
+    "itemType": "RadarCap_Red",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Rag",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Raincoat_Black",
+    "slotSize": 9
+  },
+  {
+    "itemType": "Raincoat_Blue",
+    "slotSize": 9
+  },
+  {
+    "itemType": "Raincoat_Green",
+    "slotSize": 9
+  },
+  {
+    "itemType": "Raincoat_Orange",
+    "slotSize": 9
+  },
+  {
+    "itemType": "Raincoat_Pink",
+    "slotSize": 9
+  },
+  {
+    "itemType": "Raincoat_Red",
+    "slotSize": 9
+  },
+  {
+    "itemType": "Raincoat_Yellow",
+    "slotSize": 9
+  },
+  {
+    "itemType": "Rangefinder",
+    "slotSize": 2
+  },
+  {
+    "itemType": "RDG2SmokeGrenade_Black",
+    "slotSize": 2
+  },
+  {
+    "itemType": "RDG2SmokeGrenade_White",
+    "slotSize": 2
+  },
+  {
+    "itemType": "RedCaviar",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Reflex",
+    "slotSize": 6
+  },
+  {
+    "itemType": "ReflexOptic",
+    "slotSize": 2
+  },
+  {
+    "itemType": "ReflexVest",
+    "slotSize": 6
+  },
+  {
+    "itemType": "ReindeerPelt",
+    "slotSize": 18
+  },
+  {
+    "itemType": "ReindeerSteakMeat",
+    "slotSize": 2
+  },
+  {
+    "itemType": "RemoteDetonator",
+    "slotSize": 2
+  },
+  {
+    "itemType": "RemoteDetonatorReceiver",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "RemoteDetonatorTrigger",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Repeater",
+    "slotSize": 27
+  },
+  {
+    "itemType": "RGD5Grenade",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Rice",
+    "slotSize": 6
+  },
+  {
+    "itemType": "RidersJacket_Black",
+    "slotSize": 16
+  },
+  {
+    "itemType": "Roadflare",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Rope",
+    "slotSize": 3
+  },
+  {
+    "itemType": "RopeBelt",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Ruger1022",
+    "slotSize": 27
+  },
+  {
+    "itemType": "Saiga",
+    "slotSize": 21
+  },
+  {
+    "itemType": "Saiga_Bttstck",
+    "slotSize": 2
+  },
+  {
+    "itemType": "SalineBag",
+    "slotSize": 4
+  },
+  {
+    "itemType": "SalineBagIV",
+    "slotSize": 4
+  },
+  {
+    "itemType": "SaltySticks",
+    "slotSize": 4
+  },
+  {
+    "itemType": "SambucusBerry",
+    "slotSize": 1
+  },
+  {
+    "itemType": "SantasBeard",
+    "slotSize": 3
+  },
+  {
+    "itemType": "SantasHat",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Sardines",
+    "slotSize": 2
+  },
+  {
+    "itemType": "SardinesCan",
+    "slotSize": 2
+  },
+  {
+    "itemType": "SardinesCan_Opened",
+    "slotSize": 2
+  },
+  {
+    "itemType": "SawedoffB95",
+    "slotSize": 10
+  },
+  {
+    "itemType": "SawedoffB95_Black",
+    "slotSize": 10
+  },
+  {
+    "itemType": "SawedoffB95_Green",
+    "slotSize": 10
+  },
+  {
+    "itemType": "SawedoffFAMAS",
+    "slotSize": 18
+  },
+  {
+    "itemType": "SawedoffIzh18",
+    "slotSize": 10
+  },
+  {
+    "itemType": "SawedoffIzh18Shotgun",
+    "slotSize": 10
+  },
+  {
+    "itemType": "SawedoffIzh43Shotgun",
+    "slotSize": 10
+  },
+  {
+    "itemType": "SawedoffMagnum",
+    "slotSize": 4
+  },
+  {
+    "itemType": "SawedoffMosin9130",
+    "slotSize": 10
+  },
+  {
+    "itemType": "SawedoffMosin9130_Black",
+    "slotSize": 10
+  },
+  {
+    "itemType": "SawedoffMosin9130_Camo",
+    "slotSize": 10
+  },
+  {
+    "itemType": "SawedoffMosin9130_Green",
+    "slotSize": 10
+  },
+  {
+    "itemType": "ScientificBriefcase",
+    "slotSize": 24
+  },
+  {
+    "itemType": "ScientificBriefcaseKeys",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Scout",
+    "slotSize": 27
+  },
+  {
+    "itemType": "Scout_Chernarus",
+    "slotSize": 27
+  },
+  {
+    "itemType": "Scout_Livonia",
+    "slotSize": 27
+  },
+  {
+    "itemType": "Screwdriver",
+    "slotSize": 3
+  },
+  {
+    "itemType": "SeaChest",
+    "slotSize": 100
+  },
+  {
+    "itemType": "SewingKit",
+    "slotSize": 2
+  },
+  {
+    "itemType": "SharpWoodenStick",
+    "slotSize": 8
+  },
+  {
+    "itemType": "SheepPelt",
+    "slotSize": 18
+  },
+  {
+    "itemType": "SheepSteakMeat",
+    "slotSize": 2
+  },
+  {
+    "itemType": "ShelterFabric",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ShelterKit",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ShelterLeather",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ShelterSite",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ShelterStick",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Shemag_Brown",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Shemag_Green",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Shemag_Red",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Shemag_White",
+    "slotSize": 4
+  },
+  {
+    "itemType": "SherpaHat_Black",
+    "slotSize": 4
+  },
+  {
+    "itemType": "SherpaHat_Blue",
+    "slotSize": 4
+  },
+  {
+    "itemType": "SherpaHat_Red",
+    "slotSize": 4
+  },
+  {
+    "itemType": "ShippingContainerKeys_Blue",
+    "slotSize": 1
+  },
+  {
+    "itemType": "ShippingContainerKeys_Orange",
+    "slotSize": 1
+  },
+  {
+    "itemType": "ShippingContainerKeys_Red",
+    "slotSize": 1
+  },
+  {
+    "itemType": "ShippingContainerKeys_Yellow",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Shirt_BlueCheck",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Shirt_BlueCheckBright",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Shirt_GreenCheck",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Shirt_PlaneBlack",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Shirt_RedCheck",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Shirt_WhiteCheck",
+    "slotSize": 6
+  },
+  {
+    "itemType": "ShortJeans_Black",
+    "slotSize": 3
+  },
+  {
+    "itemType": "ShortJeans_Blue",
+    "slotSize": 3
+  },
+  {
+    "itemType": "ShortJeans_Brown",
+    "slotSize": 3
+  },
+  {
+    "itemType": "ShortJeans_Darkblue",
+    "slotSize": 3
+  },
+  {
+    "itemType": "ShortJeans_Green",
+    "slotSize": 3
+  },
+  {
+    "itemType": "ShortJeans_Red",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Shovel",
+    "slotSize": 16
+  },
+  {
+    "itemType": "Sickle",
+    "slotSize": 6
+  },
+  {
+    "itemType": "SkateHelmet_Black",
+    "slotSize": 12
+  },
+  {
+    "itemType": "SkateHelmet_Blue",
+    "slotSize": 12
+  },
+  {
+    "itemType": "SkateHelmet_Gray",
+    "slotSize": 12
+  },
+  {
+    "itemType": "SkateHelmet_Green",
+    "slotSize": 12
+  },
+  {
+    "itemType": "SkateHelmet_Red",
+    "slotSize": 12
+  },
+  {
+    "itemType": "Ski_90s",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Ski_Blue",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Ski_Red",
+    "slotSize": 4
+  },
+  {
+    "itemType": "SkiGloves_90s",
+    "slotSize": 4
+  },
+  {
+    "itemType": "SkiGloves_Blue",
+    "slotSize": 4
+  },
+  {
+    "itemType": "SkiGloves_Red",
+    "slotSize": 4
+  },
+  {
+    "itemType": "SkiGoggles_BlackYellow",
+    "slotSize": 4
+  },
+  {
+    "itemType": "SkiGoggles_WhiteClear",
+    "slotSize": 4
+  },
+  {
+    "itemType": "SkiGoggles_WhiteDark",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Skirt_Blue",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Skirt_Red",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Skirt_White",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Skirt_Yellow",
+    "slotSize": 3
+  },
+  {
+    "itemType": "SKS",
+    "slotSize": 27
+  },
+  {
+    "itemType": "SKS_Bayonet",
+    "slotSize": 4
+  },
+  {
+    "itemType": "SKS_Black",
+    "slotSize": 27
+  },
+  {
+    "itemType": "SKS_Green",
+    "slotSize": 27
+  },
+  {
+    "itemType": "SlacksPants_Beige",
+    "slotSize": 6
+  },
+  {
+    "itemType": "SlacksPants_Black",
+    "slotSize": 6
+  },
+  {
+    "itemType": "SlacksPants_Blue",
+    "slotSize": 6
+  },
+  {
+    "itemType": "SlacksPants_Brown",
+    "slotSize": 6
+  },
+  {
+    "itemType": "SlacksPants_DarkGrey",
+    "slotSize": 6
+  },
+  {
+    "itemType": "SlacksPants_Khaki",
+    "slotSize": 6
+  },
+  {
+    "itemType": "SlacksPants_LightGrey",
+    "slotSize": 6
+  },
+  {
+    "itemType": "SlacksPants_White",
+    "slotSize": 6
+  },
+  {
+    "itemType": "SledgeHammer",
+    "slotSize": 12
+  },
+  {
+    "itemType": "SlicedPumpkin",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Slingbag_Black",
+    "slotSize": 16
+  },
+  {
+    "itemType": "Slingbag_Brown",
+    "slotSize": 16
+  },
+  {
+    "itemType": "Slingbag_Gray",
+    "slotSize": 16
+  },
+  {
+    "itemType": "SmallFishTrap",
+    "slotSize": 2
+  },
+  {
+    "itemType": "SmallGasCanister",
+    "slotSize": 12
+  },
+  {
+    "itemType": "SmallGuts",
+    "slotSize": 2
+  },
+  {
+    "itemType": "SmallProtectorCase",
+    "slotSize": 6
+  },
+  {
+    "itemType": "SmallStone",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Smersh",
+    "slotSize": 9
+  },
+  {
+    "itemType": "SmershBag",
+    "slotSize": 16
+  },
+  {
+    "itemType": "SmershVest",
+    "slotSize": 9
+  },
+  {
+    "itemType": "Sneakers_Black",
+    "slotSize": 8
+  },
+  {
+    "itemType": "Sneakers_Gray",
+    "slotSize": 8
+  },
+  {
+    "itemType": "Sneakers_Green",
+    "slotSize": 8
+  },
+  {
+    "itemType": "Sneakers_Red",
+    "slotSize": 8
+  },
+  {
+    "itemType": "Sneakers_White",
+    "slotSize": 8
+  },
+  {
+    "itemType": "SnowstormUshanka_Brown",
+    "slotSize": 6
+  },
+  {
+    "itemType": "SnowstormUshanka_Navy",
+    "slotSize": 6
+  },
+  {
+    "itemType": "SnowstormUshanka_Olive",
+    "slotSize": 6
+  },
+  {
+    "itemType": "SnowstormUshanka_White",
+    "slotSize": 6
+  },
+  {
+    "itemType": "SodaCan_Cola",
+    "slotSize": 2
+  },
+  {
+    "itemType": "SodaCan_Fronta",
+    "slotSize": 2
+  },
+  {
+    "itemType": "SodaCan_Kvass",
+    "slotSize": 2
+  },
+  {
+    "itemType": "SodaCan_Pipsi",
+    "slotSize": 2
+  },
+  {
+    "itemType": "SodaCan_Spite",
+    "slotSize": 2
+  },
+  {
+    "itemType": "SpaghettiCan",
+    "slotSize": 4
+  },
+  {
+    "itemType": "SpaghettiCan_Opened",
+    "slotSize": 4
+  },
+  {
+    "itemType": "SparkPlug",
+    "slotSize": 1
+  },
+  {
+    "itemType": "SpearBone",
+    "slotSize": 8
+  },
+  {
+    "itemType": "SpearStone",
+    "slotSize": 8
+  },
+  {
+    "itemType": "Splint",
+    "slotSize": 8
+  },
+  {
+    "itemType": "Splint_Applied",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "SportGlasses_Black",
+    "slotSize": 3
+  },
+  {
+    "itemType": "SportGlasses_Blue",
+    "slotSize": 3
+  },
+  {
+    "itemType": "SportGlasses_Green",
+    "slotSize": 3
+  },
+  {
+    "itemType": "SportGlasses_Orange",
+    "slotSize": 3
+  },
+  {
+    "itemType": "SportingOptic",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Spotlight",
+    "slotSize": 21
+  },
+  {
+    "itemType": "SSG82",
+    "slotSize": 27
+  },
+  {
+    "itemType": "Ssh68Helmet",
+    "slotSize": 12
+  },
+  {
+    "itemType": "StarlightOptic",
+    "slotSize": 12
+  },
+  {
+    "itemType": "StartKitIV",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Static_FrozenScientist_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "StaticObj_Decal_damage_long2_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "StaticObj_Decal_damage_long3_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "StaticObj_FrozenScientist_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "StaticObj_Misc_SupplyBox1_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "StaticObj_Misc_SupplyBox2_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "StaticObj_Misc_SupplyBox3_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "StaticObj_PatrolBoat_Military_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "StaticObj_Roadblock_Wood_Long_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "StaticObj_Roadblock_Wood_Small_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "StaticObj_Train_Wagon_Flat_Industrial_Barrels_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "StaticObj_Train_Wagon_Flat_Industrial_Planks_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "StaticObj_Wreck_BMP1_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "StaticObj_Wreck_BMP1_NoPlacement_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "StaticObj_Wreck_BMP2_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "StaticObj_Wreck_BRDM_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "StaticObj_Wreck_Decal_Big_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "StaticObj_Wreck_Decal_Small1_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "StaticObj_Wreck_Decal_Small2_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "StaticObj_Wreck_T72_Chassis_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "StaticObj_Wreck_T72_Turret_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "StaticObj_Wreck_Train_742_Blue_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "StaticObj_Wreck_Train_742_Blue_Mil_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "StaticObj_Wreck_Train_742_Red_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "StaticObj_Wreck_Train_742_Red_Mil_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "StaticObj_Wreck_Train_Wagon_Flat_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "StaticObj_Wreck_Train_Wagon_Flat_Mil_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "StaticObj_Wreck_Train_Wagon_Tanker_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "StaticObj_Wreck_Train_Wagon_Tanker_Mil_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "StaticObj_Wreck_Uaz_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "StaticObj_Wreck_Ural_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "SteakKnife",
+    "slotSize": 2
+  },
+  {
+    "itemType": "SteelheadTrout",
+    "slotSize": 8
+  },
+  {
+    "itemType": "SteelheadTroutFilletMeat",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Stone",
+    "slotSize": 9
+  },
+  {
+    "itemType": "StoneKnife",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Surgical",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Surgical_Blue",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Surgical_Green",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Surgical_LightBlue",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Surgical_White",
+    "slotSize": 1
+  },
+  {
+    "itemType": "SurgicalGloves_Blue",
+    "slotSize": 1
+  },
+  {
+    "itemType": "SurgicalGloves_Green",
+    "slotSize": 1
+  },
+  {
+    "itemType": "SurgicalGloves_LightBlue",
+    "slotSize": 1
+  },
+  {
+    "itemType": "SurgicalGloves_White",
+    "slotSize": 1
+  },
+  {
+    "itemType": "SurgicalMask",
+    "slotSize": 2
+  },
+  {
+    "itemType": "SV98",
+    "slotSize": 27
+  },
+  {
+    "itemType": "SVD",
+    "slotSize": 30
+  },
+  {
+    "itemType": "SVD_Wooden",
+    "slotSize": 30
+  },
+  {
+    "itemType": "Sweater_Blue",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Sweater_ChristmasBlue",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Sweater_ChristmasGreen",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Sweater_ChristmasRed",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Sweater_Gray",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Sweater_Green",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Sweater_Red",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Sword",
+    "slotSize": 16
+  },
+  {
+    "itemType": "Syringe",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Tactical_Beige",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Tactical_Black",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Tactical_Green",
+    "slotSize": 4
+  },
+  {
+    "itemType": "TacticalBaconCan",
+    "slotSize": 4
+  },
+  {
+    "itemType": "TacticalBaconCan_Opened",
+    "slotSize": 4
+  },
+  {
+    "itemType": "TacticalGloves_Beige",
+    "slotSize": 4
+  },
+  {
+    "itemType": "TacticalGloves_Black",
+    "slotSize": 4
+  },
+  {
+    "itemType": "TacticalGloves_Green",
+    "slotSize": 4
+  },
+  {
+    "itemType": "TacticalGoggles",
+    "slotSize": 2
+  },
+  {
+    "itemType": "TacticalShirt_Black",
+    "slotSize": 12
+  },
+  {
+    "itemType": "TacticalShirt_Grey",
+    "slotSize": 12
+  },
+  {
+    "itemType": "TacticalShirt_Olive",
+    "slotSize": 12
+  },
+  {
+    "itemType": "TacticalShirt_Tan",
+    "slotSize": 12
+  },
+  {
+    "itemType": "TaloonBag_Blue",
+    "slotSize": 20
+  },
+  {
+    "itemType": "TaloonBag_Green",
+    "slotSize": 20
+  },
+  {
+    "itemType": "TaloonBag_Orange",
+    "slotSize": 20
+  },
+  {
+    "itemType": "TaloonBag_Violet",
+    "slotSize": 20
+  },
+  {
+    "itemType": "TankerHelmet",
+    "slotSize": 12
+  },
+  {
+    "itemType": "TannedLeather",
+    "slotSize": 12
+  },
+  {
+    "itemType": "TelnyashkaShirt",
+    "slotSize": 6
+  },
+  {
+    "itemType": "TerritoryFlag",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "TerritoryFlagKit",
+    "slotSize": 5
+  },
+  {
+    "itemType": "TetracyclineAntibiotics",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Thermometer",
+    "slotSize": 2
+  },
+  {
+    "itemType": "ThickFramesGlasses",
+    "slotSize": 2
+  },
+  {
+    "itemType": "ThinFramesGlasses",
+    "slotSize": 2
+  },
+  {
+    "itemType": "TireRepairKit",
+    "slotSize": 6
+  },
+  {
+    "itemType": "TLRLight",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Tomato",
+    "slotSize": 1
+  },
+  {
+    "itemType": "TomatoSeeds",
+    "slotSize": 1
+  },
+  {
+    "itemType": "TomatoSeedsPack",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Torch",
+    "slotSize": 5
+  },
+  {
+    "itemType": "TorsoCover_Improvised",
+    "slotSize": 6
+  },
+  {
+    "itemType": "TortillaBag",
+    "slotSize": 30
+  },
+  {
+    "itemType": "TortillaBag_Winter",
+    "slotSize": 30
+  },
+  {
+    "itemType": "TrackSuitJacket_Black",
+    "slotSize": 6
+  },
+  {
+    "itemType": "TrackSuitJacket_Blue",
+    "slotSize": 6
+  },
+  {
+    "itemType": "TrackSuitJacket_Green",
+    "slotSize": 6
+  },
+  {
+    "itemType": "TrackSuitJacket_LightBlue",
+    "slotSize": 6
+  },
+  {
+    "itemType": "TrackSuitJacket_Red",
+    "slotSize": 6
+  },
+  {
+    "itemType": "TrackSuitPants_Black",
+    "slotSize": 6
+  },
+  {
+    "itemType": "TrackSuitPants_Blue",
+    "slotSize": 6
+  },
+  {
+    "itemType": "TrackSuitPants_Green",
+    "slotSize": 6
+  },
+  {
+    "itemType": "TrackSuitPants_LightBlue",
+    "slotSize": 6
+  },
+  {
+    "itemType": "TrackSuitPants_Red",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Tripod",
+    "slotSize": 6
+  },
+  {
+    "itemType": "TripwireTrap",
+    "slotSize": 4
+  },
+  {
+    "itemType": "TruckBattery",
+    "slotSize": 15
+  },
+  {
+    "itemType": "TShirt_10thAnniversary",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Tshirt_10thAnniversary",
+    "slotSize": 6
+  },
+  {
+    "itemType": "TShirt_Beige",
+    "slotSize": 6
+  },
+  {
+    "itemType": "TShirt_Black",
+    "slotSize": 6
+  },
+  {
+    "itemType": "TShirt_Blue",
+    "slotSize": 6
+  },
+  {
+    "itemType": "TShirt_Green",
+    "slotSize": 6
+  },
+  {
+    "itemType": "TShirt_Grey",
+    "slotSize": 6
+  },
+  {
+    "itemType": "TShirt_OrangeWhiteStripes",
+    "slotSize": 6
+  },
+  {
+    "itemType": "TShirt_Red",
+    "slotSize": 6
+  },
+  {
+    "itemType": "TShirt_RedBlackStripes",
+    "slotSize": 6
+  },
+  {
+    "itemType": "TShirt_White",
+    "slotSize": 6
+  },
+  {
+    "itemType": "TTSKOBoots",
+    "slotSize": 16
+  },
+  {
+    "itemType": "TTsKOJacket_Camo",
+    "slotSize": 12
+  },
+  {
+    "itemType": "TTSKOPants",
+    "slotSize": 12
+  },
+  {
+    "itemType": "TunaCan",
+    "slotSize": 2
+  },
+  {
+    "itemType": "TunaCan_Opened",
+    "slotSize": 2
+  },
+  {
+    "itemType": "UKAss_Black",
+    "slotSize": 9
+  },
+  {
+    "itemType": "UKAss_Camo",
+    "slotSize": 9
+  },
+  {
+    "itemType": "UKAss_Khaki",
+    "slotSize": 9
+  },
+  {
+    "itemType": "UKAss_Olive",
+    "slotSize": 9
+  },
+  {
+    "itemType": "UKAss_Winter",
+    "slotSize": 9
+  },
+  {
+    "itemType": "UKAssVest_Black",
+    "slotSize": 9
+  },
+  {
+    "itemType": "UKAssVest_Camo",
+    "slotSize": 9
+  },
+  {
+    "itemType": "UKAssVest_Khaki",
+    "slotSize": 9
+  },
+  {
+    "itemType": "UKAssVest_Olive",
+    "slotSize": 9
+  },
+  {
+    "itemType": "UKAssVest_Winter",
+    "slotSize": 9
+  },
+  {
+    "itemType": "UMP45",
+    "slotSize": 18
+  },
+  {
+    "itemType": "UndergroundStash",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "UndergroundStashSnow",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "UniversalLight",
+    "slotSize": 2
+  },
+  {
+    "itemType": "UnknownFoodCan",
+    "slotSize": 4
+  },
+  {
+    "itemType": "UnknownFoodCan_Opened",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Ushanka_Black",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Ushanka_Blue",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Ushanka_Green",
+    "slotSize": 6
+  },
+  {
+    "itemType": "USMCJacket_Desert",
+    "slotSize": 12
+  },
+  {
+    "itemType": "USMCJacket_Woodland",
+    "slotSize": 12
+  },
+  {
+    "itemType": "USMCPants_Desert",
+    "slotSize": 12
+  },
+  {
+    "itemType": "USMCPants_Woodland",
+    "slotSize": 12
+  },
+  {
+    "itemType": "Vikhr",
+    "slotSize": 18
+  },
+  {
+    "itemType": "VitaminBottle",
+    "slotSize": 2
+  },
+  {
+    "itemType": "VSS",
+    "slotSize": 24
+  },
+  {
+    "itemType": "WalleyePollock",
+    "slotSize": 6
+  },
+  {
+    "itemType": "WalleyePollockFilletMeat",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Watchtower",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "WatchtowerKit",
+    "slotSize": 5
+  },
+  {
+    "itemType": "WaterBottle",
+    "slotSize": 3
+  },
+  {
+    "itemType": "WaterproofBag_Green",
+    "slotSize": 20
+  },
+  {
+    "itemType": "WaterproofBag_Orange",
+    "slotSize": 20
+  },
+  {
+    "itemType": "WaterproofBag_Yellow",
+    "slotSize": 20
+  },
+  {
+    "itemType": "WeaponCleaningKit",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Welding",
+    "slotSize": 12
+  },
+  {
+    "itemType": "WeldingMask",
+    "slotSize": 12
+  },
+  {
+    "itemType": "Wellies_Black",
+    "slotSize": 16
+  },
+  {
+    "itemType": "Wellies_Brown",
+    "slotSize": 16
+  },
+  {
+    "itemType": "Wellies_Green",
+    "slotSize": 16
+  },
+  {
+    "itemType": "Wellies_Grey",
+    "slotSize": 16
+  },
+  {
+    "itemType": "Whetstone",
+    "slotSize": 2
+  },
+  {
+    "itemType": "WildboarPelt",
+    "slotSize": 15
+  },
+  {
+    "itemType": "Winchester70",
+    "slotSize": 30
+  },
+  {
+    "itemType": "Winchester70_Black",
+    "slotSize": 30
+  },
+  {
+    "itemType": "Winchester70_Green",
+    "slotSize": 30
+  },
+  {
+    "itemType": "WinterCoif_Black",
+    "slotSize": 4
+  },
+  {
+    "itemType": "WinterCoif_Blue",
+    "slotSize": 4
+  },
+  {
+    "itemType": "WinterCoif_Green",
+    "slotSize": 4
+  },
+  {
+    "itemType": "WinterCoif_Skull",
+    "slotSize": 4
+  },
+  {
+    "itemType": "WitchHat",
+    "slotSize": 6
+  },
+  {
+    "itemType": "WitchHood_Black",
+    "slotSize": 4
+  },
+  {
+    "itemType": "WitchHood_Brown",
+    "slotSize": 4
+  },
+  {
+    "itemType": "WitchHood_Chainmail_Black",
+    "slotSize": 4
+  },
+  {
+    "itemType": "WitchHood_Chainmail_Brown",
+    "slotSize": 4
+  },
+  {
+    "itemType": "WitchHood_Chainmail_Red",
+    "slotSize": 4
+  },
+  {
+    "itemType": "WitchHood_Red",
+    "slotSize": 4
+  },
+  {
+    "itemType": "WitchHoodCoif_Black",
+    "slotSize": 6
+  },
+  {
+    "itemType": "WitchHoodCoif_Brown",
+    "slotSize": 6
+  },
+  {
+    "itemType": "WitchHoodCoif_Red",
+    "slotSize": 6
+  },
+  {
+    "itemType": "WolfPelt",
+    "slotSize": 15
+  },
+  {
+    "itemType": "WolfSteakMeat",
+    "slotSize": 2
+  },
+  {
+    "itemType": "WomanSuit_Beige",
+    "slotSize": 12
+  },
+  {
+    "itemType": "WomanSuit_Black",
+    "slotSize": 12
+  },
+  {
+    "itemType": "WomanSuit_Blue",
+    "slotSize": 12
+  },
+  {
+    "itemType": "WomanSuit_Brown",
+    "slotSize": 12
+  },
+  {
+    "itemType": "WomanSuit_DarkGrey",
+    "slotSize": 12
+  },
+  {
+    "itemType": "WomanSuit_Khaki",
+    "slotSize": 12
+  },
+  {
+    "itemType": "WomanSuit_LightGrey",
+    "slotSize": 12
+  },
+  {
+    "itemType": "WomanSuit_White",
+    "slotSize": 12
+  },
+  {
+    "itemType": "WoodAxe",
+    "slotSize": 12
+  },
+  {
+    "itemType": "WoodenCrate",
+    "slotSize": 50
+  },
+  {
+    "itemType": "WoodenHook",
+    "slotSize": 1
+  },
+  {
+    "itemType": "WoodenLog",
+    "slotSize": 33
+  },
+  {
+    "itemType": "WoodenPlank",
+    "slotSize": 16
+  },
+  {
+    "itemType": "WoodenStick",
+    "slotSize": 5
+  },
+  {
+    "itemType": "Wool_Black",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Wool_ChristmasBlue",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Wool_ChristmasRed",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Wool_Green",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Wool_Tan",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Wool_White",
+    "slotSize": 4
+  },
+  {
+    "itemType": "WoolCoat_Beige",
+    "slotSize": 16
+  },
+  {
+    "itemType": "WoolCoat_Black",
+    "slotSize": 16
+  },
+  {
+    "itemType": "WoolCoat_BlackCheck",
+    "slotSize": 16
+  },
+  {
+    "itemType": "WoolCoat_Blue",
+    "slotSize": 16
+  },
+  {
+    "itemType": "WoolCoat_BlueCheck",
+    "slotSize": 16
+  },
+  {
+    "itemType": "WoolCoat_BrownCheck",
+    "slotSize": 16
+  },
+  {
+    "itemType": "WoolCoat_Green",
+    "slotSize": 16
+  },
+  {
+    "itemType": "WoolCoat_GreyCheck",
+    "slotSize": 16
+  },
+  {
+    "itemType": "WoolCoat_Red",
+    "slotSize": 16
+  },
+  {
+    "itemType": "WoolCoat_RedCheck",
+    "slotSize": 16
+  },
+  {
+    "itemType": "WoolFingerless_Black",
+    "slotSize": 4
+  },
+  {
+    "itemType": "WoolFingerless_ChristmasBlue",
+    "slotSize": 4
+  },
+  {
+    "itemType": "WoolFingerless_ChristmasRed",
+    "slotSize": 4
+  },
+  {
+    "itemType": "WoolFingerless_Green",
+    "slotSize": 4
+  },
+  {
+    "itemType": "WoolFingerless_Tan",
+    "slotSize": 4
+  },
+  {
+    "itemType": "WoolFingerless_White",
+    "slotSize": 4
+  },
+  {
+    "itemType": "WoolGloves_Black",
+    "slotSize": 4
+  },
+  {
+    "itemType": "WoolGloves_ChristmasBlue",
+    "slotSize": 4
+  },
+  {
+    "itemType": "WoolGloves_ChristmasRed",
+    "slotSize": 4
+  },
+  {
+    "itemType": "WoolGloves_Green",
+    "slotSize": 4
+  },
+  {
+    "itemType": "WoolGloves_Tan",
+    "slotSize": 4
+  },
+  {
+    "itemType": "WoolGloves_White",
+    "slotSize": 4
+  },
+  {
+    "itemType": "WoolGlovesFingerless_Black",
+    "slotSize": 4
+  },
+  {
+    "itemType": "WoolGlovesFingerless_ChristmasBlue",
+    "slotSize": 4
+  },
+  {
+    "itemType": "WoolGlovesFingerless_ChristmasRed",
+    "slotSize": 4
+  },
+  {
+    "itemType": "WoolGlovesFingerless_Green",
+    "slotSize": 4
+  },
+  {
+    "itemType": "WoolGlovesFingerless_Tan",
+    "slotSize": 4
+  },
+  {
+    "itemType": "WoolGlovesFingerless_White",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Working_Beige",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Working_Black",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Working_Brown",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Working_Yellow",
+    "slotSize": 4
+  },
+  {
+    "itemType": "WorkingBoots_Beige",
+    "slotSize": 12
+  },
+  {
+    "itemType": "WorkingBoots_Brown",
+    "slotSize": 12
+  },
+  {
+    "itemType": "WorkingBoots_Green",
+    "slotSize": 12
+  },
+  {
+    "itemType": "WorkingBoots_Grey",
+    "slotSize": 12
+  },
+  {
+    "itemType": "WorkingBoots_Yellow",
+    "slotSize": 12
+  },
+  {
+    "itemType": "WorkingGloves_Beige",
+    "slotSize": 4
+  },
+  {
+    "itemType": "WorkingGloves_Black",
+    "slotSize": 4
+  },
+  {
+    "itemType": "WorkingGloves_Brown",
+    "slotSize": 4
+  },
+  {
+    "itemType": "WorkingGloves_Yellow",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Wreck_Mi8_Crashed",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Wreck_SantasSleigh",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Wreck_UH1Y",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Wrench",
+    "slotSize": 3
+  },
+  {
+    "itemType": "XmasLights",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Zagorky",
+    "slotSize": 2
+  },
+  {
+    "itemType": "ZagorkyChocolate",
+    "slotSize": 2
+  },
+  {
+    "itemType": "ZagorkyPeanuts",
+    "slotSize": 2
+  },
+  {
+    "itemType": "ZmijovkaCap_Black",
+    "slotSize": 6
+  },
+  {
+    "itemType": "ZmijovkaCap_Blue",
+    "slotSize": 6
+  },
+  {
+    "itemType": "ZmijovkaCap_Brown",
+    "slotSize": 6
+  },
+  {
+    "itemType": "ZmijovkaCap_Green",
+    "slotSize": 6
+  },
+  {
+    "itemType": "ZmijovkaCap_Red",
+    "slotSize": 6
+  },
+  {
+    "itemType": "ZSh3PilotHelmet",
+    "slotSize": 16
+  },
+  {
+    "itemType": "ZSh3PilotHelmet_Black",
+    "slotSize": 16
+  },
+  {
+    "itemType": "ZSh3PilotHelmet_Green",
+    "slotSize": 16
+  },
+  {
+    "itemType": "Zucchini",
+    "slotSize": 3
+  },
+  {
+    "itemType": "ZucchiniSeeds",
+    "slotSize": 1
+  },
+  {
+    "itemType": "ZucchiniSeedsPack",
+    "slotSize": 3
+  }
+]
