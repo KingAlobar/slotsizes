@@ -1,0 +1,7134 @@
+[
+    {
+        "type": "ACOGOptic",
+        "category": "weaponOptics"
+    },
+    {
+        "type": "ACOGOptic_6x",
+        "category": "weaponOptics"
+    },
+    {
+        "type": "AgaricusMushroom",
+        "category": "food"
+    },
+    {
+        "type": "AirborneMask",
+        "category": "clothes"
+    },
+    {
+        "type": "AK_Bayonet",
+        "category": "weaponParts"
+    },
+    {
+        "type": "AK_FoldingBttstck",
+        "category": "weaponParts"
+    },
+    {
+        "type": "AK_FoldingBttstck_Black",
+        "category": "weaponParts"
+    },
+    {
+        "type": "AK_FoldingBttstck_Green",
+        "category": "weaponParts"
+    },
+    {
+        "type": "AK_PlasticBttstck",
+        "category": "weaponParts"
+    },
+    {
+        "type": "AK_PlasticBttstck_Black",
+        "category": "weaponParts"
+    },
+    {
+        "type": "AK_PlasticBttstck_Green",
+        "category": "weaponParts"
+    },
+    {
+        "type": "AK_PlasticHndgrd",
+        "category": "weaponParts"
+    },
+    {
+        "type": "AK_RailHndgrd",
+        "category": "weaponParts"
+    },
+    {
+        "type": "AK_RailHndgrd_Black",
+        "category": "weaponParts"
+    },
+    {
+        "type": "AK_RailHndgrd_Green",
+        "category": "weaponParts"
+    },
+    {
+        "type": "AK_Suppressor",
+        "category": "weaponSuppresor"
+    },
+    {
+        "type": "AK_WoodBttstck",
+        "category": "weaponParts"
+    },
+    {
+        "type": "AK_WoodBttstck_Black",
+        "category": "weaponParts"
+    },
+    {
+        "type": "AK_WoodBttstck_Camo",
+        "category": "weaponParts"
+    },
+    {
+        "type": "AK_WoodHndgrd",
+        "category": "weaponParts"
+    },
+    {
+        "type": "AK_WoodHndgrd_Black",
+        "category": "weaponParts"
+    },
+    {
+        "type": "AK_WoodHndgrd_Camo",
+        "category": "weaponParts"
+    },
+    {
+        "type": "AK101",
+        "category": "weapons"
+    },
+    {
+        "type": "AK101_Black",
+        "category": "weapons"
+    },
+    {
+        "type": "AK101_Green",
+        "category": "weapons"
+    },
+    {
+        "type": "AK74",
+        "category": "weapons"
+    },
+    {
+        "type": "AK74_Black",
+        "category": "weapons"
+    },
+    {
+        "type": "AK74_Green",
+        "category": "weapons"
+    },
+    {
+        "type": "AK74_Hndgrd",
+        "category": "weaponParts"
+    },
+    {
+        "type": "AK74_WoodBttstck",
+        "category": "weaponParts"
+    },
+    {
+        "type": "AKM",
+        "category": "weapons"
+    },
+    {
+        "type": "AKM_TESTBED",
+        "category": "weapons"
+    },
+    {
+        "type": "AKS74U",
+        "category": "weapons"
+    },
+    {
+        "type": "AKS74U_Black",
+        "category": "weapons"
+    },
+    {
+        "type": "AKS74U_Bttstck",
+        "category": "weaponParts"
+    },
+    {
+        "type": "AKS74U_Green",
+        "category": "weapons"
+    },
+    {
+        "type": "AlarmClock_Blue",
+        "category": "tools"
+    },
+    {
+        "type": "AlarmClock_Green",
+        "category": "tools"
+    },
+    {
+        "type": "AlarmClock_Red",
+        "category": "tools"
+    },
+    {
+        "type": "AliceBag_Black",
+        "category": "containers"
+    },
+    {
+        "type": "AliceBag_Camo",
+        "category": "containers"
+    },
+    {
+        "type": "AliceBag_Green",
+        "category": "containers"
+    },
+    {
+        "type": "Ammo_12gaPellets",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_12gaRubberSlug",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_12gaSlug",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_22",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_308Win",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_308WinTracer",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_357",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_380",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_40mm_Chemgas",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_40mm_ChemGas",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_40mm_Explosive",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_40mm_Smoke_Black",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_40mm_Smoke_Green",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_40mm_Smoke_Red",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_40mm_Smoke_White",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_45ACP",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_545x39",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_545x39Tracer",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_556x45",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_556x45Tracer",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_762x39",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_762x39Tracer",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_762x54",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_762x54Tracer",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_9x19",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_9x39",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_9x39AP",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_CupidsBolt",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_Flare",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_FlareBlue",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_FlareGreen",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_FlareRed",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_HuntingBolt",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_ImprovisedBolt_1",
+        "category": "weapons"
+    },
+    {
+        "type": "Ammo_ImprovisedBolt_2",
+        "category": "weapons"
+    },
+    {
+        "type": "AmmoBox",
+        "category": "containers"
+    },
+    {
+        "type": "AmmoBox_00buck_10rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "AmmoBox_12gaRubberSlug_10Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "AmmoBox_12gaSlug_10Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "AmmoBox_22_50Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "AmmoBox_308Win_20Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "AmmoBox_308WinTracer_20Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "AmmoBox_357_20Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "AmmoBox_380_35rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "AmmoBox_45ACP_25rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "AmmoBox_545x39_20Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "AmmoBox_545x39Tracer_20Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "AmmoBox_556x45_20Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "AmmoBox_556x45Tracer_20Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "AmmoBox_762x39_20Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "AmmoBox_762x39Tracer_20Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "AmmoBox_762x54_20Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "AmmoBox_762x54Tracer_20Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "AmmoBox_9x19_25rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "AmmoBox_9x39_20Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "AmmoBox_9x39AP_20Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Anniversary_FireworksLauncher",
+        "category": "tools"
+    },
+    {
+        "type": "AnniversaryBox",
+        "category": "containers"
+    },
+    {
+        "type": "AntiChemInjector",
+        "category": "tools"
+    },
+    {
+        "type": "AntiPestsSpray",
+        "category": "tools"
+    },
+    {
+        "type": "Apple",
+        "category": "food"
+    },
+    {
+        "type": "Armband_Altis",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_APA",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_BabyDeer",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_Bear",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_Bohemia",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_BrainZ",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_Cannibals",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_CDF",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_Chedaki",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_CHEL",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_Chernarus",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_CMC",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_Crook",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_DayZ",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_HunterZ",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_Livonia",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_LivoniaArmy",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_LivoniaPolice",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_NAPA",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_NSahrani",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_Orange",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_Pink",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_Pirates",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_Refuge",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_Rex",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_Rooster",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_RSTA",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_Snake",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_SSahrani",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_TEC",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_UEC",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_White",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_Wolf",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_Yellow",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_Zagorky",
+        "category": "clothes"
+    },
+    {
+        "type": "Armband_Zenit",
+        "category": "clothes"
+    },
+    {
+        "type": "ArmyPouch_Beige",
+        "category": "containers"
+    },
+    {
+        "type": "ArmyPouch_Black",
+        "category": "containers"
+    },
+    {
+        "type": "ArmyPouch_Camo",
+        "category": "containers"
+    },
+    {
+        "type": "ArmyPouch_Green",
+        "category": "containers"
+    },
+    {
+        "type": "AssaultBag_Black",
+        "category": "containers"
+    },
+    {
+        "type": "AssaultBag_Green",
+        "category": "containers"
+    },
+    {
+        "type": "AssaultBag_Ttsko",
+        "category": "containers"
+    },
+    {
+        "type": "AssaultBag_Winter",
+        "category": "containers"
+    },
+    {
+        "type": "ASVAL",
+        "category": "weapons"
+    },
+    {
+        "type": "AthleticShoes_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "AthleticShoes_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "AthleticShoes_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "AthleticShoes_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "AthleticShoes_Grey",
+        "category": "clothes"
+    },
+    {
+        "type": "Aug",
+        "category": "weapons"
+    },
+    {
+        "type": "AugShort",
+        "category": "weapons"
+    },
+    {
+        "type": "AuriculariaMushroom",
+        "category": "food"
+    },
+    {
+        "type": "AviatorGlasses",
+        "category": "clothes"
+    },
+    {
+        "type": "B95",
+        "category": "weapons"
+    },
+    {
+        "type": "B95_Black",
+        "category": "weapons"
+    },
+    {
+        "type": "B95_Green",
+        "category": "weapons"
+    },
+    {
+        "type": "Bait",
+        "category": "tools"
+    },
+    {
+        "type": "BakedBeansCan",
+        "category": "food"
+    },
+    {
+        "type": "BakedBeansCan_Opened",
+        "category": "food"
+    },
+    {
+        "type": "Balaclava3Holes_Beige",
+        "category": "clothes"
+    },
+    {
+        "type": "Balaclava3Holes_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "Balaclava3Holes_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "Balaclava3Holes_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "Balaclava3Holes_White",
+        "category": "clothes"
+    },
+    {
+        "type": "BalaclavaMask_BDU",
+        "category": "clothes"
+    },
+    {
+        "type": "BalaclavaMask_Beige",
+        "category": "clothes"
+    },
+    {
+        "type": "BalaclavaMask_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "BalaclavaMask_Blackskull",
+        "category": "clothes"
+    },
+    {
+        "type": "BalaclavaMask_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "BalaclavaMask_Chain",
+        "category": "clothes"
+    },
+    {
+        "type": "BalaclavaMask_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "BalaclavaMask_Pig",
+        "category": "clothes"
+    },
+    {
+        "type": "BalaclavaMask_Pink",
+        "category": "clothes"
+    },
+    {
+        "type": "BalaclavaMask_White",
+        "category": "clothes"
+    },
+    {
+        "type": "BallisticHelmet_BDU",
+        "category": "clothes"
+    },
+    {
+        "type": "BallisticHelmet_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "BallisticHelmet_Desert",
+        "category": "clothes"
+    },
+    {
+        "type": "BallisticHelmet_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "BallisticHelmet_Navy",
+        "category": "clothes"
+    },
+    {
+        "type": "BallisticHelmet_UN",
+        "category": "clothes"
+    },
+    {
+        "type": "BallisticHelmet_Winter",
+        "category": "clothes"
+    },
+    {
+        "type": "BallisticHelmet_Woodland",
+        "category": "clothes"
+    },
+    {
+        "type": "BandageDressing",
+        "category": "tools"
+    },
+    {
+        "type": "Bandana_Blackpattern",
+        "category": "clothes"
+    },
+    {
+        "type": "Bandana_Camopattern",
+        "category": "clothes"
+    },
+    {
+        "type": "Bandana_Greenpattern",
+        "category": "clothes"
+    },
+    {
+        "type": "Bandana_Polkapattern",
+        "category": "clothes"
+    },
+    {
+        "type": "Bandana_Redpattern",
+        "category": "clothes"
+    },
+    {
+        "type": "BarbedBaseballBat",
+        "category": "tools"
+    },
+    {
+        "type": "BarbedWire",
+        "category": "tools"
+    },
+    {
+        "type": "Bark_Birch",
+        "category": "tools"
+    },
+    {
+        "type": "Bark_Oak",
+        "category": "tools"
+    },
+    {
+        "type": "Barrel_Blue",
+        "category": "tools"
+    },
+    {
+        "type": "Barrel_Green",
+        "category": "tools"
+    },
+    {
+        "type": "Barrel_Red",
+        "category": "tools"
+    },
+    {
+        "type": "Barrel_Yellow",
+        "category": "tools"
+    },
+    {
+        "type": "BarrelHoles_Blue",
+        "category": "tools"
+    },
+    {
+        "type": "BarrelHoles_Green",
+        "category": "tools"
+    },
+    {
+        "type": "BarrelHoles_Red",
+        "category": "tools"
+    },
+    {
+        "type": "BarrelHoles_Yellow",
+        "category": "tools"
+    },
+    {
+        "type": "BaseballBat",
+        "category": "tools"
+    },
+    {
+        "type": "BaseballCap_Beige",
+        "category": "clothes"
+    },
+    {
+        "type": "BaseballCap_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "BaseballCap_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "BaseballCap_Camo",
+        "category": "clothes"
+    },
+    {
+        "type": "BaseballCap_CMMG_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "BaseballCap_CMMG_Pink",
+        "category": "clothes"
+    },
+    {
+        "type": "BaseballCap_Olive",
+        "category": "clothes"
+    },
+    {
+        "type": "BaseballCap_Pink",
+        "category": "clothes"
+    },
+    {
+        "type": "BaseballCap_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "BaseRadio",
+        "category": "tools"
+    },
+    {
+        "type": "Battery9V",
+        "category": "tools"
+    },
+    {
+        "type": "BatteryCharger",
+        "category": "tools"
+    },
+    {
+        "type": "BDUJacket",
+        "category": "clothes"
+    },
+    {
+        "type": "BDUPants",
+        "category": "clothes"
+    },
+    {
+        "type": "BeanieHat_Beige",
+        "category": "clothes"
+    },
+    {
+        "type": "BeanieHat_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "BeanieHat_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "BeanieHat_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "BeanieHat_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "BeanieHat_Grey",
+        "category": "clothes"
+    },
+    {
+        "type": "BeanieHat_Pink",
+        "category": "clothes"
+    },
+    {
+        "type": "BeanieHat_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "Bear_Beige",
+        "category": "containers"
+    },
+    {
+        "type": "Bear_Dark",
+        "category": "containers"
+    },
+    {
+        "type": "Bear_Pink",
+        "category": "containers"
+    },
+    {
+        "type": "Bear_White",
+        "category": "containers"
+    },
+    {
+        "type": "BearPelt",
+        "category": "tools"
+    },
+    {
+        "type": "BearSteakMeat",
+        "category": "food"
+    },
+    {
+        "type": "BearTrap",
+        "category": "tools"
+    },
+    {
+        "type": "Binoculars",
+        "category": "tools"
+    },
+    {
+        "type": "Bitterlings",
+        "category": "food"
+    },
+    {
+        "type": "BloodBagEmpty",
+        "category": "tools"
+    },
+    {
+        "type": "BloodBagFull",
+        "category": "tools"
+    },
+    {
+        "type": "BloodBagIV",
+        "category": "tools"
+    },
+    {
+        "type": "BloodTestKit",
+        "category": "tools"
+    },
+    {
+        "type": "Blouse_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "Blouse_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "Blouse_Violet",
+        "category": "clothes"
+    },
+    {
+        "type": "Blouse_White",
+        "category": "clothes"
+    },
+    {
+        "type": "Blowtorch",
+        "category": "tools"
+    },
+    {
+        "type": "BoarSteakMeat",
+        "category": "food"
+    },
+    {
+        "type": "BoletusMushroom",
+        "category": "food"
+    },
+    {
+        "type": "BomberJacket_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "BomberJacket_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "BomberJacket_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "BomberJacket_Grey",
+        "category": "clothes"
+    },
+    {
+        "type": "BomberJacket_Maroon",
+        "category": "clothes"
+    },
+    {
+        "type": "BomberJacket_Olive",
+        "category": "clothes"
+    },
+    {
+        "type": "BomberJacket_SkyBlue",
+        "category": "clothes"
+    },
+    {
+        "type": "Bone",
+        "category": "tools"
+    },
+    {
+        "type": "BoneBait",
+        "category": "tools"
+    },
+    {
+        "type": "BoneHook",
+        "category": "tools"
+    },
+    {
+        "type": "BoneKnife",
+        "category": "tools"
+    },
+    {
+        "type": "BoonieHat_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "BoonieHat_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "BoonieHat_DPM",
+        "category": "clothes"
+    },
+    {
+        "type": "BoonieHat_Dubok",
+        "category": "clothes"
+    },
+    {
+        "type": "BoonieHat_Flecktran",
+        "category": "clothes"
+    },
+    {
+        "type": "BoonieHat_NavyBlue",
+        "category": "clothes"
+    },
+    {
+        "type": "BoonieHat_Olive",
+        "category": "clothes"
+    },
+    {
+        "type": "BoonieHat_Orange",
+        "category": "clothes"
+    },
+    {
+        "type": "BoonieHat_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "BoonieHat_Tan",
+        "category": "clothes"
+    },
+    {
+        "type": "BoonieHat_Winter",
+        "category": "clothes"
+    },
+    {
+        "type": "BoxCerealCrunchin",
+        "category": "food"
+    },
+    {
+        "type": "BrassKnuckles_Dull",
+        "category": "tools"
+    },
+    {
+        "type": "BrassKnuckles_Shiny",
+        "category": "tools"
+    },
+    {
+        "type": "Breeches_Beetcheck",
+        "category": "clothes"
+    },
+    {
+        "type": "Breeches_Beige",
+        "category": "clothes"
+    },
+    {
+        "type": "Breeches_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "Breeches_Blackcheck",
+        "category": "clothes"
+    },
+    {
+        "type": "Breeches_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "Breeches_Browncheck",
+        "category": "clothes"
+    },
+    {
+        "type": "Breeches_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "Breeches_Pink",
+        "category": "clothes"
+    },
+    {
+        "type": "Breeches_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "Breeches_White",
+        "category": "clothes"
+    },
+    {
+        "type": "BrisketSpread",
+        "category": "food"
+    },
+    {
+        "type": "BrisketSpread_Opened",
+        "category": "food"
+    },
+    {
+        "type": "Broom",
+        "category": "tools"
+    },
+    {
+        "type": "Broom_Birch",
+        "category": "tools"
+    },
+    {
+        "type": "BudenovkaHat_Gray",
+        "category": "clothes"
+    },
+    {
+        "type": "BUISOptic",
+        "category": "weaponOptics"
+    },
+    {
+        "type": "BurlapSack",
+        "category": "tools"
+    },
+    {
+        "type": "BurlapSackCover",
+        "category": "tools"
+    },
+    {
+        "type": "BurlapStrip",
+        "category": "tools"
+    },
+    {
+        "type": "BushlatPoliceJacket_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "CableReel",
+        "category": "tools"
+    },
+    {
+        "type": "Camonet",
+        "category": "tools"
+    },
+    {
+        "type": "Candycane_Green",
+        "category": "food"
+    },
+    {
+        "type": "Candycane_Red",
+        "category": "food"
+    },
+    {
+        "type": "Candycane_RedGreen",
+        "category": "food"
+    },
+    {
+        "type": "Candycane_Yellow",
+        "category": "food"
+    },
+    {
+        "type": "CaninaBerry",
+        "category": "tools"
+    },
+    {
+        "type": "CanisterGasoline",
+        "category": "tools"
+    },
+    {
+        "type": "CanOpener",
+        "category": "tools"
+    },
+    {
+        "type": "Canteen",
+        "category": "food"
+    },
+    {
+        "type": "CanvasBag_Medical",
+        "category": "containers"
+    },
+    {
+        "type": "CanvasBag_Olive",
+        "category": "containers"
+    },
+    {
+        "type": "CanvasPants_Beige",
+        "category": "clothes"
+    },
+    {
+        "type": "CanvasPants_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "CanvasPants_Grey",
+        "category": "clothes"
+    },
+    {
+        "type": "CanvasPants_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "CanvasPants_Violet",
+        "category": "clothes"
+    },
+    {
+        "type": "CanvasPantsMidi_Beige",
+        "category": "clothes"
+    },
+    {
+        "type": "CanvasPantsMidi_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "CanvasPantsMidi_Grey",
+        "category": "clothes"
+    },
+    {
+        "type": "CanvasPantsMidi_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "CanvasPantsMidi_Violet",
+        "category": "clothes"
+    },
+    {
+        "type": "CarBattery",
+        "category": "tools"
+    },
+    {
+        "type": "CargoPants_Beige",
+        "category": "clothes"
+    },
+    {
+        "type": "CargoPants_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "CargoPants_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "CargoPants_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "CargoPants_Grey",
+        "category": "clothes"
+    },
+    {
+        "type": "Carp",
+        "category": "food"
+    },
+    {
+        "type": "CarpFilletMeat",
+        "category": "food"
+    },
+    {
+        "type": "CarRadiator",
+        "category": "tools"
+    },
+    {
+        "type": "CarTent",
+        "category": "Tents"
+    },
+    {
+        "type": "CatFoodCan",
+        "category": "food"
+    },
+    {
+        "type": "CatFoodCan_Opened",
+        "category": "food"
+    },
+    {
+        "type": "Cauldron",
+        "category": "tools"
+    },
+    {
+        "type": "Chainmail",
+        "category": "clothes"
+    },
+    {
+        "type": "Chainmail_Coif",
+        "category": "clothes"
+    },
+    {
+        "type": "Chainmail_Leggings",
+        "category": "clothes"
+    },
+    {
+        "type": "CharcoalTablets",
+        "category": "tools"
+    },
+    {
+        "type": "ChelatingTablets",
+        "category": "tools"
+    },
+    {
+        "type": "Chemlight_Blue",
+        "category": "tools"
+    },
+    {
+        "type": "Chemlight_Green",
+        "category": "tools"
+    },
+    {
+        "type": "Chemlight_Red",
+        "category": "tools"
+    },
+    {
+        "type": "Chemlight_White",
+        "category": "tools"
+    },
+    {
+        "type": "Chemlight_Yellow",
+        "category": "tools"
+    },
+    {
+        "type": "ChernarusMap",
+        "category": "tools"
+    },
+    {
+        "type": "ChernarusMap_Open",
+        "category": "tools"
+    },
+    {
+        "type": "ChernarusSportShirt",
+        "category": "clothes"
+    },
+    {
+        "type": "ChestHolster",
+        "category": "clothes"
+    },
+    {
+        "type": "Chestplate",
+        "category": "clothes"
+    },
+    {
+        "type": "ChickenBreastMeat",
+        "category": "food"
+    },
+    {
+        "type": "ChickenFeather",
+        "category": "tools"
+    },
+    {
+        "type": "ChildBag_Blue",
+        "category": "containers"
+    },
+    {
+        "type": "ChildBag_Green",
+        "category": "containers"
+    },
+    {
+        "type": "ChildBag_Red",
+        "category": "containers"
+    },
+    {
+        "type": "Chips",
+        "category": "food"
+    },
+    {
+        "type": "ChristmasHeadband_Antlers",
+        "category": "clothes"
+    },
+    {
+        "type": "ChristmasHeadband_Gingerbread",
+        "category": "clothes"
+    },
+    {
+        "type": "ChristmasHeadband_Trees",
+        "category": "clothes"
+    },
+    {
+        "type": "CivilianBelt",
+        "category": "clothes"
+    },
+    {
+        "type": "CivSedanDoors_BackLeft",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanDoors_BackLeft_Black",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanDoors_BackLeft_BlackRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanDoors_BackLeft_WhiteRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanDoors_BackLeft_Wine",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanDoors_BackLeft_WineRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanDoors_BackRight",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanDoors_BackRight_Black",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanDoors_BackRight_BlackRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanDoors_BackRight_WhiteRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanDoors_BackRight_Wine",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanDoors_BackRight_WineRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanDoors_CoDriver",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanDoors_CoDriver_Black",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanDoors_CoDriver_BlackRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanDoors_CoDriver_WhiteRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanDoors_CoDriver_Wine",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanDoors_CoDriver_WineRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanDoors_Driver",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanDoors_Driver_Black",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanDoors_Driver_BlackRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanDoors_Driver_WhiteRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanDoors_Driver_Wine",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanDoors_Driver_WineRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanHood",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanHood_Black",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanHood_BlackRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanHood_WhiteRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanHood_Wine",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanHood_WineRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanTrunk",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanTrunk_Black",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanTrunk_BlackRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanTrunk_WhiteRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanTrunk_Wine",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanTrunk_WineRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "CivSedanWheel",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "ClaymoreMine",
+        "category": "explosives"
+    },
+    {
+        "type": "Cleaver",
+        "category": "tools"
+    },
+    {
+        "type": "Colt1911",
+        "category": "weapons"
+    },
+    {
+        "type": "CombatBoots_Beige",
+        "category": "clothes"
+    },
+    {
+        "type": "CombatBoots_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "CombatBoots_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "CombatBoots_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "CombatBoots_Grey",
+        "category": "clothes"
+    },
+    {
+        "type": "CombatKnife",
+        "category": "tools"
+    },
+    {
+        "type": "CombinationLock",
+        "category": "tools"
+    },
+    {
+        "type": "CombinationLock4",
+        "category": "tools"
+    },
+    {
+        "type": "Compass",
+        "category": "tools"
+    },
+    {
+        "type": "ConstructionHelmet_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "ConstructionHelmet_Lime",
+        "category": "clothes"
+    },
+    {
+        "type": "ConstructionHelmet_Orange",
+        "category": "clothes"
+    },
+    {
+        "type": "ConstructionHelmet_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "ConstructionHelmet_White",
+        "category": "clothes"
+    },
+    {
+        "type": "ConstructionHelmet_Yellow",
+        "category": "clothes"
+    },
+    {
+        "type": "CookingStand",
+        "category": "tools"
+    },
+    {
+        "type": "CourierBag",
+        "category": "containers"
+    },
+    {
+        "type": "CowboyHat_black",
+        "category": "clothes"
+    },
+    {
+        "type": "CowboyHat_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "CowboyHat_darkBrown",
+        "category": "clothes"
+    },
+    {
+        "type": "CowboyHat_green",
+        "category": "clothes"
+    },
+    {
+        "type": "CowPelt",
+        "category": "tools"
+    },
+    {
+        "type": "CowSteakMeat",
+        "category": "food"
+    },
+    {
+        "type": "CoyoteBag_Brown",
+        "category": "containers"
+    },
+    {
+        "type": "CoyoteBag_Green",
+        "category": "containers"
+    },
+    {
+        "type": "CoyoteBag_Winter",
+        "category": "containers"
+    },
+    {
+        "type": "CrabCan",
+        "category": "food"
+    },
+    {
+        "type": "CrabCan_Opened",
+        "category": "food"
+    },
+    {
+        "type": "Crackers",
+        "category": "food"
+    },
+    {
+        "type": "CraterellusMushroom",
+        "category": "food"
+    },
+    {
+        "type": "CrookedNose",
+        "category": "clothes"
+    },
+    {
+        "type": "Crossbow_Autumn",
+        "category": "weapons"
+    },
+    {
+        "type": "Crossbow_Black",
+        "category": "weapons"
+    },
+    {
+        "type": "Crossbow_Summer",
+        "category": "weapons"
+    },
+    {
+        "type": "Crossbow_Wood",
+        "category": "weapons"
+    },
+    {
+        "type": "Crowbar",
+        "category": "tools"
+    },
+    {
+        "type": "CrudeMachete",
+        "category": "tools"
+    },
+    {
+        "type": "CZ527",
+        "category": "weapons"
+    },
+    {
+        "type": "CZ527_Black",
+        "category": "weapons"
+    },
+    {
+        "type": "CZ527_Camo",
+        "category": "weapons"
+    },
+    {
+        "type": "CZ527_Green",
+        "category": "weapons"
+    },
+    {
+        "type": "CZ550",
+        "category": "weapons"
+    },
+    {
+        "type": "CZ61",
+        "category": "weapons"
+    },
+    {
+        "type": "CZ75",
+        "category": "weapons"
+    },
+    {
+        "type": "DarkMotoHelmet_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "DarkMotoHelmet_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "DarkMotoHelmet_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "DarkMotoHelmet_Grey",
+        "category": "clothes"
+    },
+    {
+        "type": "DarkMotoHelmet_Lime",
+        "category": "clothes"
+    },
+    {
+        "type": "DarkMotoHelmet_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "DarkMotoHelmet_White",
+        "category": "clothes"
+    },
+    {
+        "type": "DarkMotoHelmet_Yellow",
+        "category": "clothes"
+    },
+    {
+        "type": "DarkMotoHelmet_YellowScarred",
+        "category": "clothes"
+    },
+    {
+        "type": "DeadChicken_Brown",
+        "category": "food"
+    },
+    {
+        "type": "DeadChicken_Spotted",
+        "category": "food"
+    },
+    {
+        "type": "DeadChicken_White",
+        "category": "food"
+    },
+    {
+        "type": "DeadFox",
+        "category": "food"
+    },
+    {
+        "type": "DeadRabbit",
+        "category": "food"
+    },
+    {
+        "type": "DeadRooster",
+        "category": "food"
+    },
+    {
+        "type": "Deagle",
+        "category": "weapons"
+    },
+    {
+        "type": "Deagle_Gold",
+        "category": "weapons"
+    },
+    {
+        "type": "DeerPelt",
+        "category": "tools"
+    },
+    {
+        "type": "DeerSteakMeat",
+        "category": "food"
+    },
+    {
+        "type": "DenimJacket",
+        "category": "clothes"
+    },
+    {
+        "type": "Derringer_Black",
+        "category": "weapons"
+    },
+    {
+        "type": "Derringer_Grey",
+        "category": "weapons"
+    },
+    {
+        "type": "Derringer_Pink",
+        "category": "weapons"
+    },
+    {
+        "type": "DesignerGlasses",
+        "category": "clothes"
+    },
+    {
+        "type": "DirtBikeHelmet_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "DirtBikeHelmet_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "DirtBikeHelmet_Chernarus",
+        "category": "clothes"
+    },
+    {
+        "type": "DirtBikeHelmet_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "DirtBikeHelmet_Khaki",
+        "category": "clothes"
+    },
+    {
+        "type": "DirtBikeHelmet_Mouthguard",
+        "category": "clothes"
+    },
+    {
+        "type": "DirtBikeHelmet_Police",
+        "category": "clothes"
+    },
+    {
+        "type": "DirtBikeHelmet_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "DirtBikeHelmet_Visor",
+        "category": "clothes"
+    },
+    {
+        "type": "DisinfectantAlcohol",
+        "category": "tools"
+    },
+    {
+        "type": "DisinfectantSpray",
+        "category": "tools"
+    },
+    {
+        "type": "DogFoodCan",
+        "category": "food"
+    },
+    {
+        "type": "DogFoodCan_Opened",
+        "category": "food"
+    },
+    {
+        "type": "DownJacket_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "DownJacket_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "DownJacket_Orange",
+        "category": "clothes"
+    },
+    {
+        "type": "DownJacket_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "DressShoes_Beige",
+        "category": "clothes"
+    },
+    {
+        "type": "DressShoes_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "DressShoes_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "DressShoes_Sunburst",
+        "category": "clothes"
+    },
+    {
+        "type": "DressShoes_White",
+        "category": "clothes"
+    },
+    {
+        "type": "DryBag_Black",
+        "category": "containers"
+    },
+    {
+        "type": "DryBag_Blue",
+        "category": "containers"
+    },
+    {
+        "type": "DryBag_Green",
+        "category": "containers"
+    },
+    {
+        "type": "DryBag_Orange",
+        "category": "containers"
+    },
+    {
+        "type": "DryBag_Red",
+        "category": "containers"
+    },
+    {
+        "type": "DryBag_Yellow",
+        "category": "containers"
+    },
+    {
+        "type": "DrysackBag_Green",
+        "category": "containers"
+    },
+    {
+        "type": "DrysackBag_Orange",
+        "category": "containers"
+    },
+    {
+        "type": "DrysackBag_Yellow",
+        "category": "containers"
+    },
+    {
+        "type": "DuctTape",
+        "category": "tools"
+    },
+    {
+        "type": "DuffelBagSmall_Camo",
+        "category": "containers"
+    },
+    {
+        "type": "DuffelBagSmall_Green",
+        "category": "containers"
+    },
+    {
+        "type": "DuffelBagSmall_Medical",
+        "category": "containers"
+    },
+    {
+        "type": "EasterEgg",
+        "category": "tools"
+    },
+    {
+        "type": "ElectronicRepairKit",
+        "category": "tools"
+    },
+    {
+        "type": "Engraved1911",
+        "category": "weapons"
+    },
+    {
+        "type": "Epinephrine",
+        "category": "tools"
+    },
+    {
+        "type": "EpoxyPutty",
+        "category": "tools"
+    },
+    {
+        "type": "EyeMask_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "EyeMask_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "EyeMask_Christmas",
+        "category": "clothes"
+    },
+    {
+        "type": "EyeMask_Dead",
+        "category": "clothes"
+    },
+    {
+        "type": "EyeMask_NewYears",
+        "category": "clothes"
+    },
+    {
+        "type": "EyeMask_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "EyeMask_Valentines",
+        "category": "clothes"
+    },
+    {
+        "type": "EyeMask_Yellow",
+        "category": "clothes"
+    },
+    {
+        "type": "EyePatch_Improvised",
+        "category": "clothes"
+    },
+    {
+        "type": "Fabric",
+        "category": "tools"
+    },
+    {
+        "type": "FaceCover_Improvised",
+        "category": "clothes"
+    },
+    {
+        "type": "FAL",
+        "category": "weapons"
+    },
+    {
+        "type": "Fal_FoldingBttstck",
+        "category": "weaponParts"
+    },
+    {
+        "type": "Fal_OeBttstck",
+        "category": "weaponParts"
+    },
+    {
+        "type": "FAMAS",
+        "category": "weapons"
+    },
+    {
+        "type": "FangeKnife",
+        "category": "tools"
+    },
+    {
+        "type": "FarmingHoe",
+        "category": "tools"
+    },
+    {
+        "type": "FeetCover_Improvised",
+        "category": "clothes"
+    },
+    {
+        "type": "FenceKit",
+        "category": "tools"
+    },
+    {
+        "type": "FieldShovel",
+        "category": "tools"
+    },
+    {
+        "type": "FilteringBottle",
+        "category": "tools"
+    },
+    {
+        "type": "FirefighterAxe",
+        "category": "tools"
+    },
+    {
+        "type": "FirefighterAxe_Black",
+        "category": "tools"
+    },
+    {
+        "type": "FirefighterAxe_Green",
+        "category": "tools"
+    },
+    {
+        "type": "FirefighterJacket_Beige",
+        "category": "clothes"
+    },
+    {
+        "type": "FirefighterJacket_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "FirefightersHelmet_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "FirefightersHelmet_White",
+        "category": "clothes"
+    },
+    {
+        "type": "FirefightersHelmet_Yellow",
+        "category": "clothes"
+    },
+    {
+        "type": "FirefightersPants_Beige",
+        "category": "clothes"
+    },
+    {
+        "type": "FirefightersPants_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "Firewood",
+        "category": "tools"
+    },
+    {
+        "type": "FireworksLauncher",
+        "category": "tools"
+    },
+    {
+        "type": "FirstAidKit",
+        "category": "containers"
+    },
+    {
+        "type": "FishingRod",
+        "category": "tools"
+    },
+    {
+        "type": "FishNetTrap",
+        "category": "tools"
+    },
+    {
+        "type": "Flag_Altis",
+        "category": "tools"
+    },
+    {
+        "type": "Flag_APA",
+        "category": "tools"
+    },
+    {
+        "type": "Flag_BabyDeer",
+        "category": "tools"
+    },
+    {
+        "type": "Flag_Bear",
+        "category": "tools"
+    },
+    {
+        "type": "Flag_Bohemia",
+        "category": "tools"
+    },
+    {
+        "type": "Flag_BrainZ",
+        "category": "tools"
+    },
+    {
+        "type": "Flag_Cannibals",
+        "category": "tools"
+    },
+    {
+        "type": "Flag_CDF",
+        "category": "tools"
+    },
+    {
+        "type": "Flag_Chedaki",
+        "category": "tools"
+    },
+    {
+        "type": "Flag_CHEL",
+        "category": "tools"
+    },
+    {
+        "type": "Flag_Chernarus",
+        "category": "tools"
+    },
+    {
+        "type": "Flag_CMC",
+        "category": "tools"
+    },
+    {
+        "type": "Flag_Crook",
+        "category": "tools"
+    },
+    {
+        "type": "Flag_DayZ",
+        "category": "tools"
+    },
+    {
+        "type": "Flag_HunterZ",
+        "category": "tools"
+    },
+    {
+        "type": "Flag_Livonia",
+        "category": "tools"
+    },
+    {
+        "type": "Flag_LivoniaArmy",
+        "category": "tools"
+    },
+    {
+        "type": "Flag_LivoniaPolice",
+        "category": "tools"
+    },
+    {
+        "type": "Flag_NAPA",
+        "category": "tools"
+    },
+    {
+        "type": "Flag_NSahrani",
+        "category": "tools"
+    },
+    {
+        "type": "Flag_Pirates",
+        "category": "tools"
+    },
+    {
+        "type": "Flag_Refuge",
+        "category": "tools"
+    },
+    {
+        "type": "Flag_Rex",
+        "category": "tools"
+    },
+    {
+        "type": "Flag_Rooster",
+        "category": "tools"
+    },
+    {
+        "type": "Flag_RSTA",
+        "category": "tools"
+    },
+    {
+        "type": "Flag_Snake",
+        "category": "tools"
+    },
+    {
+        "type": "Flag_SSahrani",
+        "category": "tools"
+    },
+    {
+        "type": "Flag_TEC",
+        "category": "tools"
+    },
+    {
+        "type": "Flag_UEC",
+        "category": "tools"
+    },
+    {
+        "type": "Flag_White",
+        "category": "tools"
+    },
+    {
+        "type": "Flag_Wolf",
+        "category": "tools"
+    },
+    {
+        "type": "Flag_Zagorky",
+        "category": "tools"
+    },
+    {
+        "type": "Flag_Zenit",
+        "category": "tools"
+    },
+    {
+        "type": "Flaregun",
+        "category": "weapons"
+    },
+    {
+        "type": "FlashGrenade",
+        "category": "explosives"
+    },
+    {
+        "type": "Flashlight",
+        "category": "tools"
+    },
+    {
+        "type": "FlatCap_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "FlatCap_BlackCheck",
+        "category": "clothes"
+    },
+    {
+        "type": "FlatCap_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "FlatCap_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "FlatCap_BrownCheck",
+        "category": "clothes"
+    },
+    {
+        "type": "FlatCap_Grey",
+        "category": "clothes"
+    },
+    {
+        "type": "FlatCap_GreyCheck",
+        "category": "clothes"
+    },
+    {
+        "type": "FlatCap_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "FNP45_MRDSOptic",
+        "category": "weaponOptics"
+    },
+    {
+        "type": "FNX45",
+        "category": "weapons"
+    },
+    {
+        "type": "FNX45_Arrow",
+        "category": "weapons"
+    },
+    {
+        "type": "Foxpelt",
+        "category": "tools"
+    },
+    {
+        "type": "FoxPelt",
+        "category": "tools"
+    },
+    {
+        "type": "FoxSteakMeat",
+        "category": "food"
+    },
+    {
+        "type": "FryingPan",
+        "category": "tools"
+    },
+    {
+        "type": "FurCourierBag",
+        "category": "containers"
+    },
+    {
+        "type": "FurImprovisedBag",
+        "category": "containers"
+    },
+    {
+        "type": "GardenLime",
+        "category": "tools"
+    },
+    {
+        "type": "GardenPlot",
+        "category": "tools"
+    },
+    {
+        "type": "GardenPlotGreenhouse",
+        "category": "tools"
+    },
+    {
+        "type": "GardenPlotPolytunnel",
+        "category": "tools"
+    },
+    {
+        "type": "GasMask",
+        "category": "clothes"
+    },
+    {
+        "type": "GasMask_Filter",
+        "category": "clothes"
+    },
+    {
+        "type": "GasMask_Filter_Improvised",
+        "category": "clothes"
+    },
+    {
+        "type": "GhillieAtt_Mossy",
+        "category": "clothes"
+    },
+    {
+        "type": "GhillieAtt_Tan",
+        "category": "clothes"
+    },
+    {
+        "type": "GhillieAtt_Winter",
+        "category": "clothes"
+    },
+    {
+        "type": "GhillieAtt_Woodland",
+        "category": "clothes"
+    },
+    {
+        "type": "GhillieBushrag_Mossy",
+        "category": "clothes"
+    },
+    {
+        "type": "GhillieBushrag_Tan",
+        "category": "clothes"
+    },
+    {
+        "type": "GhillieBushrag_Winter",
+        "category": "clothes"
+    },
+    {
+        "type": "GhillieBushrag_Woodland",
+        "category": "clothes"
+    },
+    {
+        "type": "GhillieHood_Mossy",
+        "category": "clothes"
+    },
+    {
+        "type": "GhillieHood_Tan",
+        "category": "clothes"
+    },
+    {
+        "type": "GhillieHood_Winter",
+        "category": "clothes"
+    },
+    {
+        "type": "GhillieHood_Woodland",
+        "category": "clothes"
+    },
+    {
+        "type": "GhillieSuit_Mossy",
+        "category": "clothes"
+    },
+    {
+        "type": "GhillieSuit_Tan",
+        "category": "tools"
+    },
+    {
+        "type": "GhillieSuit_Winter",
+        "category": "clothes"
+    },
+    {
+        "type": "GhillieSuit_Woodland",
+        "category": "clothes"
+    },
+    {
+        "type": "GhillieTop_Mossy",
+        "category": "clothes"
+    },
+    {
+        "type": "GhillieTop_Tan",
+        "category": "clothes"
+    },
+    {
+        "type": "GhillieTop_Winter",
+        "category": "clothes"
+    },
+    {
+        "type": "GhillieTop_Woodland",
+        "category": "clothes"
+    },
+    {
+        "type": "GiftBox_Large_1",
+        "category": "containers"
+    },
+    {
+        "type": "GiftBox_Large_2",
+        "category": "containers"
+    },
+    {
+        "type": "GiftBox_Large_3",
+        "category": "containers"
+    },
+    {
+        "type": "GiftBox_Large_4",
+        "category": "containers"
+    },
+    {
+        "type": "GiftBox_Medium_1",
+        "category": "containers"
+    },
+    {
+        "type": "GiftBox_Medium_2",
+        "category": "containers"
+    },
+    {
+        "type": "GiftBox_Medium_3",
+        "category": "containers"
+    },
+    {
+        "type": "GiftBox_Medium_4",
+        "category": "containers"
+    },
+    {
+        "type": "GiftBox_Small_1",
+        "category": "containers"
+    },
+    {
+        "type": "GiftBox_Small_2",
+        "category": "containers"
+    },
+    {
+        "type": "GiftBox_Small_3",
+        "category": "containers"
+    },
+    {
+        "type": "GiftBox_Small_4",
+        "category": "containers"
+    },
+    {
+        "type": "GiftWrapPaper",
+        "category": "tools"
+    },
+    {
+        "type": "GlassBottle",
+        "category": "containers"
+    },
+    {
+        "type": "Glock19",
+        "category": "weapons"
+    },
+    {
+        "type": "GlowPlug",
+        "category": "tools"
+    },
+    {
+        "type": "GoatPelt",
+        "category": "tools"
+    },
+    {
+        "type": "GoatSteakMeat",
+        "category": "food"
+    },
+    {
+        "type": "GorkaEJacket_Autumn",
+        "category": "clothes"
+    },
+    {
+        "type": "GorkaEJacket_Flat",
+        "category": "clothes"
+    },
+    {
+        "type": "GorkaEJacket_PautRev",
+        "category": "clothes"
+    },
+    {
+        "type": "GorkaEJacket_Summer",
+        "category": "clothes"
+    },
+    {
+        "type": "GorkaEJacket_Winter",
+        "category": "clothes"
+    },
+    {
+        "type": "GorkaHelmet",
+        "category": "clothes"
+    },
+    {
+        "type": "GorkaHelmetVisor",
+        "category": "clothes"
+    },
+    {
+        "type": "GorkaPants_Autumn",
+        "category": "clothes"
+    },
+    {
+        "type": "GorkaPants_Flat",
+        "category": "clothes"
+    },
+    {
+        "type": "GorkaPants_PautRev",
+        "category": "clothes"
+    },
+    {
+        "type": "GorkaPants_Summer",
+        "category": "clothes"
+    },
+    {
+        "type": "GorkaPants_Winter",
+        "category": "clothes"
+    },
+    {
+        "type": "GP5GasMask",
+        "category": "clothes"
+    },
+    {
+        "type": "GPSReceiver",
+        "category": "tools"
+    },
+    {
+        "type": "GreatHelm",
+        "category": "clothes"
+    },
+    {
+        "type": "GreenBellPepper",
+        "category": "food"
+    },
+    {
+        "type": "Grenade_ChemGas",
+        "category": "explosives"
+    },
+    {
+        "type": "Guts",
+        "category": "tools"
+    },
+    {
+        "type": "Hacksaw",
+        "category": "tools"
+    },
+    {
+        "type": "Hammer",
+        "category": "tools"
+    },
+    {
+        "type": "HandcuffKeys",
+        "category": "tools"
+    },
+    {
+        "type": "Handcuffs",
+        "category": "tools"
+    },
+    {
+        "type": "HandcuffsLocked",
+        "category": "tools"
+    },
+    {
+        "type": "HandDrillKit",
+        "category": "tools"
+    },
+    {
+        "type": "HandSaw",
+        "category": "tools"
+    },
+    {
+        "type": "HandsCover_Improvised",
+        "category": "clothes"
+    },
+    {
+        "type": "Hatchback_02_Door_1_1",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Door_1_1_Black",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Door_1_1_BlackRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Door_1_1_Blue",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Door_1_1_BlueRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Door_1_1_RedRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Door_1_2",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Door_1_2_Black",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Door_1_2_BlackRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Door_1_2_Blue",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Door_1_2_BlueRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Door_1_2_RedRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Door_2_1",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Door_2_1_Black",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Door_2_1_BlackRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Door_2_1_Blue",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Door_2_1_BlueRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Door_2_1_RedRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Door_2_2",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Door_2_2_Black",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Door_2_2_BlackRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Door_2_2_Blue",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Door_2_2_BlueRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Door_2_2_RedRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Hood",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Hood_Black",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Hood_BlackRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Hood_Blue",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Hood_BlueRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Hood_RedRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Trunk",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Trunk_Black",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Trunk_BlackRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Trunk_Blue",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Trunk_BlueRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Trunk_RedRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchback_02_Wheel",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "HatchbackDoors_CoDriver",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "HatchbackDoors_CoDriver_Blue",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "HatchbackDoors_CoDriver_BlueRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "HatchbackDoors_CoDriver_GreenRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "HatchbackDoors_CoDriver_White",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "HatchbackDoors_CoDriver_WhiteRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "HatchbackDoors_Driver",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "HatchbackDoors_Driver_Blue",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "HatchbackDoors_Driver_BlueRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "HatchbackDoors_Driver_GreenRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "HatchbackDoors_Driver_White",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "HatchbackDoors_Driver_WhiteRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "HatchbackHood",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "HatchbackHood_Blue",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "HatchbackHood_BlueRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "HatchbackHood_GreenRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "HatchbackHood_White",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "HatchbackHood_WhiteRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "HatchbackTrunk",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "HatchbackTrunk_Blue",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "HatchbackTrunk_BlueRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "HatchbackTrunk_GreenRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "HatchbackTrunk_White",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "HatchbackTrunk_WhiteRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "HatchbackWheel",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Hatchet",
+        "category": "tools"
+    },
+    {
+        "type": "HeadCover_Improvised",
+        "category": "clothes"
+    },
+    {
+        "type": "Headdress_Wolf",
+        "category": "clothes"
+    },
+    {
+        "type": "HeadlightH7",
+        "category": "tools"
+    },
+    {
+        "type": "HeadlightH7_Box",
+        "category": "tools"
+    },
+    {
+        "type": "Headtorch_Black",
+        "category": "tools"
+    },
+    {
+        "type": "Headtorch_Grey",
+        "category": "tools"
+    },
+    {
+        "type": "Heatpack",
+        "category": "tools"
+    },
+    {
+        "type": "HighCapacityVest_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "HighCapacityVest_Olive",
+        "category": "clothes"
+    },
+    {
+        "type": "HikingBoots_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "HikingBoots_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "HikingBootsLow_Beige",
+        "category": "clothes"
+    },
+    {
+        "type": "HikingBootsLow_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "HikingBootsLow_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "HikingBootsLow_Grey",
+        "category": "clothes"
+    },
+    {
+        "type": "HikingJacket_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "HikingJacket_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "HikingJacket_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "HikingJacket_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "HipPack_Black",
+        "category": "containers"
+    },
+    {
+        "type": "HipPack_Green",
+        "category": "containers"
+    },
+    {
+        "type": "HipPack_Medical",
+        "category": "containers"
+    },
+    {
+        "type": "HipPack_Party",
+        "category": "containers"
+    },
+    {
+        "type": "HockeyHelmet_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "HockeyHelmet_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "HockeyHelmet_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "HockeyHelmet_White",
+        "category": "clothes"
+    },
+    {
+        "type": "HockeyMask",
+        "category": "clothes"
+    },
+    {
+        "type": "Honey",
+        "category": "food"
+    },
+    {
+        "type": "Hoodie_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "Hoodie_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "Hoodie_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "Hoodie_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "Hoodie_Grey",
+        "category": "clothes"
+    },
+    {
+        "type": "Hoodie_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "Hook",
+        "category": "tools"
+    },
+    {
+        "type": "HumanSteakMeat",
+        "category": "food"
+    },
+    {
+        "type": "HunterPants_Autumn",
+        "category": "clothes"
+    },
+    {
+        "type": "HunterPants_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "HunterPants_Spring",
+        "category": "clothes"
+    },
+    {
+        "type": "HunterPants_Summer",
+        "category": "clothes"
+    },
+    {
+        "type": "HunterPants_Winter",
+        "category": "clothes"
+    },
+    {
+        "type": "HuntingBag",
+        "category": "containers"
+    },
+    {
+        "type": "HuntingBag_Hannah",
+        "category": "containers"
+    },
+    {
+        "type": "HuntingJacket_Autumn",
+        "category": "clothes"
+    },
+    {
+        "type": "HuntingJacket_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "HuntingJacket_Spring",
+        "category": "clothes"
+    },
+    {
+        "type": "HuntingJacket_Summer",
+        "category": "clothes"
+    },
+    {
+        "type": "HuntingJacket_Winter",
+        "category": "clothes"
+    },
+    {
+        "type": "HuntingKnife",
+        "category": "tools"
+    },
+    {
+        "type": "HuntingOptic",
+        "category": "weaponOptics"
+    },
+    {
+        "type": "HuntingVest",
+        "category": "clothes"
+    },
+    {
+        "type": "HuntingVest_Winter",
+        "category": "clothes"
+    },
+    {
+        "type": "Iceaxe",
+        "category": "weapons"
+    },
+    {
+        "type": "ImprovisedBag",
+        "category": "containers"
+    },
+    {
+        "type": "ImprovisedExplosive",
+        "category": "explosives"
+    },
+    {
+        "type": "ImprovisedFishingRod",
+        "category": "tools"
+    },
+    {
+        "type": "ImprovisedSuppressor",
+        "category": "weaponSuppresor"
+    },
+    {
+        "type": "IodineTincture",
+        "category": "tools"
+    },
+    {
+        "type": "Izh18",
+        "category": "weapons"
+    },
+    {
+        "type": "Izh18Shotgun",
+        "category": "weapons"
+    },
+    {
+        "type": "Izh43Shotgun",
+        "category": "weapons"
+    },
+    {
+        "type": "Jeans_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "Jeans_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "Jeans_BlueDark",
+        "category": "clothes"
+    },
+    {
+        "type": "Jeans_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "Jeans_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "Jeans_Grey",
+        "category": "clothes"
+    },
+    {
+        "type": "Jig",
+        "category": "tools"
+    },
+    {
+        "type": "JoggingShoes_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "JoggingShoes_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "JoggingShoes_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "JoggingShoes_Violet",
+        "category": "clothes"
+    },
+    {
+        "type": "JoggingShoes_White",
+        "category": "clothes"
+    },
+    {
+        "type": "JumpsuitJacket_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "JumpsuitJacket_Gray",
+        "category": "clothes"
+    },
+    {
+        "type": "JumpsuitJacket_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "JumpsuitJacket_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "JumpsuitPants_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "JumpsuitPants_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "JumpsuitPants_Grey",
+        "category": "clothes"
+    },
+    {
+        "type": "JumpsuitPants_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "JungleBoots_Beige",
+        "category": "clothes"
+    },
+    {
+        "type": "JungleBoots_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "JungleBoots_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "JungleBoots_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "JungleBoots_Olive",
+        "category": "clothes"
+    },
+    {
+        "type": "KashtanOptic",
+        "category": "weaponOptics"
+    },
+    {
+        "type": "KazuarOptic",
+        "category": "weaponOptics"
+    },
+    {
+        "type": "KitchenKnife",
+        "category": "tools"
+    },
+    {
+        "type": "KitchenTimer",
+        "category": "tools"
+    },
+    {
+        "type": "KobraOptic",
+        "category": "weaponOptics"
+    },
+    {
+        "type": "KukriKnife",
+        "category": "tools"
+    },
+    {
+        "type": "LabCoat",
+        "category": "clothes"
+    },
+    {
+        "type": "LactariusMushroom",
+        "category": "food"
+    },
+    {
+        "type": "LandMineTrap",
+        "category": "explosives"
+    },
+    {
+        "type": "Lard",
+        "category": "food"
+    },
+    {
+        "type": "LargeGasCanister",
+        "category": "tools"
+    },
+    {
+        "type": "LargeTent",
+        "category": "Tents"
+    },
+    {
+        "type": "LeafCrown_Autumn",
+        "category": "clothes"
+    },
+    {
+        "type": "LeafCrown_Spring",
+        "category": "clothes"
+    },
+    {
+        "type": "LeafCrown_Summer",
+        "category": "clothes"
+    },
+    {
+        "type": "LeafCrown_Winter",
+        "category": "clothes"
+    },
+    {
+        "type": "LeatherBelt_Beige",
+        "category": "clothes"
+    },
+    {
+        "type": "LeatherBelt_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "LeatherBelt_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "LeatherBelt_Natural",
+        "category": "clothes"
+    },
+    {
+        "type": "LeatherGloves_Beige",
+        "category": "clothes"
+    },
+    {
+        "type": "LeatherGloves_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "LeatherGloves_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "LeatherGloves_Natural",
+        "category": "clothes"
+    },
+    {
+        "type": "LeatherHat_Beige",
+        "category": "clothes"
+    },
+    {
+        "type": "LeatherHat_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "LeatherHat_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "LeatherHat_Natural",
+        "category": "clothes"
+    },
+    {
+        "type": "LeatherJacket_Beige",
+        "category": "clothes"
+    },
+    {
+        "type": "LeatherJacket_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "LeatherJacket_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "LeatherJacket_Natural",
+        "category": "clothes"
+    },
+    {
+        "type": "LeatherKnifeSheath",
+        "category": "clothes"
+    },
+    {
+        "type": "LeatherPants_Beige",
+        "category": "clothes"
+    },
+    {
+        "type": "LeatherPants_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "LeatherPants_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "LeatherPants_Natural",
+        "category": "clothes"
+    },
+    {
+        "type": "LeatherSack_Beige",
+        "category": "containers"
+    },
+    {
+        "type": "LeatherSack_Black",
+        "category": "containers"
+    },
+    {
+        "type": "LeatherSack_Brown",
+        "category": "containers"
+    },
+    {
+        "type": "LeatherSack_Natural",
+        "category": "containers"
+    },
+    {
+        "type": "LeatherSewingKit",
+        "category": "tools"
+    },
+    {
+        "type": "LeatherShirt_Natural",
+        "category": "clothes"
+    },
+    {
+        "type": "LeatherShoes_Beige",
+        "category": "clothes"
+    },
+    {
+        "type": "LeatherShoes_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "LeatherShoes_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "LeatherShoes_Natural",
+        "category": "clothes"
+    },
+    {
+        "type": "LeatherStorageVest_Beige",
+        "category": "clothes"
+    },
+    {
+        "type": "LeatherStorageVest_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "LeatherStorageVest_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "LeatherStorageVest_Natural",
+        "category": "clothes"
+    },
+    {
+        "type": "LegsCover_Improvised",
+        "category": "clothes"
+    },
+    {
+        "type": "Lockpick",
+        "category": "tools"
+    },
+    {
+        "type": "Longhorn",
+        "category": "weapons"
+    },
+    {
+        "type": "LongTorch",
+        "category": "tools"
+    },
+    {
+        "type": "LongWoodenStick",
+        "category": "tools"
+    },
+    {
+        "type": "LugWrench",
+        "category": "tools"
+    },
+    {
+        "type": "Lunchmeat",
+        "category": "food"
+    },
+    {
+        "type": "Lunchmeat_Opened",
+        "category": "food"
+    },
+    {
+        "type": "M14",
+        "category": "weapons"
+    },
+    {
+        "type": "M16A2",
+        "category": "weapons"
+    },
+    {
+        "type": "M18SmokeGrenade_Green",
+        "category": "explosives"
+    },
+    {
+        "type": "M18SmokeGrenade_Purple",
+        "category": "explosives"
+    },
+    {
+        "type": "M18SmokeGrenade_Red",
+        "category": "explosives"
+    },
+    {
+        "type": "M18SmokeGrenade_White",
+        "category": "explosives"
+    },
+    {
+        "type": "M18SmokeGrenade_Yellow",
+        "category": "explosives"
+    },
+    {
+        "type": "M4_CarryHandleOptic",
+        "category": "weaponOptics"
+    },
+    {
+        "type": "M4_CQBBttstck",
+        "category": "weaponParts"
+    },
+    {
+        "type": "M4_MPBttstck",
+        "category": "weaponParts"
+    },
+    {
+        "type": "M4_MPHndgrd",
+        "category": "weaponParts"
+    },
+    {
+        "type": "M4_OEBttstck",
+        "category": "weaponParts"
+    },
+    {
+        "type": "M4_PlasticHndgrd",
+        "category": "weaponParts"
+    },
+    {
+        "type": "M4_RISHndgrd",
+        "category": "weaponParts"
+    },
+    {
+        "type": "M4_RISHndgrd_Black",
+        "category": "weaponParts"
+    },
+    {
+        "type": "M4_RISHndgrd_Green",
+        "category": "weaponParts"
+    },
+    {
+        "type": "M4_Suppressor",
+        "category": "weaponSuppresor"
+    },
+    {
+        "type": "M4_T3NRDSOptic",
+        "category": "weaponOptics"
+    },
+    {
+        "type": "M4A1",
+        "category": "weapons"
+    },
+    {
+        "type": "M4A1_Black",
+        "category": "weapons"
+    },
+    {
+        "type": "M4A1_Green",
+        "category": "weapons"
+    },
+    {
+        "type": "M65Jacket_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "M65Jacket_Khaki",
+        "category": "clothes"
+    },
+    {
+        "type": "M65Jacket_Olive",
+        "category": "clothes"
+    },
+    {
+        "type": "M65Jacket_Tan",
+        "category": "clothes"
+    },
+    {
+        "type": "M67Grenade",
+        "category": "explosives"
+    },
+    {
+        "type": "M68Optic",
+        "category": "weaponOptics"
+    },
+    {
+        "type": "M79",
+        "category": "weapons"
+    },
+    {
+        "type": "M9A1_Bayonet",
+        "category": "weapons"
+    },
+    {
+        "type": "Mace",
+        "category": "clothes"
+    },
+    {
+        "type": "Machete",
+        "category": "tools"
+    },
+    {
+        "type": "Mackerel",
+        "category": "food"
+    },
+    {
+        "type": "MackerelFilletMeat",
+        "category": "food"
+    },
+    {
+        "type": "MacrolepiotaMushroom",
+        "category": "food"
+    },
+    {
+        "type": "Mag_1911_7Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_AK101_30Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_AK101_30Rnd_Black",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_AK101_30Rnd_Green",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_AK74_30Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_AK74_30Rnd_Black",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_AK74_30Rnd_Green",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_AK74_45Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_AKM_30Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_AKM_Drum75Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_AKM_Drum75Rnd_Black",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_AKM_Drum75Rnd_Green",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_AKM_Palm30Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_AKM_Palm30Rnd_Black",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_AKM_Palm30Rnd_Green",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_Aug_30Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_CMAG_10Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_CMAG_20Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_CMAG_20Rnd_Black",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_CMAG_20Rnd_Green",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_CMAG_30Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_CMAG_30Rnd_Black",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_CMAG_30Rnd_Green",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_CMAG_40Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_CMAG_40Rnd_Black",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_CMAG_40Rnd_Green",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_CZ527_5rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_CZ550_10Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_CZ61_20Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_CZ75_15Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_Deagle_9rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_FAL_20Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_FAMAS_25Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_FNX45_15Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_Glock_15Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_IJ70_8Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_M14_10Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_M14_20Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_MKII_10Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_MP5_15Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_MP5_30Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_P1_8Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_PM73_15Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_PM73_25Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_PP19_64Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_Ruger1022_15Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_Ruger1022_30Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_Saiga_5Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_Saiga_8Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_Saiga_Drum20Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_Scout_5Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_SSG82_5rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_STANAG_30Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_STANAG_60Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_SV98_10Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_SVD_10Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_UMP_25Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_VAL_20Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_Vikhr_30Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Mag_VSS_10Rnd",
+        "category": "weapons"
+    },
+    {
+        "type": "Magnum",
+        "category": "weapons"
+    },
+    {
+        "type": "MakarovIJ70",
+        "category": "weapons"
+    },
+    {
+        "type": "ManSuit_Beige",
+        "category": "clothes"
+    },
+    {
+        "type": "ManSuit_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "ManSuit_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "ManSuit_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "ManSuit_DarkGrey",
+        "category": "clothes"
+    },
+    {
+        "type": "ManSuit_Khaki",
+        "category": "clothes"
+    },
+    {
+        "type": "ManSuit_LightGrey",
+        "category": "clothes"
+    },
+    {
+        "type": "ManSuit_White",
+        "category": "clothes"
+    },
+    {
+        "type": "Marmalade",
+        "category": "food"
+    },
+    {
+        "type": "Matchbox",
+        "category": "tools"
+    },
+    {
+        "type": "MeatTenderizer",
+        "category": "tools"
+    },
+    {
+        "type": "MedicalScrubsHat_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "MedicalScrubsHat_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "MedicalScrubsHat_White",
+        "category": "clothes"
+    },
+    {
+        "type": "MedicalScrubsPants_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "MedicalScrubsPants_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "MedicalScrubsPants_White",
+        "category": "clothes"
+    },
+    {
+        "type": "MedicalScrubsShirt_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "MedicalScrubsShirt_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "MedicalScrubsShirt_White",
+        "category": "clothes"
+    },
+    {
+        "type": "MedievalBoots",
+        "category": "clothes"
+    },
+    {
+        "type": "MediumGasCanister",
+        "category": "tools"
+    },
+    {
+        "type": "MediumTent",
+        "category": "Tents"
+    },
+    {
+        "type": "MediumTent_Green",
+        "category": "Tents"
+    },
+    {
+        "type": "MediumTent_Orange",
+        "category": "Tents"
+    },
+    {
+        "type": "Megaphone",
+        "category": "tools"
+    },
+    {
+        "type": "MetalPlate",
+        "category": "tools"
+    },
+    {
+        "type": "MetalWire",
+        "category": "tools"
+    },
+    {
+        "type": "Mich2001Helmet",
+        "category": "clothes"
+    },
+    {
+        "type": "MilitaryBelt",
+        "category": "clothes"
+    },
+    {
+        "type": "MilitaryBeret_CDF",
+        "category": "clothes"
+    },
+    {
+        "type": "MilitaryBeret_ChDKZ",
+        "category": "clothes"
+    },
+    {
+        "type": "MilitaryBeret_NZ",
+        "category": "clothes"
+    },
+    {
+        "type": "MilitaryBeret_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "MilitaryBeret_UN",
+        "category": "clothes"
+    },
+    {
+        "type": "MilitaryBoots_Beige",
+        "category": "clothes"
+    },
+    {
+        "type": "MilitaryBoots_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "MilitaryBoots_Bluerock",
+        "category": "clothes"
+    },
+    {
+        "type": "MilitaryBoots_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "MilitaryBoots_Redpunk",
+        "category": "clothes"
+    },
+    {
+        "type": "MimeMask_Female",
+        "category": "clothes"
+    },
+    {
+        "type": "MimeMask_Male",
+        "category": "clothes"
+    },
+    {
+        "type": "MiniDress_BlueChecker",
+        "category": "clothes"
+    },
+    {
+        "type": "MiniDress_BlueWithDots",
+        "category": "clothes"
+    },
+    {
+        "type": "MiniDress_BrownChecker",
+        "category": "clothes"
+    },
+    {
+        "type": "MiniDress_GreenChecker",
+        "category": "clothes"
+    },
+    {
+        "type": "MiniDress_Pink",
+        "category": "clothes"
+    },
+    {
+        "type": "MiniDress_PinkChecker",
+        "category": "clothes"
+    },
+    {
+        "type": "MiniDress_RedChecker",
+        "category": "clothes"
+    },
+    {
+        "type": "MiniDress_WhiteChecker",
+        "category": "clothes"
+    },
+    {
+        "type": "MK4Optic_black",
+        "category": "weaponOptics"
+    },
+    {
+        "type": "MK4Optic_Black",
+        "category": "weaponOptics"
+    },
+    {
+        "type": "MK4Optic_green",
+        "category": "weaponOptics"
+    },
+    {
+        "type": "MK4Optic_Green",
+        "category": "weaponOptics"
+    },
+    {
+        "type": "MK4Optic_tan",
+        "category": "weaponOptics"
+    },
+    {
+        "type": "MK4Optic_Tan",
+        "category": "weaponOptics"
+    },
+    {
+        "type": "MKII",
+        "category": "weapons"
+    },
+    {
+        "type": "MorozkoHat",
+        "category": "clothes"
+    },
+    {
+        "type": "Morphine",
+        "category": "tools"
+    },
+    {
+        "type": "Mosin_Bayonet",
+        "category": "weapons"
+    },
+    {
+        "type": "Mosin_Compensator",
+        "category": "weapons"
+    },
+    {
+        "type": "Mosin9130",
+        "category": "weapons"
+    },
+    {
+        "type": "Mosin9130_Black",
+        "category": "weapons"
+    },
+    {
+        "type": "Mosin9130_Camo",
+        "category": "weapons"
+    },
+    {
+        "type": "Mosin9130_Green",
+        "category": "weapons"
+    },
+    {
+        "type": "MotoHelmet_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "MotoHelmet_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "MotoHelmet_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "MotoHelmet_Grey",
+        "category": "clothes"
+    },
+    {
+        "type": "MotoHelmet_Lime",
+        "category": "clothes"
+    },
+    {
+        "type": "MotoHelmet_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "MotoHelmet_White",
+        "category": "clothes"
+    },
+    {
+        "type": "MotoHelmet_Yellow",
+        "category": "clothes"
+    },
+    {
+        "type": "MountainBag_Blue",
+        "category": "containers"
+    },
+    {
+        "type": "MountainBag_Green",
+        "category": "containers"
+    },
+    {
+        "type": "MountainBag_Orange",
+        "category": "containers"
+    },
+    {
+        "type": "MountainBag_Red",
+        "category": "containers"
+    },
+    {
+        "type": "MouthRag",
+        "category": "tools"
+    },
+    {
+        "type": "Mp133Shotgun",
+        "category": "weapons"
+    },
+    {
+        "type": "MP5_Compensator",
+        "category": "weaponParts"
+    },
+    {
+        "type": "MP5_PlasticHndgrd",
+        "category": "weaponParts"
+    },
+    {
+        "type": "MP5_RailHndgrd",
+        "category": "weaponParts"
+    },
+    {
+        "type": "MP5K",
+        "category": "weapons"
+    },
+    {
+        "type": "MP5k_StockBttstck",
+        "category": "weaponParts"
+    },
+    {
+        "type": "Nail",
+        "category": "tools"
+    },
+    {
+        "type": "NailBox",
+        "category": "tools"
+    },
+    {
+        "type": "NailedBaseballBat",
+        "category": "tools"
+    },
+    {
+        "type": "NavyUniformJacket",
+        "category": "clothes"
+    },
+    {
+        "type": "NavyUniformPants",
+        "category": "clothes"
+    },
+    {
+        "type": "NBCBootsGray",
+        "category": "clothes"
+    },
+    {
+        "type": "NBCBootsWhite",
+        "category": "clothes"
+    },
+    {
+        "type": "NBCBootsYellow",
+        "category": "clothes"
+    },
+    {
+        "type": "NBCGlovesGray",
+        "category": "clothes"
+    },
+    {
+        "type": "NBCGlovesYellow",
+        "category": "clothes"
+    },
+    {
+        "type": "NBCHoodGray",
+        "category": "clothes"
+    },
+    {
+        "type": "NBCHoodWhite",
+        "category": "clothes"
+    },
+    {
+        "type": "NBCHoodYellow",
+        "category": "clothes"
+    },
+    {
+        "type": "NBCJacketGray",
+        "category": "clothes"
+    },
+    {
+        "type": "NBCJacketWhite",
+        "category": "clothes"
+    },
+    {
+        "type": "NBCJacketYellow",
+        "category": "clothes"
+    },
+    {
+        "type": "NBCPantsGray",
+        "category": "clothes"
+    },
+    {
+        "type": "NBCPantsWhite",
+        "category": "clothes"
+    },
+    {
+        "type": "NBCPantsYellow",
+        "category": "clothes"
+    },
+    {
+        "type": "Netting",
+        "category": "tools"
+    },
+    {
+        "type": "NioshFaceMask",
+        "category": "clothes"
+    },
+    {
+        "type": "NorseHelm",
+        "category": "clothes"
+    },
+    {
+        "type": "NurseDress_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "NurseDress_White",
+        "category": "clothes"
+    },
+    {
+        "type": "NVGHeadstrap",
+        "category": "tools"
+    },
+    {
+        "type": "NVGoggles",
+        "category": "weapons"
+    },
+    {
+        "type": "NylonKnifeSheath",
+        "category": "tools"
+    },
+    {
+        "type": "OfficerHat",
+        "category": "clothes"
+    },
+    {
+        "type": "Offroad_02_Door_1_1",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Offroad_02_Door_1_1_Rust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Offroad_02_Door_1_2",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Offroad_02_Door_1_2_Rust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Offroad_02_Door_2_1",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Offroad_02_Door_2_1_Rust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Offroad_02_Door_2_2",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Offroad_02_Door_2_2_Rust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Offroad_02_Hood",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Offroad_02_Trunk",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Offroad_02_Trunk_Rust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Offroad_02_Wheel",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "OKZKCap_Beige",
+        "category": "clothes"
+    },
+    {
+        "type": "OKZKCap_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "OMKJacket_Navy",
+        "category": "clothes"
+    },
+    {
+        "type": "OMKPants_Navy",
+        "category": "clothes"
+    },
+    {
+        "type": "OMNOGloves_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "OMNOGloves_Gray",
+        "category": "clothes"
+    },
+    {
+        "type": "OrientalMachete",
+        "category": "tools"
+    },
+    {
+        "type": "OrienteeringCompass",
+        "category": "tools"
+    },
+    {
+        "type": "P1",
+        "category": "weapons"
+    },
+    {
+        "type": "PaddedGloves_Beige",
+        "category": "clothes"
+    },
+    {
+        "type": "PaddedGloves_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "PaddedGloves_Threat",
+        "category": "clothes"
+    },
+    {
+        "type": "PainkillerTablets",
+        "category": "tools"
+    },
+    {
+        "type": "Pajka",
+        "category": "food"
+    },
+    {
+        "type": "Pajka_Opened",
+        "category": "food"
+    },
+    {
+        "type": "Paper",
+        "category": "tools"
+    },
+    {
+        "type": "ParamedicJacket_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "ParamedicJacket_Crimson",
+        "category": "clothes"
+    },
+    {
+        "type": "ParamedicJacket_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "ParamedicPants_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "ParamedicPants_Crimson",
+        "category": "clothes"
+    },
+    {
+        "type": "ParamedicPants_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "PartyTent",
+        "category": "Tents"
+    },
+    {
+        "type": "PartyTent_Blue",
+        "category": "Tents"
+    },
+    {
+        "type": "PartyTent_Brown",
+        "category": "Tents"
+    },
+    {
+        "type": "PartyTent_Lunapark",
+        "category": "Tents"
+    },
+    {
+        "type": "Pate",
+        "category": "food"
+    },
+    {
+        "type": "Pate_Opened",
+        "category": "food"
+    },
+    {
+        "type": "PaydayMask_Chains",
+        "category": "clothes"
+    },
+    {
+        "type": "PaydayMask_Dallas",
+        "category": "clothes"
+    },
+    {
+        "type": "PaydayMask_Hoxton",
+        "category": "clothes"
+    },
+    {
+        "type": "PaydayMask_Wolf",
+        "category": "clothes"
+    },
+    {
+        "type": "PeachesCan",
+        "category": "food"
+    },
+    {
+        "type": "PeachesCan_Opened",
+        "category": "food"
+    },
+    {
+        "type": "Pear",
+        "category": "food"
+    },
+    {
+        "type": "Pen_Black",
+        "category": "tools"
+    },
+    {
+        "type": "Pen_Blue",
+        "category": "tools"
+    },
+    {
+        "type": "Pen_Green",
+        "category": "tools"
+    },
+    {
+        "type": "Pen_Red",
+        "category": "tools"
+    },
+    {
+        "type": "PepperSeeds",
+        "category": "tools"
+    },
+    {
+        "type": "PepperSeedsPack",
+        "category": "food"
+    },
+    {
+        "type": "PersonalRadio",
+        "category": "tools"
+    },
+    {
+        "type": "PetrolLighter",
+        "category": "tools"
+    },
+    {
+        "type": "PetushokHat_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "PetushokHat_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "PetushokHat_Yellow",
+        "category": "clothes"
+    },
+    {
+        "type": "Pickaxe",
+        "category": "tools"
+    },
+    {
+        "type": "PigPelt",
+        "category": "tools"
+    },
+    {
+        "type": "PigSteakMeat",
+        "category": "food"
+    },
+    {
+        "type": "PileOfWoodenPlanks",
+        "category": "tools"
+    },
+    {
+        "type": "PilotkaCap",
+        "category": "clothes"
+    },
+    {
+        "type": "Pipe",
+        "category": "tools"
+    },
+    {
+        "type": "PipeWrench",
+        "category": "tools"
+    },
+    {
+        "type": "PistolOptic",
+        "category": "weaponOptics"
+    },
+    {
+        "type": "PistolSuppressor",
+        "category": "weaponSuppresor"
+    },
+    {
+        "type": "Pitchfork",
+        "category": "tools"
+    },
+    {
+        "type": "Plastic_Explosive",
+        "category": "explosives"
+    },
+    {
+        "type": "PlateCarrierHolster",
+        "category": "clothes"
+    },
+    {
+        "type": "PlateCarrierHolster_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "PlateCarrierHolster_Camo",
+        "category": "clothes"
+    },
+    {
+        "type": "PlateCarrierHolster_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "PlateCarrierHolster_Winter",
+        "category": "clothes"
+    },
+    {
+        "type": "PlateCarrierPouches",
+        "category": "clothes"
+    },
+    {
+        "type": "PlateCarrierPouches_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "PlateCarrierPouches_Camo",
+        "category": "clothes"
+    },
+    {
+        "type": "PlateCarrierPouches_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "PlateCarrierPouches_Winter",
+        "category": "containers"
+    },
+    {
+        "type": "PlateCarrierVest",
+        "category": "clothes"
+    },
+    {
+        "type": "PlateCarrierVest_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "PlateCarrierVest_Camo",
+        "category": "clothes"
+    },
+    {
+        "type": "PlateCarrierVest_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "PlateCarrierVest_Winter",
+        "category": "clothes"
+    },
+    {
+        "type": "PleurotusMushroom",
+        "category": "food"
+    },
+    {
+        "type": "Pliers",
+        "category": "tools"
+    },
+    {
+        "type": "Plum",
+        "category": "food"
+    },
+    {
+        "type": "PM73Rak",
+        "category": "weapons"
+    },
+    {
+        "type": "PoliceCap",
+        "category": "clothes"
+    },
+    {
+        "type": "PoliceJacket",
+        "category": "clothes"
+    },
+    {
+        "type": "PoliceJacketOrel",
+        "category": "clothes"
+    },
+    {
+        "type": "PolicePants",
+        "category": "clothes"
+    },
+    {
+        "type": "PolicePantsOrel",
+        "category": "clothes"
+    },
+    {
+        "type": "PoliceVest",
+        "category": "clothes"
+    },
+    {
+        "type": "PorkCan",
+        "category": "food"
+    },
+    {
+        "type": "PorkCan_Opened",
+        "category": "food"
+    },
+    {
+        "type": "PortableGasLamp",
+        "category": "tools"
+    },
+    {
+        "type": "PortableGasStove",
+        "category": "tools"
+    },
+    {
+        "type": "Pot",
+        "category": "tools"
+    },
+    {
+        "type": "Potato",
+        "category": "food"
+    },
+    {
+        "type": "PotatoSeed",
+        "category": "food"
+    },
+    {
+        "type": "PowderedMilk",
+        "category": "food"
+    },
+    {
+        "type": "PowerGenerator",
+        "category": "tools"
+    },
+    {
+        "type": "PP19",
+        "category": "weapons"
+    },
+    {
+        "type": "PP19_Bttstck",
+        "category": "weaponParts"
+    },
+    {
+        "type": "PressVest_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "PressVest_LightBlue",
+        "category": "clothes"
+    },
+    {
+        "type": "PrisonerCap",
+        "category": "clothes"
+    },
+    {
+        "type": "PrisonUniformJacket",
+        "category": "clothes"
+    },
+    {
+        "type": "PrisonUniformPants",
+        "category": "clothes"
+    },
+    {
+        "type": "PSO11Optic",
+        "category": "weaponOptics"
+    },
+    {
+        "type": "PSO1Optic",
+        "category": "weaponOptics"
+    },
+    {
+        "type": "PSO6Optic",
+        "category": "weaponOptics"
+    },
+    {
+        "type": "Pumpkin",
+        "category": "food"
+    },
+    {
+        "type": "PumpkinHelmet",
+        "category": "clothes"
+    },
+    {
+        "type": "PumpkinSeeds",
+        "category": "tools"
+    },
+    {
+        "type": "PumpkinSeedsPack",
+        "category": "food"
+    },
+    {
+        "type": "PunchedCard",
+        "category": "tools"
+    },
+    {
+        "type": "PurificationTablets",
+        "category": "tools"
+    },
+    {
+        "type": "PUScopeOptic",
+        "category": "weaponOptics"
+    },
+    {
+        "type": "QuiltedJacket_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "QuiltedJacket_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "QuiltedJacket_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "QuiltedJacket_Grey",
+        "category": "clothes"
+    },
+    {
+        "type": "QuiltedJacket_Orange",
+        "category": "clothes"
+    },
+    {
+        "type": "QuiltedJacket_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "QuiltedJacket_Violet",
+        "category": "clothes"
+    },
+    {
+        "type": "QuiltedJacket_Yellow",
+        "category": "clothes"
+    },
+    {
+        "type": "R12",
+        "category": "weapons"
+    },
+    {
+        "type": "RabbitLegMeat",
+        "category": "food"
+    },
+    {
+        "type": "RabbitPelt",
+        "category": "tools"
+    },
+    {
+        "type": "RabbitSnareTrap",
+        "category": "tools"
+    },
+    {
+        "type": "RadarCap_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "RadarCap_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "RadarCap_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "RadarCap_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "RadarCap_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "Rag",
+        "category": "tools"
+    },
+    {
+        "type": "Raincoat_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "Raincoat_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "Raincoat_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "Raincoat_Orange",
+        "category": "clothes"
+    },
+    {
+        "type": "Raincoat_Pink",
+        "category": "clothes"
+    },
+    {
+        "type": "Raincoat_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "Raincoat_Yellow",
+        "category": "clothes"
+    },
+    {
+        "type": "Rangefinder",
+        "category": "tools"
+    },
+    {
+        "type": "RDG2SmokeGrenade_Black",
+        "category": "explosives"
+    },
+    {
+        "type": "RDG2SmokeGrenade_White",
+        "category": "explosives"
+    },
+    {
+        "type": "RedCaviar",
+        "category": "food"
+    },
+    {
+        "type": "ReflexOptic",
+        "category": "weaponOptics"
+    },
+    {
+        "type": "ReflexVest",
+        "category": "clothes"
+    },
+    {
+        "type": "ReindeerPelt",
+        "category": "tools"
+    },
+    {
+        "type": "ReindeerSteakMeat",
+        "category": "food"
+    },
+    {
+        "type": "RemoteDetonatorTrigger",
+        "category": "tools"
+    },
+    {
+        "type": "Repeater",
+        "category": "weapons"
+    },
+    {
+        "type": "RGD5Grenade",
+        "category": "explosives"
+    },
+    {
+        "type": "Rice",
+        "category": "food"
+    },
+    {
+        "type": "RidersJacket_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "Roadflare",
+        "category": "tools"
+    },
+    {
+        "type": "Rope",
+        "category": "tools"
+    },
+    {
+        "type": "RopeBelt",
+        "category": "clothes"
+    },
+    {
+        "type": "Ruger1022",
+        "category": "weapons"
+    },
+    {
+        "type": "Saiga",
+        "category": "weapons"
+    },
+    {
+        "type": "Saiga_Bttstck",
+        "category": "weaponParts"
+    },
+    {
+        "type": "SalineBag",
+        "category": "tools"
+    },
+    {
+        "type": "SalineBagIV",
+        "category": "tools"
+    },
+    {
+        "type": "SaltySticks",
+        "category": "food"
+    },
+    {
+        "type": "SambucusBerry",
+        "category": "tools"
+    },
+    {
+        "type": "SantasBeard",
+        "category": "clothes"
+    },
+    {
+        "type": "SantasHat",
+        "category": "clothes"
+    },
+    {
+        "type": "Sardines",
+        "category": "food"
+    },
+    {
+        "type": "SardinesCan",
+        "category": "food"
+    },
+    {
+        "type": "SardinesCan_Opened",
+        "category": "food"
+    },
+    {
+        "type": "SawedoffB95",
+        "category": "weapons"
+    },
+    {
+        "type": "SawedoffFAMAS",
+        "category": "weapons"
+    },
+    {
+        "type": "SawedoffIzh18",
+        "category": "weapons"
+    },
+    {
+        "type": "SawedoffIzh18Shotgun",
+        "category": "weapons"
+    },
+    {
+        "type": "SawedoffIzh43Shotgun",
+        "category": "weapons"
+    },
+    {
+        "type": "SawedoffMagnum",
+        "category": "weapons"
+    },
+    {
+        "type": "SawedoffMosin9130",
+        "category": "weapons"
+    },
+    {
+        "type": "SawedoffMosin9130_Black",
+        "category": "weapons"
+    },
+    {
+        "type": "SawedoffMosin9130_Camo",
+        "category": "weapons"
+    },
+    {
+        "type": "SawedoffMosin9130_Green",
+        "category": "weapons"
+    },
+    {
+        "type": "ScientificBriefcase",
+        "category": "containers"
+    },
+    {
+        "type": "ScientificBriefcaseKeys",
+        "category": "tools"
+    },
+    {
+        "type": "Scout",
+        "category": "weapons"
+    },
+    {
+        "type": "Scout_Chernarus",
+        "category": "weapons"
+    },
+    {
+        "type": "Scout_Livonia",
+        "category": "weapons"
+    },
+    {
+        "type": "Screwdriver",
+        "category": "tools"
+    },
+    {
+        "type": "SeaChest",
+        "category": "tools"
+    },
+    {
+        "type": "Sedan_02_Door_1_1",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Door_1_1_Grey",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Door_1_1_GreyRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Door_1_1_Red",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Door_1_1_RedRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Door_1_1_YellowRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Door_1_2",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Door_1_2_Grey",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Door_1_2_GreyRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Door_1_2_Red",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Door_1_2_RedRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Door_1_2_YellowRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Door_2_1",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Door_2_1_Grey",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Door_2_1_GreyRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Door_2_1_Red",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Door_2_1_RedRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Door_2_1_YellowRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Door_2_2",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Door_2_2_Grey",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Door_2_2_GreyRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Door_2_2_Red",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Door_2_2_RedRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Door_2_2_YellowRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Hood",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Hood_Grey",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Hood_GreyRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Hood_Red",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Hood_RedRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Hood_YellowRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Trunk",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Trunk_Grey",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Trunk_GreyRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Trunk_Red",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Trunk_RedRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Trunk_YellowRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Sedan_02_Wheel",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "SewingKit",
+        "category": "tools"
+    },
+    {
+        "type": "SheepPelt",
+        "category": "tools"
+    },
+    {
+        "type": "SheepSteakMeat",
+        "category": "food"
+    },
+    {
+        "type": "Shemag_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "Shemag_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "Shemag_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "Shemag_White",
+        "category": "clothes"
+    },
+    {
+        "type": "SherpaHat_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "SherpaHat_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "SherpaHat_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "ShippingContainerKeys_Blue",
+        "category": "tools"
+    },
+    {
+        "type": "ShippingContainerKeys_Orange",
+        "category": "tools"
+    },
+    {
+        "type": "ShippingContainerKeys_Red",
+        "category": "tools"
+    },
+    {
+        "type": "ShippingContainerKeys_Yellow",
+        "category": "tools"
+    },
+    {
+        "type": "Shirt_BlueCheck",
+        "category": "clothes"
+    },
+    {
+        "type": "Shirt_BlueCheckBright",
+        "category": "clothes"
+    },
+    {
+        "type": "Shirt_GreenCheck",
+        "category": "clothes"
+    },
+    {
+        "type": "Shirt_PlaneBlack",
+        "category": "clothes"
+    },
+    {
+        "type": "Shirt_RedCheck",
+        "category": "clothes"
+    },
+    {
+        "type": "Shirt_WhiteCheck",
+        "category": "clothes"
+    },
+    {
+        "type": "ShortJeans_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "ShortJeans_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "ShortJeans_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "ShortJeans_Darkblue",
+        "category": "clothes"
+    },
+    {
+        "type": "ShortJeans_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "ShortJeans_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "Shovel",
+        "category": "tools"
+    },
+    {
+        "type": "Shrimp",
+        "category": "food"
+    },
+    {
+        "type": "Sickle",
+        "category": "tools"
+    },
+    {
+        "type": "SkateHelmet_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "SkateHelmet_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "SkateHelmet_Gray",
+        "category": "clothes"
+    },
+    {
+        "type": "SkateHelmet_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "SkateHelmet_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "SkiGloves_90s",
+        "category": "clothes"
+    },
+    {
+        "type": "SkiGloves_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "SkiGloves_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "SkiGoggles_BlackYellow",
+        "category": "clothes"
+    },
+    {
+        "type": "SkiGoggles_WhiteClear",
+        "category": "clothes"
+    },
+    {
+        "type": "SkiGoggles_WhiteDark",
+        "category": "clothes"
+    },
+    {
+        "type": "Skirt_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "Skirt_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "Skirt_White",
+        "category": "clothes"
+    },
+    {
+        "type": "Skirt_Yellow",
+        "category": "clothes"
+    },
+    {
+        "type": "SKS",
+        "category": "weapons"
+    },
+    {
+        "type": "SKS_Bayonet",
+        "category": "weapons"
+    },
+    {
+        "type": "SKS_Black",
+        "category": "weapons"
+    },
+    {
+        "type": "SKS_Green",
+        "category": "weapons"
+    },
+    {
+        "type": "SlacksPants_Beige",
+        "category": "clothes"
+    },
+    {
+        "type": "SlacksPants_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "SlacksPants_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "SlacksPants_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "SlacksPants_DarkGrey",
+        "category": "clothes"
+    },
+    {
+        "type": "SlacksPants_Khaki",
+        "category": "clothes"
+    },
+    {
+        "type": "SlacksPants_LightGrey",
+        "category": "clothes"
+    },
+    {
+        "type": "SlacksPants_White",
+        "category": "clothes"
+    },
+    {
+        "type": "SledgeHammer",
+        "category": "tools"
+    },
+    {
+        "type": "SlicedPumpkin",
+        "category": "food"
+    },
+    {
+        "type": "Slingbag_Black",
+        "category": "containers"
+    },
+    {
+        "type": "Slingbag_Brown",
+        "category": "containers"
+    },
+    {
+        "type": "Slingbag_Gray",
+        "category": "containers"
+    },
+    {
+        "type": "SmallFishTrap",
+        "category": "tools"
+    },
+    {
+        "type": "SmallGasCanister",
+        "category": "tools"
+    },
+    {
+        "type": "SmallGuts",
+        "category": "tools"
+    },
+    {
+        "type": "SmallProtectorCase",
+        "category": "containers"
+    },
+    {
+        "type": "SmallStone",
+        "category": "tools"
+    },
+    {
+        "type": "SmershBag",
+        "category": "containers"
+    },
+    {
+        "type": "SmershVest",
+        "category": "clothes"
+    },
+    {
+        "type": "Sneakers_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "Sneakers_Gray",
+        "category": "clothes"
+    },
+    {
+        "type": "Sneakers_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "Sneakers_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "Sneakers_White",
+        "category": "clothes"
+    },
+    {
+        "type": "SnowstormUshanka_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "SnowstormUshanka_Navy",
+        "category": "clothes"
+    },
+    {
+        "type": "SnowstormUshanka_Olive",
+        "category": "clothes"
+    },
+    {
+        "type": "SnowstormUshanka_White",
+        "category": "clothes"
+    },
+    {
+        "type": "SodaCan_Cola",
+        "category": "food"
+    },
+    {
+        "type": "SodaCan_Fronta",
+        "category": "food"
+    },
+    {
+        "type": "SodaCan_Kvass",
+        "category": "food"
+    },
+    {
+        "type": "SodaCan_Pipsi",
+        "category": "food"
+    },
+    {
+        "type": "SodaCan_Spite",
+        "category": "food"
+    },
+    {
+        "type": "SpaghettiCan",
+        "category": "food"
+    },
+    {
+        "type": "SpaghettiCan_Opened",
+        "category": "food"
+    },
+    {
+        "type": "SparkPlug",
+        "category": "tools"
+    },
+    {
+        "type": "Splint",
+        "category": "clothes"
+    },
+    {
+        "type": "SportGlasses_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "SportGlasses_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "SportGlasses_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "SportGlasses_Orange",
+        "category": "clothes"
+    },
+    {
+        "type": "SportingOptic",
+        "category": "weaponOptics"
+    },
+    {
+        "type": "Spotlight",
+        "category": "tools"
+    },
+    {
+        "type": "SSG82",
+        "category": "weapons"
+    },
+    {
+        "type": "Ssh68Helmet",
+        "category": "clothes"
+    },
+    {
+        "type": "StarlightOptic",
+        "category": "weaponOptics"
+    },
+    {
+        "type": "StartKitIV",
+        "category": "tools"
+    },
+    {
+        "type": "SteakKnife",
+        "category": "tools"
+    },
+    {
+        "type": "SteelheadTrout",
+        "category": "food"
+    },
+    {
+        "type": "SteelheadTroutFilletMeat",
+        "category": "food"
+    },
+    {
+        "type": "Stone",
+        "category": "tools"
+    },
+    {
+        "type": "StoneKnife",
+        "category": "tools"
+    },
+    {
+        "type": "SurgicalGloves_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "SurgicalGloves_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "SurgicalGloves_LightBlue",
+        "category": "clothes"
+    },
+    {
+        "type": "SurgicalGloves_White",
+        "category": "clothes"
+    },
+    {
+        "type": "SurgicalMask",
+        "category": "clothes"
+    },
+    {
+        "type": "SV98",
+        "category": "weapons"
+    },
+    {
+        "type": "SVD",
+        "category": "weapons"
+    },
+    {
+        "type": "SVD_Wooden",
+        "category": "weapons"
+    },
+    {
+        "type": "Sweater_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "Sweater_ChristmasBlue",
+        "category": "clothes"
+    },
+    {
+        "type": "Sweater_ChristmasGreen",
+        "category": "clothes"
+    },
+    {
+        "type": "Sweater_ChristmasRed",
+        "category": "clothes"
+    },
+    {
+        "type": "Sweater_Gray",
+        "category": "clothes"
+    },
+    {
+        "type": "Sweater_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "Sweater_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "Sword",
+        "category": "clothes"
+    },
+    {
+        "type": "TacticalBaconCan",
+        "category": "food"
+    },
+    {
+        "type": "TacticalBaconCan_Opened",
+        "category": "food"
+    },
+    {
+        "type": "TacticalGloves_Beige",
+        "category": "clothes"
+    },
+    {
+        "type": "TacticalGloves_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "TacticalGloves_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "TacticalGoggles",
+        "category": "clothes"
+    },
+    {
+        "type": "TacticalShirt_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "TacticalShirt_Grey",
+        "category": "clothes"
+    },
+    {
+        "type": "TacticalShirt_Olive",
+        "category": "clothes"
+    },
+    {
+        "type": "TacticalShirt_Tan",
+        "category": "clothes"
+    },
+    {
+        "type": "TaloonBag_Blue",
+        "category": "containers"
+    },
+    {
+        "type": "TaloonBag_Green",
+        "category": "containers"
+    },
+    {
+        "type": "TaloonBag_Orange",
+        "category": "containers"
+    },
+    {
+        "type": "TaloonBag_Violet",
+        "category": "containers"
+    },
+    {
+        "type": "TankerHelmet",
+        "category": "clothes"
+    },
+    {
+        "type": "TelnyashkaShirt",
+        "category": "clothes"
+    },
+    {
+        "type": "TetracyclineAntibiotics",
+        "category": "tools"
+    },
+    {
+        "type": "Thermometer",
+        "category": "tools"
+    },
+    {
+        "type": "ThickFramesGlasses",
+        "category": "clothes"
+    },
+    {
+        "type": "ThinFramesGlasses",
+        "category": "clothes"
+    },
+    {
+        "type": "TireRepairKit",
+        "category": "tools"
+    },
+    {
+        "type": "TLRLight",
+        "category": "weapons"
+    },
+    {
+        "type": "Tomato",
+        "category": "food"
+    },
+    {
+        "type": "TomatoSeeds",
+        "category": "food"
+    },
+    {
+        "type": "TomatoSeedsPack",
+        "category": "food"
+    },
+    {
+        "type": "Torch",
+        "category": "tools"
+    },
+    {
+        "type": "TorsoCover_Improvised",
+        "category": "clothes"
+    },
+    {
+        "type": "TortillaBag",
+        "category": "containers"
+    },
+    {
+        "type": "TortillaBag_Winter",
+        "category": "containers"
+    },
+    {
+        "type": "TrackSuitJacket_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "TrackSuitJacket_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "TrackSuitJacket_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "TrackSuitJacket_LightBlue",
+        "category": "clothes"
+    },
+    {
+        "type": "TrackSuitJacket_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "TrackSuitPants_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "TrackSuitPants_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "TrackSuitPants_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "TrackSuitPants_LightBlue",
+        "category": "clothes"
+    },
+    {
+        "type": "TrackSuitPants_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "Tripod",
+        "category": "tools"
+    },
+    {
+        "type": "TripwireTrap",
+        "category": "tools"
+    },
+    {
+        "type": "Truck_01_Door_1_1",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Truck_01_Door_1_1_Blue",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Truck_01_Door_1_1_BlueRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Truck_01_Door_1_1_GreenRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Truck_01_Door_1_1_Orange",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Truck_01_Door_1_1_OrangeRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Truck_01_Door_2_1",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Truck_01_Door_2_1_Blue",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Truck_01_Door_2_1_BlueRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Truck_01_Door_2_1_GreenRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Truck_01_Door_2_1_Orange",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Truck_01_Door_2_1_OrangeRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Truck_01_Hood",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Truck_01_Hood_Blue",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Truck_01_Hood_BlueRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Truck_01_Hood_GreenRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Truck_01_Hood_Orange",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Truck_01_Hood_OrangeRust",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Truck_01_Wheel",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "Truck_01_WheelDouble",
+        "category": "vehiclePart"
+    },
+    {
+        "type": "TruckBattery",
+        "category": "tools"
+    },
+    {
+        "type": "Tshirt_10thAnniversary",
+        "category": "clothes"
+    },
+    {
+        "type": "TShirt_Beige",
+        "category": "clothes"
+    },
+    {
+        "type": "TShirt_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "TShirt_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "TShirt_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "TShirt_Grey",
+        "category": "clothes"
+    },
+    {
+        "type": "TShirt_OrangeWhiteStripes",
+        "category": "clothes"
+    },
+    {
+        "type": "TShirt_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "TShirt_RedBlackStripes",
+        "category": "clothes"
+    },
+    {
+        "type": "TShirt_White",
+        "category": "clothes"
+    },
+    {
+        "type": "TTSKOBoots",
+        "category": "clothes"
+    },
+    {
+        "type": "TTsKOJacket_Camo",
+        "category": "clothes"
+    },
+    {
+        "type": "TTSKOPants",
+        "category": "clothes"
+    },
+    {
+        "type": "TunaCan",
+        "category": "food"
+    },
+    {
+        "type": "TunaCan_Opened",
+        "category": "food"
+    },
+    {
+        "type": "UKAssVest_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "UKAssVest_Camo",
+        "category": "clothes"
+    },
+    {
+        "type": "UKAssVest_Khaki",
+        "category": "clothes"
+    },
+    {
+        "type": "UKAssVest_Olive",
+        "category": "clothes"
+    },
+    {
+        "type": "UKAssVest_Winter",
+        "category": "clothes"
+    },
+    {
+        "type": "UMP45",
+        "category": "weapons"
+    },
+    {
+        "type": "UniversalLight",
+        "category": "weapons"
+    },
+    {
+        "type": "UnknownFoodCan",
+        "category": "food"
+    },
+    {
+        "type": "UnknownFoodCan_Opened",
+        "category": "food"
+    },
+    {
+        "type": "Ushanka_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "Ushanka_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "Ushanka_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "USMCJacket_Desert",
+        "category": "clothes"
+    },
+    {
+        "type": "USMCJacket_Woodland",
+        "category": "clothes"
+    },
+    {
+        "type": "USMCPants_Desert",
+        "category": "clothes"
+    },
+    {
+        "type": "USMCPants_Woodland",
+        "category": "clothes"
+    },
+    {
+        "type": "Vikhr",
+        "category": "weapons"
+    },
+    {
+        "type": "VitaminBottle",
+        "category": "tools"
+    },
+    {
+        "type": "VSS",
+        "category": "weapons"
+    },
+    {
+        "type": "WalleyePollock",
+        "category": "food"
+    },
+    {
+        "type": "WalleyePollockFilletMeat",
+        "category": "food"
+    },
+    {
+        "type": "WaterBottle",
+        "category": "food"
+    },
+    {
+        "type": "WaterproofBag_Green",
+        "category": "containers"
+    },
+    {
+        "type": "WaterproofBag_Orange",
+        "category": "containers"
+    },
+    {
+        "type": "WaterproofBag_Yellow",
+        "category": "containers"
+    },
+    {
+        "type": "WeaponCleaningKit",
+        "category": "tools"
+    },
+    {
+        "type": "WeldingMask",
+        "category": "clothes"
+    },
+    {
+        "type": "Wellies_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "Wellies_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "Wellies_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "Wellies_Grey",
+        "category": "clothes"
+    },
+    {
+        "type": "Whetstone",
+        "category": "tools"
+    },
+    {
+        "type": "WildboarPelt",
+        "category": "tools"
+    },
+    {
+        "type": "Winchester70",
+        "category": "weapons"
+    },
+    {
+        "type": "Winchester70_Black",
+        "category": "weapons"
+    },
+    {
+        "type": "Winchester70_Green",
+        "category": "weapons"
+    },
+    {
+        "type": "WinterCoif_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "WinterCoif_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "WinterCoif_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "WinterCoif_Skull",
+        "category": "clothes"
+    },
+    {
+        "type": "WitchHat",
+        "category": "clothes"
+    },
+    {
+        "type": "WitchHood_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "WitchHood_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "WitchHood_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "WitchHoodCoif_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "WitchHoodCoif_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "WitchHoodCoif_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "WolfPelt",
+        "category": "tools"
+    },
+    {
+        "type": "WolfSteakMeat",
+        "category": "food"
+    },
+    {
+        "type": "WomanSuit_Beige",
+        "category": "clothes"
+    },
+    {
+        "type": "WomanSuit_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "WomanSuit_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "WomanSuit_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "WomanSuit_DarkGrey",
+        "category": "clothes"
+    },
+    {
+        "type": "WomanSuit_Khaki",
+        "category": "clothes"
+    },
+    {
+        "type": "WomanSuit_LightGrey",
+        "category": "clothes"
+    },
+    {
+        "type": "WomanSuit_White",
+        "category": "clothes"
+    },
+    {
+        "type": "WoodAxe",
+        "category": "tools"
+    },
+    {
+        "type": "WoodenCrate",
+        "category": "containers"
+    },
+    {
+        "type": "WoodenHook",
+        "category": "tools"
+    },
+    {
+        "type": "WoodenLog",
+        "category": "tools"
+    },
+    {
+        "type": "WoodenPlank",
+        "category": "tools"
+    },
+    {
+        "type": "WoodenStick",
+        "category": "tools"
+    },
+    {
+        "type": "WoolCoat_Beige",
+        "category": "clothes"
+    },
+    {
+        "type": "WoolCoat_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "WoolCoat_BlackCheck",
+        "category": "clothes"
+    },
+    {
+        "type": "WoolCoat_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "WoolCoat_BlueCheck",
+        "category": "clothes"
+    },
+    {
+        "type": "WoolCoat_BrownCheck",
+        "category": "clothes"
+    },
+    {
+        "type": "WoolCoat_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "WoolCoat_GreyCheck",
+        "category": "clothes"
+    },
+    {
+        "type": "WoolCoat_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "WoolCoat_RedCheck",
+        "category": "clothes"
+    },
+    {
+        "type": "WoolGloves_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "WoolGloves_ChristmasBlue",
+        "category": "clothes"
+    },
+    {
+        "type": "WoolGloves_ChristmasRed",
+        "category": "clothes"
+    },
+    {
+        "type": "WoolGloves_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "WoolGloves_Tan",
+        "category": "clothes"
+    },
+    {
+        "type": "WoolGloves_White",
+        "category": "clothes"
+    },
+    {
+        "type": "WoolGlovesFingerless_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "WoolGlovesFingerless_ChristmasBlue",
+        "category": "clothes"
+    },
+    {
+        "type": "WoolGlovesFingerless_ChristmasRed",
+        "category": "clothes"
+    },
+    {
+        "type": "WoolGlovesFingerless_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "WoolGlovesFingerless_Tan",
+        "category": "clothes"
+    },
+    {
+        "type": "WoolGlovesFingerless_White",
+        "category": "clothes"
+    },
+    {
+        "type": "WorkingBoots_Beige",
+        "category": "clothes"
+    },
+    {
+        "type": "WorkingBoots_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "WorkingBoots_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "WorkingBoots_Grey",
+        "category": "clothes"
+    },
+    {
+        "type": "WorkingBoots_Yellow",
+        "category": "clothes"
+    },
+    {
+        "type": "WorkingGloves_Beige",
+        "category": "clothes"
+    },
+    {
+        "type": "WorkingGloves_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "WorkingGloves_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "WorkingGloves_Yellow",
+        "category": "clothes"
+    },
+    {
+        "type": "Wrench",
+        "category": "tools"
+    },
+    {
+        "type": "XmasLights",
+        "category": "tools"
+    },
+    {
+        "type": "Zagorky",
+        "category": "food"
+    },
+    {
+        "type": "ZagorkyChocolate",
+        "category": "food"
+    },
+    {
+        "type": "ZagorkyPeanuts",
+        "category": "food"
+    },
+    {
+        "type": "ZmbF_BlueCollarFat_Blue",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_BlueCollarFat_Green",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_BlueCollarFat_Red",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_BlueCollarFat_White",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_CitizenANormal_Beige",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_CitizenANormal_Blue",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_CitizenANormal_Brown",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_CitizenBSkinny",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_Clerk_Normal_Blue",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_Clerk_Normal_Green",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_Clerk_Normal_Red",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_Clerk_Normal_White",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_DoctorSkinny",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_HikerSkinny_Blue",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_HikerSkinny_Green",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_HikerSkinny_Grey",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_HikerSkinny_Red",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_JoggerSkinny_Blue",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_JoggerSkinny_Brown",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_JoggerSkinny_Green",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_JoggerSkinny_Red",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_JournalistNormal_Blue",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_JournalistNormal_Green",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_JournalistNormal_Red",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_JournalistNormal_White",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_MechanicNormal_Beige",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_MechanicNormal_Green",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_MechanicNormal_Grey",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_MechanicNormal_Orange",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_MilkMaidOld_Beige",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_MilkMaidOld_Black",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_MilkMaidOld_Green",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_MilkMaidOld_Grey",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_NurseFat",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_NurseFat_Winter",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_ParamedicNormal_Blue",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_ParamedicNormal_Green",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_ParamedicNormal_Red",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_PatientOld",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_PatientOld_Winter",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_PoliceWomanNormal",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_ShortSkirt_beige",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_ShortSkirt_black",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_ShortSkirt_brown",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_ShortSkirt_checks",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_ShortSkirt_green",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_ShortSkirt_grey",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_ShortSkirt_red",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_ShortSkirt_stripes",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_ShortSkirt_white",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_ShortSkirt_yellow",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_SkaterYoung_Brown",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_SkaterYoung_Striped",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_SkaterYoung_Violet",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_SurvivorNormal_Blue",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_SurvivorNormal_Orange",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_SurvivorNormal_Red",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_SurvivorNormal_White",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_VillagerOld_Blue",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_VillagerOld_Green",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_VillagerOld_Red",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbF_VillagerOld_White",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_CitizenASkinny_Blue",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_CitizenASkinny_Brown",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_CitizenASkinny_Grey",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_CitizenASkinny_Red",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_CitizenBFat_Blue",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_CitizenBFat_Green",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_CitizenBFat_Red",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_ClerkFat_Brown",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_ClerkFat_Grey",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_ClerkFat_Khaki",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_ClerkFat_White",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_CommercialPilotOld_Blue",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_CommercialPilotOld_Brown",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_CommercialPilotOld_Grey",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_CommercialPilotOld_Olive",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_ConstrWorkerNormal_Beige",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_ConstrWorkerNormal_Black",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_ConstrWorkerNormal_Green",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_ConstrWorkerNormal_Grey",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_DoctorFat",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_DoctorFat_Winter",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_eastSoldier_Heavy_Navy",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_eastSoldier_normal_Navy",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_FarmerFat_Beige",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_FarmerFat_Blue",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_FarmerFat_Brown",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_FarmerFat_Green",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_FirefighterNormal",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_FishermanOld_Blue",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_FishermanOld_Green",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_FishermanOld_Grey",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_FishermanOld_Red",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_Gamedev_Black",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_Gamedev_Blue",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_Gamedev_Gray",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_HandymanNormal_Beige",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_HandymanNormal_Blue",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_HandymanNormal_Green",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_HandymanNormal_Grey",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_HandymanNormal_White",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_HeavyIndustryWorker",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_HermitSkinny_Beige",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_HermitSkinny_Black",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_HermitSkinny_Green",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_HermitSkinny_Red",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_HikerSkinny_Blue",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_HikerSkinny_Green",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_HikerSkinny_Yellow",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_HunterOld_Autumn",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_HunterOld_Spring",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_HunterOld_Summer",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_HunterOld_Winter",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_Jacket_beige",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_Jacket_black",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_Jacket_blue",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_Jacket_bluechecks",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_Jacket_brown",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_Jacket_greenchecks",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_Jacket_grey",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_Jacket_khaki",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_Jacket_magenta",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_Jacket_stripes",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_JoggerSkinny_Blue",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_JoggerSkinny_Green",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_JoggerSkinny_Red",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_JournalistSkinny",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_MechanicSkinny_Blue",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_MechanicSkinny_Green",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_MechanicSkinny_Grey",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_MechanicSkinny_Red",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_MotobikerFat_Beige",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_MotobikerFat_Black",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_MotobikerFat_Blue",
+        "category": "infected"
+    },
+    {
+        "type": "Zmbm_Mummy",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_NBC_Grey",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_NBC_White",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_NBC_Yellow",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_OffshoreWorker_Green",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_OffshoreWorker_Orange",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_OffshoreWorker_Red",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_OffshoreWorker_Yellow",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_ParamedicNormal_Black",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_ParamedicNormal_Blue",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_ParamedicNormal_Green",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_ParamedicNormal_Red",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_PatientSkinny",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_PatientSkinny_Winter",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_PatrolNormal_Autumn",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_PatrolNormal_Flat",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_PatrolNormal_PautRev",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_PatrolNormal_Summer",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_PatrolNormal_Winter",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_PolicemanFat",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_PolicemanSpecForce",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_PolicemanSpecForce_Heavy",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_priestPopSkinny",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_PrisonerSkinny",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_Santa",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_SkaterYoung_Blue",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_SkaterYoung_Brown",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_SkaterYoung_Green",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_SkaterYoung_Grey",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_SoldierNormal",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_usSoldier_Heavy_Woodland",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_usSoldier_normal_Desert",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_usSoldier_normal_Woodland",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_usSoldier_Officer_Convoy",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_usSoldier_Officer_Desert",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_VillagerOld_Blue",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_VillagerOld_Green",
+        "category": "infected"
+    },
+    {
+        "type": "ZmbM_VillagerOld_White",
+        "category": "infected"
+    },
+    {
+        "type": "ZmijovkaCap_Black",
+        "category": "clothes"
+    },
+    {
+        "type": "ZmijovkaCap_Blue",
+        "category": "clothes"
+    },
+    {
+        "type": "ZmijovkaCap_Brown",
+        "category": "clothes"
+    },
+    {
+        "type": "ZmijovkaCap_Green",
+        "category": "clothes"
+    },
+    {
+        "type": "ZmijovkaCap_Red",
+        "category": "clothes"
+    },
+    {
+        "type": "ZSh3PilotHelmet",
+        "category": "clothes"
+    },
+    {
+        "type": "Zucchini",
+        "category": "food"
+    },
+    {
+        "type": "ZucchiniSeeds",
+        "category": "food"
+    },
+    {
+        "type": "ZucchiniSeedsPack",
+        "category": "food"
+    }
+]
