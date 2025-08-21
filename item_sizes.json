@@ -2452,6 +2452,10 @@
     "slotSize": 12
   },
   {
+    "itemType": "Foxpelt",
+    "slotSize": 12
+  },
+  {
     "itemType": "FoxSteakMeat",
     "slotSize": 2
   },
@@ -4157,15 +4161,15 @@
   },
   {
     "itemType": "MK4Optic_Black",
-    "slotSize": 1
+    "slotSize": 4
   },
   {
     "itemType": "MK4Optic_Green",
-    "slotSize": 1
+    "slotSize": 4
   },
   {
     "itemType": "MK4Optic_Tan",
-    "slotSize": 1
+    "slotSize": 4
   },
   {
     "itemType": "MKII",
@@ -6710,5 +6714,81 @@
   {
     "itemType": "ZucchiniSeedsPack",
     "slotSize": 3
+  },
+  {
+    "itemType": "Animal_CapraHircus_Spooky",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ChristmasTree_Green",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_hb01_aban1_green_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_hb01_aban1_police_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_hb01_aban2_police_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_hb02_aban1_black_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_sed01_aban2_white_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_sed01_aban2_wine_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_wreck_truck01_aban2_orange_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_sed02_aban1_Police_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_sed02_aban2_Police_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_wreck_sed02_aban1_police",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_wreck_sed02_aban2_police",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "MK4Optic_black",
+    "slotSize": 4
+  },
+  {
+    "itemType": "MK4Optic_green",
+    "slotSize": 4
+  },
+  {
+    "itemType": "MK4Optic_tan",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Shrimp",
+    "slotSize": 2
+  },
+  {
+    "itemType": "StaticObj_Wreck_Trailer_Flat_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_usSoldier_Officer_Convoy",
+    "slotSize": 1000
   }
 ]
