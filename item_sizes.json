@@ -6788,7 +6788,43 @@
     "slotSize": 1000
   },
   {
-    "itemType": "ZmbM_usSoldier_Officer_Convoy",
+    "itemType": "Ammo_40mm_ChemGas",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Land_ContainerLocked_Blue_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_ContainerLocked_Orange_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_ContainerLocked_Red_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_ContainerLocked_Yellow_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_WarheadStorage_Room1",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_WarheadStorage_Room2",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_WarheadStorage_Room3",
+    "slotSize":1000
+  },
+  {
+    "itemType": "Land_WarheadStorage_Room4",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Misc_TirePile_Burning_DE",
     "slotSize": 1000
   }
 ]
