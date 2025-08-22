@@ -3944,6 +3944,66 @@
     "slotSize": 2
   },
   {
+    "itemType": "FNX45_Arrow",
+    "slotSize": 6
+  },
+  {
+    "itemType": "Mag_AK101_30Rnd_Black",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Mag_AK101_30Rnd_Green",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Mag_AK74_30Rnd_Black",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Mag_AK74_30Rnd_Green",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Mag_AKM_Drum75Rnd_Black",
+    "slotSize": 9
+  },
+  {
+    "itemType": "Mag_AKM_Drum75Rnd_Green",
+    "slotSize": 9
+  },
+  {
+    "itemType": "Mag_AKM_Palm30Rnd_Black",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Mag_AKM_Palm30Rnd_Green",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Mag_CMAG_20Rnd_Black",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Mag_CMAG_20Rnd_Green",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Mag_CMAG_30Rnd_Black",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Mag_CMAG_30Rnd_Green",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Mag_CMAG_40Rnd_Black",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Mag_CMAG_40Rnd_Green",
+    "slotSize": 4
+  },
+  {
     "itemType": "Magnum",
     "slotSize": 8
   },
@@ -6825,6 +6885,1370 @@
   },
   {
     "itemType": "Misc_TirePile_Burning_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_BackLeft",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_BackLeft_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_BackLeft_BlackRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_BackLeft_WhiteRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_BackLeft_Wine",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_BackLeft_WineRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_BackRight",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_BackRight_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_BackRight_BlackRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_BackRight_WhiteRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_BackRight_Wine",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_BackRight_WineRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_CoDriver",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_CoDriver_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_CoDriver_BlackRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_CoDriver_WhiteRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_CoDriver_Wine",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_CoDriver_WineRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_Driver",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_Driver_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_Driver_BlackRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_Driver_WhiteRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_Driver_Wine",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_Driver_WineRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanHood",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanHood_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanHood_BlackRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanHood_WhiteRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanHood_Wine",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanHood_WineRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanTrunk",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanTrunk_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanTrunk_BlackRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanTrunk_WhiteRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanTrunk_Wine",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanTrunk_WineRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanWheel",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_1_1",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_1_1_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_1_1_BlackRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_1_1_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_1_1_BlueRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_1_1_RedRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_1_2",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_1_2_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_1_2_BlackRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_1_2_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_1_2_BlueRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_1_2_RedRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_2_1",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_2_1_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_2_1_BlackRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_2_1_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_2_1_BlueRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_2_1_RedRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_2_2",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_2_2_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_2_2_BlackRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_2_2_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_2_2_BlueRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_2_2_RedRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Hood",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Hood_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Hood_BlackRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Hood_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Hood_BlueRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Hood_RedRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Trunk",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Trunk_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Trunk_BlackRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Trunk_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Trunk_BlueRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Trunk_RedRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Wheel",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackDoors_CoDriver",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackDoors_CoDriver_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackDoors_CoDriver_BlueRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackDoors_CoDriver_GreenRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackDoors_CoDriver_White",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackDoors_CoDriver_WhiteRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackDoors_Driver",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackDoors_Driver_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackDoors_Driver_BlueRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackDoors_Driver_GreenRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackDoors_Driver_White",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackDoors_Driver_WhiteRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackHood",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackHood_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackHood_BlueRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackHood_GreenRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackHood_White",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackHood_WhiteRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackTrunk",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackTrunk_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackTrunk_BlueRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackTrunk_GreenRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackTrunk_White",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackTrunk_WhiteRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackWheel",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Offroad_02_Door_1_1",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Offroad_02_Door_1_1_Rust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Offroad_02_Door_1_2",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Offroad_02_Door_1_2_Rust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Offroad_02_Door_2_1",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Offroad_02_Door_2_1_Rust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Offroad_02_Door_2_2",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Offroad_02_Door_2_2_Rust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Offroad_02_Hood",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Offroad_02_Trunk",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Offroad_02_Trunk_Rust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Offroad_02_Wheel",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_1_1",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_1_1_Grey",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_1_1_GreyRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_1_1_Red",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_1_1_RedRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_1_1_YellowRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_1_2",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_1_2_Grey",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_1_2_GreyRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_1_2_Red",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_1_2_RedRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_1_2_YellowRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_2_1",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_2_1_Grey",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_2_1_GreyRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_2_1_Red",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_2_1_RedRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_2_1_YellowRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_2_2",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_2_2_Grey",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_2_2_GreyRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_2_2_Red",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_2_2_RedRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_2_2_YellowRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Hood",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Hood_Grey",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Hood_GreyRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Hood_Red",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Hood_RedRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Hood_YellowRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Trunk",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Trunk_Grey",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Trunk_GreyRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Trunk_Red",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Trunk_RedRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Trunk_YellowRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Wheel",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Door_1_1",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Door_1_1_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Door_1_1_BlueRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Door_1_1_GreenRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Door_1_1_Orange",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Door_1_1_OrangeRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Door_2_1",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Door_2_1_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Door_2_1_BlueRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Door_2_1_GreenRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Door_2_1_Orange",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Door_2_1_OrangeRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Hood",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Hood_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Hood_BlueRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Hood_GreenRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Hood_Orange",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Hood_OrangeRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Wheel",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_WheelDouble",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_BlueCollarFat_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_BlueCollarFat_Green",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_BlueCollarFat_Red",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_BlueCollarFat_White",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_CitizenANormal_Beige",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_CitizenANormal_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_CitizenANormal_Brown",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_CitizenBSkinny",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_Clerk_Normal_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_Clerk_Normal_Green",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_Clerk_Normal_Red",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_Clerk_Normal_White",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_DoctorSkinny",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_HikerSkinny_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_HikerSkinny_Green",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_HikerSkinny_Grey",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_HikerSkinny_Red",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_JoggerSkinny_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_JoggerSkinny_Brown",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_JoggerSkinny_Green",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_JoggerSkinny_Red",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_JournalistNormal_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_JournalistNormal_Green",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_JournalistNormal_Red",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_JournalistNormal_White",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_MechanicNormal_Beige",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_MechanicNormal_Green",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_MechanicNormal_Grey",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_MechanicNormal_Orange",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_MilkMaidOld_Beige",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_MilkMaidOld_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_MilkMaidOld_Green",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_MilkMaidOld_Grey",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_NurseFat",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_NurseFat_Winter",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_ParamedicNormal_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_ParamedicNormal_Green",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_ParamedicNormal_Red",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_PatientOld",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_PatientOld_Winter",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_PoliceWomanNormal",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_ShortSkirt_beige",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_ShortSkirt_black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_ShortSkirt_brown",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_ShortSkirt_checks",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_ShortSkirt_green",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_ShortSkirt_grey",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_ShortSkirt_red",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_ShortSkirt_stripes",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_ShortSkirt_white",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_ShortSkirt_yellow",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_SkaterYoung_Brown",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_SkaterYoung_Striped",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_SkaterYoung_Violet",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_SurvivorNormal_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_SurvivorNormal_Orange",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_SurvivorNormal_Red",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_SurvivorNormal_White",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_VillagerOld_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_VillagerOld_Green",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_VillagerOld_Red",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbF_VillagerOld_White",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_CitizenASkinny_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_CitizenASkinny_Brown",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_CitizenASkinny_Grey",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_CitizenASkinny_Red",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_CitizenBFat_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_CitizenBFat_Green",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_CitizenBFat_Red",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_ClerkFat_Brown",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_ClerkFat_Grey",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_ClerkFat_Khaki",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_ClerkFat_White",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_CommercialPilotOld_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_CommercialPilotOld_Brown",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_CommercialPilotOld_Grey",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_CommercialPilotOld_Olive",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_ConstrWorkerNormal_Beige",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_ConstrWorkerNormal_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_ConstrWorkerNormal_Green",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_ConstrWorkerNormal_Grey",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_DoctorFat",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_DoctorFat_Winter",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_eastSoldier_Heavy_Navy",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_eastSoldier_normal_Navy",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_FarmerFat_Beige",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_FarmerFat_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_FarmerFat_Brown",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_FarmerFat_Green",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_FirefighterNormal",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_FishermanOld_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_FishermanOld_Green",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_FishermanOld_Grey",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_FishermanOld_Red",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_Gamedev_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_Gamedev_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_Gamedev_Gray",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_HandymanNormal_Beige",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_HandymanNormal_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_HandymanNormal_Green",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_HandymanNormal_Grey",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_HandymanNormal_White",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_HeavyIndustryWorker",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_HermitSkinny_Beige",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_HermitSkinny_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_HermitSkinny_Green",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_HermitSkinny_Red",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_HikerSkinny_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_HikerSkinny_Green",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_HikerSkinny_Yellow",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_HunterOld_Autumn",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_HunterOld_Spring",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_HunterOld_Summer",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_HunterOld_Winter",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_Jacket_beige",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_Jacket_black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_Jacket_blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_Jacket_bluechecks",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_Jacket_brown",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_Jacket_greenchecks",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_Jacket_grey",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_Jacket_khaki",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_Jacket_magenta",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_Jacket_stripes",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_JoggerSkinny_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_JoggerSkinny_Green",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_JoggerSkinny_Red",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_JournalistSkinny",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_MechanicSkinny_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_MechanicSkinny_Green",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_MechanicSkinny_Grey",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_MechanicSkinny_Red",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_MotobikerFat_Beige",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_MotobikerFat_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_MotobikerFat_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Zmbm_Mummy",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_NBC_Grey",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_NBC_White",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_NBC_Yellow",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_OffshoreWorker_Green",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_OffshoreWorker_Orange",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_OffshoreWorker_Red",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_OffshoreWorker_Yellow",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_ParamedicNormal_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_ParamedicNormal_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_ParamedicNormal_Green",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_ParamedicNormal_Red",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_PatientSkinny",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_PatientSkinny_Winter",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_PatrolNormal_Autumn",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_PatrolNormal_Flat",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_PatrolNormal_PautRev",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_PatrolNormal_Summer",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_PatrolNormal_Winter",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_PolicemanFat",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_PolicemanSpecForce",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_PolicemanSpecForce_Heavy",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_priestPopSkinny",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_PrisonerSkinny",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_Santa",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_SkaterYoung_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_SkaterYoung_Brown",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_SkaterYoung_Green",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_SkaterYoung_Grey",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_SoldierNormal",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_usSoldier_Heavy_Woodland",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_usSoldier_normal_Desert",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_usSoldier_normal_Woodland",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_usSoldier_Officer_Convoy",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_usSoldier_Officer_Desert",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_VillagerOld_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_VillagerOld_Green",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "ZmbM_VillagerOld_White",
     "slotSize": 1000
   }
 ]
