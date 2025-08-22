@@ -169,143 +169,143 @@
     },
     {
         "type": "Ammo_12gaPellets",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_12gaRubberSlug",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_12gaSlug",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_22",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_308Win",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_308WinTracer",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_357",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_380",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_40mm_Chemgas",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_40mm_ChemGas",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_40mm_Explosive",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_40mm_Smoke_Black",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_40mm_Smoke_Green",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_40mm_Smoke_Red",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_40mm_Smoke_White",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_45ACP",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_545x39",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_545x39Tracer",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_556x45",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_556x45Tracer",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_762x39",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_762x39Tracer",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_762x54",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_762x54Tracer",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_9x19",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_9x39",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_9x39AP",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_CupidsBolt",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_Flare",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_FlareBlue",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_FlareGreen",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_FlareRed",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_HuntingBolt",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_ImprovisedBolt_1",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Ammo_ImprovisedBolt_2",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "AmmoBox",
@@ -313,83 +313,83 @@
     },
     {
         "type": "AmmoBox_00buck_10rnd",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "AmmoBox_12gaRubberSlug_10Rnd",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "AmmoBox_12gaSlug_10Rnd",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "AmmoBox_22_50Rnd",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "AmmoBox_308Win_20Rnd",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "AmmoBox_308WinTracer_20Rnd",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "AmmoBox_357_20Rnd",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "AmmoBox_380_35rnd",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "AmmoBox_45ACP_25rnd",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "AmmoBox_545x39_20Rnd",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "AmmoBox_545x39Tracer_20Rnd",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "AmmoBox_556x45_20Rnd",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "AmmoBox_556x45Tracer_20Rnd",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "AmmoBox_762x39_20Rnd",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "AmmoBox_762x39Tracer_20Rnd",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "AmmoBox_762x54_20Rnd",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "AmmoBox_762x54Tracer_20Rnd",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "AmmoBox_9x19_25rnd",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "AmmoBox_9x39_20Rnd",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "AmmoBox_9x39AP_20Rnd",
-        "category": "weapons"
+        "category": "weapons_ammo"
     },
     {
         "type": "Anniversary_FireworksLauncher",
@@ -4849,11 +4849,11 @@
     },
     {
         "type": "RabbitPelt",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "RabbitSnareTrap",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "RadarCap_Black",
