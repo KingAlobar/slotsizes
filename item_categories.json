@@ -5245,7 +5245,7 @@
     },
     {
         "type": "SheepPelt",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "SheepSteakMeat",
@@ -6145,7 +6145,7 @@
     },
     {
         "type": "WildboarPelt",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "Winchester70",
@@ -6205,7 +6205,7 @@
     },
     {
         "type": "WolfPelt",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "WolfSteakMeat",
@@ -7138,5 +7138,29 @@
     {
         "type": "ZucchiniSeedsPack",
         "category": "food"
+    },
+    {
+        "type": "SpearBone",
+        "category": "tools_crafted"
+    },
+    {
+        "type": "SpearStone",
+        "category": "tools_crafted"
+    },
+    {
+        "type": "TannedLeather",
+        "category": "tools_crafted"
+    },
+    {
+        "type": "TerritoryFlagKit",
+        "category": "tools_crafted"
+    },
+    {
+        "type": "WatchtowerKit",
+        "category": "tools_crafted"
+    },
+    {
+        "type": "TerritoryFlagKit",
+        "category": "tools_crafted"
     }
 ]
