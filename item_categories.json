@@ -4600,6 +4600,10 @@
         "category": "explosives"
     },
     {
+        "type": "PlantMaterial",
+        "category": "tool"
+    },
+    {
         "type": "PlateCarrierHolster",
         "category": "clothes"
     },
@@ -4936,8 +4940,12 @@
         "category": "food"
     },
     {
+        "type": "RemoteDetonator",
+        "category": "explosives"
+    },
+    {
         "type": "RemoteDetonatorTrigger",
-        "category": "tools"
+        "category": "explosives"
     },
     {
         "type": "Repeater",
