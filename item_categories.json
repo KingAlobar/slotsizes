@@ -7162,5 +7162,9 @@
     {
         "type": "TerritoryFlagKit",
         "category": "tools_crafted"
+    },
+    {
+        "type": "SharpWoodenStick",
+        "category": "tools_crafted"
     }
 ]
