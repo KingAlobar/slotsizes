@@ -9,11 +9,11 @@
     },
     {
         "type": "AgaricusMushroom",
-        "category": "food"
+        "category": "food_produce"
     },
     {
         "type": "AirborneMask",
-        "category": "clothes"
+        "category": "clothes_mask"
     },
     {
         "type": "AK_Bayonet",
@@ -169,143 +169,143 @@
     },
     {
         "type": "Ammo_12gaPellets",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_loose"
     },
     {
         "type": "Ammo_12gaRubberSlug",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_loose"
     },
     {
         "type": "Ammo_12gaSlug",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_loose"
     },
     {
         "type": "Ammo_22",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_loose"
     },
     {
         "type": "Ammo_308Win",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_loose"
     },
     {
         "type": "Ammo_308WinTracer",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_loose"
     },
     {
         "type": "Ammo_357",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_loose"
     },
     {
         "type": "Ammo_380",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_loose"
     },
     {
         "type": "Ammo_40mm_Chemgas",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_40mm"
     },
     {
         "type": "Ammo_40mm_ChemGas",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_40mm"
     },
     {
         "type": "Ammo_40mm_Explosive",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_40mm"
     },
     {
         "type": "Ammo_40mm_Smoke_Black",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_40mm"
     },
     {
         "type": "Ammo_40mm_Smoke_Green",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_40mm"
     },
     {
         "type": "Ammo_40mm_Smoke_Red",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_40mm"
     },
     {
         "type": "Ammo_40mm_Smoke_White",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_40mm"
     },
     {
         "type": "Ammo_45ACP",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_loose"
     },
     {
         "type": "Ammo_545x39",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_loose"
     },
     {
         "type": "Ammo_545x39Tracer",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_loose"
     },
     {
         "type": "Ammo_556x45",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_loose"
     },
     {
         "type": "Ammo_556x45Tracer",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_loose"
     },
     {
         "type": "Ammo_762x39",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_loose"
     },
     {
         "type": "Ammo_762x39Tracer",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_loose"
     },
     {
         "type": "Ammo_762x54",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_loose"
     },
     {
         "type": "Ammo_762x54Tracer",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_loose"
     },
     {
         "type": "Ammo_9x19",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_loose"
     },
     {
         "type": "Ammo_9x39",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_loose"
     },
     {
         "type": "Ammo_9x39AP",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_loose"
     },
     {
         "type": "Ammo_CupidsBolt",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_bolt"
     },
     {
         "type": "Ammo_Flare",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_flare"
     },
     {
         "type": "Ammo_FlareBlue",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_flare"
     },
     {
         "type": "Ammo_FlareGreen",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_flare"
     },
     {
         "type": "Ammo_FlareRed",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_flare"
     },
     {
         "type": "Ammo_HuntingBolt",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_bolt"
     },
     {
         "type": "Ammo_ImprovisedBolt_1",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_bolt"
     },
     {
         "type": "Ammo_ImprovisedBolt_2",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_bolt"
     },
     {
         "type": "AmmoBox",
@@ -313,83 +313,83 @@
     },
     {
         "type": "AmmoBox_00buck_10rnd",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_box"
     },
     {
         "type": "AmmoBox_12gaRubberSlug_10Rnd",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_box"
     },
     {
         "type": "AmmoBox_12gaSlug_10Rnd",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_box"
     },
     {
         "type": "AmmoBox_22_50Rnd",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_box"
     },
     {
         "type": "AmmoBox_308Win_20Rnd",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_box"
     },
     {
         "type": "AmmoBox_308WinTracer_20Rnd",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_box"
     },
     {
         "type": "AmmoBox_357_20Rnd",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_box"
     },
     {
         "type": "AmmoBox_380_35rnd",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_box"
     },
     {
         "type": "AmmoBox_45ACP_25rnd",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_box"
     },
     {
         "type": "AmmoBox_545x39_20Rnd",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_box"
     },
     {
         "type": "AmmoBox_545x39Tracer_20Rnd",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_box"
     },
     {
         "type": "AmmoBox_556x45_20Rnd",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_box"
     },
     {
         "type": "AmmoBox_556x45Tracer_20Rnd",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_box"
     },
     {
         "type": "AmmoBox_762x39_20Rnd",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_box"
     },
     {
         "type": "AmmoBox_762x39Tracer_20Rnd",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_box"
     },
     {
         "type": "AmmoBox_762x54_20Rnd",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_box"
     },
     {
         "type": "AmmoBox_762x54Tracer_20Rnd",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_box"
     },
     {
         "type": "AmmoBox_9x19_25rnd",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_box"
     },
     {
         "type": "AmmoBox_9x39_20Rnd",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_box"
     },
     {
         "type": "AmmoBox_9x39AP_20Rnd",
-        "category": "weapons_ammo"
+        "category": "weapons_ammo_box"
     },
     {
         "type": "Anniversary_FireworksLauncher",
@@ -401,7 +401,7 @@
     },
     {
         "type": "AntiChemInjector",
-        "category": "tools"
+        "category": "tools_medic"
     },
     {
         "type": "AntiPestsSpray",
@@ -413,195 +413,195 @@
     },
     {
         "type": "Armband_Altis",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_APA",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_BabyDeer",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_Bear",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_Black",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_Blue",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_Bohemia",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_BrainZ",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_Cannibals",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_CDF",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_Chedaki",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_CHEL",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_Chernarus",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_CMC",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_Crook",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_DayZ",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_Green",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_HunterZ",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_Livonia",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_LivoniaArmy",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_LivoniaPolice",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_NAPA",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_NSahrani",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_Orange",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_Pink",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_Pirates",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_Red",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_Refuge",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_Rex",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_Rooster",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_RSTA",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_Snake",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_SSahrani",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_TEC",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_UEC",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_White",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_Wolf",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_Yellow",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_Zagorky",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "Armband_Zenit",
-        "category": "clothes"
+        "category": "clothes_armband"
     },
     {
         "type": "ArmyPouch_Beige",
-        "category": "containers"
+        "category": "containers_bag"
     },
     {
         "type": "ArmyPouch_Black",
-        "category": "containers"
+        "category": "containers_bag"
     },
     {
         "type": "ArmyPouch_Camo",
-        "category": "containers"
+        "category": "containers_bag"
     },
     {
         "type": "ArmyPouch_Green",
-        "category": "containers"
+        "category": "containers_bag"
     },
     {
         "type": "AssaultBag_Black",
-        "category": "containers"
+        "category": "containers_bag"
     },
     {
         "type": "AssaultBag_Green",
-        "category": "containers"
+        "category": "containers_bag"
     },
     {
         "type": "AssaultBag_Ttsko",
-        "category": "containers"
+        "category": "containers_bag"
     },
     {
         "type": "AssaultBag_Winter",
-        "category": "containers"
+        "category": "containers_bag"
     },
     {
         "type": "ASVAL",
@@ -637,7 +637,7 @@
     },
     {
         "type": "AuriculariaMushroom",
-        "category": "food"
+        "category": "food_produce"
     },
     {
         "type": "AviatorGlasses",
@@ -765,31 +765,39 @@
     },
     {
         "type": "Bandana_Blackpattern",
-        "category": "clothes"
+        "category": "clothes_bandana"
+    },
+    {
+        "type": "Bandana_Blue",
+        "category": "clothes_bandana"
     },
     {
         "type": "Bandana_Camopattern",
-        "category": "clothes"
+        "category": "clothes_bandana"
     },
     {
         "type": "Bandana_Greenpattern",
-        "category": "clothes"
+        "category": "clothes_bandana"
+    },
+    {
+        "type": "Bandana_Pink",
+        "category": "clothes_bandana"
     },
     {
         "type": "Bandana_Polkapattern",
-        "category": "clothes"
+        "category": "clothes_bandana"
     },
     {
         "type": "Bandana_Redpattern",
-        "category": "clothes"
+        "category": "clothes_bandana"
     },
     {
         "type": "BarbedBaseballBat",
-        "category": "tools"
+        "category": "tool_melee"
     },
     {
         "type": "BarbedWire",
-        "category": "tools"
+        "category": "tools_base"
     },
     {
         "type": "Bark_Birch",
@@ -801,35 +809,35 @@
     },
     {
         "type": "Barrel_Blue",
-        "category": "containers"
+        "category": "barrel"
     },
     {
         "type": "Barrel_Green",
-        "category": "containers"
+        "category": "barrel"
     },
     {
         "type": "Barrel_Red",
-        "category": "containers"
+        "category": "barrel"
     },
     {
         "type": "Barrel_Yellow",
-        "category": "containers"
+        "category": "barrel"
     },
     {
         "type": "BarrelHoles_Blue",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "BarrelHoles_Green",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "BarrelHoles_Red",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "BarrelHoles_Yellow",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "BaseballBat",
@@ -837,51 +845,51 @@
     },
     {
         "type": "BaseballCap_Beige",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "BaseballCap_Black",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "BaseballCap_Blue",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "BaseballCap_Camo",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "BaseballCap_CMMG_Black",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "BaseballCap_CMMG_Pink",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "BaseballCap_Olive",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "BaseballCap_Pink",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "BaseballCap_Red",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "BaseRadio",
-        "category": "tools"
+        "category": "tools_battery"
     },
     {
         "type": "Battery9V",
-        "category": "tools"
+        "category": "tools_battery"
     },
     {
         "type": "BatteryCharger",
-        "category": "tools"
+        "category": "tools_battery"
     },
     {
         "type": "BDUJacket",
@@ -893,51 +901,51 @@
     },
     {
         "type": "BeanieHat_Beige",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "BeanieHat_Black",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "BeanieHat_Blue",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "BeanieHat_Brown",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "BeanieHat_Green",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "BeanieHat_Grey",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "BeanieHat_Pink",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "BeanieHat_Red",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "Bear_Beige",
-        "category": "containers"
+        "category": "containers_bear"
     },
     {
         "type": "Bear_Dark",
-        "category": "containers"
+        "category": "containers_bear"
     },
     {
         "type": "Bear_Pink",
-        "category": "containers"
+        "category": "containers_bear"
     },
     {
         "type": "Bear_White",
-        "category": "containers"
+        "category": "containers_bear"
     },
     {
         "type": "BearPelt",
@@ -945,7 +953,7 @@
     },
     {
         "type": "BearSteakMeat",
-        "category": "food"
+        "category": "food_crafted"
     },
     {
         "type": "BearTrap",
@@ -953,7 +961,7 @@
     },
     {
         "type": "Binoculars",
-        "category": "tools"
+        "category": "tools_navigation"
     },
     {
         "type": "Bitterlings",
@@ -997,11 +1005,11 @@
     },
     {
         "type": "BoarSteakMeat",
-        "category": "food"
+        "category": "food_crafted"
     },
     {
         "type": "BoletusMushroom",
-        "category": "food"
+        "category": "food_produce"
     },
     {
         "type": "BomberJacket_Black",
@@ -1049,47 +1057,47 @@
     },
     {
         "type": "BoonieHat_Black",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "BoonieHat_Blue",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "BoonieHat_DPM",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "BoonieHat_Dubok",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "BoonieHat_Flecktran",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "BoonieHat_NavyBlue",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "BoonieHat_Olive",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "BoonieHat_Orange",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "BoonieHat_Red",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "BoonieHat_Tan",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "BoonieHat_Winter",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "BoxCerealCrunchin",
@@ -1161,7 +1169,7 @@
     },
     {
         "type": "BudenovkaHat_Gray",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "BUISOptic",
@@ -1173,11 +1181,11 @@
     },
     {
         "type": "BurlapSackCover",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "BurlapStrip",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "BushlatPoliceJacket_Blue",
@@ -1209,7 +1217,7 @@
     },
     {
         "type": "CaninaBerry",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "CanisterGasoline",
@@ -1221,15 +1229,15 @@
     },
     {
         "type": "Canteen",
-        "category": "food"
+        "category": "food_water"
     },
     {
         "type": "CanvasBag_Medical",
-        "category": "containers"
+        "category": "containers_bag"
     },
     {
         "type": "CanvasBag_Olive",
-        "category": "containers"
+        "category": "containers_bag"
     },
     {
         "type": "CanvasPants_Beige",
@@ -1393,15 +1401,15 @@
     },
     {
         "type": "ChildBag_Blue",
-        "category": "containers"
+        "category": "containers_bag"
     },
     {
         "type": "ChildBag_Green",
-        "category": "containers"
+        "category": "containers_bag"
     },
     {
         "type": "ChildBag_Red",
-        "category": "containers"
+        "category": "containers_bag"
     },
     {
         "type": "Chips",
@@ -1581,79 +1589,79 @@
     },
     {
         "type": "Colt1911",
-        "category": "weapons"
+        "category": "weapons_pistol"
     },
     {
         "type": "CombatBoots_Beige",
-        "category": "clothes"
+        "category": "clothes_feet"
     },
     {
         "type": "CombatBoots_Black",
-        "category": "clothes"
+        "category": "clothes_feet"
     },
     {
         "type": "CombatBoots_Brown",
-        "category": "clothes"
+        "category": "clothes_feet"
     },
     {
         "type": "CombatBoots_Green",
-        "category": "clothes"
+        "category": "clothes_feet"
     },
     {
         "type": "CombatBoots_Grey",
-        "category": "clothes"
+        "category": "clothes_feet"
     },
     {
         "type": "CombatKnife",
-        "category": "tools"
+        "category": "tools_blade"
     },
     {
         "type": "CombinationLock",
-        "category": "tools"
+        "category": "tools_base"
     },
     {
         "type": "CombinationLock4",
-        "category": "tools"
+        "category": "tools_base"
     },
     {
         "type": "Compass",
-        "category": "tools"
+        "category": "tools_navigation"
     },
     {
         "type": "ConstructionHelmet_Blue",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "ConstructionHelmet_Lime",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "ConstructionHelmet_Orange",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "ConstructionHelmet_Red",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "ConstructionHelmet_White",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "ConstructionHelmet_Yellow",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "CookingStand",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "CourierBag",
-        "category": "containers"
+        "category": "containers_bag_crafted"
     },
     {
         "type": "CowboyHat_black",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "CowboyHat_Brown",
@@ -1661,11 +1669,11 @@
     },
     {
         "type": "CowboyHat_darkBrown",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "CowboyHat_green",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "CowPelt",
@@ -1673,19 +1681,19 @@
     },
     {
         "type": "CowSteakMeat",
-        "category": "food"
+        "category": "food_crafted"
     },
     {
         "type": "CoyoteBag_Brown",
-        "category": "containers"
+        "category": "containers_bag"
     },
     {
         "type": "CoyoteBag_Green",
-        "category": "containers"
+        "category": "containers_bag"
     },
     {
         "type": "CoyoteBag_Winter",
-        "category": "containers"
+        "category": "containers_bag"
     },
     {
         "type": "CrabCan",
@@ -1693,7 +1701,7 @@
     },
     {
         "type": "CrabCan_Opened",
-        "category": "food"
+        "category": "food_crafted"
     },
     {
         "type": "Crackers",
@@ -1701,7 +1709,7 @@
     },
     {
         "type": "CraterellusMushroom",
-        "category": "food"
+        "category": "food_produce"
     },
     {
         "type": "CrookedNose",
@@ -1945,111 +1953,111 @@
     },
     {
         "type": "DryBag_Black",
-        "category": "containers"
+        "category": "containers_bag"
     },
     {
         "type": "DryBag_Blue",
-        "category": "containers"
+        "category": "containers_bag"
     },
     {
         "type": "DryBag_Green",
-        "category": "containers"
+        "category": "containers_bag"
     },
     {
         "type": "DryBag_Orange",
-        "category": "containers"
+        "category": "containers_bag"
     },
     {
         "type": "DryBag_Red",
-        "category": "containers"
+        "category": "containers_bag"
     },
     {
         "type": "DryBag_Yellow",
-        "category": "containers"
+        "category": "containers_bag"
     },
     {
         "type": "DrysackBag_Green",
-        "category": "containers"
+        "category": "containers_bag_crafted"
     },
     {
         "type": "DrysackBag_Orange",
-        "category": "containers"
+        "category": "containers_bag_crafted"
     },
     {
         "type": "DrysackBag_Yellow",
-        "category": "containers"
+        "category": "containers_bag_crafted"
     },
     {
         "type": "DuctTape",
-        "category": "tools"
+        "category": "tools_repair"
     },
     {
         "type": "DuffelBagSmall_Camo",
-        "category": "containers"
+        "category": "containers_bag"
     },
     {
         "type": "DuffelBagSmall_Green",
-        "category": "containers"
+        "category": "containers_bag"
     },
     {
         "type": "DuffelBagSmall_Medical",
-        "category": "containers"
+        "category": "containers_bag"
     },
     {
         "type": "EasterEgg",
-        "category": "tools"
+        "category": "tools_special"
     },
     {
         "type": "ElectronicRepairKit",
-        "category": "tools"
+        "category": "tools_repair"
     },
     {
         "type": "Engraved1911",
-        "category": "weapons"
+        "category": "weapons_pistol"
     },
     {
         "type": "Epinephrine",
-        "category": "tools"
+        "category": "tools_medic"
     },
     {
         "type": "EpoxyPutty",
-        "category": "tools"
+        "category": "tools_repair"
     },
     {
         "type": "EyeMask_Black",
-        "category": "clothes"
+        "category": "clothes_mask"
     },
     {
         "type": "EyeMask_Blue",
-        "category": "clothes"
+        "category": "clothes_mask"
     },
     {
         "type": "EyeMask_Christmas",
-        "category": "clothes"
+        "category": "clothes_mask"
     },
     {
         "type": "EyeMask_Dead",
-        "category": "clothes"
+        "category": "clothes_mask"
     },
     {
         "type": "EyeMask_NewYears",
-        "category": "clothes"
+        "category": "clothes_mask"
     },
     {
         "type": "EyeMask_Red",
-        "category": "clothes"
+        "category": "clothes_mask"
     },
     {
         "type": "EyeMask_Valentines",
-        "category": "clothes"
+        "category": "clothes_mask"
     },
     {
         "type": "EyeMask_Yellow",
-        "category": "clothes"
+        "category": "clothes_mask"
     },
     {
         "type": "EyePatch_Improvised",
-        "category": "clothes"
+        "category": "clothes_crafted"
     },
     {
         "type": "Fabric",
@@ -2057,7 +2065,7 @@
     },
     {
         "type": "FaceCover_Improvised",
-        "category": "clothes"
+        "category": "clothes_crafted"
     },
     {
         "type": "FAL",
@@ -2157,139 +2165,139 @@
     },
     {
         "type": "FishNetTrap",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "Flag_Altis",
-        "category": "tools"
+        "category": "tools_flag"
     },
     {
         "type": "Flag_APA",
-        "category": "tools"
+        "category": "tools_flag"
     },
     {
         "type": "Flag_BabyDeer",
-        "category": "tools"
+        "category": "tools_flag"
     },
     {
         "type": "Flag_Bear",
-        "category": "tools"
+        "category": "tools_flag"
     },
     {
         "type": "Flag_Bohemia",
-        "category": "tools"
+        "category": "tools_flag"
     },
     {
         "type": "Flag_BrainZ",
-        "category": "tools"
+        "category": "tools_flag"
     },
     {
         "type": "Flag_Cannibals",
-        "category": "tools"
+        "category": "tools_flag"
     },
     {
         "type": "Flag_CDF",
-        "category": "tools"
+        "category": "tools_flag"
     },
     {
         "type": "Flag_Chedaki",
-        "category": "tools"
+        "category": "tools_flag"
     },
     {
         "type": "Flag_CHEL",
-        "category": "tools"
+        "category": "tools_flag"
     },
     {
         "type": "Flag_Chernarus",
-        "category": "tools"
+        "category": "tools_flag"
     },
     {
         "type": "Flag_CMC",
-        "category": "tools"
+        "category": "tools_flag"
     },
     {
         "type": "Flag_Crook",
-        "category": "tools"
+        "category": "tools_flag"
     },
     {
         "type": "Flag_DayZ",
-        "category": "tools"
+        "category": "tools_flag"
     },
     {
         "type": "Flag_HunterZ",
-        "category": "tools"
+        "category": "tools_flag"
     },
     {
         "type": "Flag_Livonia",
-        "category": "tools"
+        "category": "tools_flag"
     },
     {
         "type": "Flag_LivoniaArmy",
-        "category": "tools"
+        "category": "tools_flag"
     },
     {
         "type": "Flag_LivoniaPolice",
-        "category": "tools"
+        "category": "tools_flag"
     },
     {
         "type": "Flag_NAPA",
-        "category": "tools"
+        "category": "tools_flag"
     },
     {
         "type": "Flag_NSahrani",
-        "category": "tools"
+        "category": "tools_flag"
     },
     {
         "type": "Flag_Pirates",
-        "category": "tools"
+        "category": "tools_flag"
     },
     {
         "type": "Flag_Refuge",
-        "category": "tools"
+        "category": "tools_flag"
     },
     {
         "type": "Flag_Rex",
-        "category": "tools"
+        "category": "tools_flag"
     },
     {
         "type": "Flag_Rooster",
-        "category": "tools"
+        "category": "tools_flag"
     },
     {
         "type": "Flag_RSTA",
-        "category": "tools"
+        "category": "tools_flag"
     },
     {
         "type": "Flag_Snake",
-        "category": "tools"
+        "category": "tools_flag"
     },
     {
         "type": "Flag_SSahrani",
-        "category": "tools"
+        "category": "tools_flag"
     },
     {
         "type": "Flag_TEC",
-        "category": "tools"
+        "category": "tools_flag"
     },
     {
         "type": "Flag_UEC",
-        "category": "tools"
+        "category": "tools_flag"
     },
     {
         "type": "Flag_White",
-        "category": "tools"
+        "category": "tools_flag"
     },
     {
         "type": "Flag_Wolf",
-        "category": "tools"
+        "category": "tools_flag"
     },
     {
         "type": "Flag_Zagorky",
-        "category": "tools"
+        "category": "tools_flag"
     },
     {
         "type": "Flag_Zenit",
-        "category": "tools"
+        "category": "tools_flag"
     },
     {
         "type": "Flaregun",
@@ -2301,39 +2309,39 @@
     },
     {
         "type": "Flashlight",
-        "category": "tools"
+        "category": "tools_battery"
     },
     {
         "type": "FlatCap_Black",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "FlatCap_BlackCheck",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "FlatCap_Blue",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "FlatCap_Brown",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "FlatCap_BrownCheck",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "FlatCap_Grey",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "FlatCap_GreyCheck",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "FlatCap_Red",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "FNP45_MRDSOptic",
@@ -2361,15 +2369,15 @@
     },
     {
         "type": "FryingPan",
-        "category": "tools"
+        "category": "container"
     },
     {
         "type": "FurCourierBag",
-        "category": "containers"
+        "category": "containers_bag_crafted"
     },
     {
         "type": "FurImprovisedBag",
-        "category": "containers"
+        "category": "containers_bag_crafted"
     },
     {
         "type": "GardenLime",
@@ -2377,155 +2385,155 @@
     },
     {
         "type": "GardenPlot",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "GardenPlotGreenhouse",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "GardenPlotPolytunnel",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "GasMask",
-        "category": "clothes"
+        "category": "clothes_mask"
     },
     {
         "type": "GasMask_Filter",
-        "category": "clothes"
+        "category": "tools_medic"
     },
     {
         "type": "GasMask_Filter_Improvised",
-        "category": "clothes"
+        "category": "tools_crafted"
     },
     {
         "type": "GhillieAtt_Mossy",
-        "category": "clothes"
+        "category": "ghillie_Gun"
     },
     {
         "type": "GhillieAtt_Tan",
-        "category": "clothes"
+        "category": "ghillie_Gun"
     },
     {
         "type": "GhillieAtt_Winter",
-        "category": "clothes"
+        "category": "ghillie_Gun"
     },
     {
         "type": "GhillieAtt_Woodland",
-        "category": "clothes"
+        "category": "ghillie_Gun"
     },
     {
         "type": "GhillieBushrag_Mossy",
-        "category": "clothes"
+        "category": "ghillie_Clothes"
     },
     {
         "type": "GhillieBushrag_Tan",
-        "category": "clothes"
+        "category": "ghillie_Clothes"
     },
     {
         "type": "GhillieBushrag_Winter",
-        "category": "clothes"
+        "category": "ghillie_Clothes"
     },
     {
         "type": "GhillieBushrag_Woodland",
-        "category": "clothes"
+        "category": "ghillie_Clothes"
     },
     {
         "type": "GhillieHood_Mossy",
-        "category": "clothes"
+        "category": "ghillie_Clothes"
     },
     {
         "type": "GhillieHood_Tan",
-        "category": "clothes"
+        "category": "ghillie_Clothes"
     },
     {
         "type": "GhillieHood_Winter",
-        "category": "clothes"
+        "category": "ghillie_Clothes"
     },
     {
         "type": "GhillieHood_Woodland",
-        "category": "clothes"
+        "category": "ghillie_Clothes"
     },
     {
         "type": "GhillieSuit_Mossy",
-        "category": "clothes"
+        "category": "ghillie_Clothes"
     },
     {
         "type": "GhillieSuit_Tan",
-        "category": "tools"
+        "category": "ghillie_Clothes"
     },
     {
         "type": "GhillieSuit_Winter",
-        "category": "clothes"
+        "category": "ghillie_Clothes"
     },
     {
         "type": "GhillieSuit_Woodland",
-        "category": "clothes"
+        "category": "ghillie_Clothes"
     },
     {
         "type": "GhillieTop_Mossy",
-        "category": "clothes"
+        "category": "ghillie_Clothes"
     },
     {
         "type": "GhillieTop_Tan",
-        "category": "clothes"
+        "category": "ghillie_Clothes"
     },
     {
         "type": "GhillieTop_Winter",
-        "category": "clothes"
+        "category": "ghillie_Clothes"
     },
     {
         "type": "GhillieTop_Woodland",
-        "category": "clothes"
+        "category": "ghillie_Clothes"
     },
     {
         "type": "GiftBox_Large_1",
-        "category": "containers"
+        "category": "containers_gift"
     },
     {
         "type": "GiftBox_Large_2",
-        "category": "containers"
+        "category": "containers_gift"
     },
     {
         "type": "GiftBox_Large_3",
-        "category": "containers"
+        "category": "containers_gift"
     },
     {
         "type": "GiftBox_Large_4",
-        "category": "containers"
+        "category": "containers_gift"
     },
     {
         "type": "GiftBox_Medium_1",
-        "category": "containers"
+        "category": "containers_gift"
     },
     {
         "type": "GiftBox_Medium_2",
-        "category": "containers"
+        "category": "containers_gift"
     },
     {
         "type": "GiftBox_Medium_3",
-        "category": "containers"
+        "category": "containers_gift"
     },
     {
         "type": "GiftBox_Medium_4",
-        "category": "containers"
+        "category": "containers_gift"
     },
     {
         "type": "GiftBox_Small_1",
-        "category": "containers"
+        "category": "containers_gift"
     },
     {
         "type": "GiftBox_Small_2",
-        "category": "containers"
+        "category": "containers_gift"
     },
     {
         "type": "GiftBox_Small_3",
-        "category": "containers"
+        "category": "containers_gift"
     },
     {
         "type": "GiftBox_Small_4",
-        "category": "containers"
+        "category": "containers_gift"
     },
     {
         "type": "GiftWrapPaper",
@@ -2533,7 +2541,7 @@
     },
     {
         "type": "GlassBottle",
-        "category": "containers"
+        "category": "container"
     },
     {
         "type": "Glock19",
@@ -2541,7 +2549,7 @@
     },
     {
         "type": "GlowPlug",
-        "category": "tools"
+        "category": "tools_car"
     },
     {
         "type": "GoatPelt",
@@ -2573,11 +2581,19 @@
     },
     {
         "type": "GorkaHelmet",
-        "category": "clothes"
+        "category": "clothes_head"
+    },
+    {
+        "type": "GorkaHelmet",
+        "category": "GorkaHelmet_Black"
+    },
+    {
+        "type": "GorkaHelmet",
+        "category": "GorkaHelmet_Green"
     },
     {
         "type": "GorkaHelmetVisor",
-        "category": "clothes"
+        "category": "clothes_head_attachment"
     },
     {
         "type": "GorkaPants_Autumn",
@@ -2601,11 +2617,11 @@
     },
     {
         "type": "GP5GasMask",
-        "category": "clothes"
+        "category": "clothes_mask"
     },
     {
         "type": "GPSReceiver",
-        "category": "tools"
+        "category": "tools_battery"
     },
     {
         "type": "GreatHelm",
@@ -2985,39 +3001,39 @@
     },
     {
         "type": "HipPack_Black",
-        "category": "containers"
+        "category": "containers_hip"
     },
     {
         "type": "HipPack_Green",
-        "category": "containers"
+        "category": "containers_hip"
     },
     {
         "type": "HipPack_Medical",
-        "category": "containers"
+        "category": "containers_hip"
     },
     {
         "type": "HipPack_Party",
-        "category": "containers"
+        "category": "containers_hip"
     },
     {
         "type": "HockeyHelmet_Black",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "HockeyHelmet_Blue",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "HockeyHelmet_Red",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "HockeyHelmet_White",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "HockeyMask",
-        "category": "clothes"
+        "category": "clothes_mask"
     },
     {
         "type": "Honey",
@@ -3053,7 +3069,7 @@
     },
     {
         "type": "HumanSteakMeat",
-        "category": "food"
+        "category": "food_crafted"
     },
     {
         "type": "HunterPants_Autumn",
@@ -3285,7 +3301,7 @@
     },
     {
         "type": "LactariusMushroom",
-        "category": "food"
+        "category": "food_produce"
     },
     {
         "type": "LandMineTrap",
@@ -3609,23 +3625,23 @@
     },
     {
         "type": "Mace",
-        "category": "clothes"
-    },
-    {
-        "type": "Machete",
         "category": "tools"
     },
     {
+        "type": "Machete",
+        "category": "tools_blade"
+    },
+    {
         "type": "Mackerel",
-        "category": "food"
+        "category": "food_crafted"
     },
     {
         "type": "MackerelFilletMeat",
-        "category": "food"
+        "category": "food_crafted"
     },
     {
         "type": "MacrolepiotaMushroom",
-        "category": "food"
+        "category": "food_produce"
     },
     {
         "type": "Mag_1911_7Rnd",
@@ -4661,15 +4677,15 @@
     },
     {
         "type": "PleurotusMushroom",
-        "category": "food"
+        "category": "food_produce"
     },
     {
         "type": "Pliers",
-        "category": "tools"
+        "category": "tools_repair"
     },
     {
         "type": "Plum",
-        "category": "food"
+        "category": "food_produce"
     },
     {
         "type": "PM73Rak",
@@ -5641,67 +5657,67 @@
     },
     {
         "type": "SurgicalGloves_Blue",
-        "category": "clothes"
+        "category": "clothes_gloves"
     },
     {
         "type": "SurgicalGloves_Green",
-        "category": "clothes"
+        "category": "clothes_gloves"
     },
     {
         "type": "SurgicalGloves_LightBlue",
-        "category": "clothes"
+        "category": "clothes_gloves"
     },
     {
         "type": "SurgicalGloves_White",
-        "category": "clothes"
+        "category": "clothes_gloves"
     },
     {
         "type": "SurgicalMask",
-        "category": "clothes"
+        "category": "clothes_mask"
     },
     {
         "type": "SV98",
-        "category": "weapons"
+        "category": "weapons_rifle"
     },
     {
         "type": "SVD",
-        "category": "weapons"
+        "category": "weapons_rifle"
     },
     {
         "type": "SVD_Wooden",
-        "category": "weapons"
+        "category": "weapons_rifle"
     },
     {
         "type": "Sweater_Blue",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "Sweater_ChristmasBlue",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "Sweater_ChristmasGreen",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "Sweater_ChristmasRed",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "Sweater_Gray",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "Sweater_Green",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "Sweater_Red",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "Sword",
-        "category": "clothes"
+        "category": "tools_melee"
     },
     {
         "type": "TacticalBaconCan",
@@ -5709,163 +5725,163 @@
     },
     {
         "type": "TacticalBaconCan_Opened",
-        "category": "food"
+        "category": "food_crafted"
     },
     {
         "type": "TacticalGloves_Beige",
-        "category": "clothes"
+        "category": "clothes_gloves"
     },
     {
         "type": "TacticalGloves_Black",
-        "category": "clothes"
+        "category": "clothes_gloves"
     },
     {
         "type": "TacticalGloves_Green",
-        "category": "clothes"
+        "category": "clothes_gloves"
     },
     {
         "type": "TacticalGoggles",
-        "category": "clothes"
+        "category": "clothes_eyes"
     },
     {
         "type": "TacticalShirt_Black",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "TacticalShirt_Grey",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "TacticalShirt_Olive",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "TacticalShirt_Tan",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "TaloonBag_Blue",
-        "category": "containers"
+        "category": "containers_bag"
     },
     {
         "type": "TaloonBag_Green",
-        "category": "containers"
+        "category": "containers_bag"
     },
     {
         "type": "TaloonBag_Orange",
-        "category": "containers"
+        "category": "containers_bag"
     },
     {
         "type": "TaloonBag_Violet",
-        "category": "containers"
+        "category": "containers_bag"
     },
     {
         "type": "TankerHelmet",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "TelnyashkaShirt",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "TetracyclineAntibiotics",
-        "category": "tools"
+        "category": "tools_medic"
     },
     {
         "type": "Thermometer",
-        "category": "tools"
+        "category": "tools_medic"
     },
     {
         "type": "ThickFramesGlasses",
-        "category": "clothes"
+        "category": "clothes_eyes"
     },
     {
         "type": "ThinFramesGlasses",
-        "category": "clothes"
+        "category": "clothes_eyes"
     },
     {
         "type": "TireRepairKit",
-        "category": "tools"
+        "category": "tools_repair"
     },
     {
         "type": "TLRLight",
-        "category": "weapons"
+        "category": "tools_battery"
     },
     {
         "type": "Tomato",
-        "category": "food"
+        "category": "food_produce"
     },
     {
         "type": "TomatoSeeds",
-        "category": "food"
+        "category": "food_produce"
     },
     {
         "type": "TomatoSeedsPack",
-        "category": "food"
+        "category": "food_produce"
     },
     {
         "type": "Torch",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "TorsoCover_Improvised",
-        "category": "clothes"
+        "category": "clothes_crafted"
     },
     {
         "type": "TortillaBag",
-        "category": "containers"
+        "category": "containers_bag"
     },
     {
         "type": "TortillaBag_Winter",
-        "category": "containers"
+        "category": "containers_bag"
     },
     {
         "type": "TrackSuitJacket_Black",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "TrackSuitJacket_Blue",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "TrackSuitJacket_Green",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "TrackSuitJacket_LightBlue",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "TrackSuitJacket_Red",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "TrackSuitPants_Black",
-        "category": "clothes"
+        "category": "clothes_bottom"
     },
     {
         "type": "TrackSuitPants_Blue",
-        "category": "clothes"
+        "category": "clothes_bottom"
     },
     {
         "type": "TrackSuitPants_Green",
-        "category": "clothes"
+        "category": "clothes_bottom"
     },
     {
         "type": "TrackSuitPants_LightBlue",
-        "category": "clothes"
+        "category": "clothes_bottom"
     },
     {
         "type": "TrackSuitPants_Red",
-        "category": "clothes"
+        "category": "clothes_bottom"
     },
     {
         "type": "Tripod",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "TripwireTrap",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "Truck_01_Door_1_1",
@@ -5949,59 +5965,59 @@
     },
     {
         "type": "TruckBattery",
-        "category": "tools"
+        "category": "tools_car"
     },
     {
         "type": "Tshirt_10thAnniversary",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "TShirt_Beige",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "TShirt_Black",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "TShirt_Blue",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "TShirt_Green",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "TShirt_Grey",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "TShirt_OrangeWhiteStripes",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "TShirt_Red",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "TShirt_RedBlackStripes",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "TShirt_White",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "TTSKOBoots",
-        "category": "clothes"
+        "category": "clothes_feet"
     },
     {
         "type": "TTsKOJacket_Camo",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "TTSKOPants",
-        "category": "clothes"
+        "category": "clothes_bottom"
     },
     {
         "type": "TunaCan",
@@ -6009,35 +6025,35 @@
     },
     {
         "type": "TunaCan_Opened",
-        "category": "food"
+        "category": "food_crafted"
     },
     {
         "type": "UKAssVest_Black",
-        "category": "clothes"
+        "category": "clothes_vest"
     },
     {
         "type": "UKAssVest_Camo",
-        "category": "clothes"
+        "category": "clothes_vest"
     },
     {
         "type": "UKAssVest_Khaki",
-        "category": "clothes"
+        "category": "clothes_vest"
     },
     {
         "type": "UKAssVest_Olive",
-        "category": "clothes"
+        "category": "clothes_vest"
     },
     {
         "type": "UKAssVest_Winter",
-        "category": "clothes"
+        "category": "clothes_vest"
     },
     {
         "type": "UMP45",
-        "category": "weapons"
+        "category": "weapons_rifle"
     },
     {
         "type": "UniversalLight",
-        "category": "weapons"
+        "category": "tools_battery"
     },
     {
         "type": "UnknownFoodCan",
@@ -6045,59 +6061,59 @@
     },
     {
         "type": "UnknownFoodCan_Opened",
-        "category": "food"
+        "category": "food_crafted"
     },
     {
         "type": "Ushanka_Black",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "Ushanka_Blue",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "Ushanka_Green",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "USMCJacket_Desert",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "USMCJacket_Woodland",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "USMCPants_Desert",
-        "category": "clothes"
+        "category": "clothes_bottom"
     },
     {
         "type": "USMCPants_Woodland",
-        "category": "clothes"
+        "category": "clothes_bottom"
     },
     {
         "type": "Vikhr",
-        "category": "weapons"
+        "category": "weapons_rifle"
     },
     {
         "type": "VitaminBottle",
-        "category": "tools"
+        "category": "tools_medic"
     },
     {
         "type": "VSS",
-        "category": "weapons"
+        "category": "weapons_rifle"
     },
     {
         "type": "WalleyePollock",
-        "category": "food"
+        "category": "food_crafted"
     },
     {
         "type": "WalleyePollockFilletMeat",
-        "category": "food"
+        "category": "food_crafted"
     },
     {
         "type": "WaterBottle",
-        "category": "food"
+        "category": "food_water"
     },
     {
         "type": "WaterproofBag_Green",
@@ -6113,27 +6129,27 @@
     },
     {
         "type": "WeaponCleaningKit",
-        "category": "tools"
+        "category": "tools_repair"
     },
     {
         "type": "WeldingMask",
-        "category": "clothes"
+        "category": "clothes_mask"
     },
     {
         "type": "Wellies_Black",
-        "category": "clothes"
+        "category": "clothes_feet"
     },
     {
         "type": "Wellies_Brown",
-        "category": "clothes"
+        "category": "clothes_feet"
     },
     {
         "type": "Wellies_Green",
-        "category": "clothes"
+        "category": "clothes_feet"
     },
     {
         "type": "Wellies_Grey",
-        "category": "clothes"
+        "category": "clothes_feet"
     },
     {
         "type": "Whetstone",
@@ -6145,59 +6161,59 @@
     },
     {
         "type": "Winchester70",
-        "category": "weapons"
+        "category": "weapons_rifle"
     },
     {
         "type": "Winchester70_Black",
-        "category": "weapons"
+        "category": "weapons_rifle"
     },
     {
         "type": "Winchester70_Green",
-        "category": "weapons"
+        "category": "weapons_rifle"
     },
     {
         "type": "WinterCoif_Black",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "WinterCoif_Blue",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "WinterCoif_Green",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "WinterCoif_Skull",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "WitchHat",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "WitchHood_Black",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "WitchHood_Brown",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "WitchHood_Red",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "WitchHoodCoif_Black",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "WitchHoodCoif_Brown",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "WitchHoodCoif_Red",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "WolfPelt",
@@ -6205,191 +6221,191 @@
     },
     {
         "type": "WolfSteakMeat",
-        "category": "food"
+        "category": "food_crafted"
     },
     {
         "type": "WomanSuit_Beige",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "WomanSuit_Black",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "WomanSuit_Blue",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "WomanSuit_Brown",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "WomanSuit_DarkGrey",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "WomanSuit_Khaki",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "WomanSuit_LightGrey",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "WomanSuit_White",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "WoodAxe",
-        "category": "tools"
+        "category": "tools_base"
     },
     {
         "type": "WoodenCrate",
-        "category": "containers"
+        "category": "containers_crafted"
     },
     {
         "type": "WoodenHook",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "WoodenLog",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "WoodenPlank",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "WoodenStick",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "WoolCoat_Beige",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "WoolCoat_Black",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "WoolCoat_BlackCheck",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "WoolCoat_Blue",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "WoolCoat_BlueCheck",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "WoolCoat_BrownCheck",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "WoolCoat_Green",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "WoolCoat_GreyCheck",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "WoolCoat_Red",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "WoolCoat_RedCheck",
-        "category": "clothes"
+        "category": "clothes_top"
     },
     {
         "type": "WoolGloves_Black",
-        "category": "clothes"
+        "category": "clothes_gloves"
     },
     {
         "type": "WoolGloves_ChristmasBlue",
-        "category": "clothes"
+        "category": "clothes_gloves"
     },
     {
         "type": "WoolGloves_ChristmasRed",
-        "category": "clothes"
+        "category": "clothes_gloves"
     },
     {
         "type": "WoolGloves_Green",
-        "category": "clothes"
+        "category": "clothes_gloves"
     },
     {
         "type": "WoolGloves_Tan",
-        "category": "clothes"
+        "category": "clothes_gloves"
     },
     {
         "type": "WoolGloves_White",
-        "category": "clothes"
+        "category": "clothes_gloves"
     },
     {
         "type": "WoolGlovesFingerless_Black",
-        "category": "clothes"
+        "category": "clothes_gloves"
     },
     {
         "type": "WoolGlovesFingerless_ChristmasBlue",
-        "category": "clothes"
+        "category": "clothes_gloves"
     },
     {
         "type": "WoolGlovesFingerless_ChristmasRed",
-        "category": "clothes"
+        "category": "clothes_gloves"
     },
     {
         "type": "WoolGlovesFingerless_Green",
-        "category": "clothes"
+        "category": "clothes_gloves"
     },
     {
         "type": "WoolGlovesFingerless_Tan",
-        "category": "clothes"
+        "category": "clothes_gloves"
     },
     {
         "type": "WoolGlovesFingerless_White",
-        "category": "clothes"
+        "category": "clothes_gloves"
     },
     {
         "type": "WorkingBoots_Beige",
-        "category": "clothes"
+        "category": "clothes_feet"
     },
     {
         "type": "WorkingBoots_Brown",
-        "category": "clothes"
+        "category": "clothes_feet"
     },
     {
         "type": "WorkingBoots_Green",
-        "category": "clothes"
+        "category": "clothes_feet"
     },
     {
         "type": "WorkingBoots_Grey",
-        "category": "clothes"
+        "category": "clothes_feet"
     },
     {
         "type": "WorkingBoots_Yellow",
-        "category": "clothes"
+        "category": "clothes_feet"
     },
     {
         "type": "WorkingGloves_Beige",
-        "category": "clothes"
+        "category": "clothes_gloves"
     },
     {
         "type": "WorkingGloves_Black",
-        "category": "clothes"
+        "category": "clothes_gloves"
     },
     {
         "type": "WorkingGloves_Brown",
-        "category": "clothes"
+        "category": "clothes_gloves"
     },
     {
         "type": "WorkingGloves_Yellow",
-        "category": "clothes"
+        "category": "clothes_gloves"
     },
     {
         "type": "Wrench",
-        "category": "tools"
+        "category": "tools_car"
     },
     {
         "type": "XmasLights",
@@ -7101,39 +7117,59 @@
     },
     {
         "type": "ZmijovkaCap_Black",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "ZmijovkaCap_Blue",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "ZmijovkaCap_Brown",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "ZmijovkaCap_Green",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "ZmijovkaCap_Red",
-        "category": "clothes"
+        "category": "clothes_head"
     },
     {
         "type": "ZSh3PilotHelmet",
-        "category": "clothes"
+        "category": "clothes_head"
+    },
+    {
+        "type": "ZSh3PilotHelmet_Black",
+        "category": "clothes_head"
+    },
+    {
+        "type": "ZSh3PilotHelmet_Green",
+        "category": "clothes_head"
     },
     {
         "type": "Zucchini",
-        "category": "food"
+        "category": "food_produce"
+    },
+    {
+        "type": "Orange",
+        "category": "food_produce"
+    },
+    {
+        "type": "Kiwi",
+        "category": "food_produce"
+    },
+    {
+        "type": "Banana",
+        "category": "food_produce"
     },
     {
         "type": "ZucchiniSeeds",
-        "category": "food"
+        "category": "food_produce"
     },
     {
         "type": "ZucchiniSeedsPack",
-        "category": "food"
+        "category": "food_produce"
     },
     {
         "type": "SpearBone",
@@ -7153,10 +7189,6 @@
     },
     {
         "type": "WatchtowerKit",
-        "category": "tools_crafted"
-    },
-    {
-        "type": "TerritoryFlagKit",
         "category": "tools_crafted"
     },
     {
