@@ -757,23 +757,23 @@
   },
   {
     "type": "AthleticShoes_Black",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "AthleticShoes_Blue",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "AthleticShoes_Brown",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "AthleticShoes_Green",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "AthleticShoes_Grey",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "Aug",
@@ -789,7 +789,7 @@
   },
   {
     "type": "AviatorGlasses",
-    "category": "clothes"
+    "category": "clothes_eyes"
   },
   {
     "type": "B95",
@@ -816,64 +816,44 @@
     "category": "food"
   },
   {
-    "type": "Balaclava3Holes_Beige",
-    "category": "clothes"
-  },
-  {
-    "type": "Balaclava3Holes_Black",
-    "category": "clothes"
-  },
-  {
-    "type": "Balaclava3Holes_Blue",
-    "category": "clothes"
-  },
-  {
-    "type": "Balaclava3Holes_Green",
-    "category": "clothes"
-  },
-  {
-    "type": "Balaclava3Holes_White",
-    "category": "clothes"
-  },
-  {
     "type": "BalaclavaMask_BDU",
-    "category": "clothes"
+    "category": "clothes_mask"
   },
   {
     "type": "BalaclavaMask_Beige",
-    "category": "clothes"
+    "category": "clothes_mask"
   },
   {
     "type": "BalaclavaMask_Black",
-    "category": "clothes"
+    "category": "clothes_mask"
   },
   {
     "type": "BalaclavaMask_Blackskull",
-    "category": "clothes"
+    "category": "clothes_mask"
   },
   {
     "type": "BalaclavaMask_Blue",
-    "category": "clothes"
+    "category": "clothes_mask"
   },
   {
     "type": "BalaclavaMask_Chain",
-    "category": "clothes"
+    "category": "clothes_mask"
   },
   {
     "type": "BalaclavaMask_Green",
-    "category": "clothes"
+    "category": "clothes_mask"
   },
   {
     "type": "BalaclavaMask_Pig",
-    "category": "clothes"
+    "category": "clothes_mask"
   },
   {
     "type": "BalaclavaMask_Pink",
-    "category": "clothes"
+    "category": "clothes_mask"
   },
   {
     "type": "BalaclavaMask_White",
-    "category": "clothes"
+    "category": "clothes_mask"
   },
   {
     "type": "Ballerinas_Blue",
@@ -893,35 +873,35 @@
   },
   {
     "type": "BallisticHelmet_BDU",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "BallisticHelmet_Black",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "BallisticHelmet_Desert",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "BallisticHelmet_Green",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "BallisticHelmet_Navy",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "BallisticHelmet_UN",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "BallisticHelmet_Winter",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "BallisticHelmet_Woodland",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "Banana",
@@ -1057,11 +1037,11 @@
   },
   {
     "type": "BDUJacket",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "BDUPants",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "BeanieHat_Beige",
@@ -1153,19 +1133,19 @@
   },
   {
     "type": "Blouse_Blue",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "Blouse_Green",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "Blouse_Violet",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "Blouse_White",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "Blowtorch",
@@ -1197,31 +1177,31 @@
   },
   {
     "type": "BomberJacket_Black",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "BomberJacket_Blue",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "BomberJacket_Brown",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "BomberJacket_Grey",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "BomberJacket_Maroon",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "BomberJacket_Olive",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "BomberJacket_SkyBlue",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "Bone",
@@ -1877,43 +1857,43 @@
   },
   {
     "type": "Breeches_Beetcheck",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "Breeches_Beige",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "Breeches_Black",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "Breeches_Blackcheck",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "Breeches_Blue",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "Breeches_Browncheck",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "Breeches_Green",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "Breeches_Pink",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "Breeches_Red",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "Breeches_White",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "BrisketSpread",
@@ -1953,7 +1933,7 @@
   },
   {
     "type": "BushlatPoliceJacket_Blue",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "CableReel",
@@ -2017,43 +1997,43 @@
   },
   {
     "type": "CanvasPants_Beige",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "CanvasPants_Blue",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "CanvasPants_Grey",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "CanvasPants_Red",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "CanvasPants_Violet",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "CanvasPantsMidi_Beige",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "CanvasPantsMidi_Blue",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "CanvasPantsMidi_Grey",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "CanvasPantsMidi_Red",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "CanvasPantsMidi_Violet",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "CarBattery",
@@ -2061,23 +2041,23 @@
   },
   {
     "type": "CargoPants_Beige",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "CargoPants_Black",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "CargoPants_Blue",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "CargoPants_Green",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "CargoPants_Grey",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "Carp",
@@ -2109,15 +2089,15 @@
   },
   {
     "type": "Chainmail",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "Chainmail_Coif",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "Chainmail_Leggings",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "ChainSaw",
@@ -2161,15 +2141,15 @@
   },
   {
     "type": "ChernarusSportShirt",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "ChestHolster",
-    "category": "clothes"
+    "category": "clothes_vest"
   },
   {
     "type": "Chestplate",
-    "category": "clothes"
+    "category": "clothes_vest"
   },
   {
     "type": "ChickenBreastMeat",
@@ -2197,15 +2177,15 @@
   },
   {
     "type": "ChristmasHeadband_Antlers",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "ChristmasHeadband_Gingerbread",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "ChristmasHeadband_Trees",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "ChristmasTree",
@@ -2229,7 +2209,7 @@
   },
   {
     "type": "CivilianBelt",
-    "category": "clothes"
+    "category": "clothes_belt"
   },
   {
     "type": "CivSedanDoors_BackLeft",
@@ -2473,7 +2453,7 @@
   },
   {
     "type": "CowboyHat_Brown",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "CowboyHat_darkBrown",
@@ -2521,7 +2501,7 @@
   },
   {
     "type": "CrookedNose",
-    "category": "clothes"
+    "category": "clothes_mask"
   },
   {
     "type": "Crossbow_Autumn",
@@ -2577,39 +2557,39 @@
   },
   {
     "type": "DarkMotoHelmet_Black",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "DarkMotoHelmet_Blue",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "DarkMotoHelmet_Green",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "DarkMotoHelmet_Grey",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "DarkMotoHelmet_Lime",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "DarkMotoHelmet_Red",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "DarkMotoHelmet_White",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "DarkMotoHelmet_Yellow",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "DarkMotoHelmet_YellowScarred",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "DarkMotoHelmet_YellowScarred_Test",
@@ -2661,7 +2641,7 @@
   },
   {
     "type": "DenimJacket",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "Derringer_Black",
@@ -2677,43 +2657,43 @@
   },
   {
     "type": "DesignerGlasses",
-    "category": "clothes"
+    "category": "clothes_eyes"
   },
   {
     "type": "DirtBikeHelmet_Black",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "DirtBikeHelmet_Blue",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "DirtBikeHelmet_Chernarus",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "DirtBikeHelmet_Green",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "DirtBikeHelmet_Khaki",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "DirtBikeHelmet_Mouthguard",
-    "category": "clothes"
+    "category": "clothes_head_attachment"
   },
   {
     "type": "DirtBikeHelmet_Police",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "DirtBikeHelmet_Red",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "DirtBikeHelmet_Visor",
-    "category": "clothes"
+    "category": "clothes_head_attachment"
   },
   {
     "type": "DisinfectantAlcohol",
@@ -2733,39 +2713,39 @@
   },
   {
     "type": "DownJacket_Blue",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "DownJacket_Green",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "DownJacket_Orange",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "DownJacket_Red",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "DressShoes_Beige",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "DressShoes_Black",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "DressShoes_Brown",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "DressShoes_Sunburst",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "DressShoes_White",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "DryBag_Black",
@@ -2909,7 +2889,7 @@
   },
   {
     "type": "FeetCover_Improvised",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "Fence",
@@ -2945,31 +2925,31 @@
   },
   {
     "type": "FirefighterJacket_Beige",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "FirefighterJacket_Black",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "FirefightersHelmet_Red",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "FirefightersHelmet_White",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "FirefightersHelmet_Yellow",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "FirefightersPants_Beige",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "FirefightersPants_Black",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "Fireplace",
@@ -3397,23 +3377,23 @@
   },
   {
     "type": "GorkaEJacket_Autumn",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "GorkaEJacket_Flat",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "GorkaEJacket_PautRev",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "GorkaEJacket_Summer",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "GorkaEJacket_Winter",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "GorkaHelmet",
@@ -3433,23 +3413,23 @@
   },
   {
     "type": "GorkaPants_Autumn",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "GorkaPants_Flat",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "GorkaPants_PautRev",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "GorkaPants_Summer",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "GorkaPants_Winter",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "GP5GasMask",
@@ -3461,7 +3441,7 @@
   },
   {
     "type": "GreatHelm",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "GreenBellPepper",
@@ -3505,7 +3485,7 @@
   },
   {
     "type": "HandsCover_Improvised",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "Hatchback_02_Door_1_1",
@@ -3765,11 +3745,11 @@
   },
   {
     "type": "HeadCover_Improvised",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "Headdress_Wolf",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "HeadlightH7",
@@ -3793,51 +3773,51 @@
   },
   {
     "type": "HighCapacityVest_Black",
-    "category": "clothes"
+    "category": "clothes_vest"
   },
   {
     "type": "HighCapacityVest_Olive",
-    "category": "clothes"
+    "category": "clothes_vest"
   },
   {
     "type": "HikingBoots_Black",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "HikingBoots_Brown",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "HikingBootsLow_Beige",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "HikingBootsLow_Black",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "HikingBootsLow_Blue",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "HikingBootsLow_Grey",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "HikingJacket_Black",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "HikingJacket_Blue",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "HikingJacket_Green",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "HikingJacket_Red",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "HipPack_Black",
@@ -3885,27 +3865,27 @@
   },
   {
     "type": "Hoodie_Black",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "Hoodie_Blue",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "Hoodie_Brown",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "Hoodie_Green",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "Hoodie_Grey",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "Hoodie_Red",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "Hook",
@@ -3917,23 +3897,23 @@
   },
   {
     "type": "HunterPants_Autumn",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "HunterPants_Brown",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "HunterPants_Spring",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "HunterPants_Summer",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "HunterPants_Winter",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "HuntingBag",
@@ -3945,23 +3925,23 @@
   },
   {
     "type": "HuntingJacket_Autumn",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "HuntingJacket_Brown",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "HuntingJacket_Spring",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "HuntingJacket_Summer",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "HuntingJacket_Winter",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "HuntingKnife",
@@ -3973,11 +3953,11 @@
   },
   {
     "type": "HuntingVest",
-    "category": "clothes"
+    "category": "clothes_vest"
   },
   {
     "type": "HuntingVest_Winter",
-    "category": "clothes"
+    "category": "clothes_vest"
   },
   {
     "type": "Iceaxe",
@@ -4021,27 +4001,27 @@
   },
   {
     "type": "Jeans_Black",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "Jeans_Blue",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "Jeans_BlueDark",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "Jeans_Brown",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "Jeans_Green",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "Jeans_Grey",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "Jig",
@@ -4049,75 +4029,75 @@
   },
   {
     "type": "JoggingShoes_Black",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "JoggingShoes_Blue",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "JoggingShoes_Red",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "JoggingShoes_Violet",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "JoggingShoes_White",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "JumpsuitJacket_Blue",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "JumpsuitJacket_Gray",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "JumpsuitJacket_Green",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "JumpsuitJacket_Red",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "JumpsuitPants_Blue",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "JumpsuitPants_Green",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "JumpsuitPants_Grey",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "JumpsuitPants_Red",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "JungleBoots_Beige",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "JungleBoots_Black",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "JungleBoots_Brown",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "JungleBoots_Green",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "JungleBoots_Olive",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "KashtanOptic",
@@ -4149,7 +4129,7 @@
   },
   {
     "type": "LabCoat",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "LactariusMushroom",
@@ -4437,103 +4417,103 @@
   },
   {
     "type": "LeafCrown_Autumn",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "LeafCrown_Spring",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "LeafCrown_Summer",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "LeafCrown_Winter",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "LeatherBelt_Beige",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "LeatherBelt_Black",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "LeatherBelt_Brown",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "LeatherBelt_Natural",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "LeatherGloves_Beige",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "LeatherGloves_Black",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "LeatherGloves_Brown",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "LeatherGloves_Natural",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "LeatherHat_Beige",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "LeatherHat_Black",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "LeatherHat_Brown",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "LeatherHat_Natural",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "LeatherJacket_Beige",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "LeatherJacket_Black",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "LeatherJacket_Brown",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "LeatherJacket_Natural",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "LeatherKnifeSheath",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "LeatherPants_Beige",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "LeatherPants_Black",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "LeatherPants_Brown",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "LeatherPants_Natural",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "LeatherSack_Beige",
@@ -4557,23 +4537,23 @@
   },
   {
     "type": "LeatherShirt_Natural",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "LeatherShoes_Beige",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "LeatherShoes_Black",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "LeatherShoes_Brown",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "LeatherShoes_Natural",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "LeatherShoes_Sunburst",
@@ -4585,23 +4565,23 @@
   },
   {
     "type": "LeatherStorageVest_Beige",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "LeatherStorageVest_Black",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "LeatherStorageVest_Brown",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "LeatherStorageVest_Natural",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "LegsCover_Improvised",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "Lockpick",
@@ -4761,19 +4741,19 @@
   },
   {
     "type": "M65Jacket_Black",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "M65Jacket_Khaki",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "M65Jacket_Olive",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "M65Jacket_Tan",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "M67Grenade",
@@ -5073,35 +5053,35 @@
   },
   {
     "type": "ManSuit_Beige",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "ManSuit_Black",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "ManSuit_Blue",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "ManSuit_Brown",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "ManSuit_DarkGrey",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "ManSuit_Khaki",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "ManSuit_LightGrey",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "ManSuit_White",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "Marmalade",
@@ -5117,43 +5097,43 @@
   },
   {
     "type": "MedicalScrubsHat_Blue",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "MedicalScrubsHat_Green",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "MedicalScrubsHat_White",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "MedicalScrubsPants_Blue",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "MedicalScrubsPants_Green",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "MedicalScrubsPants_White",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "MedicalScrubsShirt_Blue",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "MedicalScrubsShirt_Green",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "MedicalScrubsShirt_White",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "MedievalBoots",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "MediumGasCanister",
@@ -5185,91 +5165,91 @@
   },
   {
     "type": "Mich2001Helmet",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "MilitaryBelt",
-    "category": "clothes"
+    "category": "clothes_belt"
   },
   {
     "type": "MilitaryBeret_CDF",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "MilitaryBeret_ChDKZ",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "MilitaryBeret_NZ",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "MilitaryBeret_Red",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "MilitaryBeret_UN",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "MilitaryBoots_Beige",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "MilitaryBoots_Black",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "MilitaryBoots_Bluerock",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "MilitaryBoots_Brown",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "MilitaryBoots_Redpunk",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "MimeMask_Female",
-    "category": "clothes"
+    "category": "clothes_mask"
   },
   {
     "type": "MimeMask_Male",
-    "category": "clothes"
+    "category": "clothes_mask"
   },
   {
     "type": "MiniDress_BlueChecker",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "MiniDress_BlueWithDots",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "MiniDress_BrownChecker",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "MiniDress_GreenChecker",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "MiniDress_Pink",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "MiniDress_PinkChecker",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "MiniDress_RedChecker",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "MiniDress_WhiteChecker",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "Misc_TirePile_Burning_DE",
@@ -5305,7 +5285,7 @@
   },
   {
     "type": "MorozkoHat",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "Morphine",
@@ -5337,35 +5317,35 @@
   },
   {
     "type": "MotoHelmet_Black",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "MotoHelmet_Blue",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "MotoHelmet_Green",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "MotoHelmet_Grey",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "MotoHelmet_Lime",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "MotoHelmet_Red",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "MotoHelmet_White",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "MotoHelmet_Yellow",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "MountainBag_Blue",
@@ -5425,67 +5405,67 @@
   },
   {
     "type": "NavyUniformJacket",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "NavyUniformPants",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "NBCBootsGray",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "NBCBootsWhite",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "NBCBootsYellow",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "NBCGlovesGray",
-    "category": "clothes"
+    "category": "clothes_gloves"
   },
   {
     "type": "NBCGlovesYellow",
-    "category": "clothes"
+    "category": "clothes_gloves"
   },
   {
     "type": "NBCHoodGray",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "NBCHoodWhite",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "NBCHoodYellow",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "NBCJacketGray",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "NBCJacketWhite",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "NBCJacketYellow",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "NBCPantsGray",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "NBCPantsWhite",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "NBCPantsYellow",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "Netting",
@@ -5493,19 +5473,19 @@
   },
   {
     "type": "NioshFaceMask",
-    "category": "clothes"
+    "category": "clothes_mask"
   },
   {
     "type": "NorseHelm",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "NurseDress_Blue",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "NurseDress_White",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "NVGHeadstrap",
@@ -5521,7 +5501,7 @@
   },
   {
     "type": "OfficerHat",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "Offroad_02_Door_1_1",
@@ -5573,27 +5553,27 @@
   },
   {
     "type": "OKZKCap_Beige",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "OKZKCap_Green",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "OMKJacket_Navy",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "OMKPants_Navy",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "OMNOGloves_Brown",
-    "category": "clothes"
+    "category": "clothes_gloves"
   },
   {
     "type": "OMNOGloves_Gray",
-    "category": "clothes"
+    "category": "clothes_gloves"
   },
   {
     "type": "Orange",
@@ -5617,15 +5597,15 @@
   },
   {
     "type": "PaddedGloves_Beige",
-    "category": "clothes"
+    "category": "clothes_gloves"
   },
   {
     "type": "PaddedGloves_Brown",
-    "category": "clothes"
+    "category": "clothes_gloves"
   },
   {
     "type": "PaddedGloves_Threat",
-    "category": "clothes"
+    "category": "clothes_gloves"
   },
   {
     "type": "Paddle",
@@ -5649,27 +5629,27 @@
   },
   {
     "type": "ParamedicJacket_Blue",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "ParamedicJacket_Crimson",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "ParamedicJacket_Green",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "ParamedicPants_Blue",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "ParamedicPants_Crimson",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "ParamedicPants_Green",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "PartyTent",
@@ -5697,19 +5677,19 @@
   },
   {
     "type": "PaydayMask_Chains",
-    "category": "clothes"
+    "category": "clothes_mask"
   },
   {
     "type": "PaydayMask_Dallas",
-    "category": "clothes"
+    "category": "clothes_mask"
   },
   {
     "type": "PaydayMask_Hoxton",
-    "category": "clothes"
+    "category": "clothes_mask"
   },
   {
     "type": "PaydayMask_Wolf",
-    "category": "clothes"
+    "category": "clothes_mask"
   },
   {
     "type": "PeachesCan",
@@ -5757,15 +5737,15 @@
   },
   {
     "type": "PetushokHat_Black",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "PetushokHat_Green",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "PetushokHat_Yellow",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "Pickaxe",
@@ -5785,7 +5765,7 @@
   },
   {
     "type": "PilotkaCap",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "Pipe",
@@ -5841,39 +5821,39 @@
   },
   {
     "type": "PlateCarrierHolster",
-    "category": "clothes"
+    "category": "clothes_vest_holsters_pouches"
   },
   {
     "type": "PlateCarrierHolster_Black",
-    "category": "clothes"
+    "category": "clothes_vest_holsters_pouches"
   },
   {
     "type": "PlateCarrierHolster_Camo",
-    "category": "clothes"
+    "category": "clothes_vest_holsters_pouches"
   },
   {
     "type": "PlateCarrierHolster_Green",
-    "category": "clothes"
+    "category": "clothes_vest_holsters_pouches"
   },
   {
     "type": "PlateCarrierHolster_Winter",
-    "category": "clothes"
+    "category": "clothes_vest_holsters_pouches"
   },
   {
     "type": "PlateCarrierPouches",
-    "category": "clothes"
+    "category": "clothes_vest_holsters_pouches"
   },
   {
     "type": "PlateCarrierPouches_Black",
-    "category": "clothes"
+    "category": "clothes_vest_holsters_pouches"
   },
   {
     "type": "PlateCarrierPouches_Camo",
-    "category": "clothes"
+    "category": "clothes_vest_holsters_pouches"
   },
   {
     "type": "PlateCarrierPouches_Green",
-    "category": "clothes"
+    "category": "clothes_vest_holsters_pouches"
   },
   {
     "type": "PlateCarrierPouches_Winter",
@@ -5881,23 +5861,23 @@
   },
   {
     "type": "PlateCarrierVest",
-    "category": "clothes"
+    "category": "clothes_vest"
   },
   {
     "type": "PlateCarrierVest_Black",
-    "category": "clothes"
+    "category": "clothes_vest"
   },
   {
     "type": "PlateCarrierVest_Camo",
-    "category": "clothes"
+    "category": "clothes_vest"
   },
   {
     "type": "PlateCarrierVest_Green",
-    "category": "clothes"
+    "category": "clothes_vest"
   },
   {
     "type": "PlateCarrierVest_Winter",
-    "category": "clothes"
+    "category": "clothes_vest"
   },
   {
     "type": "PleurotusMushroom",
@@ -5921,27 +5901,27 @@
   },
   {
     "type": "PoliceCap",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "PoliceJacket",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "PoliceJacketOrel",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "PolicePants",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "PolicePantsOrel",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "PoliceVest",
-    "category": "clothes"
+    "category": "clothes_vest"
   },
   {
     "type": "PorkCan",
@@ -5989,23 +5969,23 @@
   },
   {
     "type": "PressVest_Blue",
-    "category": "clothes"
+    "category": "clothes_vest"
   },
   {
     "type": "PressVest_LightBlue",
-    "category": "clothes"
+    "category": "clothes_vest"
   },
   {
     "type": "PrisonerCap",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "PrisonUniformJacket",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "PrisonUniformPants",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "PSO11Optic",
@@ -6025,7 +6005,7 @@
   },
   {
     "type": "PumpkinHelmet",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "PumpkinSeeds",
@@ -6049,35 +6029,35 @@
   },
   {
     "type": "QuiltedJacket_Black",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "QuiltedJacket_Blue",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "QuiltedJacket_Green",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "QuiltedJacket_Grey",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "QuiltedJacket_Orange",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "QuiltedJacket_Red",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "QuiltedJacket_Violet",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "QuiltedJacket_Yellow",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "R12",
@@ -6097,23 +6077,23 @@
   },
   {
     "type": "RadarCap_Black",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "RadarCap_Blue",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "RadarCap_Brown",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "RadarCap_Green",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "RadarCap_Red",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "Rag",
@@ -6121,31 +6101,31 @@
   },
   {
     "type": "Raincoat_Black",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "Raincoat_Blue",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "Raincoat_Green",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "Raincoat_Orange",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "Raincoat_Pink",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "Raincoat_Red",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "Raincoat_Yellow",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "Rangefinder",
@@ -6173,7 +6153,7 @@
   },
   {
     "type": "ReflexVest",
-    "category": "clothes"
+    "category": "clothes_vest"
   },
   {
     "type": "Refridgerator",
@@ -6217,7 +6197,7 @@
   },
   {
     "type": "RidersJacket_Black",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "Roadflare",
@@ -6229,7 +6209,7 @@
   },
   {
     "type": "RopeBelt",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "Ruger1022",
@@ -6261,11 +6241,11 @@
   },
   {
     "type": "SantasBeard",
-    "category": "clothes"
+    "category": "clothes_mask"
   },
   {
     "type": "SantasHat",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "Sardines",
@@ -6541,31 +6521,31 @@
   },
   {
     "type": "Shemag_Brown",
-    "category": "clothes"
+    "category": "clothes_bandana"
   },
   {
     "type": "Shemag_Green",
-    "category": "clothes"
+    "category": "clothes_bandana"
   },
   {
     "type": "Shemag_Red",
-    "category": "clothes"
+    "category": "clothes_bandana"
   },
   {
     "type": "Shemag_White",
-    "category": "clothes"
+    "category": "clothes_bandana"
   },
   {
     "type": "SherpaHat_Black",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "SherpaHat_Blue",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "SherpaHat_Red",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "ShippingContainerKeys_Blue",
@@ -6585,51 +6565,51 @@
   },
   {
     "type": "Shirt_BlueCheck",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "Shirt_BlueCheckBright",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "Shirt_GreenCheck",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "Shirt_PlaneBlack",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "Shirt_RedCheck",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "Shirt_WhiteCheck",
-    "category": "clothes"
+    "category": "clothes_top"
   },
   {
     "type": "ShortJeans_Black",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "ShortJeans_Blue",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "ShortJeans_Brown",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "ShortJeans_Darkblue",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "ShortJeans_Green",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "ShortJeans_Red",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "Shovel",
@@ -6645,63 +6625,63 @@
   },
   {
     "type": "SkateHelmet_Black",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "SkateHelmet_Blue",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "SkateHelmet_Gray",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "SkateHelmet_Green",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "SkateHelmet_Red",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "SkiGloves_90s",
-    "category": "clothes"
+    "category": "clothes_gloves"
   },
   {
     "type": "SkiGloves_Blue",
-    "category": "clothes"
+    "category": "clothes_gloves"
   },
   {
     "type": "SkiGloves_Red",
-    "category": "clothes"
+    "category": "clothes_gloves"
   },
   {
     "type": "SkiGoggles_BlackYellow",
-    "category": "clothes"
+    "category": "clothes_eyes"
   },
   {
     "type": "SkiGoggles_WhiteClear",
-    "category": "clothes"
+    "category": "clothes_eyes"
   },
   {
     "type": "SkiGoggles_WhiteDark",
-    "category": "clothes"
+    "category": "clothes_eyes"
   },
   {
     "type": "Skirt_Blue",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "Skirt_Red",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "Skirt_White",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "Skirt_Yellow",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "SKS",
@@ -6721,35 +6701,35 @@
   },
   {
     "type": "SlacksPants_Beige",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "SlacksPants_Black",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "SlacksPants_Blue",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "SlacksPants_Brown",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "SlacksPants_DarkGrey",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "SlacksPants_Khaki",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "SlacksPants_LightGrey",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "SlacksPants_White",
-    "category": "clothes"
+    "category": "clothes_bottom"
   },
   {
     "type": "SledgeHammer",
@@ -6797,43 +6777,43 @@
   },
   {
     "type": "SmershVest",
-    "category": "clothes"
+    "category": "clothes_vest"
   },
   {
     "type": "Sneakers_Black",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "Sneakers_Gray",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "Sneakers_Green",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "Sneakers_Red",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "Sneakers_White",
-    "category": "clothes"
+    "category": "clothes_feet"
   },
   {
     "type": "SnowstormUshanka_Brown",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "SnowstormUshanka_Navy",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "SnowstormUshanka_Olive",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "SnowstormUshanka_White",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "SodaCan_Cola",
@@ -6877,7 +6857,7 @@
   },
   {
     "type": "Splint",
-    "category": "clothes"
+    "category": "clothes_crafted"
   },
   {
     "type": "Splint_Applied",
@@ -6885,19 +6865,19 @@
   },
   {
     "type": "SportGlasses_Black",
-    "category": "clothes"
+    "category": "clothes_eyes"
   },
   {
     "type": "SportGlasses_Blue",
-    "category": "clothes"
+    "category": "clothes_eyes"
   },
   {
     "type": "SportGlasses_Green",
-    "category": "clothes"
+    "category": "clothes_eyes"
   },
   {
     "type": "SportGlasses_Orange",
-    "category": "clothes"
+    "category": "clothes_eyes"
   },
   {
     "type": "SportingOptic",
@@ -6913,7 +6893,7 @@
   },
   {
     "type": "Ssh68Helmet",
-    "category": "clothes"
+    "category": "clothes_head"
   },
   {
     "type": "StarlightOptic",
