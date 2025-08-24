@@ -997,19 +997,19 @@
   },
   {
     "type": "Barrel_Blue",
-    "sub_category": "container_barrel"
+    "sub_category": "containers_barrel"
   },
   {
     "type": "Barrel_Green",
-    "sub_category": "container_barrel"
+    "sub_category": "containers_barrel"
   },
   {
     "type": "Barrel_Red",
-    "sub_category": "container_barrel"
+    "sub_category": "containers_barrel"
   },
   {
     "type": "Barrel_Yellow",
-    "sub_category": "container_barrel"
+    "sub_category": "containers_barrel"
   },
   {
     "type": "BarrelHoles_Blue",
@@ -3317,67 +3317,67 @@
   },
   {
     "type": "GhillieBushrag_Mossy",
-    "sub_category": "Clothes_Ghillie"
+    "sub_category": "clothes_Ghillie"
   },
   {
     "type": "GhillieBushrag_Tan",
-    "sub_category": "Clothes_Ghillie"
+    "sub_category": "clothes_Ghillie"
   },
   {
     "type": "GhillieBushrag_Winter",
-    "sub_category": "Clothes_Ghillie"
+    "sub_category": "clothes_Ghillie"
   },
   {
     "type": "GhillieBushrag_Woodland",
-    "sub_category": "Clothes_Ghillie"
+    "sub_category": "clothes_Ghillie"
   },
   {
     "type": "GhillieHood_Mossy",
-    "sub_category": "Clothes_Ghillie"
+    "sub_category": "clothes_Ghillie"
   },
   {
     "type": "GhillieHood_Tan",
-    "sub_category": "Clothes_Ghillie"
+    "sub_category": "clothes_Ghillie"
   },
   {
     "type": "GhillieHood_Winter",
-    "sub_category": "Clothes_Ghillie"
+    "sub_category": "clothes_Ghillie"
   },
   {
     "type": "GhillieHood_Woodland",
-    "sub_category": "Clothes_Ghillie"
+    "sub_category": "clothes_Ghillie"
   },
   {
     "type": "GhillieSuit_Mossy",
-    "sub_category": "Clothes_Ghillie"
+    "sub_category": "clothes_Ghillie"
   },
   {
     "type": "GhillieSuit_Tan",
-    "sub_category": "Clothes_Ghillie"
+    "sub_category": "clothes_Ghillie"
   },
   {
     "type": "GhillieSuit_Winter",
-    "sub_category": "Clothes_Ghillie"
+    "sub_category": "clothes_Ghillie"
   },
   {
     "type": "GhillieSuit_Woodland",
-    "sub_category": "Clothes_Ghillie"
+    "sub_category": "clothes_Ghillie"
   },
   {
     "type": "GhillieTop_Mossy",
-    "sub_category": "Clothes_Ghillie"
+    "sub_category": "clothes_Ghillie"
   },
   {
     "type": "GhillieTop_Tan",
-    "sub_category": "Clothes_Ghillie"
+    "sub_category": "clothes_Ghillie"
   },
   {
     "type": "GhillieTop_Winter",
-    "sub_category": "Clothes_Ghillie"
+    "sub_category": "clothes_Ghillie"
   },
   {
     "type": "GhillieTop_Woodland",
-    "sub_category": "Clothes_Ghillie"
+    "sub_category": "clothes_Ghillie"
   },
   {
     "type": "GiftBox_Large_1",
