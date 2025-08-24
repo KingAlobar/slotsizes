@@ -997,19 +997,19 @@
   },
   {
     "type": "Barrel_Blue",
-    "sub_category": "barrel"
+    "sub_category": "container_barrel"
   },
   {
     "type": "Barrel_Green",
-    "sub_category": "barrel"
+    "sub_category": "container_barrel"
   },
   {
     "type": "Barrel_Red",
-    "sub_category": "barrel"
+    "sub_category": "container_barrel"
   },
   {
     "type": "Barrel_Yellow",
-    "sub_category": "barrel"
+    "sub_category": "container_barrel"
   },
   {
     "type": "BarrelHoles_Blue",
@@ -2117,7 +2117,7 @@
   },
   {
     "type": "CarTent",
-    "sub_category": "Tents"
+    "sub_category": "tools_Tents"
   },
   {
     "type": "CatFoodCan",
@@ -2421,7 +2421,7 @@
   },
   {
     "type": "ClaymoreMine",
-    "sub_category": "explosives"
+    "sub_category": "weapons_explosives"
   },
   {
     "type": "ClearSyringe",
@@ -3197,7 +3197,7 @@
   },
   {
     "type": "FlashGrenade",
-    "sub_category": "explosives"
+    "sub_category": "weapons_explosives"
   },
   {
     "type": "Flashlight",
@@ -3301,83 +3301,83 @@
   },
   {
     "type": "GhillieAtt_Mossy",
-    "sub_category": "ghillie_Gun"
+    "sub_category": "weaponParts_ghillie"
   },
   {
     "type": "GhillieAtt_Tan",
-    "sub_category": "ghillie_Gun"
+    "sub_category": "weaponParts_ghillie"
   },
   {
     "type": "GhillieAtt_Winter",
-    "sub_category": "ghillie_Gun"
+    "sub_category": "weaponParts_ghillie"
   },
   {
     "type": "GhillieAtt_Woodland",
-    "sub_category": "ghillie_Gun"
+    "sub_category": "weaponParts_ghillie"
   },
   {
     "type": "GhillieBushrag_Mossy",
-    "sub_category": "ghillie_Clothes"
+    "sub_category": "Clothes_Ghillie"
   },
   {
     "type": "GhillieBushrag_Tan",
-    "sub_category": "ghillie_Clothes"
+    "sub_category": "Clothes_Ghillie"
   },
   {
     "type": "GhillieBushrag_Winter",
-    "sub_category": "ghillie_Clothes"
+    "sub_category": "Clothes_Ghillie"
   },
   {
     "type": "GhillieBushrag_Woodland",
-    "sub_category": "ghillie_Clothes"
+    "sub_category": "Clothes_Ghillie"
   },
   {
     "type": "GhillieHood_Mossy",
-    "sub_category": "ghillie_Clothes"
+    "sub_category": "Clothes_Ghillie"
   },
   {
     "type": "GhillieHood_Tan",
-    "sub_category": "ghillie_Clothes"
+    "sub_category": "Clothes_Ghillie"
   },
   {
     "type": "GhillieHood_Winter",
-    "sub_category": "ghillie_Clothes"
+    "sub_category": "Clothes_Ghillie"
   },
   {
     "type": "GhillieHood_Woodland",
-    "sub_category": "ghillie_Clothes"
+    "sub_category": "Clothes_Ghillie"
   },
   {
     "type": "GhillieSuit_Mossy",
-    "sub_category": "ghillie_Clothes"
+    "sub_category": "Clothes_Ghillie"
   },
   {
     "type": "GhillieSuit_Tan",
-    "sub_category": "ghillie_Clothes"
+    "sub_category": "Clothes_Ghillie"
   },
   {
     "type": "GhillieSuit_Winter",
-    "sub_category": "ghillie_Clothes"
+    "sub_category": "Clothes_Ghillie"
   },
   {
     "type": "GhillieSuit_Woodland",
-    "sub_category": "ghillie_Clothes"
+    "sub_category": "Clothes_Ghillie"
   },
   {
     "type": "GhillieTop_Mossy",
-    "sub_category": "ghillie_Clothes"
+    "sub_category": "Clothes_Ghillie"
   },
   {
     "type": "GhillieTop_Tan",
-    "sub_category": "ghillie_Clothes"
+    "sub_category": "Clothes_Ghillie"
   },
   {
     "type": "GhillieTop_Winter",
-    "sub_category": "ghillie_Clothes"
+    "sub_category": "Clothes_Ghillie"
   },
   {
     "type": "GhillieTop_Woodland",
-    "sub_category": "ghillie_Clothes"
+    "sub_category": "Clothes_Ghillie"
   },
   {
     "type": "GiftBox_Large_1",
@@ -3525,7 +3525,7 @@
   },
   {
     "type": "Grenade_ChemGas",
-    "sub_category": "explosives"
+    "sub_category": "weapons_explosives"
   },
   {
     "type": "GulagJacket_Grey",
@@ -4077,7 +4077,7 @@
   },
   {
     "type": "ImprovisedExplosive",
-    "sub_category": "explosives"
+    "sub_category": "weapons_explosives"
   },
   {
     "type": "ImprovisedFishingRod",
@@ -4509,7 +4509,7 @@
   },
   {
     "type": "LandMineTrap",
-    "sub_category": "explosives"
+    "sub_category": "weapons_explosives"
   },
   {
     "type": "Lard",
@@ -4521,7 +4521,7 @@
   },
   {
     "type": "LargeTent",
-    "sub_category": "Tents"
+    "sub_category": "tools_Tents"
   },
   {
     "type": "LeafCrown_Autumn",
@@ -4729,23 +4729,23 @@
   },
   {
     "type": "M18SmokeGrenade_Green",
-    "sub_category": "explosives"
+    "sub_category": "weapons_explosives"
   },
   {
     "type": "M18SmokeGrenade_Purple",
-    "sub_category": "explosives"
+    "sub_category": "weapons_explosives"
   },
   {
     "type": "M18SmokeGrenade_Red",
-    "sub_category": "explosives"
+    "sub_category": "weapons_explosives"
   },
   {
     "type": "M18SmokeGrenade_White",
-    "sub_category": "explosives"
+    "sub_category": "weapons_explosives"
   },
   {
     "type": "M18SmokeGrenade_Yellow",
-    "sub_category": "explosives"
+    "sub_category": "weapons_explosives"
   },
   {
     "type": "M4_CarryHandleOptic",
@@ -4865,7 +4865,7 @@
   },
   {
     "type": "M67Grenade",
-    "sub_category": "explosives"
+    "sub_category": "weapons_explosives"
   },
   {
     "type": "M68Optic",
@@ -5249,15 +5249,15 @@
   },
   {
     "type": "MediumTent",
-    "sub_category": "Tents"
+    "sub_category": "tools_Tents"
   },
   {
     "type": "MediumTent_Green",
-    "sub_category": "Tents"
+    "sub_category": "tools_Tents"
   },
   {
     "type": "MediumTent_Orange",
-    "sub_category": "Tents"
+    "sub_category": "tools_Tents"
   },
   {
     "type": "Megaphone",
@@ -5789,19 +5789,19 @@
   },
   {
     "type": "PartyTent",
-    "sub_category": "Tents"
+    "sub_category": "tools_Tents"
   },
   {
     "type": "PartyTent_Blue",
-    "sub_category": "Tents"
+    "sub_category": "tools_Tents"
   },
   {
     "type": "PartyTent_Brown",
-    "sub_category": "Tents"
+    "sub_category": "tools_Tents"
   },
   {
     "type": "PartyTent_Lunapark",
-    "sub_category": "Tents"
+    "sub_category": "tools_Tents"
   },
   {
     "type": "Pate",
@@ -5965,7 +5965,7 @@
   },
   {
     "type": "Plastic_Explosive",
-    "sub_category": "explosives"
+    "sub_category": "weapons_explosives"
   },
   {
     "type": "PlateCarrierHolster",
@@ -6285,11 +6285,11 @@
   },
   {
     "type": "RDG2SmokeGrenade_Black",
-    "sub_category": "explosives"
+    "sub_category": "weapons_explosives"
   },
   {
     "type": "RDG2SmokeGrenade_White",
-    "sub_category": "explosives"
+    "sub_category": "weapons_explosives"
   },
   {
     "type": "RedCaviar",
@@ -6321,7 +6321,7 @@
   },
   {
     "type": "RemoteDetonator",
-    "sub_category": "explosives"
+    "sub_category": "weapons_explosives"
   },
   {
     "type": "RemoteDetonatorReceiver",
@@ -6329,7 +6329,7 @@
   },
   {
     "type": "RemoteDetonatorTrigger",
-    "sub_category": "explosives"
+    "sub_category": "weapons_explosives"
   },
   {
     "type": "Repeater",
@@ -6337,7 +6337,7 @@
   },
   {
     "type": "RGD5Grenade",
-    "sub_category": "explosives"
+    "sub_category": "weapons_explosives"
   },
   {
     "type": "Rice",
