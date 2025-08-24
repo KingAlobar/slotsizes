@@ -684,6 +684,10 @@
     "category": "clothes_armband"
   },
   {
+    "type": "Armband_Sakhal",
+    "category": "clothes_armband"
+  },
+  {
     "type": "Armband_Snake",
     "category": "clothes_armband"
   },
@@ -776,6 +780,22 @@
     "category": "clothes_feet"
   },
   {
+    "type": "Attack2Bag_Black",
+    "category": "containers_bag"
+  },
+  {
+    "type": "Attack2Bag_Green",
+    "category": "containers_bag"
+  },
+  {
+    "type": "Attack2Bag_Ttsko",
+    "category": "containers_bag"
+  },
+  {
+    "type": "Attack2Bag_Yeger",
+    "category": "containers_bag"
+  },
+  {
     "type": "Aug",
     "category": "weapons_rifle"
   },
@@ -814,6 +834,26 @@
   {
     "type": "BakedBeansCan_Opened",
     "category": "food_crafted"
+  },
+  {
+    "type": "Balaclava3Holes_Beige",
+    "category": "clothes_mask"
+  },
+  {
+    "type": "Balaclava3Holes_Black",
+    "category": "clothes_mask"
+  },
+  {
+    "type": "Balaclava3Holes_Blue",
+    "category": "clothes_mask"
+  },
+  {
+    "type": "Balaclava3Holes_Green",
+    "category": "clothes_mask"
+  },
+  {
+    "type": "Balaclava3Holes_White",
+    "category": "clothes_mask"
   },
   {
     "type": "BalaclavaMask_BDU",
@@ -990,6 +1030,10 @@
   {
     "type": "BaseballBat",
     "category": "tools_melee"
+  },
+  {
+    "type": "BaseballCap_Beige",
+    "category": "clothes_head"
   },
   {
     "type": "BaseballCap_Black",
@@ -2212,6 +2256,18 @@
     "category": "clothes_belt"
   },
   {
+    "type": "CivilianSedan",
+    "category": "vehicles"
+  },
+  {
+    "type": "CivilianSedan_Black",
+    "category": "vehicles"
+  },
+  {
+    "type": "CivilianSedan_Wine",
+    "category": "vehicles"
+  },
+  {
     "type": "CivSedanDoors_BackLeft",
     "category": "vehiclePart"
   },
@@ -2360,6 +2416,10 @@
     "category": "vehiclePart"
   },
   {
+    "type": "CivSedanWheel_Ruined",
+    "category": "tools_crafted"
+  },
+  {
     "type": "ClaymoreMine",
     "category": "explosives"
   },
@@ -2370,6 +2430,18 @@
   {
     "type": "Cleaver",
     "category": "tools"
+  },
+  {
+    "type": "ColdOperationBoots_Camo",
+    "category": "clothes_feet"
+  },
+  {
+    "type": "ColdOperationBoots_Green",
+    "category": "clothes_feet"
+  },
+  {
+    "type": "ColdOperationBoots_Grey",
+    "category": "clothes_feet"
   },
   {
     "type": "Colt1911",
@@ -3084,6 +3156,10 @@
     "category": "tools_flag"
   },
   {
+    "type": "Flag_Sakhal",
+    "category": "tools_flag"
+  },
+  {
     "type": "Flag_Snake",
     "category": "tools_flag"
   },
@@ -3452,6 +3528,10 @@
     "category": "explosives"
   },
   {
+    "type": "GulagJacket_Grey",
+    "category": "clothes_top"
+  },
+  {
     "type": "Guts",
     "category": "tools"
   },
@@ -3486,6 +3566,18 @@
   {
     "type": "HandsCover_Improvised",
     "category": "clothes_crafted"
+  },
+  {
+    "type": "Hatchback_02",
+    "category": "vehicles"
+  },
+  {
+    "type": "Hatchback_02_Black",
+    "category": "vehicles"
+  },
+  {
+    "type": "Hatchback_02_Blue",
+    "category": "vehicles"
   },
   {
     "type": "Hatchback_02_Door_1_1",
@@ -3636,6 +3728,10 @@
     "category": "vehiclePart"
   },
   {
+    "type": "Hatchback_02_Wheel_Ruined",
+    "category": "tools_crafted"
+  },
+  {
     "type": "HatchbackDoors_CoDriver",
     "category": "vehiclePart"
   },
@@ -3736,6 +3832,10 @@
     "category": "vehiclePart"
   },
   {
+    "type": "HatchbackWheel_Ruined",
+    "category": "tools_crafted"
+  },
+  {
     "type": "Hatchet",
     "category": "tools"
   },
@@ -3745,6 +3845,14 @@
   },
   {
     "type": "HeadCover_Improvised",
+    "category": "clothes_crafted"
+  },
+  {
+    "type": "Headdress_Bear",
+    "category": "clothes_crafted"
+  },
+  {
+    "type": "Headdress_Fox",
     "category": "clothes_crafted"
   },
   {
@@ -5212,6 +5320,18 @@
     "category": "clothes_feet"
   },
   {
+    "type": "MilitarySweater_Chernarus",
+    "category": "clothes_top"
+  },
+  {
+    "type": "MilitarySweater_Livonia",
+    "category": "clothes_top"
+  },
+  {
+    "type": "MilitarySweater_NoPatch",
+    "category": "clothes_top"
+  },
+  {
     "type": "MimeMask_Female",
     "category": "clothes_mask"
   },
@@ -5504,6 +5624,10 @@
     "category": "clothes_head"
   },
   {
+    "type": "Offroad_02",
+    "category": "vehicles"
+  },
+  {
     "type": "Offroad_02_Door_1_1",
     "category": "vehiclePart"
   },
@@ -5550,6 +5674,18 @@
   {
     "type": "Offroad_02_Wheel",
     "category": "vehiclePart"
+  },
+  {
+    "type": "OffroadHatchback",
+    "category": "vehicles"
+  },
+  {
+    "type": "OffroadHatchback_Blue",
+    "category": "vehicles"
+  },
+  {
+    "type": "OffroadHatchback_White",
+    "category": "vehicles"
   },
   {
     "type": "OKZKCap_Beige",
@@ -5762,6 +5898,18 @@
   {
     "type": "PileOfWoodenPlanks",
     "category": "StaticObject"
+  },
+  {
+    "type": "PilotJacket_Black",
+    "category": "clothes_top"
+  },
+  {
+    "type": "PilotJacket_Brown",
+    "category": "clothes_top"
+  },
+  {
+    "type": "PilotJacket_Yellow",
+    "category": "clothes_top"
   },
   {
     "type": "PilotkaCap",
@@ -6336,6 +6484,10 @@
     "category": "tools"
   },
   {
+    "type": "Sedan_02",
+    "category": "vehicles"
+  },
+  {
     "type": "Sedan_02_Door_1_1",
     "category": "vehiclePart"
   },
@@ -6432,6 +6584,10 @@
     "category": "vehiclePart"
   },
   {
+    "type": "Sedan_02_Grey",
+    "category": "vehicles"
+  },
+  {
     "type": "Sedan_02_Hood",
     "category": "vehiclePart"
   },
@@ -6454,6 +6610,10 @@
   {
     "type": "Sedan_02_Hood_YellowRust",
     "category": "vehiclePart"
+  },
+  {
+    "type": "Sedan_02_Red",
+    "category": "vehicles"
   },
   {
     "type": "Sedan_02_Trunk",
@@ -6482,6 +6642,10 @@
   {
     "type": "Sedan_02_Wheel",
     "category": "vehiclePart"
+  },
+  {
+    "type": "Sedan_02_Wheel_Ruined",
+    "category": "tools_crafted"
   },
   {
     "type": "SewingKit",
@@ -7284,6 +7448,14 @@
     "category": "clothes_bottom"
   },
   {
+    "type": "TraditionalBoots_Beige",
+    "category": "clothes_feet"
+  },
+  {
+    "type": "TraditionalBoots_DarkBrown",
+    "category": "clothes_feet"
+  },
+  {
     "type": "TrashCan",
     "category": "containers_crafted"
   },
@@ -7294,6 +7466,18 @@
   {
     "type": "TripwireTrap",
     "category": "tools_crafted"
+  },
+  {
+    "type": "Truck_01_Covered",
+    "category": "vehicles"
+  },
+  {
+    "type": "Truck_01_Covered_Blue",
+    "category": "vehicles"
+  },
+  {
+    "type": "Truck_01_Covered_Orange",
+    "category": "vehicles"
   },
   {
     "type": "Truck_01_Door_1_1",
@@ -7372,8 +7556,16 @@
     "category": "vehiclePart"
   },
   {
+    "type": "Truck_01_Wheel_Ruined",
+    "category": "tools_crafted"
+  },
+  {
     "type": "Truck_01_WheelDouble",
     "category": "vehiclePart"
+  },
+  {
+    "type": "Truck_01_WheelDouble_Ruined",
+    "category": "tools_crafted"
   },
   {
     "type": "TruckBattery",
@@ -7622,6 +7814,18 @@
   {
     "type": "WinterCoif_Skull",
     "category": "clothes_head"
+  },
+  {
+    "type": "WinterMilitaryCoat_Brown",
+    "category": "clothes_top"
+  },
+  {
+    "type": "WinterMilitaryCoat_DarkGrey",
+    "category": "clothes_top"
+  },
+  {
+    "type": "WinterMilitaryCoat_Grey",
+    "category": "clothes_top"
   },
   {
     "type": "WitchHat",
