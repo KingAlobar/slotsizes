@@ -16,38 +16,6 @@
     "slotSize": 2
   },
   {
-    "itemType": "AK101",
-    "slotSize": 24
-  },
-  {
-    "itemType": "AK101_Black",
-    "slotSize": 24
-  },
-  {
-    "itemType": "AK101_Green",
-    "slotSize": 24
-  },
-  {
-    "itemType": "AK74",
-    "slotSize": 24
-  },
-  {
-    "itemType": "AK74_Black",
-    "slotSize": 24
-  },
-  {
-    "itemType": "AK74_Green",
-    "slotSize": 24
-  },
-  {
-    "itemType": "AK74_Hndgrd",
-    "slotSize": 2
-  },
-  {
-    "itemType": "AK74_WoodBttstck",
-    "slotSize": 2
-  },
-  {
     "itemType": "AK_Bayonet",
     "slotSize": 3
   },
@@ -120,6 +88,54 @@
     "slotSize": 2
   },
   {
+    "itemType": "AK101",
+    "slotSize": 24
+  },
+  {
+    "itemType": "AK101_Black",
+    "slotSize": 24
+  },
+  {
+    "itemType": "AK101_Green",
+    "slotSize": 24
+  },
+  {
+    "itemType": "AK74",
+    "slotSize": 24
+  },
+  {
+    "itemType": "AK74_Black",
+    "slotSize": 24
+  },
+  {
+    "itemType": "AK74_Green",
+    "slotSize": 24
+  },
+  {
+    "itemType": "AK74_Hndgrd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AK74_Hndgrd_Black",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AK74_Hndgrd_Camo",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AK74_WoodBttstck",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AK74_WoodBttstck_Black",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AK74_WoodBttstck_Camo",
+    "slotSize": 2
+  },
+  {
     "itemType": "AKM",
     "slotSize": 24
   },
@@ -137,6 +153,14 @@
   },
   {
     "itemType": "AKS74U_Bttstck",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AKS74U_Bttstck_Black",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AKS74U_Bttstck_Green",
     "slotSize": 2
   },
   {
@@ -201,6 +225,10 @@
   },
   {
     "itemType": "Ammo_40mm_Chemgas",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Ammo_40mm_ChemGas",
     "slotSize": 2
   },
   {
@@ -425,6 +453,10 @@
   },
   {
     "itemType": "Animal_CapraHircus_Brown",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Animal_CapraHircus_Spooky",
     "slotSize": 1000
   },
   {
@@ -760,10 +792,6 @@
     "slotSize": 2
   },
   {
-    "itemType": "aw",
-    "slotSize": 10
-  },
-  {
     "itemType": "B95",
     "slotSize": 27
   },
@@ -805,46 +833,6 @@
   },
   {
     "itemType": "Balaclava3Holes_White",
-    "slotSize": 4
-  },
-  {
-    "itemType": "Balaclava_BDU",
-    "slotSize": 4
-  },
-  {
-    "itemType": "Balaclava_Beige",
-    "slotSize": 4
-  },
-  {
-    "itemType": "Balaclava_Black",
-    "slotSize": 4
-  },
-  {
-    "itemType": "Balaclava_Blackskull",
-    "slotSize": 4
-  },
-  {
-    "itemType": "Balaclava_Blue",
-    "slotSize": 4
-  },
-  {
-    "itemType": "Balaclava_Chain",
-    "slotSize": 4
-  },
-  {
-    "itemType": "Balaclava_Green",
-    "slotSize": 4
-  },
-  {
-    "itemType": "Balaclava_Pig",
-    "slotSize": 4
-  },
-  {
-    "itemType": "Balaclava_Pink",
-    "slotSize": 4
-  },
-  {
-    "itemType": "Balaclava_White",
     "slotSize": 4
   },
   {
@@ -936,6 +924,10 @@
     "slotSize": 12
   },
   {
+    "itemType": "Banana",
+    "slotSize": 2
+  },
+  {
     "itemType": "BandageDressing",
     "slotSize": 2
   },
@@ -965,10 +957,6 @@
   },
   {
     "itemType": "Bandana_Redpattern",
-    "slotSize": 3
-  },
-  {
-    "itemType": "Bandana_Yellow",
     "slotSize": 3
   },
   {
@@ -1022,14 +1010,6 @@
   {
     "itemType": "BaseballBat",
     "slotSize": 7
-  },
-  {
-    "itemType": "BaseballCap_Beige",
-    "slotSize": 3
-  },
-  {
-    "itemType": "BaseballCap_Beige",
-    "slotSize": 6
   },
   {
     "itemType": "BaseballCap_Black",
@@ -1164,6 +1144,10 @@
     "slotSize": 4
   },
   {
+    "itemType": "BloodSyringe",
+    "slotSize": 2
+  },
+  {
     "itemType": "BloodTestKit",
     "slotSize": 1
   },
@@ -1258,6 +1242,582 @@
   {
     "itemType": "Bonfire",
     "slotSize": 1000
+  },
+  {
+    "itemType": "Book20000LieuesSousLesMers",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookADollsHouse",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookAfterLondon",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookAliceInWonderland",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookAndersen",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookAndersensFairyTales",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookAnnaKarenina",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookAPrincessOfMars",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookAroundTheWorldIn80Days",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookATexasMatchmaker",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookATravelerInTime",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookAVoyageToArcturus",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookBettyZane",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookBilaNemoc",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookBlackBeauty",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookBlackJack",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookBuddenbrooks",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookCandide",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookCassidysRustlerRoundUp",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookCinqSemainesEnBallon",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookCrimeAndPunishment",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookDasNibelungenlied",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookDeadSouls",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookDeLaTerreLaLune",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookDeLorigineDesEspces",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookDesertGold",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookDonQuichotte",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookDonQuixote",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookDracula",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookErewhon",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookFatherGoriot",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookFaust",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookFaustErsterTeil",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookFlyingURanch",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookFrankenstein",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookGilgameshEpic",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookGreatExpectations",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookGulliversTravels",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookGunmansReckoning",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookHeartOfDarkness",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookHerland",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookHinduLiterature",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookHunger",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookIvanhoe",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookJapaneseLiterature",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookKidnapped",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookKingLear",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookKingSolomonsMines",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookLaChartreuseDeParme",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookLaComdieHumaine",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookLaDbcle",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookLenfer1Of2",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookLeRougeEtLeNoir",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookLesCorneilles",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookLesTroisMousquetaires",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookLleMystrieuse",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookLonesomeLand",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookLordJim",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookMadameBovary",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookMiddlemarch",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookMobyDick",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookMrchenFrKinder",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookNaturalSelection",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookNjalsSaga",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookNostromo",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookPhilosophiaeNaturalis",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookPrideAndPrejudice",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookRasselas",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookRobinsonCrusoe",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookRobinsonCrusoeAdventures",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookRomeoUndJulia",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookRonickyDoone",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookRussian",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookRussianCheatSheet",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookScaramouche",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookSelectedStories",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookShe",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookSkyrider",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookSonsAndLovers",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookSpinifexAndSand",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookSunsetPass",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheAeneid",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheArtOfWar",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheBarrier",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheBrothersKaramazov",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheCallOfCthulhu",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheCallOfTheWild",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheCanterburyTales",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheCaveOfGold",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheComingRace",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheCosmicComputer",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheCountryOfTheBlind",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheDayOfTheBeast",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheDecameron",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheDesertOfWheat",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheGiacomoLeopardi",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheHeritageOfTheSioux",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheHiddenChildren",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheHoundOfTheBaskervilles",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheHouseOfTheSevenGables",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheIslandOfDoctorMoreau",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheJungleBook",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheJustifiedSinner",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheLastMan",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheLastOfThePlainsmen",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheLastTrail",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheMahabharataOfKrishna",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheManWhoWasThursday",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheMetamorphosesOfOvid",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheMetamorphosis",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheMonkARomance",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheOutlet",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookThePictureOfDorianGray",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookThePitAndThePendulum",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookThePossessed",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookThePrisonerOfZenda",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheQuirt",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheRaven",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheRedBadgeOfCourage",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheRightsOfWoman",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheScarletPimpernel",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheShunnedHouse",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheThreeMusketeers",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheThunderBird",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheTimeMachine",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheTrial",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheTurnOfTheScrew",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheVariableMan",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheWarOfTheWorlds",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookThreeMenInABoat",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTonyAndTheBeetles",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookToTheInteriorOfTheEarth",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTrailin",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTranslationsOfShakuntala",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTreasureIsland",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookUlysses",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookUncleSilas",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookVerwandlung",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookVoyageAuCentreDeLaTerre",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookWarAndPeace",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookWealthOfNations",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookWielandOrTheTransformation",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookWutheringHeights",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookYouth",
+    "slotSize": 4
   },
   {
     "itemType": "BoonieHat_Black",
@@ -1404,6 +1964,10 @@
     "slotSize": 21
   },
   {
+    "itemType": "Candle",
+    "slotSize": 2
+  },
+  {
     "itemType": "Candycane_Green",
     "slotSize": 2
   },
@@ -1426,6 +1990,14 @@
   {
     "itemType": "CanisterGasoline",
     "slotSize": 30
+  },
+  {
+    "itemType": "Cannabis",
+    "slotSize": 1
+  },
+  {
+    "itemType": "CannabisSeedsPack",
+    "slotSize": 1
   },
   {
     "itemType": "CanOpener",
@@ -1548,6 +2120,10 @@
     "slotSize": 12
   },
   {
+    "itemType": "ChainSaw",
+    "slotSize": 15
+  },
+  {
     "itemType": "CharcoalTablets",
     "slotSize": 2
   },
@@ -1636,12 +2212,180 @@
     "slotSize": 1000
   },
   {
+    "itemType": "ChristmasTree_Green",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CigarettePack_Chernamorka",
+    "slotSize": 1
+  },
+  {
+    "itemType": "CigarettePack_Merkur",
+    "slotSize": 1
+  },
+  {
+    "itemType": "CigarettePack_Partyzanka",
+    "slotSize": 1
+  },
+  {
     "itemType": "CivilianBelt",
     "slotSize": 3
   },
   {
+    "itemType": "CivSedanDoors_BackLeft",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_BackLeft_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_BackLeft_BlackRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_BackLeft_WhiteRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_BackLeft_Wine",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_BackLeft_WineRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_BackRight",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_BackRight_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_BackRight_BlackRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_BackRight_WhiteRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_BackRight_Wine",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_BackRight_WineRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_CoDriver",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_CoDriver_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_CoDriver_BlackRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_CoDriver_WhiteRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_CoDriver_Wine",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_CoDriver_WineRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_Driver",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_Driver_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_Driver_BlackRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_Driver_WhiteRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_Driver_Wine",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanDoors_Driver_WineRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanHood",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanHood_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanHood_BlackRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanHood_WhiteRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanHood_Wine",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanHood_WineRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanTrunk",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanTrunk_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanTrunk_BlackRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanTrunk_WhiteRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanTrunk_Wine",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanTrunk_WineRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivSedanWheel",
+    "slotSize": 1000
+  },
+  {
     "itemType": "ClaymoreMine",
     "slotSize": 12
+  },
+  {
+    "itemType": "ClearSyringe",
+    "slotSize": 2
   },
   {
     "itemType": "Cleaver",
@@ -1722,10 +2466,6 @@
   {
     "itemType": "CourierBag",
     "slotSize": 16
-  },
-  {
-    "itemType": "Cover_Improvised",
-    "slotSize": 4
   },
   {
     "itemType": "CowboyHat_black",
@@ -1914,6 +2654,10 @@
   {
     "itemType": "DeerSteakMeat",
     "slotSize": 2
+  },
+  {
+    "itemType": "Defibrillator",
+    "slotSize": 16
   },
   {
     "itemType": "DenimJacket",
@@ -2444,11 +3188,15 @@
     "slotSize": 6
   },
   {
-    "itemType": "FoxPelt",
-    "slotSize": 12
+    "itemType": "FNX45_Arrow",
+    "slotSize": 6
   },
   {
     "itemType": "Foxpelt",
+    "slotSize": 12
+  },
+  {
+    "itemType": "FoxPelt",
     "slotSize": 12
   },
   {
@@ -2482,14 +3230,6 @@
   {
     "itemType": "GardenPlotPolytunnel",
     "slotSize": 1000
-  },
-  {
-    "itemType": "Gas",
-    "slotSize": 12
-  },
-  {
-    "itemType": "Gas_Filter",
-    "slotSize": 4
   },
   {
     "itemType": "GasMask",
@@ -2712,10 +3452,6 @@
     "slotSize": 12
   },
   {
-    "itemType": "GP5Gas",
-    "slotSize": 9
-  },
-  {
     "itemType": "GP5GasMask",
     "slotSize": 9
   },
@@ -2772,8 +3508,260 @@
     "slotSize": 2
   },
   {
+    "itemType": "Hatchback_02_Door_1_1",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_1_1_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_1_1_BlackRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_1_1_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_1_1_BlueRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_1_1_RedRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_1_2",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_1_2_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_1_2_BlackRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_1_2_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_1_2_BlueRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_1_2_RedRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_2_1",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_2_1_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_2_1_BlackRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_2_1_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_2_1_BlueRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_2_1_RedRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_2_2",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_2_2_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_2_2_BlackRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_2_2_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_2_2_BlueRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Door_2_2_RedRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Hood",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Hood_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Hood_BlackRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Hood_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Hood_BlueRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Hood_RedRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Trunk",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Trunk_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Trunk_BlackRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Trunk_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Trunk_BlueRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Trunk_RedRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Wheel",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackDoors_CoDriver",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackDoors_CoDriver_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackDoors_CoDriver_BlueRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackDoors_CoDriver_GreenRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackDoors_CoDriver_White",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackDoors_CoDriver_WhiteRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackDoors_Driver",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackDoors_Driver_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackDoors_Driver_BlueRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackDoors_Driver_GreenRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackDoors_Driver_White",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackDoors_Driver_WhiteRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackHood",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackHood_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackHood_BlueRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackHood_GreenRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackHood_White",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackHood_WhiteRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackTrunk",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackTrunk_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackTrunk_BlueRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackTrunk_GreenRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackTrunk_White",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackTrunk_WhiteRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "HatchbackWheel",
+    "slotSize": 1000
+  },
+  {
     "itemType": "Hatchet",
     "slotSize": 8
+  },
+  {
+    "itemType": "HayHook",
+    "slotSize": 6
   },
   {
     "itemType": "HeadCover_Improvised",
@@ -2802,14 +3790,6 @@
   {
     "itemType": "Heatpack",
     "slotSize": 2
-  },
-  {
-    "itemType": "HighCapacity_Black",
-    "slotSize": 12
-  },
-  {
-    "itemType": "HighCapacity_Olive",
-    "slotSize": 12
   },
   {
     "itemType": "HighCapacityVest_Black",
@@ -2876,10 +3856,6 @@
     "slotSize": 8
   },
   {
-    "itemType": "Hockey",
-    "slotSize": 6
-  },
-  {
     "itemType": "HockeyHelmet_Black",
     "slotSize": 12
   },
@@ -2898,6 +3874,10 @@
   {
     "itemType": "HockeyMask",
     "slotSize": 6
+  },
+  {
+    "itemType": "HockeyStick",
+    "slotSize": 20
   },
   {
     "itemType": "Honey",
@@ -3018,6 +3998,10 @@
   {
     "itemType": "ImprovisedSuppressor",
     "slotSize": 3
+  },
+  {
+    "itemType": "InjectionVial",
+    "slotSize": 1
   },
   {
     "itemType": "IodineTincture",
@@ -3152,6 +4136,10 @@
     "slotSize": 1
   },
   {
+    "itemType": "Kiwi",
+    "slotSize": 1
+  },
+  {
     "itemType": "KobraOptic",
     "slotSize": 4
   },
@@ -3188,6 +4176,22 @@
     "slotSize": 1000
   },
   {
+    "itemType": "Land_ContainerLocked_Blue_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_ContainerLocked_Orange_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_ContainerLocked_Red_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_ContainerLocked_Yellow_DE",
+    "slotSize": 1000
+  },
+  {
     "itemType": "Land_Train_Wagon_Box_DE",
     "slotSize": 1000
   },
@@ -3196,11 +4200,35 @@
     "slotSize": 1000
   },
   {
+    "itemType": "Land_WarheadStorage_Room1",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_WarheadStorage_Room2",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_WarheadStorage_Room3",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_WarheadStorage_Room4",
+    "slotSize": 1000
+  },
+  {
     "itemType": "Land_Wreck_hb01_aban1_blue_DE",
     "slotSize": 1000
   },
   {
+    "itemType": "Land_Wreck_hb01_aban1_green_DE",
+    "slotSize": 1000
+  },
+  {
     "itemType": "Land_Wreck_hb01_aban1_police",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_hb01_aban1_police_DE",
     "slotSize": 1000
   },
   {
@@ -3217,6 +4245,14 @@
   },
   {
     "itemType": "Land_Wreck_hb01_aban2_police",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_hb01_aban2_police_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_hb02_aban1_black_DE",
     "slotSize": 1000
   },
   {
@@ -3288,7 +4324,23 @@
     "slotSize": 1000
   },
   {
+    "itemType": "Land_Wreck_sed01_aban2_white_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_sed01_aban2_wine_DE",
+    "slotSize": 1000
+  },
+  {
     "itemType": "Land_Wreck_sed02_aban1_grey_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_wreck_sed02_aban1_police",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_sed02_aban1_Police_DE",
     "slotSize": 1000
   },
   {
@@ -3301,6 +4353,14 @@
   },
   {
     "itemType": "Land_Wreck_sed02_aban2_grey_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_wreck_sed02_aban2_police",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Land_Wreck_sed02_aban2_Police_DE",
     "slotSize": 1000
   },
   {
@@ -3348,6 +4408,10 @@
     "slotSize": 1000
   },
   {
+    "itemType": "Land_wreck_truck01_aban2_orange_DE",
+    "slotSize": 1000
+  },
+  {
     "itemType": "Land_Wreck_V3S_DE",
     "slotSize": 1000
   },
@@ -3385,22 +4449,6 @@
   },
   {
     "itemType": "LeafCrown_Winter",
-    "slotSize": 4
-  },
-  {
-    "itemType": "Leather_Beige",
-    "slotSize": 4
-  },
-  {
-    "itemType": "Leather_Black",
-    "slotSize": 4
-  },
-  {
-    "itemType": "Leather_Brown",
-    "slotSize": 4
-  },
-  {
-    "itemType": "Leather_Natural",
     "slotSize": 4
   },
   {
@@ -3536,10 +4584,6 @@
     "slotSize": 8
   },
   {
-    "itemType": "LeatherStorage_Natural",
-    "slotSize": 12
-  },
-  {
     "itemType": "LeatherStorageVest_Beige",
     "slotSize": 12
   },
@@ -3620,7 +4664,19 @@
     "slotSize": 2
   },
   {
+    "itemType": "M4_CarryHandleOptic_Green",
+    "slotSize": 2
+  },
+  {
     "itemType": "M4_CQBBttstck",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M4_CQBBttstck_Black",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M4_CQBBttstck_Green",
     "slotSize": 2
   },
   {
@@ -3628,7 +4684,23 @@
     "slotSize": 2
   },
   {
+    "itemType": "M4_MPBttstck_Black",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M4_MPBttstck_Green",
+    "slotSize": 2
+  },
+  {
     "itemType": "M4_MPHndgrd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M4_MPHndgrd_Black",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M4_MPHndgrd_Green",
     "slotSize": 2
   },
   {
@@ -3636,7 +4708,23 @@
     "slotSize": 2
   },
   {
+    "itemType": "M4_OEBttstck_Black",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M4_OEBttstck_Green",
+    "slotSize": 2
+  },
+  {
     "itemType": "M4_PlasticHndgrd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M4_PlasticHndgrd_Black",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M4_PlasticHndgrd_Green",
     "slotSize": 2
   },
   {
@@ -3732,7 +4820,23 @@
     "slotSize": 3
   },
   {
+    "itemType": "Mag_AK101_30Rnd_Black",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Mag_AK101_30Rnd_Green",
+    "slotSize": 3
+  },
+  {
     "itemType": "Mag_AK74_30Rnd",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Mag_AK74_30Rnd_Black",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Mag_AK74_30Rnd_Green",
     "slotSize": 3
   },
   {
@@ -3744,15 +4848,31 @@
     "slotSize": 3
   },
   {
-    "itemType": "Mag_AKM_Drum75Rnd",
-    "slotSize": 9
-  },
-  {
     "itemType": "Mag_AKM_Drum_TEST",
     "slotSize": 9
   },
   {
+    "itemType": "Mag_AKM_Drum75Rnd",
+    "slotSize": 9
+  },
+  {
+    "itemType": "Mag_AKM_Drum75Rnd_Black",
+    "slotSize": 9
+  },
+  {
+    "itemType": "Mag_AKM_Drum75Rnd_Green",
+    "slotSize": 9
+  },
+  {
     "itemType": "Mag_AKM_Palm30Rnd",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Mag_AKM_Palm30Rnd_Black",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Mag_AKM_Palm30Rnd_Green",
     "slotSize": 3
   },
   {
@@ -3764,7 +4884,23 @@
     "slotSize": 2
   },
   {
+    "itemType": "Mag_CMAG_10Rnd_Black",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Mag_CMAG_10Rnd_Green",
+    "slotSize": 2
+  },
+  {
     "itemType": "Mag_CMAG_20Rnd",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Mag_CMAG_20Rnd_Black",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Mag_CMAG_20Rnd_Green",
     "slotSize": 2
   },
   {
@@ -3772,7 +4908,23 @@
     "slotSize": 3
   },
   {
+    "itemType": "Mag_CMAG_30Rnd_Black",
+    "slotSize": 3
+  },
+  {
+    "itemType": "Mag_CMAG_30Rnd_Green",
+    "slotSize": 3
+  },
+  {
     "itemType": "Mag_CMAG_40Rnd",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Mag_CMAG_40Rnd_Black",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Mag_CMAG_40Rnd_Green",
     "slotSize": 4
   },
   {
@@ -3910,74 +5062,6 @@
   {
     "itemType": "Mag_VSS_10Rnd",
     "slotSize": 2
-  },
-  {
-    "itemType": "FNX45_Arrow",
-    "slotSize": 6
-  },
-  {
-    "itemType": "Mag_AK101_30Rnd_Black",
-    "slotSize": 3
-  },
-  {
-    "itemType": "Mag_AK101_30Rnd_Green",
-    "slotSize": 3
-  },
-  {
-    "itemType": "Mag_AK74_30Rnd_Black",
-    "slotSize": 3
-  },
-  {
-    "itemType": "Mag_AK74_30Rnd_Green",
-    "slotSize": 3
-  },
-  {
-    "itemType": "Mag_AKM_Drum75Rnd_Black",
-    "slotSize": 9
-  },
-  {
-    "itemType": "Mag_AKM_Drum75Rnd_Green",
-    "slotSize": 9
-  },
-  {
-    "itemType": "Mag_AKM_Palm30Rnd_Black",
-    "slotSize": 3
-  },
-  {
-    "itemType": "Mag_AKM_Palm30Rnd_Green",
-    "slotSize": 3
-  },
-  {
-    "itemType": "Mag_CMAG_10Rnd_Black",
-    "slotSize": 2
-  },
-  {
-    "itemType": "Mag_CMAG_10Rnd_Green",
-    "slotSize": 2
-  },
-  {
-    "itemType": "Mag_CMAG_20Rnd_Black",
-    "slotSize": 2
-  },
-  {
-    "itemType": "Mag_CMAG_20Rnd_Green",
-    "slotSize": 2
-  },
-  {
-    "itemType": "Mag_CMAG_30Rnd_Black",
-    "slotSize": 3
-  },
-  {
-    "itemType": "Mag_CMAG_30Rnd_Green",
-    "slotSize": 3
-  },
-  {
-    "itemType": "Mag_CMAG_40Rnd_Black",
-    "slotSize": 4
-  },
-  {
-    "itemType": "Mag_CMAG_40Rnd_Green",
-    "slotSize": 4
   },
   {
     "itemType": "Magnum",
@@ -4148,14 +5232,6 @@
     "slotSize": 16
   },
   {
-    "itemType": "Mime_Female",
-    "slotSize": 6
-  },
-  {
-    "itemType": "Mime_Male",
-    "slotSize": 6
-  },
-  {
     "itemType": "MimeMask_Female",
     "slotSize": 2
   },
@@ -4196,11 +5272,27 @@
     "slotSize": 9
   },
   {
+    "itemType": "Misc_TirePile_Burning_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "MK4Optic_black",
+    "slotSize": 4
+  },
+  {
     "itemType": "MK4Optic_Black",
     "slotSize": 4
   },
   {
+    "itemType": "MK4Optic_green",
+    "slotSize": 4
+  },
+  {
     "itemType": "MK4Optic_Green",
+    "slotSize": 4
+  },
+  {
+    "itemType": "MK4Optic_tan",
     "slotSize": 4
   },
   {
@@ -4220,6 +5312,14 @@
     "slotSize": 2
   },
   {
+    "itemType": "Mosin_Bayonet",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Mosin_Compensator",
+    "slotSize": 1
+  },
+  {
     "itemType": "Mosin9130",
     "slotSize": 27
   },
@@ -4234,14 +5334,6 @@
   {
     "itemType": "Mosin9130_Green",
     "slotSize": 27
-  },
-  {
-    "itemType": "Mosin_Bayonet",
-    "slotSize": 4
-  },
-  {
-    "itemType": "Mosin_Compensator",
-    "slotSize": 1
   },
   {
     "itemType": "MotoHelmet_Black",
@@ -4360,10 +5452,6 @@
     "slotSize": 4
   },
   {
-    "itemType": "NBCGray",
-    "slotSize": 4
-  },
-  {
     "itemType": "NBCHoodGray",
     "slotSize": 4
   },
@@ -4400,16 +5488,8 @@
     "slotSize": 6
   },
   {
-    "itemType": "NBCYellow",
-    "slotSize": 4
-  },
-  {
     "itemType": "Netting",
     "slotSize": 6
-  },
-  {
-    "itemType": "NioshFace",
-    "slotSize": 4
   },
   {
     "itemType": "NioshFaceMask",
@@ -4444,6 +5524,54 @@
     "slotSize": 6
   },
   {
+    "itemType": "Offroad_02_Door_1_1",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Offroad_02_Door_1_1_Rust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Offroad_02_Door_1_2",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Offroad_02_Door_1_2_Rust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Offroad_02_Door_2_1",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Offroad_02_Door_2_1_Rust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Offroad_02_Door_2_2",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Offroad_02_Door_2_2_Rust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Offroad_02_Hood",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Offroad_02_Trunk",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Offroad_02_Trunk_Rust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Offroad_02_Wheel",
+    "slotSize": 1000
+  },
+  {
     "itemType": "OKZKCap_Beige",
     "slotSize": 4
   },
@@ -4460,20 +5588,16 @@
     "slotSize": 12
   },
   {
-    "itemType": "OMNO_Brown",
-    "slotSize": 4
-  },
-  {
-    "itemType": "OMNO_Gray",
-    "slotSize": 4
-  },
-  {
     "itemType": "OMNOGloves_Brown",
     "slotSize": 4
   },
   {
     "itemType": "OMNOGloves_Gray",
     "slotSize": 4
+  },
+  {
+    "itemType": "Orange",
+    "slotSize": 1
   },
   {
     "itemType": "OrientalMachete",
@@ -4492,18 +5616,6 @@
     "slotSize": 6
   },
   {
-    "itemType": "Padded_Beige",
-    "slotSize": 4
-  },
-  {
-    "itemType": "Padded_Brown",
-    "slotSize": 4
-  },
-  {
-    "itemType": "Padded_Threat",
-    "slotSize": 4
-  },
-  {
     "itemType": "PaddedGloves_Beige",
     "slotSize": 6
   },
@@ -4514,6 +5626,10 @@
   {
     "itemType": "PaddedGloves_Threat",
     "slotSize": 6
+  },
+  {
+    "itemType": "Paddle",
+    "slotSize": 20
   },
   {
     "itemType": "PainkillerTablets",
@@ -4578,22 +5694,6 @@
   {
     "itemType": "Pate_Opened",
     "slotSize": 1
-  },
-  {
-    "itemType": "Payday_Chains",
-    "slotSize": 6
-  },
-  {
-    "itemType": "Payday_Dallas",
-    "slotSize": 6
-  },
-  {
-    "itemType": "Payday_Hoxton",
-    "slotSize": 6
-  },
-  {
-    "itemType": "Payday_Wolf",
-    "slotSize": 6
   },
   {
     "itemType": "PaydayMask_Chains",
@@ -4708,6 +5808,10 @@
     "slotSize": 16
   },
   {
+    "itemType": "Plant_Cannabis",
+    "slotSize": 1000
+  },
+  {
     "itemType": "Plant_Pepper",
     "slotSize": 1000
   },
@@ -4810,6 +5914,10 @@
   {
     "itemType": "PM73Rak",
     "slotSize": 12
+  },
+  {
+    "itemType": "PoliceBaton",
+    "slotSize": 10
   },
   {
     "itemType": "PoliceCap",
@@ -5044,6 +6152,10 @@
     "slotSize": 2
   },
   {
+    "itemType": "Raycaster",
+    "slotSize": 3
+  },
+  {
     "itemType": "RDG2SmokeGrenade_Black",
     "slotSize": 2
   },
@@ -5062,6 +6174,14 @@
   {
     "itemType": "ReflexVest",
     "slotSize": 6
+  },
+  {
+    "itemType": "Refridgerator",
+    "slotSize": 70
+  },
+  {
+    "itemType": "RefrigeratorMinsk",
+    "slotSize": 50
   },
   {
     "itemType": "ReindeerPelt",
@@ -5236,6 +6356,154 @@
     "slotSize": 100
   },
   {
+    "itemType": "Sedan_02_Door_1_1",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_1_1_Grey",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_1_1_GreyRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_1_1_Red",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_1_1_RedRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_1_1_YellowRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_1_2",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_1_2_Grey",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_1_2_GreyRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_1_2_Red",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_1_2_RedRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_1_2_YellowRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_2_1",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_2_1_Grey",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_2_1_GreyRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_2_1_Red",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_2_1_RedRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_2_1_YellowRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_2_2",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_2_2_Grey",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_2_2_GreyRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_2_2_Red",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_2_2_RedRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Door_2_2_YellowRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Hood",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Hood_Grey",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Hood_GreyRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Hood_Red",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Hood_RedRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Hood_YellowRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Trunk",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Trunk_Grey",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Trunk_GreyRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Trunk_Red",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Trunk_RedRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Trunk_YellowRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Wheel",
+    "slotSize": 1000
+  },
+  {
     "itemType": "SewingKit",
     "slotSize": 2
   },
@@ -5368,6 +6636,10 @@
     "slotSize": 16
   },
   {
+    "itemType": "Shrimp",
+    "slotSize": 2
+  },
+  {
     "itemType": "Sickle",
     "slotSize": 6
   },
@@ -5390,18 +6662,6 @@
   {
     "itemType": "SkateHelmet_Red",
     "slotSize": 12
-  },
-  {
-    "itemType": "Ski_90s",
-    "slotSize": 4
-  },
-  {
-    "itemType": "Ski_Blue",
-    "slotSize": 4
-  },
-  {
-    "itemType": "Ski_Red",
-    "slotSize": 4
   },
   {
     "itemType": "SkiGloves_90s",
@@ -5748,6 +7008,10 @@
     "slotSize": 1000
   },
   {
+    "itemType": "StaticObj_Wreck_Trailer_Flat_DE",
+    "slotSize": 1000
+  },
+  {
     "itemType": "StaticObj_Wreck_Train_742_Blue_DE",
     "slotSize": 1000
   },
@@ -5806,26 +7070,6 @@
   {
     "itemType": "StoneKnife",
     "slotSize": 2
-  },
-  {
-    "itemType": "Surgical",
-    "slotSize": 3
-  },
-  {
-    "itemType": "Surgical_Blue",
-    "slotSize": 1
-  },
-  {
-    "itemType": "Surgical_Green",
-    "slotSize": 1
-  },
-  {
-    "itemType": "Surgical_LightBlue",
-    "slotSize": 1
-  },
-  {
-    "itemType": "Surgical_White",
-    "slotSize": 1
   },
   {
     "itemType": "SurgicalGloves_Blue",
@@ -5890,22 +7134,6 @@
   {
     "itemType": "Sword",
     "slotSize": 16
-  },
-  {
-    "itemType": "Syringe",
-    "slotSize": 2
-  },
-  {
-    "itemType": "Tactical_Beige",
-    "slotSize": 4
-  },
-  {
-    "itemType": "Tactical_Black",
-    "slotSize": 4
-  },
-  {
-    "itemType": "Tactical_Green",
-    "slotSize": 4
   },
   {
     "itemType": "TacticalBaconCan",
@@ -6076,6 +7304,10 @@
     "slotSize": 6
   },
   {
+    "itemType": "TrashCan",
+    "slotSize": 150
+  },
+  {
     "itemType": "Tripod",
     "slotSize": 6
   },
@@ -6084,15 +7316,95 @@
     "slotSize": 4
   },
   {
+    "itemType": "Truck_01_Door_1_1",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Door_1_1_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Door_1_1_BlueRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Door_1_1_GreenRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Door_1_1_Orange",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Door_1_1_OrangeRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Door_2_1",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Door_2_1_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Door_2_1_BlueRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Door_2_1_GreenRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Door_2_1_Orange",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Door_2_1_OrangeRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Hood",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Hood_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Hood_BlueRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Hood_GreenRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Hood_Orange",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Hood_OrangeRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Wheel",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_WheelDouble",
+    "slotSize": 1000
+  },
+  {
     "itemType": "TruckBattery",
     "slotSize": 15
   },
   {
-    "itemType": "TShirt_10thAnniversary",
+    "itemType": "Tshirt_10thAnniversary",
     "slotSize": 6
   },
   {
-    "itemType": "Tshirt_10thAnniversary",
+    "itemType": "TShirt_10thAnniversary",
     "slotSize": 6
   },
   {
@@ -6230,6 +7542,10 @@
   {
     "itemType": "VitaminBottle",
     "slotSize": 2
+  },
+  {
+    "itemType": "Vodka",
+    "slotSize": 3
   },
   {
     "itemType": "VSS",
@@ -6432,30 +7748,6 @@
     "slotSize": 5
   },
   {
-    "itemType": "Wool_Black",
-    "slotSize": 4
-  },
-  {
-    "itemType": "Wool_ChristmasBlue",
-    "slotSize": 4
-  },
-  {
-    "itemType": "Wool_ChristmasRed",
-    "slotSize": 4
-  },
-  {
-    "itemType": "Wool_Green",
-    "slotSize": 4
-  },
-  {
-    "itemType": "Wool_Tan",
-    "slotSize": 4
-  },
-  {
-    "itemType": "Wool_White",
-    "slotSize": 4
-  },
-  {
     "itemType": "WoolCoat_Beige",
     "slotSize": 16
   },
@@ -6610,834 +7902,6 @@
   {
     "itemType": "ZagorkyPeanuts",
     "slotSize": 2
-  },
-  {
-    "itemType": "ZmijovkaCap_Black",
-    "slotSize": 6
-  },
-  {
-    "itemType": "ZmijovkaCap_Blue",
-    "slotSize": 6
-  },
-  {
-    "itemType": "ZmijovkaCap_Brown",
-    "slotSize": 6
-  },
-  {
-    "itemType": "ZmijovkaCap_Green",
-    "slotSize": 6
-  },
-  {
-    "itemType": "ZmijovkaCap_Red",
-    "slotSize": 6
-  },
-  {
-    "itemType": "ZSh3PilotHelmet",
-    "slotSize": 16
-  },
-  {
-    "itemType": "ZSh3PilotHelmet_Black",
-    "slotSize": 16
-  },
-  {
-    "itemType": "ZSh3PilotHelmet_Green",
-    "slotSize": 16
-  },
-  {
-    "itemType": "Zucchini",
-    "slotSize": 3
-  },
-  {
-    "itemType": "ZucchiniSeeds",
-    "slotSize": 1
-  },
-  {
-    "itemType": "ZucchiniSeedsPack",
-    "slotSize": 3
-  },
-  {
-    "itemType": "Animal_CapraHircus_Spooky",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "ChristmasTree_Green",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Land_Wreck_hb01_aban1_green_DE",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Land_Wreck_hb01_aban1_police_DE",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Land_Wreck_hb01_aban2_police_DE",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Land_Wreck_hb02_aban1_black_DE",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Land_Wreck_sed01_aban2_white_DE",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Land_Wreck_sed01_aban2_wine_DE",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Land_wreck_truck01_aban2_orange_DE",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Land_Wreck_sed02_aban1_Police_DE",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Land_Wreck_sed02_aban2_Police_DE",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Land_wreck_sed02_aban1_police",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Land_wreck_sed02_aban2_police",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "MK4Optic_black",
-    "slotSize": 4
-  },
-  {
-    "itemType": "MK4Optic_green",
-    "slotSize": 4
-  },
-  {
-    "itemType": "MK4Optic_tan",
-    "slotSize": 4
-  },
-  {
-    "itemType": "Shrimp",
-    "slotSize": 2
-  },
-  {
-    "itemType": "StaticObj_Wreck_Trailer_Flat_DE",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Ammo_40mm_ChemGas",
-    "slotSize": 2
-  },
-  {
-    "itemType": "Land_ContainerLocked_Blue_DE",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Land_ContainerLocked_Orange_DE",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Land_ContainerLocked_Red_DE",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Land_ContainerLocked_Yellow_DE",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Land_WarheadStorage_Room1",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Land_WarheadStorage_Room2",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Land_WarheadStorage_Room3",
-    "slotSize":1000
-  },
-  {
-    "itemType": "Land_WarheadStorage_Room4",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Misc_TirePile_Burning_DE",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanDoors_BackLeft",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanDoors_BackLeft_Black",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanDoors_BackLeft_BlackRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanDoors_BackLeft_WhiteRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanDoors_BackLeft_Wine",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanDoors_BackLeft_WineRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanDoors_BackRight",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanDoors_BackRight_Black",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanDoors_BackRight_BlackRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanDoors_BackRight_WhiteRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanDoors_BackRight_Wine",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanDoors_BackRight_WineRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanDoors_CoDriver",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanDoors_CoDriver_Black",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanDoors_CoDriver_BlackRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanDoors_CoDriver_WhiteRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanDoors_CoDriver_Wine",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanDoors_CoDriver_WineRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanDoors_Driver",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanDoors_Driver_Black",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanDoors_Driver_BlackRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanDoors_Driver_WhiteRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanDoors_Driver_Wine",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanDoors_Driver_WineRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanHood",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanHood_Black",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanHood_BlackRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanHood_WhiteRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanHood_Wine",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanHood_WineRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanTrunk",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanTrunk_Black",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanTrunk_BlackRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanTrunk_WhiteRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanTrunk_Wine",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanTrunk_WineRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "CivSedanWheel",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Door_1_1",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Door_1_1_Black",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Door_1_1_BlackRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Door_1_1_Blue",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Door_1_1_BlueRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Door_1_1_RedRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Door_1_2",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Door_1_2_Black",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Door_1_2_BlackRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Door_1_2_Blue",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Door_1_2_BlueRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Door_1_2_RedRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Door_2_1",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Door_2_1_Black",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Door_2_1_BlackRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Door_2_1_Blue",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Door_2_1_BlueRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Door_2_1_RedRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Door_2_2",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Door_2_2_Black",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Door_2_2_BlackRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Door_2_2_Blue",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Door_2_2_BlueRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Door_2_2_RedRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Hood",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Hood_Black",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Hood_BlackRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Hood_Blue",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Hood_BlueRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Hood_RedRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Trunk",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Trunk_Black",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Trunk_BlackRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Trunk_Blue",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Trunk_BlueRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Trunk_RedRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Hatchback_02_Wheel",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "HatchbackDoors_CoDriver",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "HatchbackDoors_CoDriver_Blue",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "HatchbackDoors_CoDriver_BlueRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "HatchbackDoors_CoDriver_GreenRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "HatchbackDoors_CoDriver_White",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "HatchbackDoors_CoDriver_WhiteRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "HatchbackDoors_Driver",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "HatchbackDoors_Driver_Blue",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "HatchbackDoors_Driver_BlueRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "HatchbackDoors_Driver_GreenRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "HatchbackDoors_Driver_White",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "HatchbackDoors_Driver_WhiteRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "HatchbackHood",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "HatchbackHood_Blue",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "HatchbackHood_BlueRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "HatchbackHood_GreenRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "HatchbackHood_White",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "HatchbackHood_WhiteRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "HatchbackTrunk",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "HatchbackTrunk_Blue",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "HatchbackTrunk_BlueRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "HatchbackTrunk_GreenRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "HatchbackTrunk_White",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "HatchbackTrunk_WhiteRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "HatchbackWheel",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Offroad_02_Door_1_1",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Offroad_02_Door_1_1_Rust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Offroad_02_Door_1_2",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Offroad_02_Door_1_2_Rust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Offroad_02_Door_2_1",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Offroad_02_Door_2_1_Rust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Offroad_02_Door_2_2",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Offroad_02_Door_2_2_Rust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Offroad_02_Hood",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Offroad_02_Trunk",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Offroad_02_Trunk_Rust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Offroad_02_Wheel",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Door_1_1",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Door_1_1_Grey",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Door_1_1_GreyRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Door_1_1_Red",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Door_1_1_RedRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Door_1_1_YellowRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Door_1_2",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Door_1_2_Grey",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Door_1_2_GreyRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Door_1_2_Red",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Door_1_2_RedRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Door_1_2_YellowRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Door_2_1",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Door_2_1_Grey",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Door_2_1_GreyRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Door_2_1_Red",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Door_2_1_RedRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Door_2_1_YellowRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Door_2_2",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Door_2_2_Grey",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Door_2_2_GreyRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Door_2_2_Red",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Door_2_2_RedRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Door_2_2_YellowRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Hood",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Hood_Grey",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Hood_GreyRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Hood_Red",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Hood_RedRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Hood_YellowRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Trunk",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Trunk_Grey",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Trunk_GreyRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Trunk_Red",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Trunk_RedRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Trunk_YellowRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Sedan_02_Wheel",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Truck_01_Door_1_1",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Truck_01_Door_1_1_Blue",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Truck_01_Door_1_1_BlueRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Truck_01_Door_1_1_GreenRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Truck_01_Door_1_1_Orange",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Truck_01_Door_1_1_OrangeRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Truck_01_Door_2_1",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Truck_01_Door_2_1_Blue",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Truck_01_Door_2_1_BlueRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Truck_01_Door_2_1_GreenRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Truck_01_Door_2_1_Orange",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Truck_01_Door_2_1_OrangeRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Truck_01_Hood",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Truck_01_Hood_Blue",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Truck_01_Hood_BlueRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Truck_01_Hood_GreenRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Truck_01_Hood_Orange",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Truck_01_Hood_OrangeRust",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Truck_01_Wheel",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Truck_01_WheelDouble",
-    "slotSize": 1000
   },
   {
     "itemType": "ZmbF_BlueCollarFat_Blue",
@@ -8132,747 +8596,47 @@
     "slotSize": 1000
   },
   {
-    "itemType": "Defibrillator",
-    "slotSize": 16
-  },
-  {
-    "itemType": "Banana",
-    "slotSize": 2
-  },
-  {
-    "itemType": "Kiwi",
-    "slotSize": 1
-  },
-  {
-    "itemType": "Orange",
-    "slotSize": 1
-  },
-  {
-    "itemType": "CannabisSeedsPack",
-    "slotSize": 1
-  },
-  {
-    "itemType": "Cannabis",
-    "slotSize": 1
-  },
-  {
-    "itemType": "Plant_Cannabis",
-    "slotSize": 1000
-  },
-  {
-    "itemType": "Vodka",
-    "slotSize": 3
-  },
-  {
-    "itemType": "PoliceBaton",
-    "slotSize": 10
-  },
-  {
-    "itemType": "Refridgerator",
-    "slotSize": 70
-  },
-  {
-    "itemType": "RefrigeratorMinsk",
-    "slotSize": 50
-  },
-  {
-    "itemType": "TrashCan",
-    "slotSize": 150
-  },
-  {
-    "itemType": "HockeyStick",
-    "slotSize": 20
-  },
-  {
-    "itemType": "Raycaster",
-    "slotSize": 3
-  },
-  {
-    "itemType": "InjectionVial",
-    "slotSize": 1
-  },
-  {
-    "itemType": "Syringe",
-    "slotSize": 2
-  },
-  {
-    "itemType": "ClearSyringe",
-    "slotSize": 2
-  },
-  {
-    "itemType": "BloodSyringe",
-    "slotSize": 2
-  },
-  {
-    "itemType": "CigarettePack_Chernamorka",
-    "slotSize": 1
-  },
-  {
-    "itemType": "CigarettePack_Partyzanka",
-    "slotSize": 1
-  },
-  {
-    "itemType": "CigarettePack_Merkur",
-    "slotSize": 1
-  },
-  {
-    "itemType": "M4_CQBBttstck_Green",
-    "slotSize": 2
-  },
-  {
-    "itemType": "M4_CarryHandleOptic_Green",
-    "slotSize": 2
-  },
-  {
-    "itemType": "M4_MPBttstck_Green",
-    "slotSize": 2
-  },
-  {
-    "itemType": "M4_MPHndgrd_Green",
-    "slotSize": 2
-  },
-  {
-    "itemType": "M4_OEBttstck_Green",
-    "slotSize": 2
-  },
-  {
-    "itemType": "M4_PlasticHndgrd_Green",
-    "slotSize": 2
-  },
-  {
-    "itemType": "Candle",
-    "slotSize": 2
-  },
-  {
-    "itemType": "Paddle",
-    "slotSize": 20
-  },
-  {
-    "itemType": "HayHook",
+    "itemType": "ZmijovkaCap_Black",
     "slotSize": 6
   },
   {
-    "itemType": "ChainSaw",
-    "slotSize": 15
+    "itemType": "ZmijovkaCap_Blue",
+    "slotSize": 6
   },
   {
-    "itemType": "AK74_Hndgrd_Black",
-    "slotSize": 2
+    "itemType": "ZmijovkaCap_Brown",
+    "slotSize": 6
   },
   {
-    "itemType": "AK74_Hndgrd_Camo",
-    "slotSize": 2
+    "itemType": "ZmijovkaCap_Green",
+    "slotSize": 6
   },
   {
-    "itemType": "AK74_WoodBttstck_Black",
-    "slotSize": 2
+    "itemType": "ZmijovkaCap_Red",
+    "slotSize": 6
   },
   {
-    "itemType": "AK74_WoodBttstck_Camo",
-    "slotSize": 2
+    "itemType": "ZSh3PilotHelmet",
+    "slotSize": 16
   },
   {
-    "itemType": "AKS74U_Bttstck_Black",
-    "slotSize": 2
+    "itemType": "ZSh3PilotHelmet_Black",
+    "slotSize": 16
   },
   {
-    "itemType": "AKS74U_Bttstck_Green",
-    "slotSize": 2
+    "itemType": "ZSh3PilotHelmet_Green",
+    "slotSize": 16
   },
   {
-    "itemType": "M4_CQBBttstck_Black",
-    "slotSize": 2
+    "itemType": "Zucchini",
+    "slotSize": 3
   },
   {
-    "itemType": "M4_MPBttstck_Black",
-    "slotSize": 2
+    "itemType": "ZucchiniSeeds",
+    "slotSize": 1
   },
   {
-    "itemType": "M4_MPHndgrd_Black",
-    "slotSize": 2
-  },
-  {
-    "itemType": "M4_OEBttstck_Black",
-    "slotSize": 2
-  },
-  {
-    "itemType": "M4_PlasticHndgrd_Black",
-    "slotSize": 2
-  },
-  {
-    "itemType": "Book20000LieuesSousLesMers",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookADollsHouse",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookAPrincessOfMars",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookATexasMatchmaker",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookATravelerInTime",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookAVoyageToArcturus",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookAfterLondon",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookAliceInWonderland",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookAndersen",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookAndersensFairyTales",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookAnnaKarenina",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookAroundTheWorldIn80Days",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookBettyZane",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookBilaNemoc",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookBlackBeauty",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookBlackJack",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookBuddenbrooks",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookCandide",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookCassidysRustlerRoundUp",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookCinqSemainesEnBallon",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookCrimeAndPunishment",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookDasNibelungenlied",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookDeLaTerreLaLune",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookDeLorigineDesEspces",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookDeadSouls",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookDesertGold",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookDonQuichotte",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookDonQuixote",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookDracula",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookErewhon",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookFatherGoriot",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookFaust",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookFaustErsterTeil",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookFlyingURanch",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookFrankenstein",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookGilgameshEpic",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookGreatExpectations",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookGulliversTravels",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookGunmansReckoning",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookHeartOfDarkness",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookHerland",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookHinduLiterature",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookHunger",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookIvanhoe",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookJapaneseLiterature",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookKidnapped",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookKingLear",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookKingSolomonsMines",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookLaChartreuseDeParme",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookLaComdieHumaine",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookLaDbcle",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookLeRougeEtLeNoir",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookLenfer1Of2",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookLesCorneilles",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookLesTroisMousquetaires",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookLleMystrieuse",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookLonesomeLand",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookLordJim",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookMadameBovary",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookMiddlemarch",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookMobyDick",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookMrchenFrKinder",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookNaturalSelection",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookNjalsSaga",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookNostromo",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookPhilosophiaeNaturalis",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookPrideAndPrejudice",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookRasselas",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookRobinsonCrusoe",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookRobinsonCrusoeAdventures",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookRomeoUndJulia",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookRonickyDoone",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookRussian",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookRussianCheatSheet",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookScaramouche",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookSelectedStories",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookShe",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookSkyrider",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookSonsAndLovers",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookSpinifexAndSand",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookSunsetPass",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheAeneid",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheArtOfWar",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheBarrier",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheBrothersKaramazov",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheCallOfCthulhu",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheCallOfTheWild",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheCanterburyTales",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheCaveOfGold",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheComingRace",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheCosmicComputer",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheCountryOfTheBlind",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheDayOfTheBeast",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheDecameron",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheDesertOfWheat",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheGiacomoLeopardi",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheHeritageOfTheSioux",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheHiddenChildren",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheHoundOfTheBaskervilles",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheHouseOfTheSevenGables",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheIslandOfDoctorMoreau",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheJungleBook",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheJustifiedSinner",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheLastMan",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheLastOfThePlainsmen",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheLastTrail",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheMahabharataOfKrishna",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheManWhoWasThursday",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheMetamorphosesOfOvid",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheMetamorphosis",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheMonkARomance",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheOutlet",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookThePictureOfDorianGray",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookThePitAndThePendulum",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookThePossessed",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookThePrisonerOfZenda",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheQuirt",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheRaven",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheRedBadgeOfCourage",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheRightsOfWoman",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheScarletPimpernel",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheShunnedHouse",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheThreeMusketeers",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheThunderBird",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheTimeMachine",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheTrial",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheTurnOfTheScrew",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheVariableMan",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTheWarOfTheWorlds",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookThreeMenInABoat",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookToTheInteriorOfTheEarth",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTonyAndTheBeetles",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTrailin",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTranslationsOfShakuntala",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookTreasureIsland",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookUlysses",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookUncleSilas",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookVerwandlung",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookVoyageAuCentreDeLaTerre",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookWarAndPeace",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookWealthOfNations",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookWielandOrTheTransformation",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookWutheringHeights",
-    "slotSize": 4
-  },
-  {
-    "itemType": "BookYouth",
-    "slotSize": 4
+    "itemType": "ZucchiniSeedsPack",
+    "slotSize": 3
   }
 ]
