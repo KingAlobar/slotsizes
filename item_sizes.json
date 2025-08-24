@@ -684,6 +684,10 @@
     "slotSize": 2
   },
   {
+    "itemType": "Armband_Sakhal",
+    "slotSize": 2
+  },
+  {
     "itemType": "Armband_Snake",
     "slotSize": 2
   },
@@ -776,6 +780,22 @@
     "slotSize": 8
   },
   {
+    "itemType": "Attack2Bag_Black",
+    "slotSize": 35
+  },
+  {
+    "itemType": "Attack2Bag_Green",
+    "slotSize": 35
+  },
+  {
+    "itemType": "Attack2Bag_Ttsko",
+    "slotSize": 35
+  },
+  {
+    "itemType": "Attack2Bag_Yeger",
+    "slotSize": 35
+  },
+  {
     "itemType": "Aug",
     "slotSize": 24
   },
@@ -813,6 +833,26 @@
   },
   {
     "itemType": "BakedBeansCan_Opened",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Balaclava3Holes_Beige",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Balaclava3Holes_Black",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Balaclava3Holes_Blue",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Balaclava3Holes_Green",
+    "slotSize": 4
+  },
+  {
+    "itemType": "Balaclava3Holes_White",
     "slotSize": 4
   },
   {
@@ -990,6 +1030,10 @@
   {
     "itemType": "BaseballBat",
     "slotSize": 7
+  },
+  {
+    "itemType": "BaseballCap_Beige",
+    "slotSize": 6
   },
   {
     "itemType": "BaseballCap_Black",
@@ -2212,6 +2256,18 @@
     "slotSize": 3
   },
   {
+    "itemType": "CivilianSedan",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivilianSedan_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "CivilianSedan_Wine",
+    "slotSize": 1000
+  },
+  {
     "itemType": "CivSedanDoors_BackLeft",
     "slotSize": 1000
   },
@@ -2360,6 +2416,10 @@
     "slotSize": 1000
   },
   {
+    "itemType": "CivSedanWheel_Ruined",
+    "slotSize": 1000
+  },
+  {
     "itemType": "ClaymoreMine",
     "slotSize": 12
   },
@@ -2370,6 +2430,18 @@
   {
     "itemType": "Cleaver",
     "slotSize": 6
+  },
+  {
+    "itemType": "ColdOperationBoots_Camo",
+    "slotSize": 16
+  },
+  {
+    "itemType": "ColdOperationBoots_Green",
+    "slotSize": 16
+  },
+  {
+    "itemType": "ColdOperationBoots_Grey",
+    "slotSize": 16
   },
   {
     "itemType": "Colt1911",
@@ -3084,6 +3156,10 @@
     "slotSize": 4
   },
   {
+    "itemType": "Flag_Sakhal",
+    "slotSize": 4
+  },
+  {
     "itemType": "Flag_Snake",
     "slotSize": 4
   },
@@ -3452,6 +3528,10 @@
     "slotSize": 2
   },
   {
+    "itemType": "GulagJacket_Grey",
+    "slotSize": 12
+  },
+  {
     "itemType": "Guts",
     "slotSize": 6
   },
@@ -3486,6 +3566,18 @@
   {
     "itemType": "HandsCover_Improvised",
     "slotSize": 2
+  },
+  {
+    "itemType": "Hatchback_02",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Black",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Hatchback_02_Blue",
+    "slotSize": 1000
   },
   {
     "itemType": "Hatchback_02_Door_1_1",
@@ -3636,6 +3728,10 @@
     "slotSize": 1000
   },
   {
+    "itemType": "Hatchback_02_Wheel_Ruined",
+    "slotSize": 1000
+  },
+  {
     "itemType": "HatchbackDoors_CoDriver",
     "slotSize": 1000
   },
@@ -3736,6 +3832,10 @@
     "slotSize": 1000
   },
   {
+    "itemType": "HatchbackWheel_Ruined",
+    "slotSize": 1000
+  },
+  {
     "itemType": "Hatchet",
     "slotSize": 8
   },
@@ -3746,6 +3846,14 @@
   {
     "itemType": "HeadCover_Improvised",
     "slotSize": 4
+  },
+  {
+    "itemType": "Headdress_Bear",
+    "slotSize": 16
+  },
+  {
+    "itemType": "Headdress_Fox",
+    "slotSize": 10
   },
   {
     "itemType": "Headdress_Wolf",
@@ -5212,6 +5320,18 @@
     "slotSize": 16
   },
   {
+    "itemType": "MilitarySweater_Chernarus",
+    "slotSize": 6
+  },
+  {
+    "itemType": "MilitarySweater_Livonia",
+    "slotSize": 6
+  },
+  {
+    "itemType": "MilitarySweater_NoPatch",
+    "slotSize": 6
+  },
+  {
     "itemType": "MimeMask_Female",
     "slotSize": 2
   },
@@ -5504,6 +5624,10 @@
     "slotSize": 6
   },
   {
+    "itemType": "Offroad_02",
+    "slotSize": 1000
+  },
+  {
     "itemType": "Offroad_02_Door_1_1",
     "slotSize": 1000
   },
@@ -5549,6 +5673,18 @@
   },
   {
     "itemType": "Offroad_02_Wheel",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "OffroadHatchback",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "OffroadHatchback_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "OffroadHatchback_White",
     "slotSize": 1000
   },
   {
@@ -5762,6 +5898,18 @@
   {
     "itemType": "PileOfWoodenPlanks",
     "slotSize": 1000
+  },
+  {
+    "itemType": "PilotJacket_Black",
+    "slotSize": 16
+  },
+  {
+    "itemType": "PilotJacket_Brown",
+    "slotSize": 16
+  },
+  {
+    "itemType": "PilotJacket_Yellow",
+    "slotSize": 16
   },
   {
     "itemType": "PilotkaCap",
@@ -6336,6 +6484,10 @@
     "slotSize": 100
   },
   {
+    "itemType": "Sedan_02",
+    "slotSize": 1000
+  },
+  {
     "itemType": "Sedan_02_Door_1_1",
     "slotSize": 1000
   },
@@ -6432,6 +6584,10 @@
     "slotSize": 1000
   },
   {
+    "itemType": "Sedan_02_Grey",
+    "slotSize": 1000
+  },
+  {
     "itemType": "Sedan_02_Hood",
     "slotSize": 1000
   },
@@ -6453,6 +6609,10 @@
   },
   {
     "itemType": "Sedan_02_Hood_YellowRust",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Red",
     "slotSize": 1000
   },
   {
@@ -6481,6 +6641,10 @@
   },
   {
     "itemType": "Sedan_02_Wheel",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Sedan_02_Wheel_Ruined",
     "slotSize": 1000
   },
   {
@@ -7284,6 +7448,14 @@
     "slotSize": 6
   },
   {
+    "itemType": "TraditionalBoots_Beige",
+    "slotSize": 16
+  },
+  {
+    "itemType": "TraditionalBoots_DarkBrown",
+    "slotSize": 16
+  },
+  {
     "itemType": "TrashCan",
     "slotSize": 150
   },
@@ -7294,6 +7466,18 @@
   {
     "itemType": "TripwireTrap",
     "slotSize": 4
+  },
+  {
+    "itemType": "Truck_01_Covered",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Covered_Blue",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_Covered_Orange",
+    "slotSize": 1000
   },
   {
     "itemType": "Truck_01_Door_1_1",
@@ -7372,7 +7556,15 @@
     "slotSize": 1000
   },
   {
+    "itemType": "Truck_01_Wheel_Ruined",
+    "slotSize": 1000
+  },
+  {
     "itemType": "Truck_01_WheelDouble",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Truck_01_WheelDouble_Ruined",
     "slotSize": 1000
   },
   {
@@ -7622,6 +7814,18 @@
   {
     "itemType": "WinterCoif_Skull",
     "slotSize": 4
+  },
+  {
+    "itemType": "WinterMilitaryCoat_Brown",
+    "slotSize": 20
+  },
+  {
+    "itemType": "WinterMilitaryCoat_DarkGrey",
+    "slotSize": 20
+  },
+  {
+    "itemType": "WinterMilitaryCoat_Grey",
+    "slotSize": 20
   },
   {
     "itemType": "WitchHat",
