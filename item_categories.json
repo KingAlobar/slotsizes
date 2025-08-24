@@ -89,27 +89,27 @@
   },
   {
     "type": "AK101",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "AK101_Black",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "AK101_Green",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "AK74",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "AK74_Black",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "AK74_Green",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "AK74_Hndgrd",
@@ -137,19 +137,19 @@
   },
   {
     "type": "AKM",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "AKM_TESTBED",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "AKS74U",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "AKS74U_Black",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "AKS74U_Bttstck",
@@ -165,7 +165,7 @@
   },
   {
     "type": "AKS74U_Green",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "AlarmClock_Blue",
@@ -181,15 +181,15 @@
   },
   {
     "type": "AliceBag_Black",
-    "category": "containers"
+    "category": "containers_bag"
   },
   {
     "type": "AliceBag_Camo",
-    "category": "containers"
+    "category": "containers_bag"
   },
   {
     "type": "AliceBag_Green",
-    "category": "containers"
+    "category": "containers_bag"
   },
   {
     "type": "Ammo_12gaPellets",
@@ -541,11 +541,11 @@
   },
   {
     "type": "Anniversary_FireworksLauncher",
-    "category": "tools"
+    "category": "tools_special"
   },
   {
     "type": "AnniversaryBox",
-    "category": "containers"
+    "category": "containers_crafted"
   },
   {
     "type": "AntiChemInjector",
@@ -557,7 +557,7 @@
   },
   {
     "type": "Apple",
-    "category": "food"
+    "category": "food_produce"
   },
   {
     "type": "Armband_Altis",
@@ -753,7 +753,7 @@
   },
   {
     "type": "ASVAL",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "AthleticShoes_Black",
@@ -777,11 +777,11 @@
   },
   {
     "type": "Aug",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "AugShort",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "AuriculariaMushroom",
@@ -793,19 +793,19 @@
   },
   {
     "type": "B95",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "B95_Black",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "B95_Green",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "Bait",
-    "category": "tools"
+    "category": "tools_crafted"
   },
   {
     "type": "BakedBeansCan",
@@ -813,7 +813,7 @@
   },
   {
     "type": "BakedBeansCan_Opened",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "BalaclavaMask_BDU",
@@ -909,7 +909,7 @@
   },
   {
     "type": "BandageDressing",
-    "category": "tools"
+    "category": "tools_medic"
   },
   {
     "type": "Bandana_Blackpattern",
@@ -941,7 +941,7 @@
   },
   {
     "type": "BarbedBaseballBat",
-    "category": "tool_melee"
+    "category": "tools_melee"
   },
   {
     "type": "BarbedWire",
@@ -989,7 +989,7 @@
   },
   {
     "type": "BaseballBat",
-    "category": "tools"
+    "category": "tools_melee"
   },
   {
     "type": "BaseballCap_Black",
@@ -1109,11 +1109,11 @@
   },
   {
     "type": "Bitterlings",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "BloodBagEmpty",
-    "category": "tools"
+    "category": "tools_medic"
   },
   {
     "type": "BloodBagFull",
@@ -1121,7 +1121,7 @@
   },
   {
     "type": "BloodBagIV",
-    "category": "tools"
+    "category": "tools_medic"
   },
   {
     "type": "BloodSyringe",
@@ -1129,7 +1129,7 @@
   },
   {
     "type": "BloodTestKit",
-    "category": "tools"
+    "category": "tools_medic"
   },
   {
     "type": "Blouse_Blue",
@@ -1849,11 +1849,11 @@
   },
   {
     "type": "BrassKnuckles_Dull",
-    "category": "tools"
+    "category": "tools_melee"
   },
   {
     "type": "BrassKnuckles_Shiny",
-    "category": "tools"
+    "category": "tools_melee"
   },
   {
     "type": "Breeches_Beetcheck",
@@ -1901,7 +1901,7 @@
   },
   {
     "type": "BrisketSpread_Opened",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "Broom",
@@ -2061,11 +2061,11 @@
   },
   {
     "type": "Carp",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "CarpFilletMeat",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "CarRadiator",
@@ -2081,7 +2081,7 @@
   },
   {
     "type": "CatFoodCan_Opened",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "Cauldron",
@@ -2153,7 +2153,7 @@
   },
   {
     "type": "ChickenBreastMeat",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "ChickenFeather",
@@ -2397,7 +2397,7 @@
   },
   {
     "type": "CombatKnife",
-    "category": "tools_blade"
+    "category": "tools_knife"
   },
   {
     "type": "CombinationLock",
@@ -2505,55 +2505,55 @@
   },
   {
     "type": "Crossbow_Autumn",
-    "category": "weapons"
+    "category": "weapons_crossbow"
   },
   {
     "type": "Crossbow_Black",
-    "category": "weapons"
+    "category": "weapons_crossbow"
   },
   {
     "type": "Crossbow_Summer",
-    "category": "weapons"
+    "category": "weapons_crossbow"
   },
   {
     "type": "Crossbow_Wood",
-    "category": "weapons"
+    "category": "weapons_crossbow"
   },
   {
     "type": "Crowbar",
-    "category": "tools"
+    "category": "tools_melee"
   },
   {
     "type": "CrudeMachete",
-    "category": "tools"
+    "category": "tools_melee"
   },
   {
     "type": "CZ527",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "CZ527_Black",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "CZ527_Camo",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "CZ527_Green",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "CZ550",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "CZ61",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "CZ75",
-    "category": "weapons"
+    "category": "weapons_pistol"
   },
   {
     "type": "DarkMotoHelmet_Black",
@@ -2597,35 +2597,35 @@
   },
   {
     "type": "DeadChicken_Brown",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "DeadChicken_Spotted",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "DeadChicken_White",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "DeadFox",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "DeadRabbit",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "DeadRooster",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "Deagle",
-    "category": "weapons"
+    "category": "weapons_pistol"
   },
   {
     "type": "Deagle_Gold",
-    "category": "weapons"
+    "category": "weapons_pistol"
   },
   {
     "type": "DeerPelt",
@@ -2633,7 +2633,7 @@
   },
   {
     "type": "DeerSteakMeat",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "Defibrillator",
@@ -2645,15 +2645,15 @@
   },
   {
     "type": "Derringer_Black",
-    "category": "weapons"
+    "category": "weapons_pistol"
   },
   {
     "type": "Derringer_Grey",
-    "category": "weapons"
+    "category": "weapons_pistol"
   },
   {
     "type": "Derringer_Pink",
-    "category": "weapons"
+    "category": "weapons_pistol"
   },
   {
     "type": "DesignerGlasses",
@@ -2709,7 +2709,7 @@
   },
   {
     "type": "DogFoodCan_Opened",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "DownJacket_Blue",
@@ -2865,7 +2865,7 @@
   },
   {
     "type": "FAL",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "Fal_FoldingBttstck",
@@ -2877,11 +2877,11 @@
   },
   {
     "type": "FAMAS",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "FangeKnife",
-    "category": "tools"
+    "category": "tools_knife"
   },
   {
     "type": "FarmingHoe",
@@ -2913,15 +2913,15 @@
   },
   {
     "type": "FirefighterAxe",
-    "category": "tools"
+    "category": "tools_melee"
   },
   {
     "type": "FirefighterAxe_Black",
-    "category": "tools"
+    "category": "tools_melee"
   },
   {
     "type": "FirefighterAxe_Green",
-    "category": "tools"
+    "category": "tools_melee"
   },
   {
     "type": "FirefighterJacket_Beige",
@@ -3117,7 +3117,7 @@
   },
   {
     "type": "Flaregun",
-    "category": "weapons"
+    "category": "weapons_pistol"
   },
   {
     "type": "FlashGrenade",
@@ -3165,11 +3165,11 @@
   },
   {
     "type": "FNX45",
-    "category": "weapons"
+    "category": "weapons_pistol"
   },
   {
     "type": "FNX45_Arrow",
-    "category": "weapons"
+    "category": "weapons_pistol"
   },
   {
     "type": "Foxpelt",
@@ -3181,7 +3181,7 @@
   },
   {
     "type": "FoxSteakMeat",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "FryingPan",
@@ -3357,11 +3357,11 @@
   },
   {
     "type": "GlassBottle",
-    "category": "containers"
+    "category": "food_water"
   },
   {
     "type": "Glock19",
-    "category": "weapons"
+    "category": "weapons_pistol"
   },
   {
     "type": "GlowPlug",
@@ -3373,7 +3373,7 @@
   },
   {
     "type": "GoatSteakMeat",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "GorkaEJacket_Autumn",
@@ -3445,7 +3445,7 @@
   },
   {
     "type": "GreenBellPepper",
-    "category": "food"
+    "category": "food_produce"
   },
   {
     "type": "Grenade_ChemGas",
@@ -3917,11 +3917,11 @@
   },
   {
     "type": "HuntingBag",
-    "category": "containers"
+    "category": "containers_bag"
   },
   {
     "type": "HuntingBag_Hannah",
-    "category": "containers"
+    "category": "containers_bag"
   },
   {
     "type": "HuntingJacket_Autumn",
@@ -3945,7 +3945,7 @@
   },
   {
     "type": "HuntingKnife",
-    "category": "tools"
+    "category": "tools_knife"
   },
   {
     "type": "HuntingOptic",
@@ -3961,11 +3961,11 @@
   },
   {
     "type": "Iceaxe",
-    "category": "weapons"
+    "category": "tools_melee"
   },
   {
     "type": "ImprovisedBag",
-    "category": "containers"
+    "category": "containers_bag_crafted"
   },
   {
     "type": "ImprovisedExplosive",
@@ -3989,15 +3989,15 @@
   },
   {
     "type": "Izh18",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "Izh18Shotgun",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "Izh43Shotgun",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "Jeans_Black",
@@ -4109,7 +4109,7 @@
   },
   {
     "type": "KitchenKnife",
-    "category": "tools"
+    "category": "tools_knife"
   },
   {
     "type": "KitchenTimer",
@@ -4125,7 +4125,7 @@
   },
   {
     "type": "KukriKnife",
-    "category": "tools"
+    "category": "tools_knife"
   },
   {
     "type": "LabCoat",
@@ -4405,7 +4405,7 @@
   },
   {
     "type": "Lard",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "LargeGasCanister",
@@ -4517,19 +4517,19 @@
   },
   {
     "type": "LeatherSack_Beige",
-    "category": "containers"
+    "category": "containers_bag_crafted"
   },
   {
     "type": "LeatherSack_Black",
-    "category": "containers"
+    "category": "containers_bag_crafted"
   },
   {
     "type": "LeatherSack_Brown",
-    "category": "containers"
+    "category": "containers_bag_crafted"
   },
   {
     "type": "LeatherSack_Natural",
-    "category": "containers"
+    "category": "containers_bag_crafted"
   },
   {
     "type": "LeatherSewingKit",
@@ -4589,7 +4589,7 @@
   },
   {
     "type": "Longhorn",
-    "category": "weapons"
+    "category": "weapons_pistol"
   },
   {
     "type": "LongTorch",
@@ -4609,15 +4609,15 @@
   },
   {
     "type": "Lunchmeat_Opened",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "M14",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "M16A2",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "M18SmokeGrenade_Green",
@@ -4729,15 +4729,15 @@
   },
   {
     "type": "M4A1",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "M4A1_Black",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "M4A1_Green",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "M65Jacket_Black",
@@ -4765,11 +4765,11 @@
   },
   {
     "type": "M79",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "M9A1_Bayonet",
-    "category": "weapons"
+    "category": "weaponParts"
   },
   {
     "type": "Mace",
@@ -4777,7 +4777,7 @@
   },
   {
     "type": "Machete",
-    "category": "tools_blade"
+    "category": "tools_melee"
   },
   {
     "type": "Mackerel",
@@ -5045,11 +5045,11 @@
   },
   {
     "type": "Magnum",
-    "category": "weapons"
+    "category": "weapons_pistol"
   },
   {
     "type": "MakarovIJ70",
-    "category": "weapons"
+    "category": "weapons_pistol"
   },
   {
     "type": "ManSuit_Beige",
@@ -5281,7 +5281,7 @@
   },
   {
     "type": "MKII",
-    "category": "weapons"
+    "category": "weapons_pistol"
   },
   {
     "type": "MorozkoHat",
@@ -5293,27 +5293,27 @@
   },
   {
     "type": "Mosin_Bayonet",
-    "category": "weapons"
+    "category": "weaponParts"
   },
   {
     "type": "Mosin_Compensator",
-    "category": "weapons"
+    "category": "weaponParts"
   },
   {
     "type": "Mosin9130",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "Mosin9130_Black",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "Mosin9130_Camo",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "Mosin9130_Green",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "MotoHelmet_Black",
@@ -5349,19 +5349,19 @@
   },
   {
     "type": "MountainBag_Blue",
-    "category": "containers"
+    "category": "containers_bag"
   },
   {
     "type": "MountainBag_Green",
-    "category": "containers"
+    "category": "containers_bag"
   },
   {
     "type": "MountainBag_Orange",
-    "category": "containers"
+    "category": "containers_bag"
   },
   {
     "type": "MountainBag_Red",
-    "category": "containers"
+    "category": "containers_bag"
   },
   {
     "type": "MouthRag",
@@ -5369,7 +5369,7 @@
   },
   {
     "type": "Mp133Shotgun",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "MP5_Compensator",
@@ -5385,7 +5385,7 @@
   },
   {
     "type": "MP5K",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "MP5k_StockBttstck",
@@ -5493,11 +5493,11 @@
   },
   {
     "type": "NVGoggles",
-    "category": "weapons"
+    "category": "clothes_head_attachment"
   },
   {
     "type": "NylonKnifeSheath",
-    "category": "tools"
+    "category": "clothes_belt"
   },
   {
     "type": "OfficerHat",
@@ -5581,7 +5581,7 @@
   },
   {
     "type": "OrientalMachete",
-    "category": "tools"
+    "category": "tools_melee"
   },
   {
     "type": "OrienteeringCompass",
@@ -5593,7 +5593,7 @@
   },
   {
     "type": "P1",
-    "category": "weapons"
+    "category": "weapons_pistol"
   },
   {
     "type": "PaddedGloves_Beige",
@@ -5621,7 +5621,7 @@
   },
   {
     "type": "Pajka_Opened",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "Paper",
@@ -5673,7 +5673,7 @@
   },
   {
     "type": "Pate_Opened",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "PaydayMask_Chains",
@@ -5697,11 +5697,11 @@
   },
   {
     "type": "PeachesCan_Opened",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "Pear",
-    "category": "food"
+    "category": "food_produce"
   },
   {
     "type": "Pen_Black",
@@ -5721,11 +5721,11 @@
   },
   {
     "type": "PepperSeeds",
-    "category": "tools"
+    "category": "food_crafted"
   },
   {
     "type": "PepperSeedsPack",
-    "category": "food"
+    "category": "food_produce"
   },
   {
     "type": "PersonalRadio",
@@ -5757,7 +5757,7 @@
   },
   {
     "type": "PigSteakMeat",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "PileOfWoodenPlanks",
@@ -5857,7 +5857,7 @@
   },
   {
     "type": "PlateCarrierPouches_Winter",
-    "category": "containers"
+    "category": "clothes_vest_holsters_pouches"
   },
   {
     "type": "PlateCarrierVest",
@@ -5893,7 +5893,7 @@
   },
   {
     "type": "PM73Rak",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "PoliceBaton",
@@ -5929,7 +5929,7 @@
   },
   {
     "type": "PorkCan_Opened",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "PortableGasLamp",
@@ -5945,11 +5945,11 @@
   },
   {
     "type": "Potato",
-    "category": "food"
+    "category": "food_produce"
   },
   {
     "type": "PotatoSeed",
-    "category": "food"
+    "category": "food_produce"
   },
   {
     "type": "PowderedMilk",
@@ -5961,7 +5961,7 @@
   },
   {
     "type": "PP19",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "PP19_Bttstck",
@@ -6001,7 +6001,7 @@
   },
   {
     "type": "Pumpkin",
-    "category": "food"
+    "category": "food_produce"
   },
   {
     "type": "PumpkinHelmet",
@@ -6009,11 +6009,11 @@
   },
   {
     "type": "PumpkinSeeds",
-    "category": "tools"
+    "category": "food_crafted"
   },
   {
     "type": "PumpkinSeedsPack",
-    "category": "food"
+    "category": "food_produce"
   },
   {
     "type": "PunchedCard",
@@ -6061,11 +6061,11 @@
   },
   {
     "type": "R12",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "RabbitLegMeat",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "RabbitPelt",
@@ -6145,7 +6145,7 @@
   },
   {
     "type": "RedCaviar",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "ReflexOptic",
@@ -6169,7 +6169,7 @@
   },
   {
     "type": "ReindeerSteakMeat",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "RemoteDetonator",
@@ -6185,7 +6185,7 @@
   },
   {
     "type": "Repeater",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "RGD5Grenade",
@@ -6213,11 +6213,11 @@
   },
   {
     "type": "Ruger1022",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "Saiga",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "Saiga_Bttstck",
@@ -6249,7 +6249,7 @@
   },
   {
     "type": "Sardines",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "SardinesCan",
@@ -6257,11 +6257,11 @@
   },
   {
     "type": "SardinesCan_Opened",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "SawedoffB95",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "SawedoffB95_Black",
@@ -6273,39 +6273,39 @@
   },
   {
     "type": "SawedoffFAMAS",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "SawedoffIzh18",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "SawedoffIzh18Shotgun",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "SawedoffIzh43Shotgun",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "SawedoffMagnum",
-    "category": "weapons"
+    "category": "weapons_pistol"
   },
   {
     "type": "SawedoffMosin9130",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "SawedoffMosin9130_Black",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "SawedoffMosin9130_Camo",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "SawedoffMosin9130_Green",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "ScientificBriefcase",
@@ -6317,15 +6317,15 @@
   },
   {
     "type": "Scout",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "Scout_Chernarus",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "Scout_Livonia",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "Screwdriver",
@@ -6497,7 +6497,7 @@
   },
   {
     "type": "SheepSteakMeat",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "ShelterFabric",
@@ -6617,7 +6617,7 @@
   },
   {
     "type": "Shrimp",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "Sickle",
@@ -6685,19 +6685,19 @@
   },
   {
     "type": "SKS",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "SKS_Bayonet",
-    "category": "weapons"
+    "category": "weaponParts"
   },
   {
     "type": "SKS_Black",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "SKS_Green",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "SlacksPants_Beige",
@@ -6737,19 +6737,19 @@
   },
   {
     "type": "SlicedPumpkin",
-    "category": "food"
+    "category": "food_produce"
   },
   {
     "type": "Slingbag_Black",
-    "category": "containers"
+    "category": "containers_bag"
   },
   {
     "type": "Slingbag_Brown",
-    "category": "containers"
+    "category": "containers_bag"
   },
   {
     "type": "Slingbag_Gray",
-    "category": "containers"
+    "category": "containers_bag"
   },
   {
     "type": "SmallFishTrap",
@@ -6773,7 +6773,7 @@
   },
   {
     "type": "SmershBag",
-    "category": "containers"
+    "category": "containers_bag"
   },
   {
     "type": "SmershVest",
@@ -6841,7 +6841,7 @@
   },
   {
     "type": "SpaghettiCan_Opened",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "SparkPlug",
@@ -6889,7 +6889,7 @@
   },
   {
     "type": "SSG82",
-    "category": "weapons"
+    "category": "weapons_rifle"
   },
   {
     "type": "Ssh68Helmet",
@@ -7033,15 +7033,15 @@
   },
   {
     "type": "SteakKnife",
-    "category": "tools"
+    "category": "tools_knife"
   },
   {
     "type": "SteelheadTrout",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "SteelheadTroutFilletMeat",
-    "category": "food"
+    "category": "food_crafted"
   },
   {
     "type": "Stone",
@@ -7049,7 +7049,7 @@
   },
   {
     "type": "StoneKnife",
-    "category": "tools"
+    "category": "tools_crafted"
   },
   {
     "type": "SurgicalGloves_Blue",
@@ -7221,7 +7221,7 @@
   },
   {
     "type": "TomatoSeeds",
-    "category": "food_produce"
+    "category": "food_crafted"
   },
   {
     "type": "TomatoSeedsPack",
@@ -8613,7 +8613,7 @@
   },
   {
     "type": "ZucchiniSeeds",
-    "category": "food_produce"
+    "category": "food_crafted"
   },
   {
     "type": "ZucchiniSeedsPack",
