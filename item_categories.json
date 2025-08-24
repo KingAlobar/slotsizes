@@ -7661,11 +7661,11 @@
   },
   {
     "type": "UndergroundStash",
-    "sub_category": "StaticObject"
+    "sub_category": "buried_loot"
   },
   {
     "type": "UndergroundStashSnow",
-    "sub_category": "StaticObject"
+    "sub_category": "buried_loot"
   },
   {
     "type": "UniversalLight",
