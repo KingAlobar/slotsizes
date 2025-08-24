@@ -2584,12 +2584,12 @@
         "category": "clothes_head"
     },
     {
-        "type": "GorkaHelmet",
-        "category": "GorkaHelmet_Black"
+        "type": "GorkaHelmet_Black",
+        "category": "clothes_head"
     },
     {
-        "type": "GorkaHelmet",
-        "category": "GorkaHelmet_Green"
+        "type": "GorkaHelmet_Green",
+        "category": "clothes_head"
     },
     {
         "type": "GorkaHelmetVisor",
@@ -5654,6 +5654,10 @@
     {
         "type": "StoneKnife",
         "category": "tools"
+    },
+    {
+        "type": "Syringe",
+        "category": "tools_medic"
     },
     {
         "type": "SurgicalGloves_Blue",
