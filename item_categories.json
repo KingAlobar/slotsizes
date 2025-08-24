@@ -793,27 +793,27 @@
     },
     {
         "type": "Bark_Birch",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "Bark_Oak",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "Barrel_Blue",
-        "category": "tools"
+        "category": "containers"
     },
     {
         "type": "Barrel_Green",
-        "category": "tools"
+        "category": "containers"
     },
     {
         "type": "Barrel_Red",
-        "category": "tools"
+        "category": "containers"
     },
     {
         "type": "Barrel_Yellow",
-        "category": "tools"
+        "category": "containers"
     },
     {
         "type": "BarrelHoles_Blue",
@@ -941,7 +941,7 @@
     },
     {
         "type": "BearPelt",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "BearSteakMeat",
@@ -1033,19 +1033,19 @@
     },
     {
         "type": "Bone",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "BoneBait",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "BoneHook",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "BoneKnife",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "BoonieHat_Black",
@@ -1669,7 +1669,7 @@
     },
     {
         "type": "CowPelt",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "CowSteakMeat",
@@ -1829,7 +1829,7 @@
     },
     {
         "type": "DeerPelt",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "DeerSteakMeat",
@@ -2349,11 +2349,11 @@
     },
     {
         "type": "Foxpelt",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "FoxPelt",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "FoxSteakMeat",
@@ -2545,7 +2545,7 @@
     },
     {
         "type": "GoatPelt",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "GoatSteakMeat",
@@ -3629,243 +3629,243 @@
     },
     {
         "type": "Mag_1911_7Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_pistol"
     },
     {
         "type": "Mag_AK101_30Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_AK101_30Rnd_Black",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_AK101_30Rnd_Green",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_AK74_30Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_AK74_30Rnd_Black",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_AK74_30Rnd_Green",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_AK74_45Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_AKM_30Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_AKM_Drum75Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_AKM_Drum75Rnd_Black",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_AKM_Drum75Rnd_Green",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_AKM_Palm30Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_AKM_Palm30Rnd_Black",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_AKM_Palm30Rnd_Green",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_Aug_30Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_CMAG_10Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_CMAG_20Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_CMAG_20Rnd_Black",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_CMAG_20Rnd_Green",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_CMAG_30Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_CMAG_30Rnd_Black",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_CMAG_30Rnd_Green",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_CMAG_40Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_CMAG_40Rnd_Black",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_CMAG_40Rnd_Green",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_CZ527_5rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_CZ550_10Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_CZ61_20Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_CZ75_15Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_pistol"
     },
     {
         "type": "Mag_Deagle_9rnd",
-        "category": "weapons"
+        "category": "weapons_mag_pistol"
     },
     {
         "type": "Mag_FAL_20Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_FAMAS_25Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_FNX45_15Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_pistol"
     },
     {
         "type": "Mag_Glock_15Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_pistol"
     },
     {
         "type": "Mag_IJ70_8Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_pistol"
     },
     {
         "type": "Mag_M14_10Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_M14_20Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_MKII_10Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_pistol"
     },
     {
         "type": "Mag_MP5_15Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_MP5_30Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_P1_8Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_pistol"
     },
     {
         "type": "Mag_PM73_15Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_PM73_25Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_PP19_64Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_Ruger1022_15Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_Ruger1022_30Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_Saiga_5Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_Saiga_8Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_Saiga_Drum20Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_Scout_5Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_SSG82_5rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_STANAG_30Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_STANAG_60Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_SV98_10Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_SVD_10Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_UMP_25Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_VAL_20Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_Vikhr_30Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Mag_VSS_10Rnd",
-        "category": "weapons"
+        "category": "weapons_mag_rifle"
     },
     {
         "type": "Magnum",
@@ -4561,15 +4561,11 @@
     },
     {
         "type": "PigPelt",
-        "category": "tools"
+        "category": "tools_crafted"
     },
     {
         "type": "PigSteakMeat",
         "category": "food"
-    },
-    {
-        "type": "PileOfWoodenPlanks",
-        "category": "tools"
     },
     {
         "type": "PilotkaCap",
