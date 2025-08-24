@@ -2684,16 +2684,8 @@
     "slotSize": 6
   },
   {
-    "itemType": "GorkaHelmet_Black",
-    "slotSize": 16
-  },
-  {
     "itemType": "GorkaHelmet_Green",
     "slotSize": 6
-  },
-  {
-    "itemType": "GorkaHelmet_Green",
-    "slotSize": 16
   },
   {
     "itemType": "GorkaHelmetVisor",
@@ -2962,14 +2954,6 @@
   {
     "itemType": "HunterPants_Winter",
     "slotSize": 12
-  },
-  {
-    "itemType": "Hunting",
-    "slotSize": 6
-  },
-  {
-    "itemType": "Hunting_Winter",
-    "slotSize": 6
   },
   {
     "itemType": "HuntingBag",
@@ -3550,18 +3534,6 @@
   {
     "itemType": "LeatherShoes_White",
     "slotSize": 8
-  },
-  {
-    "itemType": "LeatherStorage_Beige",
-    "slotSize": 12
-  },
-  {
-    "itemType": "LeatherStorage_Black",
-    "slotSize": 12
-  },
-  {
-    "itemType": "LeatherStorage_Brown",
-    "slotSize": 12
   },
   {
     "itemType": "LeatherStorage_Natural",
@@ -4764,26 +4736,6 @@
     "slotSize": 6
   },
   {
-    "itemType": "PlateCarrier",
-    "slotSize": 25
-  },
-  {
-    "itemType": "PlateCarrier_Black",
-    "slotSize": 25
-  },
-  {
-    "itemType": "PlateCarrier_Camo",
-    "slotSize": 25
-  },
-  {
-    "itemType": "PlateCarrier_Green",
-    "slotSize": 25
-  },
-  {
-    "itemType": "PlateCarrier_Winter",
-    "slotSize": 25
-  },
-  {
     "itemType": "PlateCarrierHolster",
     "slotSize": 6
   },
@@ -4857,10 +4809,6 @@
   },
   {
     "itemType": "PM73Rak",
-    "slotSize": 12
-  },
-  {
-    "itemType": "Police",
     "slotSize": 12
   },
   {
@@ -5106,10 +5054,6 @@
   {
     "itemType": "RedCaviar",
     "slotSize": 1
-  },
-  {
-    "itemType": "Reflex",
-    "slotSize": 6
   },
   {
     "itemType": "ReflexOptic",
@@ -5586,10 +5530,6 @@
   {
     "itemType": "SmallStone",
     "slotSize": 2
-  },
-  {
-    "itemType": "Smersh",
-    "slotSize": 9
   },
   {
     "itemType": "SmershBag",
@@ -6212,26 +6152,6 @@
     "slotSize": 2
   },
   {
-    "itemType": "UKAss_Black",
-    "slotSize": 9
-  },
-  {
-    "itemType": "UKAss_Camo",
-    "slotSize": 9
-  },
-  {
-    "itemType": "UKAss_Khaki",
-    "slotSize": 9
-  },
-  {
-    "itemType": "UKAss_Olive",
-    "slotSize": 9
-  },
-  {
-    "itemType": "UKAss_Winter",
-    "slotSize": 9
-  },
-  {
     "itemType": "UKAssVest_Black",
     "slotSize": 9
   },
@@ -6350,10 +6270,6 @@
   {
     "itemType": "WeaponCleaningKit",
     "slotSize": 6
-  },
-  {
-    "itemType": "Welding",
-    "slotSize": 12
   },
   {
     "itemType": "WeldingMask",
@@ -6578,30 +6494,6 @@
   {
     "itemType": "WoolCoat_RedCheck",
     "slotSize": 16
-  },
-  {
-    "itemType": "WoolFingerless_Black",
-    "slotSize": 4
-  },
-  {
-    "itemType": "WoolFingerless_ChristmasBlue",
-    "slotSize": 4
-  },
-  {
-    "itemType": "WoolFingerless_ChristmasRed",
-    "slotSize": 4
-  },
-  {
-    "itemType": "WoolFingerless_Green",
-    "slotSize": 4
-  },
-  {
-    "itemType": "WoolFingerless_Tan",
-    "slotSize": 4
-  },
-  {
-    "itemType": "WoolFingerless_White",
-    "slotSize": 4
   },
   {
     "itemType": "WoolGloves_Black",
