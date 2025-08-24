@@ -12,10 +12,6 @@
     "slotSize": 2
   },
   {
-    "itemType": "Airborne",
-    "slotSize": 12
-  },
-  {
     "itemType": "AirborneMask",
     "slotSize": 2
   },
@@ -3978,6 +3974,14 @@
   {
     "itemType": "Mag_AKM_Palm30Rnd_Green",
     "slotSize": 3
+  },
+  {
+    "itemType": "Mag_CMAG_10Rnd_Black",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Mag_CMAG_10Rnd_Green",
+    "slotSize": 2
   },
   {
     "itemType": "Mag_CMAG_20Rnd_Black",
@@ -8250,5 +8254,749 @@
   {
     "itemType": "ZmbM_VillagerOld_White",
     "slotSize": 1000
+  },
+  {
+    "itemType": "Defibrillator",
+    "slotSize": 16
+  },
+  {
+    "itemType": "Banana",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Kiwi",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Orange",
+    "slotSize": 1
+  },
+  {
+    "itemType": "CannabisSeedsPack",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Cannabis",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Plant_Cannabis",
+    "slotSize": 1000
+  },
+  {
+    "itemType": "Vodka",
+    "slotSize": 3
+  },
+  {
+    "itemType": "PoliceBaton",
+    "slotSize": 10
+  },
+  {
+    "itemType": "Refridgerator",
+    "slotSize": 70
+  },
+  {
+    "itemType": "RefrigeratorMinsk",
+    "slotSize": 50
+  },
+  {
+    "itemType": "TrashCan",
+    "slotSize": 150
+  },
+  {
+    "itemType": "HockeyStick",
+    "slotSize": 20
+  },
+  {
+    "itemType": "Raycaster",
+    "slotSize": 3
+  },
+  {
+    "itemType": "InjectionVial",
+    "slotSize": 1
+  },
+  {
+    "itemType": "Syringe",
+    "slotSize": 2
+  },
+  {
+    "itemType": "ClearSyringe",
+    "slotSize": 2
+  },
+  {
+    "itemType": "BloodSyringe",
+    "slotSize": 2
+  },
+  {
+    "itemType": "CigarettePack_Chernamorka",
+    "slotSize": 1
+  },
+  {
+    "itemType": "CigarettePack_Partyzanka",
+    "slotSize": 1
+  },
+  {
+    "itemType": "CigarettePack_Merkur",
+    "slotSize": 1
+  },
+  {
+    "itemType": "M4_CQBBttstck_Green",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M4_CarryHandleOptic_Green",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M4_MPBttstck_Green",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M4_MPHndgrd_Green",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M4_OEBttstck_Green",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M4_PlasticHndgrd_Green",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Candle",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Paddle",
+    "slotSize": 20
+  },
+  {
+    "itemType": "HayHook",
+    "slotSize": 6
+  },
+  {
+    "itemType": "ChainSaw",
+    "slotSize": 15
+  },
+  {
+    "itemType": "AK74_Hndgrd_Black",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AK74_Hndgrd_Camo",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AK74_WoodBttstck_Black",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AK74_WoodBttstck_Camo",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AKS74U_Bttstck_Black",
+    "slotSize": 2
+  },
+  {
+    "itemType": "AKS74U_Bttstck_Green",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M4_CQBBttstck_Black",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M4_MPBttstck_Black",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M4_MPHndgrd_Black",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M4_OEBttstck_Black",
+    "slotSize": 2
+  },
+  {
+    "itemType": "M4_PlasticHndgrd_Black",
+    "slotSize": 2
+  },
+  {
+    "itemType": "Book20000LieuesSousLesMers",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookADollsHouse",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookAPrincessOfMars",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookATexasMatchmaker",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookATravelerInTime",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookAVoyageToArcturus",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookAfterLondon",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookAliceInWonderland",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookAndersen",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookAndersensFairyTales",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookAnnaKarenina",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookAroundTheWorldIn80Days",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookBettyZane",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookBilaNemoc",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookBlackBeauty",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookBlackJack",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookBuddenbrooks",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookCandide",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookCassidysRustlerRoundUp",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookCinqSemainesEnBallon",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookCrimeAndPunishment",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookDasNibelungenlied",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookDeLaTerreLaLune",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookDeLorigineDesEspces",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookDeadSouls",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookDesertGold",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookDonQuichotte",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookDonQuixote",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookDracula",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookErewhon",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookFatherGoriot",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookFaust",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookFaustErsterTeil",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookFlyingURanch",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookFrankenstein",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookGilgameshEpic",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookGreatExpectations",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookGulliversTravels",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookGunmansReckoning",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookHeartOfDarkness",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookHerland",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookHinduLiterature",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookHunger",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookIvanhoe",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookJapaneseLiterature",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookKidnapped",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookKingLear",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookKingSolomonsMines",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookLaChartreuseDeParme",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookLaComdieHumaine",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookLaDbcle",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookLeRougeEtLeNoir",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookLenfer1Of2",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookLesCorneilles",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookLesTroisMousquetaires",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookLleMystrieuse",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookLonesomeLand",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookLordJim",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookMadameBovary",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookMiddlemarch",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookMobyDick",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookMrchenFrKinder",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookNaturalSelection",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookNjalsSaga",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookNostromo",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookPhilosophiaeNaturalis",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookPrideAndPrejudice",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookRasselas",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookRobinsonCrusoe",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookRobinsonCrusoeAdventures",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookRomeoUndJulia",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookRonickyDoone",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookRussian",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookRussianCheatSheet",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookScaramouche",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookSelectedStories",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookShe",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookSkyrider",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookSonsAndLovers",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookSpinifexAndSand",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookSunsetPass",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheAeneid",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheArtOfWar",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheBarrier",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheBrothersKaramazov",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheCallOfCthulhu",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheCallOfTheWild",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheCanterburyTales",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheCaveOfGold",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheComingRace",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheCosmicComputer",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheCountryOfTheBlind",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheDayOfTheBeast",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheDecameron",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheDesertOfWheat",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheGiacomoLeopardi",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheHeritageOfTheSioux",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheHiddenChildren",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheHoundOfTheBaskervilles",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheHouseOfTheSevenGables",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheIslandOfDoctorMoreau",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheJungleBook",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheJustifiedSinner",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheLastMan",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheLastOfThePlainsmen",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheLastTrail",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheMahabharataOfKrishna",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheManWhoWasThursday",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheMetamorphosesOfOvid",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheMetamorphosis",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheMonkARomance",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheOutlet",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookThePictureOfDorianGray",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookThePitAndThePendulum",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookThePossessed",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookThePrisonerOfZenda",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheQuirt",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheRaven",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheRedBadgeOfCourage",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheRightsOfWoman",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheScarletPimpernel",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheShunnedHouse",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheThreeMusketeers",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheThunderBird",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheTimeMachine",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheTrial",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheTurnOfTheScrew",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheVariableMan",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTheWarOfTheWorlds",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookThreeMenInABoat",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookToTheInteriorOfTheEarth",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTonyAndTheBeetles",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTrailin",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTranslationsOfShakuntala",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookTreasureIsland",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookUlysses",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookUncleSilas",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookVerwandlung",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookVoyageAuCentreDeLaTerre",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookWarAndPeace",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookWealthOfNations",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookWielandOrTheTransformation",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookWutheringHeights",
+    "slotSize": 4
+  },
+  {
+    "itemType": "BookYouth",
+    "slotSize": 4
   }
 ]
