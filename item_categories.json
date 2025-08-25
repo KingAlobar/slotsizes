@@ -169,15 +169,15 @@
   },
   {
     "type": "AlarmClock_Blue",
-    "sub_category": "tools"
+    "sub_category": "tools_household"
   },
   {
     "type": "AlarmClock_Green",
-    "sub_category": "tools"
+    "sub_category": "tools_household"
   },
   {
     "type": "AlarmClock_Red",
-    "sub_category": "tools"
+    "sub_category": "tools_household"
   },
   {
     "type": "AliceBag_Black",
@@ -553,7 +553,7 @@
   },
   {
     "type": "AntiPestsSpray",
-    "sub_category": "tools"
+    "sub_category": "tools_household"
   },
   {
     "type": "Apple",
@@ -980,6 +980,10 @@
     "sub_category": "clothes_bandana"
   },
   {
+    "type": "Bandana_Yellow",
+    "sub_category": "clothes_bandana"
+  },
+  {
     "type": "BarbedBaseballBat",
     "sub_category": "tools_melee"
   },
@@ -1145,7 +1149,7 @@
   },
   {
     "type": "BearTrap",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "Binoculars",
@@ -1161,7 +1165,7 @@
   },
   {
     "type": "BloodBagFull",
-    "sub_category": "tools"
+    "sub_category": "tools_crafted"
   },
   {
     "type": "BloodBagIV",
@@ -1193,7 +1197,7 @@
   },
   {
     "type": "Blowtorch",
-    "sub_category": "tools"
+    "sub_category": "tools_car"
   },
   {
     "type": "BoarSteakMeat",
@@ -1949,11 +1953,11 @@
   },
   {
     "type": "Broom",
-    "sub_category": "tools"
+    "sub_category": "tools_household"
   },
   {
     "type": "Broom_Birch",
-    "sub_category": "tools"
+    "sub_category": "tools_household"
   },
   {
     "type": "BudenovkaHat_Gray",
@@ -1965,7 +1969,7 @@
   },
   {
     "type": "BurlapSack",
-    "sub_category": "tools"
+    "sub_category": "tools_household"
   },
   {
     "type": "BurlapSackCover",
@@ -1981,11 +1985,11 @@
   },
   {
     "type": "CableReel",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "Camonet",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "Candle",
@@ -2013,7 +2017,7 @@
   },
   {
     "type": "CanisterGasoline",
-    "sub_category": "tools"
+    "sub_category": "tools_car"
   },
   {
     "type": "Cannabis",
@@ -2025,7 +2029,7 @@
   },
   {
     "type": "CanOpener",
-    "sub_category": "tools"
+    "sub_category": "tools_household"
   },
   {
     "type": "Canteen",
@@ -2081,7 +2085,7 @@
   },
   {
     "type": "CarBattery",
-    "sub_category": "tools"
+    "sub_category": "tools_car"
   },
   {
     "type": "CargoPants_Beige",
@@ -2113,7 +2117,7 @@
   },
   {
     "type": "CarRadiator",
-    "sub_category": "tools"
+    "sub_category": "tools_car"
   },
   {
     "type": "CarTent",
@@ -2129,7 +2133,7 @@
   },
   {
     "type": "Cauldron",
-    "sub_category": "tools"
+    "sub_category": "food_water"
   },
   {
     "type": "Chainmail",
@@ -2149,39 +2153,39 @@
   },
   {
     "type": "CharcoalTablets",
-    "sub_category": "tools"
+    "sub_category": "tools_medic"
   },
   {
     "type": "ChelatingTablets",
-    "sub_category": "tools"
+    "sub_category": "tools_medic"
   },
   {
     "type": "Chemlight_Blue",
-    "sub_category": "tools"
+    "sub_category": "tools_navigation"
   },
   {
     "type": "Chemlight_Green",
-    "sub_category": "tools"
+    "sub_category": "tools_navigation"
   },
   {
     "type": "Chemlight_Red",
-    "sub_category": "tools"
+    "sub_category": "tools_navigation"
   },
   {
     "type": "Chemlight_White",
-    "sub_category": "tools"
+    "sub_category": "tools_navigation"
   },
   {
     "type": "Chemlight_Yellow",
-    "sub_category": "tools"
+    "sub_category": "tools_navigation"
   },
   {
     "type": "ChernarusMap",
-    "sub_category": "tools"
+    "sub_category": "tools_navigation"
   },
   {
     "type": "ChernarusMap_Open",
-    "sub_category": "tools"
+    "sub_category": "tools_crafted"
   },
   {
     "type": "ChernarusSportShirt",
@@ -2201,7 +2205,7 @@
   },
   {
     "type": "ChickenFeather",
-    "sub_category": "tools"
+    "sub_category": "tools_crafted"
   },
   {
     "type": "ChildBag_Blue",
@@ -2429,7 +2433,7 @@
   },
   {
     "type": "Cleaver",
-    "sub_category": "tools"
+    "sub_category": "tools_melee"
   },
   {
     "type": "ColdOperationBoots_Camo",
@@ -2769,11 +2773,11 @@
   },
   {
     "type": "DisinfectantAlcohol",
-    "sub_category": "tools"
+    "sub_category": "tools_medic"
   },
   {
     "type": "DisinfectantSpray",
-    "sub_category": "tools"
+    "sub_category": "tools_medic"
   },
   {
     "type": "DogFoodCan",
@@ -2929,7 +2933,7 @@
   },
   {
     "type": "Fabric",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "FaceCover_Improvised",
@@ -2957,7 +2961,7 @@
   },
   {
     "type": "FarmingHoe",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "FeetCover_Improvised",
@@ -2969,15 +2973,15 @@
   },
   {
     "type": "FenceKit",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "FieldShovel",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "FilteringBottle",
-    "sub_category": "tools"
+    "sub_category": "tools_medic"
   },
   {
     "type": "FireExtinguisher",
@@ -3037,11 +3041,11 @@
   },
   {
     "type": "Firewood",
-    "sub_category": "tools"
+    "sub_category": "tools_crafted"
   },
   {
     "type": "FireworksLauncher",
-    "sub_category": "tools"
+    "sub_category": "tools_special"
   },
   {
     "type": "FirstAidKit",
@@ -3049,7 +3053,7 @@
   },
   {
     "type": "FishingRod",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "FishNetTrap",
@@ -3273,7 +3277,7 @@
   },
   {
     "type": "GardenLime",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "GardenPlot",
@@ -3429,7 +3433,7 @@
   },
   {
     "type": "GiftWrapPaper",
-    "sub_category": "tools"
+    "sub_category": "tools_household"
   },
   {
     "type": "GlassBottle",
@@ -3533,35 +3537,35 @@
   },
   {
     "type": "Guts",
-    "sub_category": "tools"
+    "sub_category": "tools_crafted"
   },
   {
     "type": "Hacksaw",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "Hammer",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "HandcuffKeys",
-    "sub_category": "tools"
+    "sub_category": "tools_special"
   },
   {
     "type": "Handcuffs",
-    "sub_category": "tools"
+    "sub_category": "tools_special"
   },
   {
     "type": "HandcuffsLocked",
-    "sub_category": "tools"
+    "sub_category": "tools_crafted"
   },
   {
     "type": "HandDrillKit",
-    "sub_category": "tools"
+    "sub_category": "tools_crafted"
   },
   {
     "type": "HandSaw",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "HandsCover_Improvised",
@@ -3837,7 +3841,7 @@
   },
   {
     "type": "Hatchet",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "HayHook",
@@ -3861,23 +3865,23 @@
   },
   {
     "type": "HeadlightH7",
-    "sub_category": "tools"
+    "sub_category": "tools_car"
   },
   {
     "type": "HeadlightH7_Box",
-    "sub_category": "tools"
+    "sub_category": "tools_car"
   },
   {
     "type": "Headtorch_Black",
-    "sub_category": "tools"
+    "sub_category": "tools_battery"
   },
   {
     "type": "Headtorch_Grey",
-    "sub_category": "tools"
+    "sub_category": "tools_battery"
   },
   {
     "type": "Heatpack",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "HighCapacityVest_Black",
@@ -3997,7 +4001,7 @@
   },
   {
     "type": "Hook",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "HumanSteakMeat",
@@ -4081,7 +4085,7 @@
   },
   {
     "type": "ImprovisedFishingRod",
-    "sub_category": "tools"
+    "sub_category": "tools_crafted"
   },
   {
     "type": "ImprovisedSuppressor",
@@ -4093,7 +4097,7 @@
   },
   {
     "type": "IodineTincture",
-    "sub_category": "tools"
+    "sub_category": "tools_medic"
   },
   {
     "type": "Izh18",
@@ -4133,7 +4137,7 @@
   },
   {
     "type": "Jig",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "JoggingShoes_Black",
@@ -4221,7 +4225,7 @@
   },
   {
     "type": "KitchenTimer",
-    "sub_category": "tools"
+    "sub_category": "tools_household"
   },
   {
     "type": "Kiwi",
@@ -4517,7 +4521,7 @@
   },
   {
     "type": "LargeGasCanister",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "LargeTent",
@@ -4641,7 +4645,7 @@
   },
   {
     "type": "LeatherSewingKit",
-    "sub_category": "tools"
+    "sub_category": "tools_repair"
   },
   {
     "type": "LeatherShirt_Natural",
@@ -4693,7 +4697,7 @@
   },
   {
     "type": "Lockpick",
-    "sub_category": "tools"
+    "sub_category": "tools_special"
   },
   {
     "type": "Longhorn",
@@ -4701,15 +4705,15 @@
   },
   {
     "type": "LongTorch",
-    "sub_category": "tools"
+    "sub_category": "tools_crafted"
   },
   {
     "type": "LongWoodenStick",
-    "sub_category": "tools"
+    "sub_category": "tools_crafted"
   },
   {
     "type": "LugWrench",
-    "sub_category": "tools"
+    "sub_category": "tools_car"
   },
   {
     "type": "Lunchmeat",
@@ -4881,7 +4885,7 @@
   },
   {
     "type": "Mace",
-    "sub_category": "tools"
+    "sub_category": "tools_melee"
   },
   {
     "type": "Machete",
@@ -5197,11 +5201,11 @@
   },
   {
     "type": "Matchbox",
-    "sub_category": "tools"
+    "sub_category": "tools_household"
   },
   {
     "type": "MeatTenderizer",
-    "sub_category": "tools"
+    "sub_category": "tools_household"
   },
   {
     "type": "MedicalScrubsHat_Blue",
@@ -5245,7 +5249,7 @@
   },
   {
     "type": "MediumGasCanister",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "MediumTent",
@@ -5261,15 +5265,15 @@
   },
   {
     "type": "Megaphone",
-    "sub_category": "tools"
+    "sub_category": "tools_battery"
   },
   {
     "type": "MetalPlate",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "MetalWire",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "Mich2001Helmet",
@@ -5409,7 +5413,7 @@
   },
   {
     "type": "Morphine",
-    "sub_category": "tools"
+    "sub_category": "tools_medic"
   },
   {
     "type": "Mosin_Bayonet",
@@ -5485,7 +5489,7 @@
   },
   {
     "type": "MouthRag",
-    "sub_category": "tools"
+    "sub_category": "tools_crafted"
   },
   {
     "type": "Mp133Shotgun",
@@ -5513,15 +5517,15 @@
   },
   {
     "type": "Nail",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "NailBox",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "NailedBaseballBat",
-    "sub_category": "tools"
+    "sub_category": "tools_melee"
   },
   {
     "type": "NavyUniformJacket",
@@ -5589,7 +5593,7 @@
   },
   {
     "type": "Netting",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "NioshFaceMask",
@@ -5609,7 +5613,7 @@
   },
   {
     "type": "NVGHeadstrap",
-    "sub_category": "tools"
+    "sub_category": "clothes_head_attachment"
   },
   {
     "type": "NVGoggles",
@@ -5721,7 +5725,7 @@
   },
   {
     "type": "OrienteeringCompass",
-    "sub_category": "tools"
+    "sub_category": "tools_navigation"
   },
   {
     "type": "OvenIndoor",
@@ -5749,7 +5753,7 @@
   },
   {
     "type": "PainkillerTablets",
-    "sub_category": "tools"
+    "sub_category": "tools_medic"
   },
   {
     "type": "Pajka",
@@ -5761,7 +5765,7 @@
   },
   {
     "type": "Paper",
-    "sub_category": "tools"
+    "sub_category": "tools_crafted"
   },
   {
     "type": "ParamedicJacket_Blue",
@@ -5841,19 +5845,19 @@
   },
   {
     "type": "Pen_Black",
-    "sub_category": "tools"
+    "sub_category": "tools_special"
   },
   {
     "type": "Pen_Blue",
-    "sub_category": "tools"
+    "sub_category": "tools_special"
   },
   {
     "type": "Pen_Green",
-    "sub_category": "tools"
+    "sub_category": "tools_special"
   },
   {
     "type": "Pen_Red",
-    "sub_category": "tools"
+    "sub_category": "tools_special"
   },
   {
     "type": "PepperSeeds",
@@ -5865,11 +5869,11 @@
   },
   {
     "type": "PersonalRadio",
-    "sub_category": "tools"
+    "sub_category": "tools_battery"
   },
   {
     "type": "PetrolLighter",
-    "sub_category": "tools"
+    "sub_category": "tools_household"
   },
   {
     "type": "PetushokHat_Black",
@@ -5885,7 +5889,7 @@
   },
   {
     "type": "Pickaxe",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "PigPelt",
@@ -5917,11 +5921,11 @@
   },
   {
     "type": "Pipe",
-    "sub_category": "tools"
+    "sub_category": "tools_melee"
   },
   {
     "type": "PipeWrench",
-    "sub_category": "tools"
+    "sub_category": "tools_melee"
   },
   {
     "type": "PistolOptic",
@@ -5933,7 +5937,7 @@
   },
   {
     "type": "Pitchfork",
-    "sub_category": "tools"
+    "sub_category": "tools_melee"
   },
   {
     "type": "Plant_Cannabis",
@@ -6081,15 +6085,15 @@
   },
   {
     "type": "PortableGasLamp",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "PortableGasStove",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "Pot",
-    "sub_category": "tools"
+    "sub_category": "food_water"
   },
   {
     "type": "Potato",
@@ -6105,7 +6109,7 @@
   },
   {
     "type": "PowerGenerator",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "PP19",
@@ -6165,11 +6169,11 @@
   },
   {
     "type": "PunchedCard",
-    "sub_category": "tools"
+    "sub_category": "tools_special"
   },
   {
     "type": "PurificationTablets",
-    "sub_category": "tools"
+    "sub_category": "tools_medic"
   },
   {
     "type": "PUScopeOptic",
@@ -6245,7 +6249,7 @@
   },
   {
     "type": "Rag",
-    "sub_category": "tools"
+    "sub_category": "tools_crafted"
   },
   {
     "type": "Raincoat_Black",
@@ -6277,7 +6281,7 @@
   },
   {
     "type": "Rangefinder",
-    "sub_category": "tools"
+    "sub_category": "tools_battery"
   },
   {
     "type": "Raycaster",
@@ -6313,7 +6317,7 @@
   },
   {
     "type": "ReindeerPelt",
-    "sub_category": "tools"
+    "sub_category": "tools_crafted"
   },
   {
     "type": "ReindeerSteakMeat",
@@ -6349,11 +6353,11 @@
   },
   {
     "type": "Roadflare",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "Rope",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "RopeBelt",
@@ -6373,11 +6377,11 @@
   },
   {
     "type": "SalineBag",
-    "sub_category": "tools"
+    "sub_category": "tools_medic"
   },
   {
     "type": "SalineBagIV",
-    "sub_category": "tools"
+    "sub_category": "tools_medic"
   },
   {
     "type": "SaltySticks",
@@ -6385,7 +6389,7 @@
   },
   {
     "type": "SambucusBerry",
-    "sub_category": "tools"
+    "sub_category": "tools_crafted"
   },
   {
     "type": "SantasBeard",
@@ -6461,7 +6465,7 @@
   },
   {
     "type": "ScientificBriefcaseKeys",
-    "sub_category": "tools"
+    "sub_category": "tools_special"
   },
   {
     "type": "Scout",
@@ -6477,11 +6481,11 @@
   },
   {
     "type": "Screwdriver",
-    "sub_category": "tools"
+    "sub_category": "tools_car"
   },
   {
     "type": "SeaChest",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "Sedan_02",
@@ -6649,7 +6653,7 @@
   },
   {
     "type": "SewingKit",
-    "sub_category": "tools"
+    "sub_category": "tools_repair"
   },
   {
     "type": "SharpWoodenStick",
@@ -6713,19 +6717,19 @@
   },
   {
     "type": "ShippingContainerKeys_Blue",
-    "sub_category": "tools"
+    "sub_category": "tools_special"
   },
   {
     "type": "ShippingContainerKeys_Orange",
-    "sub_category": "tools"
+    "sub_category": "tools_special"
   },
   {
     "type": "ShippingContainerKeys_Red",
-    "sub_category": "tools"
+    "sub_category": "tools_special"
   },
   {
     "type": "ShippingContainerKeys_Yellow",
-    "sub_category": "tools"
+    "sub_category": "tools_special"
   },
   {
     "type": "Shirt_BlueCheck",
@@ -6777,7 +6781,7 @@
   },
   {
     "type": "Shovel",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "Shrimp",
@@ -6785,7 +6789,7 @@
   },
   {
     "type": "Sickle",
-    "sub_category": "tools"
+    "sub_category": "tools_melee"
   },
   {
     "type": "SkateHelmet_Black",
@@ -6897,7 +6901,7 @@
   },
   {
     "type": "SledgeHammer",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "SlicedPumpkin",
@@ -6917,15 +6921,15 @@
   },
   {
     "type": "SmallFishTrap",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "SmallGasCanister",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "SmallGuts",
-    "sub_category": "tools"
+    "sub_category": "tools_crafted"
   },
   {
     "type": "SmallProtectorCase",
@@ -6933,7 +6937,7 @@
   },
   {
     "type": "SmallStone",
-    "sub_category": "tools"
+    "sub_category": "tools_crafted"
   },
   {
     "type": "SmershBag",
@@ -7009,7 +7013,7 @@
   },
   {
     "type": "SparkPlug",
-    "sub_category": "tools"
+    "sub_category": "tools_car"
   },
   {
     "type": "SpearBone",
@@ -7049,7 +7053,7 @@
   },
   {
     "type": "Spotlight",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "SSG82",
@@ -7065,7 +7069,7 @@
   },
   {
     "type": "StartKitIV",
-    "sub_category": "tools"
+    "sub_category": "tools_medic"
   },
   {
     "type": "Static_FrozenScientist_DE",
@@ -7209,7 +7213,7 @@
   },
   {
     "type": "Stone",
-    "sub_category": "tools"
+    "sub_category": "tools_crafted"
   },
   {
     "type": "StoneKnife",
@@ -7592,6 +7596,10 @@
     "sub_category": "clothes_top"
   },
   {
+    "type": "TShirt_Dyed",
+    "sub_category": "clothes_top"
+  },
+  {
     "type": "TShirt_Green",
     "sub_category": "clothes_top"
   },
@@ -7781,7 +7789,7 @@
   },
   {
     "type": "Whetstone",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "WildboarPelt",
@@ -8073,7 +8081,7 @@
   },
   {
     "type": "XmasLights",
-    "sub_category": "tools"
+    "sub_category": "tools_base"
   },
   {
     "type": "Zagorky",
