@@ -980,6 +980,10 @@
     "slotSize": 3
   },
   {
+    "itemType": "Bandana_Yellow",
+    "slotSize": 3
+  },
+  {
     "itemType": "BarbedBaseballBat",
     "slotSize": 7
   },
@@ -7570,6 +7574,10 @@
   {
     "itemType": "TruckBattery",
     "slotSize": 15
+  },
+  {
+    "itemType": "TShirt_Dyed",
+    "slotSize": 6
   },
   {
     "itemType": "Tshirt_10thAnniversary",
