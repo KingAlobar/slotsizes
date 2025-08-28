@@ -7748,6 +7748,10 @@
     "slotSize": 5
   },
   {
+    "itemType": "WaterPouch_Natural",
+    "slotSize": 9
+  },
+  {
     "itemType": "WaterBottle",
     "slotSize": 3
   },
