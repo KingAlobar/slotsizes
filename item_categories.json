@@ -7748,6 +7748,10 @@
     "sub_category": "tools_crafted"
   },
   {
+    "type": "WaterPouch_Natural",
+    "sub_category": "food_water"
+  },
+  {
     "type": "WaterBottle",
     "sub_category": "food_water"
   },
