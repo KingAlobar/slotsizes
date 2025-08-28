@@ -1993,7 +1993,7 @@
   },
   {
     "type": "Candle",
-    "sub_category": "tools_crafted"
+    "sub_category": "tools_special"
   },
   {
     "type": "Candycane_Green",
@@ -2985,7 +2985,7 @@
   },
   {
     "type": "FireExtinguisher",
-    "sub_category": "tools_crafted"
+    "sub_category": "tools_special"
   },
   {
     "type": "FirefighterAxe",
@@ -3969,7 +3969,7 @@
   },
   {
     "type": "HockeyStick",
-    "sub_category": "tools_crafted"
+    "sub_category": "tools_special"
   },
   {
     "type": "Honey",
@@ -5749,7 +5749,7 @@
   },
   {
     "type": "Paddle",
-    "sub_category": "tools_crafted"
+    "sub_category": "tools_special"
   },
   {
     "type": "PainkillerTablets",
