@@ -61,7 +61,7 @@
   },
   {
     "type": "AK_Suppressor",
-    "sub_category": "weaponSuppresor"
+    "sub_category": "weaponSuppressor"
   },
   {
     "type": "AK_WoodBttstck",
@@ -4089,7 +4089,7 @@
   },
   {
     "type": "ImprovisedSuppressor",
-    "sub_category": "weaponSuppresor"
+    "sub_category": "weaponSuppressor"
   },
   {
     "type": "InjectionVial",
@@ -4833,7 +4833,7 @@
   },
   {
     "type": "M4_Suppressor",
-    "sub_category": "weaponSuppresor"
+    "sub_category": "weaponSuppressor"
   },
   {
     "type": "M4_T3NRDSOptic",
@@ -5933,7 +5933,7 @@
   },
   {
     "type": "PistolSuppressor",
-    "sub_category": "weaponSuppresor"
+    "sub_category": "weaponSuppressor"
   },
   {
     "type": "Pitchfork",
