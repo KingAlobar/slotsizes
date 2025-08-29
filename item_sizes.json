@@ -5025,7 +5025,7 @@
   },
   {
     "itemType": "Mag_CZ550_10Rnd",
-    "slotSize": 1
+    "slotSize": 2
   },
   {
     "itemType": "Mag_CZ61_20Rnd",
@@ -5085,11 +5085,11 @@
   },
   {
     "itemType": "Mag_PM73_15Rnd",
-    "slotSize": 1
+    "slotSize": 2
   },
   {
     "itemType": "Mag_PM73_25Rnd",
-    "slotSize": 1
+    "slotSize": 3
   },
   {
     "itemType": "Mag_PP19_64Rnd",
@@ -6149,7 +6149,7 @@
   },
   {
     "itemType": "PSO6Optic",
-    "slotSize": 1
+    "slotSize": 6
   },
   {
     "itemType": "Pumpkin",
@@ -7049,7 +7049,7 @@
   },
   {
     "itemType": "SportingOptic",
-    "slotSize": 1
+    "slotSize": 3
   },
   {
     "itemType": "Spotlight",
@@ -7576,10 +7576,6 @@
     "slotSize": 15
   },
   {
-    "itemType": "TShirt_Dyed",
-    "slotSize": 6
-  },
-  {
     "itemType": "Tshirt_10thAnniversary",
     "slotSize": 6
   },
@@ -7597,6 +7593,10 @@
   },
   {
     "itemType": "TShirt_Blue",
+    "slotSize": 6
+  },
+  {
+    "itemType": "TShirt_Dyed",
     "slotSize": 6
   },
   {
@@ -7748,12 +7748,12 @@
     "slotSize": 5
   },
   {
-    "itemType": "WaterPouch_Natural",
-    "slotSize": 9
-  },
-  {
     "itemType": "WaterBottle",
     "slotSize": 3
+  },
+  {
+    "itemType": "WaterPouch_Natural",
+    "slotSize": 9
   },
   {
     "itemType": "WaterproofBag_Green",
