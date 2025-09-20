@@ -6116,8 +6116,8 @@
     "slotSize": 12,
     "attachmentsslots": 0,
     "cargo_capacity": 20,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 180.0 0.0"
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
     "itemName": "Derringer_Black",
@@ -6755,8 +6755,8 @@
     "slotSize": 16,
     "attachmentsslots": 0,
     "cargo_capacity": 24,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 180.0 0.0"
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
     "itemName": "FirefighterJacket_Black",
@@ -6764,8 +6764,8 @@
     "slotSize": 16,
     "attachmentsslots": 0,
     "cargo_capacity": 24,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 180.0 0.0"
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
     "itemName": "FirefightersHelmet_Red",
@@ -9365,8 +9365,8 @@
     "slotSize": 12,
     "attachmentsslots": 0,
     "cargo_capacity": 24,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 180.0 0.0"
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
     "itemName": "JumpsuitJacket_Gray",
@@ -9374,8 +9374,8 @@
     "slotSize": 12,
     "attachmentsslots": 0,
     "cargo_capacity": 24,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 180.0 0.0"
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
     "itemName": "JumpsuitJacket_Green",
@@ -9383,8 +9383,8 @@
     "slotSize": 12,
     "attachmentsslots": 0,
     "cargo_capacity": 24,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 180.0 0.0"
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
     "itemName": "JumpsuitJacket_Red",
@@ -9392,8 +9392,8 @@
     "slotSize": 12,
     "attachmentsslots": 0,
     "cargo_capacity": 24,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 180.0 0.0"
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
     "itemName": "JumpsuitPants_Blue",
@@ -9545,8 +9545,8 @@
     "slotSize": 9,
     "attachmentsslots": 0,
     "cargo_capacity": 20,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 180.0 0.0"
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
     "itemName": "LactariusMushroom",
@@ -12614,8 +12614,8 @@
     "slotSize": 9,
     "attachmentsslots": 0,
     "cargo_capacity": 20,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 180.0 0.0"
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
     "itemName": "NurseDress_White",
@@ -12623,8 +12623,8 @@
     "slotSize": 9,
     "attachmentsslots": 0,
     "cargo_capacity": 20,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 180.0 0.0"
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
     "itemName": "NVGHeadstrap",
@@ -14288,8 +14288,8 @@
     "slotSize": 16,
     "attachmentsslots": 0,
     "cargo_capacity": 20,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 180.0 0.0"
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
     "itemName": "Roadflare",
