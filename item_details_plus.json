@@ -10229,8 +10229,8 @@
     "slotSize": 3,
     "attachmentsslots": 3,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "180.0 0.0 0.0"
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
     "itemName": "LeatherBelt_Black",
@@ -10238,8 +10238,8 @@
     "slotSize": 3,
     "attachmentsslots": 3,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "180.0 0.0 0.0"
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
     "itemName": "LeatherBelt_Brown",
@@ -10247,8 +10247,8 @@
     "slotSize": 3,
     "attachmentsslots": 3,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "180.0 0.0 0.0"
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
     "itemName": "LeatherBelt_Natural",
@@ -10256,8 +10256,8 @@
     "slotSize": 3,
     "attachmentsslots": 3,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "180.0 0.0 0.0"
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
     "itemName": "LeatherGloves_Beige",
@@ -10301,8 +10301,8 @@
     "slotSize": 12,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 -90.0 0.0",
+    "rotation_preset2": "0.0 0.0 0.0"
   },
   {
     "itemName": "LeatherHat_Black",
@@ -10310,8 +10310,8 @@
     "slotSize": 12,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 -90.0 0.0",
+    "rotation_preset2": "0.0 0.0 0.0"
   },
   {
     "itemName": "LeatherHat_Brown",
@@ -10319,8 +10319,8 @@
     "slotSize": 12,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 -90.0 0.0",
+    "rotation_preset2": "0.0 0.0 0.0"
   },
   {
     "itemName": "LeatherHat_Natural",
@@ -10328,8 +10328,8 @@
     "slotSize": 12,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 -90.0 0.0",
+    "rotation_preset2": "0.0 0.0 0.0"
   },
   {
     "itemName": "LeatherJacket_Beige",
@@ -10382,8 +10382,8 @@
     "slotSize": 16,
     "attachmentsslots": 0,
     "cargo_capacity": 6,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 180.0 0.0"
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
     "itemName": "LeatherPants_Black",
@@ -10391,8 +10391,8 @@
     "slotSize": 16,
     "attachmentsslots": 0,
     "cargo_capacity": 6,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 180.0 0.0"
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
     "itemName": "LeatherPants_Brown",
@@ -10400,8 +10400,8 @@
     "slotSize": 16,
     "attachmentsslots": 0,
     "cargo_capacity": 6,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 180.0 0.0"
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
     "itemName": "LeatherPants_Natural",
@@ -10409,8 +10409,8 @@
     "slotSize": 16,
     "attachmentsslots": 0,
     "cargo_capacity": 6,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 180.0 0.0"
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
     "itemName": "LeatherSack_Beige",
