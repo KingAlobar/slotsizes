@@ -5810,8 +5810,8 @@
     "slotSize": 45,
     "attachmentsslots": 2,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 0.0 90.0"
   },
   {
     "itemName": "Crossbow_Black",
@@ -5819,8 +5819,8 @@
     "slotSize": 45,
     "attachmentsslots": 2,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 0.0 90.0"
   },
   {
     "itemName": "Crossbow_Summer",
@@ -5828,8 +5828,8 @@
     "slotSize": 45,
     "attachmentsslots": 2,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 0.0 90.0"
   },
   {
     "itemName": "Crossbow_Wood",
@@ -5837,8 +5837,8 @@
     "slotSize": 45,
     "attachmentsslots": 2,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 0.0 90.0"
   },
   {
     "itemName": "Crowbar",
@@ -7308,24 +7308,6 @@
     "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
-    "itemName": "FNX45_Arrow",
-    "sub_category": "weapons_pistol",
-    "slotSize": 6,
-    "attachmentsslots": 4,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "Foxpelt",
-    "sub_category": "tools_crafted",
-    "slotSize": 12,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
     "itemName": "FoxPelt",
     "sub_category": "tools_crafted",
     "slotSize": 12,
@@ -7925,7 +7907,7 @@
     "slotSize": 16,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 180.0 0.0",
+    "rotation_preset": "0.0 0.0 0.0",
     "rotation_preset2": "0.0 90.0 0.0"
   },
   {
@@ -10575,7 +10557,7 @@
     "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
-    "itemName": "Longhorn",
+    "itemName": "LongHorn",
     "sub_category": "weapons_pistol",
     "slotSize": 10,
     "attachmentsslots": 1,
@@ -12605,7 +12587,7 @@
     "slotSize": 16,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 180.0 0.0",
+    "rotation_preset": "0.0 0.0 0.0",
     "rotation_preset2": "0.0 90.0 0.0"
   },
   {
@@ -14387,8 +14369,8 @@
     "slotSize": 3,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "SantasHat",
