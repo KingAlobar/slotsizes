@@ -6413,8 +6413,8 @@
     "slotSize": 20,
     "attachmentsslots": 1,
     "cargo_capacity": 20,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
     "itemName": "DrysackBag_Orange",
@@ -6422,8 +6422,8 @@
     "slotSize": 20,
     "attachmentsslots": 1,
     "cargo_capacity": 20,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
     "itemName": "DrysackBag_Yellow",
@@ -6431,8 +6431,8 @@
     "slotSize": 20,
     "attachmentsslots": 1,
     "cargo_capacity": 20,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
     "itemName": "DuctTape",
@@ -6449,8 +6449,8 @@
     "slotSize": 20,
     "attachmentsslots": 3,
     "cargo_capacity": 25,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 180.0 0.0",
+    "rotation_preset2": "90.0 180.0 0.0"
   },
   {
     "itemName": "DuffelBagSmall_Green",
@@ -6458,8 +6458,8 @@
     "slotSize": 20,
     "attachmentsslots": 3,
     "cargo_capacity": 25,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 180.0 0.0",
+    "rotation_preset2": "90.0 180.0 0.0"
   },
   {
     "itemName": "DuffelBagSmall_Medical",
@@ -6467,8 +6467,8 @@
     "slotSize": 20,
     "attachmentsslots": 3,
     "cargo_capacity": 25,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 180.0 0.0",
+    "rotation_preset2": "90.0 180.0 0.0"
   },
   {
     "itemName": "EasterEgg",
@@ -10418,8 +10418,8 @@
     "slotSize": 30,
     "attachmentsslots": 3,
     "cargo_capacity": 42,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "90.0 0.0 0.0"
   },
   {
     "itemName": "LeatherSack_Black",
@@ -10427,8 +10427,8 @@
     "slotSize": 30,
     "attachmentsslots": 3,
     "cargo_capacity": 42,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "90.0 0.0 0.0"
   },
   {
     "itemName": "LeatherSack_Brown",
@@ -10436,8 +10436,8 @@
     "slotSize": 30,
     "attachmentsslots": 3,
     "cargo_capacity": 42,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "90.0 0.0 0.0"
   },
   {
     "itemName": "LeatherSack_Natural",
@@ -10445,8 +10445,8 @@
     "slotSize": 30,
     "attachmentsslots": 3,
     "cargo_capacity": 42,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "90.0 0.0 0.0"
   },
   {
     "itemName": "LeatherSewingKit",
@@ -15548,8 +15548,8 @@
     "slotSize": 16,
     "attachmentsslots": 2,
     "cargo_capacity": 20,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 180.0 0.0",
+    "rotation_preset2": "90.0 180.0 0.0"
   },
   {
     "itemName": "Slingbag_Brown",
@@ -15557,8 +15557,8 @@
     "slotSize": 16,
     "attachmentsslots": 2,
     "cargo_capacity": 20,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 180.0 0.0",
+    "rotation_preset2": "90.0 180.0 0.0"
   },
   {
     "itemName": "Slingbag_Gray",
@@ -15566,8 +15566,8 @@
     "slotSize": 16,
     "attachmentsslots": 2,
     "cargo_capacity": 20,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 180.0 0.0",
+    "rotation_preset2": "90.0 180.0 0.0"
   },
   {
     "itemName": "SmallFishTrap",
