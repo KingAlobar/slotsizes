@@ -4415,8 +4415,8 @@
     "slotSize": 6,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 180.0 0.0",
+    "rotation_preset2": "0.0 0.0 0.0"
   },
   {
     "itemName": "BUISOptic",
@@ -4820,8 +4820,8 @@
     "slotSize": 6,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 180.0 0.0",
+    "rotation_preset2": "0.0 0.0 0.0"
   },
   {
     "itemName": "Chainmail_Leggings",
@@ -5009,7 +5009,7 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
+    "rotation_preset": "0.0 0.0 0.0",
     "rotation_preset2": "0.0 90.0 0.0"
   },
   {
@@ -5018,7 +5018,7 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
+    "rotation_preset": "0.0 0.0 0.0",
     "rotation_preset2": "0.0 90.0 0.0"
   },
   {
@@ -5027,7 +5027,7 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
+    "rotation_preset": "0.0 0.0 0.0",
     "rotation_preset2": "0.0 90.0 0.0"
   },
   {
@@ -5603,8 +5603,8 @@
     "slotSize": 12,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 -90.0 0.0",
+    "rotation_preset2": "0.0 0.0 0.0"
   },
   {
     "itemName": "ConstructionHelmet_Lime",
@@ -5612,8 +5612,8 @@
     "slotSize": 12,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 -90.0 0.0",
+    "rotation_preset2": "0.0 0.0 0.0"
   },
   {
     "itemName": "ConstructionHelmet_Orange",
@@ -5621,8 +5621,8 @@
     "slotSize": 12,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 -90.0 0.0",
+    "rotation_preset2": "0.0 0.0 0.0"
   },
   {
     "itemName": "ConstructionHelmet_Red",
@@ -5630,8 +5630,8 @@
     "slotSize": 12,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 -90.0 0.0",
+    "rotation_preset2": "0.0 0.0 0.0"
   },
   {
     "itemName": "ConstructionHelmet_White",
@@ -5639,8 +5639,8 @@
     "slotSize": 12,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 -90.0 0.0",
+    "rotation_preset2": "0.0 0.0 0.0"
   },
   {
     "itemName": "ConstructionHelmet_Yellow",
@@ -5648,8 +5648,8 @@
     "slotSize": 12,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 -90.0 0.0",
+    "rotation_preset2": "0.0 0.0 0.0"
   },
   {
     "itemName": "ContaminatedArea_Dynamic",
@@ -7925,7 +7925,7 @@
     "slotSize": 16,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
+    "rotation_preset": "0.0 180.0 0.0",
     "rotation_preset2": "0.0 90.0 0.0"
   },
   {
@@ -10202,8 +10202,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 180.0 0.0"
   },
   {
     "itemName": "LeafCrown_Summer",
@@ -10211,8 +10211,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 180.0 0.0"
   },
   {
     "itemName": "LeafCrown_Winter",
@@ -10220,8 +10220,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 180.0 0.0"
   },
   {
     "itemName": "LeatherBelt_Beige",
@@ -12173,8 +12173,8 @@
     "slotSize": 6,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 180.0 0.0",
+    "rotation_preset2": "0.0 0.0 0.0"
   },
   {
     "itemName": "Morphine",
@@ -12506,8 +12506,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 180.0 0.0"
   },
   {
     "itemName": "NBCHoodWhite",
@@ -12515,8 +12515,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 180.0 0.0"
   },
   {
     "itemName": "NBCHoodYellow",
@@ -12524,8 +12524,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 180.0 0.0"
   },
   {
     "itemName": "NBCJacketGray",
@@ -12605,7 +12605,7 @@
     "slotSize": 16,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
+    "rotation_preset": "0.0 180.0 0.0",
     "rotation_preset2": "0.0 90.0 0.0"
   },
   {
@@ -13226,8 +13226,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 180.0 0.0"
   },
   {
     "itemName": "PetushokHat_Green",
@@ -13235,8 +13235,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 180.0 0.0"
   },
   {
     "itemName": "PetushokHat_Yellow",
@@ -13244,8 +13244,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 180.0 0.0"
   },
   {
     "itemName": "Pickaxe",
@@ -14396,7 +14396,7 @@
     "slotSize": 6,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
+    "rotation_preset": "0.0 180.0 0.0",
     "rotation_preset2": "0.0 90.0 0.0"
   },
   {
@@ -15089,8 +15089,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 180.0 0.0"
   },
   {
     "itemName": "SherpaHat_Blue",
@@ -15098,8 +15098,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 180.0 0.0"
   },
   {
     "itemName": "SherpaHat_Red",
@@ -15107,8 +15107,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 180.0 0.0"
   },
   {
     "itemName": "ShippingContainerKeys_Blue",
@@ -15683,8 +15683,8 @@
     "slotSize": 6,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 180.0 0.0",
+    "rotation_preset2": "0.0 0.0 0.0"
   },
   {
     "itemName": "SnowstormUshanka_Navy",
@@ -15692,8 +15692,8 @@
     "slotSize": 6,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 180.0 0.0",
+    "rotation_preset2": "0.0 0.0 0.0"
   },
   {
     "itemName": "SnowstormUshanka_Olive",
@@ -15701,8 +15701,8 @@
     "slotSize": 6,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 180.0 0.0",
+    "rotation_preset2": "0.0 0.0 0.0"
   },
   {
     "itemName": "SnowstormUshanka_White",
@@ -15710,8 +15710,8 @@
     "slotSize": 6,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 180.0 0.0",
+    "rotation_preset2": "0.0 0.0 0.0"
   },
   {
     "itemName": "SodaCan_Cola",
@@ -15890,8 +15890,8 @@
     "slotSize": 12,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 -90.0 0.0",
+    "rotation_preset2": "0.0 0.0 90.0"
   },
   {
     "itemName": "StarlightOptic",
@@ -16520,7 +16520,7 @@
     "slotSize": 12,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset": "0.0 -90.0 0.0",
     "rotation_preset2": "0.0 90.0 0.0"
   },
   {
@@ -17582,8 +17582,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 180.0 0.0"
   },
   {
     "itemName": "WinterCoif_Blue",
@@ -17591,8 +17591,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 180.0 0.0"
   },
   {
     "itemName": "WinterCoif_Green",
@@ -17600,8 +17600,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 180.0 0.0"
   },
   {
     "itemName": "WinterCoif_Skull",
@@ -17609,8 +17609,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 180.0 0.0"
   },
   {
     "itemName": "WinterMilitaryCoat_Brown",
@@ -19832,8 +19832,8 @@
     "slotSize": 16,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 -90.0 0.0",
+    "rotation_preset2": "90.0 -90.0 0.0"
   },
   {
     "itemName": "ZSh3PilotHelmet_Black",
@@ -19841,8 +19841,8 @@
     "slotSize": 16,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 -90.0 0.0",
+    "rotation_preset2": "90.0 -90.0 0.0"
   },
   {
     "itemName": "ZSh3PilotHelmet_Green",
@@ -19850,8 +19850,8 @@
     "slotSize": 16,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 -90.0 0.0",
+    "rotation_preset2": "90.0 -90.0 0.0"
   },
   {
     "itemName": "Zucchini",
