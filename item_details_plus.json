@@ -1220,8 +1220,8 @@
     "slotSize": 16,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "45.0 0.0 0.0"
   },
   {
     "itemName": "AnniversaryBox",
@@ -4487,7 +4487,7 @@
     "slotSize": 2,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset": "0.0 0.0 0.0",
     "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
@@ -5054,8 +5054,8 @@
     "slotSize": 1,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "90.0 0.0 0.0"
   },
   {
     "itemName": "CigarettePack_Merkur",
@@ -5063,8 +5063,8 @@
     "slotSize": 1,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "90.0 0.0 0.0"
   },
   {
     "itemName": "CigarettePack_Partyzanka",
@@ -5072,8 +5072,8 @@
     "slotSize": 1,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "90.0 0.0 0.0"
   },
   {
     "itemName": "CivilianBelt",
@@ -6476,7 +6476,7 @@
     "slotSize": 1,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset": "0.0 0.0 0.0",
     "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
@@ -6719,8 +6719,8 @@
     "slotSize": 24,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "FirefighterAxe",
@@ -6854,8 +6854,8 @@
     "slotSize": 16,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "45.0 0.0 0.0"
   },
   {
     "itemName": "FirstAidKit",
@@ -8915,8 +8915,8 @@
     "slotSize": 20,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 180.0 0.0",
+    "rotation_preset2": "0.0 0.0 90.0"
   },
   {
     "itemName": "Honey",
@@ -12920,8 +12920,8 @@
     "slotSize": 20,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 180.0 0.0",
+    "rotation_preset2": "0.0 0.0 90.0"
   },
   {
     "itemName": "PainkillerTablets",
