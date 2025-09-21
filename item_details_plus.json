@@ -315,15 +315,6 @@
     "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
-    "itemName": "AKM_TESTBED",
-    "sub_category": "weapons_rifle",
-    "slotSize": 24,
-    "attachmentsslots": 5,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
     "itemName": "AKS74U",
     "sub_category": "weapons_rifle",
     "slotSize": 18,
@@ -498,15 +489,6 @@
     "itemName": "Ammo_380",
     "sub_category": "weapons_ammo_loose",
     "slotSize": 1,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "Ammo_40mm_Chemgas",
-    "sub_category": "weapons_ammo_40mm",
-    "slotSize": 2,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
     "rotation_preset": "0.0 90.0 0.0",
@@ -6162,7 +6144,7 @@
     "attachmentsslots": 2,
     "cargo_capacity": 0,
     "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset2": "90.0 0.0 0.0"
   },
   {
     "itemName": "DirtBikeHelmet_Blue",
@@ -6171,7 +6153,7 @@
     "attachmentsslots": 2,
     "cargo_capacity": 0,
     "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset2": "90.0 0.0 0.0"
   },
   {
     "itemName": "DirtBikeHelmet_Chernarus",
@@ -6180,7 +6162,7 @@
     "attachmentsslots": 2,
     "cargo_capacity": 0,
     "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset2": "90.0 0.0 0.0"
   },
   {
     "itemName": "DirtBikeHelmet_Green",
@@ -6189,7 +6171,7 @@
     "attachmentsslots": 2,
     "cargo_capacity": 0,
     "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset2": "90.0 0.0 0.0"
   },
   {
     "itemName": "DirtBikeHelmet_Khaki",
@@ -6198,7 +6180,7 @@
     "attachmentsslots": 2,
     "cargo_capacity": 0,
     "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset2": "90.0 0.0 0.0"
   },
   {
     "itemName": "DirtBikeHelmet_Mouthguard",
@@ -6207,7 +6189,7 @@
     "attachmentsslots": 0,
     "cargo_capacity": 0,
     "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset2": "90.0 0.0 0.0"
   },
   {
     "itemName": "DirtBikeHelmet_Police",
@@ -6216,7 +6198,7 @@
     "attachmentsslots": 2,
     "cargo_capacity": 0,
     "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset2": "90.0 0.0 0.0"
   },
   {
     "itemName": "DirtBikeHelmet_Red",
@@ -6225,7 +6207,7 @@
     "attachmentsslots": 2,
     "cargo_capacity": 0,
     "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset2": "90.0 0.0 0.0"
   },
   {
     "itemName": "DirtBikeHelmet_Visor",
@@ -6233,8 +6215,8 @@
     "slotSize": 3,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 180.0 0.0"
   },
   {
     "itemName": "DisinfectantAlcohol",
@@ -10175,8 +10157,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 180.0 0.0"
   },
   {
     "itemName": "LeafCrown_Spring",
@@ -11993,8 +11975,8 @@
     "slotSize": 2,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "90.0 0.0 0.0"
   },
   {
     "itemName": "MimeMask_Male",
@@ -12002,8 +11984,8 @@
     "slotSize": 2,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "90.0 0.0 0.0"
   },
   {
     "itemName": "MiniDress_BlueChecker",
@@ -12794,8 +12776,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "90.0 0.0 0.0"
   },
   {
     "itemName": "OKZKCap_Green",
@@ -12803,8 +12785,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "90.0 0.0 0.0"
   },
   {
     "itemName": "OMKJacket_Navy",
@@ -13073,8 +13055,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "90.0 0.0 0.0"
   },
   {
     "itemName": "PaydayMask_Dallas",
@@ -13082,8 +13064,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "90.0 0.0 0.0"
   },
   {
     "itemName": "PaydayMask_Hoxton",
@@ -13091,8 +13073,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "90.0 0.0 0.0"
   },
   {
     "itemName": "PaydayMask_Wolf",
@@ -13100,8 +13082,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "90.0 0.0 0.0"
   },
   {
     "itemName": "PeachesCan",
