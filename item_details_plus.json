@@ -734,8 +734,8 @@
     "slotSize": 20,
     "attachmentsslots": 0,
     "cargo_capacity": 20,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "180.0 0.0 0.0"
   },
   {
     "itemName": "AmmoBox_00buck_10rnd",
@@ -4478,8 +4478,8 @@
     "slotSize": 2,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 90.0",
+    "rotation_preset2": "0.0 0.0 -90.0"
   },
   {
     "itemName": "Candycane_Red",
@@ -4487,8 +4487,8 @@
     "slotSize": 2,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 90.0",
+    "rotation_preset2": "0.0 0.0 -90.0"
   },
   {
     "itemName": "Candycane_RedGreen",
@@ -4496,8 +4496,8 @@
     "slotSize": 2,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 90.0",
+    "rotation_preset2": "0.0 0.0 -90.0"
   },
   {
     "itemName": "Candycane_Yellow",
@@ -4505,8 +4505,8 @@
     "slotSize": 2,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 90.0",
+    "rotation_preset2": "0.0 0.0 -90.0"
   },
   {
     "itemName": "CaninaBerry",
@@ -4523,8 +4523,8 @@
     "slotSize": 30,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "90.0 0.0 0.0"
   },
   {
     "itemName": "Cannabis",
@@ -4541,8 +4541,8 @@
     "slotSize": 1,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 180.0 0.0"
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
     "itemName": "CanOpener",
@@ -6845,8 +6845,8 @@
     "slotSize": 9,
     "attachmentsslots": 0,
     "cargo_capacity": 9,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "180.0 0.0 0.0"
   },
   {
     "itemName": "FishingRod",
@@ -6872,8 +6872,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flag_APA",
@@ -6881,8 +6881,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flag_BabyDeer",
@@ -6890,8 +6890,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flag_Bear",
@@ -6899,8 +6899,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flag_Bohemia",
@@ -6908,8 +6908,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flag_BrainZ",
@@ -6917,8 +6917,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flag_Cannibals",
@@ -6926,8 +6926,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flag_CDF",
@@ -6935,8 +6935,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flag_Chedaki",
@@ -6944,8 +6944,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flag_CHEL",
@@ -6953,8 +6953,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flag_Chernarus",
@@ -6962,8 +6962,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flag_CMC",
@@ -6971,8 +6971,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flag_Crook",
@@ -6980,8 +6980,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flag_DayZ",
@@ -6989,8 +6989,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flag_HunterZ",
@@ -6998,8 +6998,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flag_Livonia",
@@ -7007,8 +7007,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flag_LivoniaArmy",
@@ -7016,8 +7016,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flag_LivoniaPolice",
@@ -7025,8 +7025,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flag_NAPA",
@@ -7034,8 +7034,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flag_NSahrani",
@@ -7043,8 +7043,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flag_Pirates",
@@ -7052,8 +7052,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flag_Refuge",
@@ -7061,8 +7061,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flag_Rex",
@@ -7070,8 +7070,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flag_Rooster",
@@ -7079,8 +7079,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flag_RSTA",
@@ -7088,8 +7088,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flag_Sakhal",
@@ -7097,8 +7097,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flag_Snake",
@@ -7106,8 +7106,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flag_SSahrani",
@@ -7115,8 +7115,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flag_TEC",
@@ -7124,8 +7124,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flag_UEC",
@@ -7133,8 +7133,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flag_White",
@@ -7142,8 +7142,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flag_Wolf",
@@ -7151,8 +7151,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flag_Zagorky",
@@ -7160,8 +7160,8 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flag_Zenit",
@@ -7169,12 +7169,12 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Flaregun",
-    "sub_category": "weapons_pistol",
+    "sub_category": "weapons_ammo_flare",
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
@@ -7313,8 +7313,8 @@
     "slotSize": 12,
     "attachmentsslots": 0,
     "cargo_capacity": 12,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "180.0 0.0 0.0"
   },
   {
     "itemName": "FurCourierBag",
@@ -10467,24 +10467,6 @@
     "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
-    "itemName": "LeatherShoes_Sunburst",
-    "sub_category": "clothes_crafted",
-    "slotSize": 8,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "LeatherShoes_White",
-    "sub_category": "clothes_crafted",
-    "slotSize": 8,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
     "itemName": "LeatherStorageVest_Beige",
     "sub_category": "clothes_crafted",
     "slotSize": 12,
@@ -10658,15 +10640,6 @@
   {
     "itemName": "M4_CarryHandleOptic",
     "sub_category": "weaponOptics",
-    "slotSize": 2,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "M4_CarryHandleOptic_Green",
-    "sub_category": "weaponParts",
     "slotSize": 2,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
@@ -11813,8 +11786,8 @@
     "slotSize": 12,
     "attachmentsslots": 1,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 90.0",
+    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "MetalPlate",
@@ -11822,8 +11795,8 @@
     "slotSize": 100,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 0.0 90.0"
   },
   {
     "itemName": "MetalWire",
@@ -13163,8 +13136,8 @@
     "slotSize": 1,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 180.0 0.0"
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
     "itemName": "PersonalRadio",
@@ -13712,8 +13685,8 @@
     "slotSize": 100,
     "attachmentsslots": 2,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "90.0 0.0 0.0"
   },
   {
     "itemName": "PP19",
@@ -13838,8 +13811,8 @@
     "slotSize": 1,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 180.0 0.0"
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
     "itemName": "PunchedCard",
@@ -14162,8 +14135,8 @@
     "slotSize": 70,
     "attachmentsslots": 0,
     "cargo_capacity": 40,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "180.0 0.0 0.0"
   },
   {
     "itemName": "RefrigeratorMinsk",
@@ -14171,8 +14144,8 @@
     "slotSize": 50,
     "attachmentsslots": 0,
     "cargo_capacity": 10,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "180.0 0.0 0.0"
   },
   {
     "itemName": "ReindeerPelt",
@@ -14252,8 +14225,8 @@
     "slotSize": 16,
     "attachmentsslots": 0,
     "cargo_capacity": 20,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 90.0",
+    "rotation_preset2": "0.0 0.0 -90.0"
   },
   {
     "itemName": "Roadflare",
@@ -14392,25 +14365,7 @@
   },
   {
     "itemName": "SawedoffB95",
-    "sub_category": "weapons_rifle",
-    "slotSize": 10,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "SawedoffB95_Black",
-    "sub_category": "weapons_rifle",
-    "slotSize": 10,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "SawedoffB95_Green",
-    "sub_category": "weapons_rifle",
+    "sub_category": "weapons_sawedoff",
     "slotSize": 10,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
@@ -14419,7 +14374,7 @@
   },
   {
     "itemName": "SawedoffFAMAS",
-    "sub_category": "weapons_rifle",
+    "sub_category": "weapons_sawedoff",
     "slotSize": 18,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
@@ -14428,7 +14383,7 @@
   },
   {
     "itemName": "SawedoffIzh18",
-    "sub_category": "weapons_rifle",
+    "sub_category": "weapons_sawedoff",
     "slotSize": 10,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
@@ -14437,7 +14392,7 @@
   },
   {
     "itemName": "SawedoffIzh18Shotgun",
-    "sub_category": "weapons_rifle",
+    "sub_category": "weapons_sawedoff",
     "slotSize": 10,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
@@ -14446,7 +14401,7 @@
   },
   {
     "itemName": "SawedoffIzh43Shotgun",
-    "sub_category": "weapons_rifle",
+    "sub_category": "weapons_sawedoff",
     "slotSize": 10,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
@@ -14455,7 +14410,7 @@
   },
   {
     "itemName": "SawedoffMagnum",
-    "sub_category": "weapons_pistol",
+    "sub_category": "weapons_sawedoff",
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
@@ -14464,7 +14419,7 @@
   },
   {
     "itemName": "SawedoffMosin9130",
-    "sub_category": "weapons_rifle",
+    "sub_category": "weapons_sawedoff",
     "slotSize": 10,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
@@ -14473,7 +14428,7 @@
   },
   {
     "itemName": "SawedoffMosin9130_Black",
-    "sub_category": "weapons_rifle",
+    "sub_category": "weapons_sawedoff",
     "slotSize": 10,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
@@ -14482,7 +14437,7 @@
   },
   {
     "itemName": "SawedoffMosin9130_Camo",
-    "sub_category": "weapons_rifle",
+    "sub_category": "weapons_sawedoff",
     "slotSize": 10,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
@@ -14491,7 +14446,7 @@
   },
   {
     "itemName": "SawedoffMosin9130_Green",
-    "sub_category": "weapons_rifle",
+    "sub_category": "weapons_sawedoff",
     "slotSize": 10,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
@@ -14504,8 +14459,8 @@
     "slotSize": 24,
     "attachmentsslots": 0,
     "cargo_capacity": 24,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "180.0 0.0 0.0"
   },
   {
     "itemName": "ScientificBriefcaseKeys",
@@ -14558,8 +14513,8 @@
     "slotSize": 100,
     "attachmentsslots": 0,
     "cargo_capacity": 100,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "180.0 0.0 0.0"
   },
   {
     "itemName": "Sedan_02",
@@ -15566,8 +15521,8 @@
     "slotSize": 6,
     "attachmentsslots": 0,
     "cargo_capacity": 12,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "180.0 0.0 0.0"
   },
   {
     "itemName": "SmallStone",
@@ -16349,8 +16304,8 @@
     "slotSize": 16,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 180.0 0.0",
+    "rotation_preset2": "0.0 0.0 90.0"
   },
   {
     "itemName": "TacticalBaconCan",
@@ -16601,8 +16556,8 @@
     "slotSize": 1,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 180.0 0.0"
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
     "itemName": "Torch",
@@ -17343,15 +17298,6 @@
     "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
-    "itemName": "Vodka",
-    "sub_category": "food",
-    "slotSize": 3,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
     "itemName": "VSS",
     "sub_category": "weapons_rifle",
     "slotSize": 24,
@@ -17420,8 +17366,8 @@
     "slotSize": 20,
     "attachmentsslots": 0,
     "cargo_capacity": 20,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 0.0 90.0"
   },
   {
     "itemName": "WaterproofBag_Orange",
@@ -17429,8 +17375,8 @@
     "slotSize": 20,
     "attachmentsslots": 0,
     "cargo_capacity": 20,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 0.0 90.0"
   },
   {
     "itemName": "WaterproofBag_Yellow",
@@ -17438,8 +17384,8 @@
     "slotSize": 20,
     "attachmentsslots": 0,
     "cargo_capacity": 20,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 0.0 90.0"
   },
   {
     "itemName": "WeaponCleaningKit",
@@ -17623,33 +17569,6 @@
   },
   {
     "itemName": "WitchHood_Brown",
-    "sub_category": "clothes_head",
-    "slotSize": 4,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
-  },
-  {
-    "itemName": "WitchHood_Chainmail_Black",
-    "sub_category": "clothes_head",
-    "slotSize": 4,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
-  },
-  {
-    "itemName": "WitchHood_Chainmail_Brown",
-    "sub_category": "clothes_head",
-    "slotSize": 4,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
-  },
-  {
-    "itemName": "WitchHood_Chainmail_Red",
     "sub_category": "clothes_head",
     "slotSize": 4,
     "attachmentsslots": 0,
@@ -19841,7 +19760,7 @@
     "slotSize": 3,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 180.0 0.0"
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
   }
 ]
