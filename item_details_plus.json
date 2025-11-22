@@ -1521,15 +1521,6 @@
     "rotation_preset2": "0.0 180.0 0.0"
   },
   {
-    "itemName": "Armband_Sakhal",
-    "sub_category": "clothes_armband",
-    "slotSize": 2,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 180.0 0.0"
-  },
-  {
     "itemName": "Armband_Snake",
     "sub_category": "clothes_armband",
     "slotSize": 2,
@@ -1735,42 +1726,6 @@
     "cargo_capacity": 0,
     "rotation_preset": "0.0 0.0 0.0",
     "rotation_preset2": "0.0 0.0 90.0"
-  },
-  {
-    "itemName": "Attack2Bag_Black",
-    "sub_category": "containers_bag",
-    "slotSize": 35,
-    "attachmentsslots": 3,
-    "cargo_capacity": 64,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
-  },
-  {
-    "itemName": "Attack2Bag_Green",
-    "sub_category": "containers_bag",
-    "slotSize": 35,
-    "attachmentsslots": 3,
-    "cargo_capacity": 64,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
-  },
-  {
-    "itemName": "Attack2Bag_Ttsko",
-    "sub_category": "containers_bag",
-    "slotSize": 35,
-    "attachmentsslots": 3,
-    "cargo_capacity": 64,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
-  },
-  {
-    "itemName": "Attack2Bag_Yeger",
-    "sub_category": "containers_bag",
-    "slotSize": 35,
-    "attachmentsslots": 3,
-    "cargo_capacity": 64,
-    "rotation_preset": "0.0 -90.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
   },
   {
     "itemName": "Aug",
@@ -5463,33 +5418,6 @@
     "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
-    "itemName": "ColdOperationBoots_Camo",
-    "sub_category": "clothes_feet",
-    "slotSize": 16,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 0.0 90.0"
-  },
-  {
-    "itemName": "ColdOperationBoots_Green",
-    "sub_category": "clothes_feet",
-    "slotSize": 16,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 0.0 90.0"
-  },
-  {
-    "itemName": "ColdOperationBoots_Grey",
-    "sub_category": "clothes_feet",
-    "slotSize": 16,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 0.0 90.0"
-  },
-  {
     "itemName": "Colt1911",
     "sub_category": "weapons_pistol",
     "slotSize": 6,
@@ -7092,15 +7020,6 @@
     "rotation_preset2": "0.0 90.0 0.0"
   },
   {
-    "itemName": "Flag_Sakhal",
-    "sub_category": "tools_flag",
-    "slotSize": 4,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 90.0 0.0"
-  },
-  {
     "itemName": "Flag_Snake",
     "sub_category": "tools_flag",
     "slotSize": 4,
@@ -7911,15 +7830,6 @@
     "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
-    "itemName": "GulagJacket_Grey",
-    "sub_category": "clothes_top",
-    "slotSize": 12,
-    "attachmentsslots": 0,
-    "cargo_capacity": 15,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 180.0 0.0"
-  },
-  {
     "itemName": "Guts",
     "sub_category": "tools_crafted",
     "slotSize": 6,
@@ -8625,24 +8535,6 @@
     "itemName": "HeadCover_Improvised",
     "sub_category": "clothes_crafted",
     "slotSize": 4,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "Headdress_Bear",
-    "sub_category": "clothes_crafted",
-    "slotSize": 16,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "Headdress_Fox",
-    "sub_category": "clothes_crafted",
-    "slotSize": 10,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
     "rotation_preset": "0.0 90.0 0.0",
@@ -11916,33 +11808,6 @@
     "rotation_preset2": "0.0 0.0 90.0"
   },
   {
-    "itemName": "MilitarySweater_Chernarus",
-    "sub_category": "clothes_top",
-    "slotSize": 6,
-    "attachmentsslots": 0,
-    "cargo_capacity": 9,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 180.0 0.0"
-  },
-  {
-    "itemName": "MilitarySweater_Livonia",
-    "sub_category": "clothes_top",
-    "slotSize": 6,
-    "attachmentsslots": 0,
-    "cargo_capacity": 9,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 180.0 0.0"
-  },
-  {
-    "itemName": "MilitarySweater_NoPatch",
-    "sub_category": "clothes_top",
-    "slotSize": 6,
-    "attachmentsslots": 0,
-    "cargo_capacity": 9,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 180.0 0.0"
-  },
-  {
     "itemName": "MimeMask_Female",
     "sub_category": "clothes_mask",
     "slotSize": 2,
@@ -13219,33 +13084,6 @@
     "cargo_capacity": 0,
     "rotation_preset": "0.0 0.0 0.0",
     "rotation_preset2": "180.0 0.0 0.0"
-  },
-  {
-    "itemName": "PilotJacket_Black",
-    "sub_category": "clothes_top",
-    "slotSize": 16,
-    "attachmentsslots": 0,
-    "cargo_capacity": 24,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 180.0 0.0"
-  },
-  {
-    "itemName": "PilotJacket_Brown",
-    "sub_category": "clothes_top",
-    "slotSize": 16,
-    "attachmentsslots": 0,
-    "cargo_capacity": 24,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 180.0 0.0"
-  },
-  {
-    "itemName": "PilotJacket_Yellow",
-    "sub_category": "clothes_top",
-    "slotSize": 16,
-    "attachmentsslots": 0,
-    "cargo_capacity": 24,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 180.0 0.0"
   },
   {
     "itemName": "PilotkaCap",
@@ -16686,24 +16524,6 @@
     "rotation_preset2": "0.0 180.0 0.0"
   },
   {
-    "itemName": "TraditionalBoots_Beige",
-    "sub_category": "clothes_feet",
-    "slotSize": 16,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 0.0 90.0"
-  },
-  {
-    "itemName": "TraditionalBoots_DarkBrown",
-    "sub_category": "clothes_feet",
-    "slotSize": 16,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 0.0 90.0"
-  },
-  {
     "itemName": "TrashCan",
     "sub_category": "containers_crafted",
     "slotSize": 150,
@@ -17519,33 +17339,6 @@
     "slotSize": 4,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 180.0 0.0"
-  },
-  {
-    "itemName": "WinterMilitaryCoat_Brown",
-    "sub_category": "clothes_top",
-    "slotSize": 20,
-    "attachmentsslots": 0,
-    "cargo_capacity": 24,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 180.0 0.0"
-  },
-  {
-    "itemName": "WinterMilitaryCoat_DarkGrey",
-    "sub_category": "clothes_top",
-    "slotSize": 20,
-    "attachmentsslots": 0,
-    "cargo_capacity": 24,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 180.0 0.0"
-  },
-  {
-    "itemName": "WinterMilitaryCoat_Grey",
-    "sub_category": "clothes_top",
-    "slotSize": 20,
-    "attachmentsslots": 0,
-    "cargo_capacity": 24,
     "rotation_preset": "0.0 0.0 0.0",
     "rotation_preset2": "0.0 180.0 0.0"
   },
