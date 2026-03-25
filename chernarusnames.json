@@ -2603,7 +2603,7 @@
   {
     "name": "Topolka Dam",
     "name2": "ПЛОТИНА ТОПОЛЬКА",
-    "type": "Marine",
+    "type": "Dam",
     "coords": "10270.38 / 3815.02",
     "gen_area": "",
     "mapgrouppos": "",
