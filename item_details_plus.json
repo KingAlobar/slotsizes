@@ -19762,5 +19762,275 @@
     "cargo_capacity": 0,
     "rotation_preset": "0.0 90.0 0.0",
     "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "BrassKnuckles_MenAtArms",
+    "sub_category": "tools_melee",
+    "slotSize": 2,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "HoloOptic",
+    "sub_category": "weaponOptics",
+    "slotSize": 3,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "Land_Wreck_Offroad02_Aban1_TK_DE",
+    "sub_category": "StaticObject",
+    "slotSize": 1000,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 0.0 0.0"
+  },
+  {
+    "itemName": "Land_Wreck_Offroad02_Aban2_TK_DE",
+    "sub_category": "StaticObject",
+    "slotSize": 1000,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 0.0 0.0"
+  },
+  {
+    "itemName": "Land_Wreck_Offroad02_Medic_TK_DE",
+    "sub_category": "StaticObject",
+    "slotSize": 1000,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 0.0 0.0"
+  },
+  {
+    "itemName": "Mag_SCARH_20Rnd",
+    "sub_category": "weapons_mag_rifle",
+    "slotSize": 3,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "Mag_SCARH_20Rnd_Black",
+    "sub_category": "weapons_mag_rifle",
+    "slotSize": 3,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "MilitaryCap_BDU",
+    "sub_category": "clothes_head",
+    "slotSize": 3,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "MilitaryCap_Desert",
+    "sub_category": "clothes_head",
+    "slotSize": 3,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "MilitaryCap_Woodland",
+    "sub_category": "clothes_head",
+    "slotSize": 3,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "MorseCodeLeaflet_Blood",
+    "sub_category": "tools_special",
+    "slotSize": 2,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "MorseCodeLeaflet_Coffee",
+    "sub_category": "tools_special",
+    "slotSize": 2,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "MorseCodeLeaflet_Fire",
+    "sub_category": "tools_special",
+    "slotSize": 2,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "PlateCarrierHolster_Desert",
+    "sub_category": "clothes_vest_holsters_pouches",
+    "slotSize": 6,
+    "attachmentsslots": 1,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "PlateCarrierPouches_Desert",
+    "sub_category": "clothes_vest_holsters_pouches",
+    "slotSize": 15,
+    "attachmentsslots": 0,
+    "cargo_capacity": 15,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "PlateCarrierVest_Desert",
+    "sub_category": "clothes_vest",
+    "slotSize": 25,
+    "attachmentsslots": 6,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "SCARH",
+    "sub_category": "weapons_rifle",
+    "slotSize": 24,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "SCARH_Black",
+    "sub_category": "weapons_rifle",
+    "slotSize": 24,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "SCAR_PrecisionBttstck",
+    "sub_category": "weaponParts",
+    "slotSize": 3,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "SCAR_PrecisionBttstck_Black",
+    "sub_category": "weaponParts",
+    "slotSize": 3,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "SCAR_StockBttstck",
+    "sub_category": "weaponParts",
+    "slotSize": 3,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "SCAR_StockBttstck_Black",
+    "sub_category": "weaponParts",
+    "slotSize": 3,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "StaticObj_Wreck_MTVR_Cargo_DE",
+    "sub_category": "StaticObject",
+    "slotSize": 1000,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 0.0 0.0"
+  },
+  {
+    "itemName": "StaticObj_Wreck_Stryker_DE",
+    "sub_category": "StaticObject",
+    "slotSize": 1000,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 0.0 0.0"
+  },
+  {
+    "itemName": "T56TankerHelmet_Olive",
+    "sub_category": "clothes_head",
+    "slotSize": 12,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "T56TankerHelmet_Tan",
+    "sub_category": "clothes_head",
+    "slotSize": 12,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "TortillaBag_Desert",
+    "sub_category": "containers_bag",
+    "slotSize": 30,
+    "attachmentsslots": 3,
+    "cargo_capacity": 56,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "Worm",
+    "sub_category": "emptycategory",
+    "slotSize": 1,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "ZmbF_usSoldier_Heavy_Desert",
+    "sub_category": "emptycategory",
+    "slotSize": 1000,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 0.0 0.0"
+  },
+  {
+    "itemName": "ZmbF_usSoldier_normal_Desert",
+    "sub_category": "emptycategory",
+    "slotSize": 1000,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 0.0 0.0"
   }
 ]
