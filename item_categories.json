@@ -8834,5 +8834,125 @@
   {
     "type": "ZucchiniSeedsPack",
     "sub_category": "food_produce"
+  },
+  {
+    "type": "BrassKnuckles_MenAtArms",
+    "sub_category": "tools_melee"
+  },
+  {
+    "type": "HoloOptic",
+    "sub_category": "weaponOptics"
+  },
+  {
+    "type": "Land_Wreck_Offroad02_Aban1_TK_DE",
+    "sub_category": "StaticObject"
+  },
+  {
+    "type": "Land_Wreck_Offroad02_Aban2_TK_DE",
+    "sub_category": "StaticObject"
+  },
+  {
+    "type": "Land_Wreck_Offroad02_Medic_TK_DE",
+    "sub_category": "StaticObject"
+  },
+  {
+    "type": "Mag_SCARH_20Rnd",
+    "sub_category": "weapons_mag_rifle"
+  },
+  {
+    "type": "Mag_SCARH_20Rnd_Black",
+    "sub_category": "weapons_mag_rifle"
+  },
+  {
+    "type": "MilitaryCap_BDU",
+    "sub_category": "clothes_head"
+  },
+  {
+    "type": "MilitaryCap_Desert",
+    "sub_category": "clothes_head"
+  },
+  {
+    "type": "MilitaryCap_Woodland",
+    "sub_category": "clothes_head"
+  },
+  {
+    "type": "MorseCodeLeaflet_Blood",
+    "sub_category": "tools_special"
+  },
+  {
+    "type": "MorseCodeLeaflet_Coffee",
+    "sub_category": "tools_special"
+  },
+  {
+    "type": "MorseCodeLeaflet_Fire",
+    "sub_category": "tools_special"
+  },
+  {
+    "type": "PlateCarrierHolster_Desert",
+    "sub_category": "clothes_vest_holsters_pouches"
+  },
+  {
+    "type": "PlateCarrierPouches_Desert",
+    "sub_category": "clothes_vest_holsters_pouches"
+  },
+  {
+    "type": "PlateCarrierVest_Desert",
+    "sub_category": "clothes_vest"
+  },
+  {
+    "type": "SCARH",
+    "sub_category": "weapons_rifle"
+  },
+  {
+    "type": "SCARH_Black",
+    "sub_category": "weapons_rifle"
+  },
+  {
+    "type": "SCAR_PrecisionBttstck",
+    "sub_category": "weaponParts"
+  },
+  {
+    "type": "SCAR_PrecisionBttstck_Black",
+    "sub_category": "weaponParts"
+  },
+  {
+    "type": "SCAR_StockBttstck",
+    "sub_category": "weaponParts"
+  },
+  {
+    "type": "SCAR_StockBttstck_Black",
+    "sub_category": "weaponParts"
+  },
+  {
+    "type": "StaticObj_Wreck_MTVR_Cargo_DE",
+    "sub_category": "StaticObject"
+  },
+  {
+    "type": "StaticObj_Wreck_Stryker_DE",
+    "sub_category": "StaticObject"
+  },
+  {
+    "type": "T56TankerHelmet_Olive",
+    "sub_category": "clothes_head"
+  },
+  {
+    "type": "T56TankerHelmet_Tan",
+    "sub_category": "clothes_head"
+  },
+  {
+    "type": "TortillaBag_Desert",
+    "sub_category": "containers_bag"
+  },
+  {
+    "type": "Worm",
+    "sub_category": "tools_crafted"
+  },
+  {
+    "type": "ZmbF_usSoldier_Heavy_Desert",
+    "sub_category": "infected"
+  },
+  {
+    "type": "ZmbF_usSoldier_normal_Desert",
+    "sub_category": "infected"
   }
 ]
