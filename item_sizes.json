@@ -8834,5 +8834,125 @@
   {
     "itemType": "ZucchiniSeedsPack",
     "slotSize": 3
+  },
+  {
+    "itemName": "BrassKnuckles_MenAtArms",
+    "slotSize": 2
+  },
+  {
+    "itemName": "HoloOptic",
+    "slotSize": 3
+  },
+  {
+    "itemName": "Land_Wreck_Offroad02_Aban1_TK_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemName": "Land_Wreck_Offroad02_Aban2_TK_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemName": "Land_Wreck_Offroad02_Medic_TK_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemName": "Mag_SCARH_20Rnd",
+    "slotSize": 3
+  },
+  {
+    "itemName": "Mag_SCARH_20Rnd_Black",
+    "slotSize": 3
+  },
+  {
+    "itemName": "MilitaryCap_BDU",
+    "slotSize": 3
+  },
+  {
+    "itemName": "MilitaryCap_Desert",
+    "slotSize": 3
+  },
+  {
+    "itemName": "MilitaryCap_Woodland",
+    "slotSize": 3
+  },
+  {
+    "itemName": "MorseCodeLeaflet_Blood",
+    "slotSize": 2
+  },
+  {
+    "itemName": "MorseCodeLeaflet_Coffee",
+    "slotSize": 2
+  },
+  {
+    "itemName": "MorseCodeLeaflet_Fire",
+    "slotSize": 2
+  },
+  {
+    "itemName": "PlateCarrierHolster_Desert",
+    "slotSize": 6
+  },
+  {
+    "itemName": "PlateCarrierPouches_Desert",
+    "slotSize": 15
+  },
+  {
+    "itemName": "PlateCarrierVest_Desert",
+    "slotSize": 25
+  },
+  {
+    "itemName": "SCARH",
+    "slotSize": 24
+  },
+  {
+    "itemName": "SCARH_Black",
+    "slotSize": 24
+  },
+  {
+    "itemName": "SCAR_PrecisionBttstck",
+    "slotSize": 3
+  },
+  {
+    "itemName": "SCAR_PrecisionBttstck_Black",
+    "slotSize": 3
+  },
+  {
+    "itemName": "SCAR_StockBttstck",
+    "slotSize": 3
+  },
+  {
+    "itemName": "SCAR_StockBttstck_Black",
+    "slotSize": 3
+  },
+  {
+    "itemName": "StaticObj_Wreck_MTVR_Cargo_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemName": "StaticObj_Wreck_Stryker_DE",
+    "slotSize": 1000
+  },
+  {
+    "itemName": "T56TankerHelmet_Olive",
+    "slotSize": 12
+  },
+  {
+    "itemName": "T56TankerHelmet_Tan",
+    "slotSize": 12
+  },
+  {
+    "itemName": "TortillaBag_Desert",
+    "slotSize": 30
+  },
+  {
+    "itemName": "Worm",
+    "slotSize": 1
+  },
+  {
+    "itemName": "ZmbF_usSoldier_Heavy_Desert",
+    "slotSize": 1000
+  },
+  {
+    "itemName": "ZmbF_usSoldier_normal_Desert",
+    "slotSize": 1000
   }
 ]
