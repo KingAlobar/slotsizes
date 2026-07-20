@@ -8836,123 +8836,123 @@
     "slotSize": 3
   },
   {
-    "itemName": "BrassKnuckles_MenAtArms",
+    "itemType": "BrassKnuckles_MenAtArms",
     "slotSize": 2
   },
   {
-    "itemName": "HoloOptic",
+    "itemType": "HoloOptic",
     "slotSize": 3
   },
   {
-    "itemName": "Land_Wreck_Offroad02_Aban1_TK_DE",
+    "itemType": "Land_Wreck_Offroad02_Aban1_TK_DE",
     "slotSize": 1000
   },
   {
-    "itemName": "Land_Wreck_Offroad02_Aban2_TK_DE",
+    "itemType": "Land_Wreck_Offroad02_Aban2_TK_DE",
     "slotSize": 1000
   },
   {
-    "itemName": "Land_Wreck_Offroad02_Medic_TK_DE",
+    "itemType": "Land_Wreck_Offroad02_Medic_TK_DE",
     "slotSize": 1000
   },
   {
-    "itemName": "Mag_SCARH_20Rnd",
+    "itemType": "Mag_SCARH_20Rnd",
     "slotSize": 3
   },
   {
-    "itemName": "Mag_SCARH_20Rnd_Black",
+    "itemType": "Mag_SCARH_20Rnd_Black",
     "slotSize": 3
   },
   {
-    "itemName": "MilitaryCap_BDU",
+    "itemType": "MilitaryCap_BDU",
     "slotSize": 3
   },
   {
-    "itemName": "MilitaryCap_Desert",
+    "itemType": "MilitaryCap_Desert",
     "slotSize": 3
   },
   {
-    "itemName": "MilitaryCap_Woodland",
+    "itemType": "MilitaryCap_Woodland",
     "slotSize": 3
   },
   {
-    "itemName": "MorseCodeLeaflet_Blood",
+    "itemType": "MorseCodeLeaflet_Blood",
     "slotSize": 2
   },
   {
-    "itemName": "MorseCodeLeaflet_Coffee",
+    "itemType": "MorseCodeLeaflet_Coffee",
     "slotSize": 2
   },
   {
-    "itemName": "MorseCodeLeaflet_Fire",
+    "itemType": "MorseCodeLeaflet_Fire",
     "slotSize": 2
   },
   {
-    "itemName": "PlateCarrierHolster_Desert",
+    "itemType": "PlateCarrierHolster_Desert",
     "slotSize": 6
   },
   {
-    "itemName": "PlateCarrierPouches_Desert",
+    "itemType": "PlateCarrierPouches_Desert",
     "slotSize": 15
   },
   {
-    "itemName": "PlateCarrierVest_Desert",
+    "itemType": "PlateCarrierVest_Desert",
     "slotSize": 25
   },
   {
-    "itemName": "SCARH",
+    "itemType": "SCARH",
     "slotSize": 24
   },
   {
-    "itemName": "SCARH_Black",
+    "itemType": "SCARH_Black",
     "slotSize": 24
   },
   {
-    "itemName": "SCAR_PrecisionBttstck",
+    "itemType": "SCAR_PrecisionBttstck",
     "slotSize": 3
   },
   {
-    "itemName": "SCAR_PrecisionBttstck_Black",
+    "itemType": "SCAR_PrecisionBttstck_Black",
     "slotSize": 3
   },
   {
-    "itemName": "SCAR_StockBttstck",
+    "itemType": "SCAR_StockBttstck",
     "slotSize": 3
   },
   {
-    "itemName": "SCAR_StockBttstck_Black",
+    "itemType": "SCAR_StockBttstck_Black",
     "slotSize": 3
   },
   {
-    "itemName": "StaticObj_Wreck_MTVR_Cargo_DE",
+    "itemType": "StaticObj_Wreck_MTVR_Cargo_DE",
     "slotSize": 1000
   },
   {
-    "itemName": "StaticObj_Wreck_Stryker_DE",
+    "itemType": "StaticObj_Wreck_Stryker_DE",
     "slotSize": 1000
   },
   {
-    "itemName": "T56TankerHelmet_Olive",
+    "itemType": "T56TankerHelmet_Olive",
     "slotSize": 12
   },
   {
-    "itemName": "T56TankerHelmet_Tan",
+    "itemType": "T56TankerHelmet_Tan",
     "slotSize": 12
   },
   {
-    "itemName": "TortillaBag_Desert",
+    "itemType": "TortillaBag_Desert",
     "slotSize": 30
   },
   {
-    "itemName": "Worm",
+    "itemType": "Worm",
     "slotSize": 1
   },
   {
-    "itemName": "ZmbF_usSoldier_Heavy_Desert",
+    "itemType": "ZmbF_usSoldier_Heavy_Desert",
     "slotSize": 1000
   },
   {
-    "itemName": "ZmbF_usSoldier_normal_Desert",
+    "itemType": "ZmbF_usSoldier_normal_Desert",
     "slotSize": 1000
   }
 ]
