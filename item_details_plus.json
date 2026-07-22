@@ -8912,7 +8912,7 @@
   {
     "itemName": "HoloOptic",
     "sub_category": "weaponOptics",
-    "slotSize": 3,
+    "slotSize": 2,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
     "rotation_preset": "0.0 90.0 0.0",
@@ -11495,7 +11495,7 @@
   {
     "itemName": "Mag_SCARH_20Rnd",
     "sub_category": "weapons_mag_rifle",
-    "slotSize": 3,
+    "slotSize": 2,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
     "rotation_preset": "0.0 90.0 0.0",
@@ -11504,7 +11504,7 @@
   {
     "itemName": "Mag_SCARH_20Rnd_Black",
     "sub_category": "weapons_mag_rifle",
-    "slotSize": 3,
+    "slotSize": 2,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
     "rotation_preset": "0.0 90.0 0.0",
@@ -11981,7 +11981,7 @@
   {
     "itemName": "MilitaryCap_BDU",
     "sub_category": "clothes_head",
-    "slotSize": 3,
+    "slotSize": 6,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
     "rotation_preset": "0.0 90.0 0.0",
@@ -11990,7 +11990,7 @@
   {
     "itemName": "MilitaryCap_Desert",
     "sub_category": "clothes_head",
-    "slotSize": 3,
+    "slotSize": 6,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
     "rotation_preset": "0.0 90.0 0.0",
@@ -11999,7 +11999,7 @@
   {
     "itemName": "MilitaryCap_Woodland",
     "sub_category": "clothes_head",
-    "slotSize": 3,
+    "slotSize": 6,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
     "rotation_preset": "0.0 90.0 0.0",
@@ -14618,7 +14618,7 @@
   {
     "itemName": "SCAR_StockBttstck",
     "sub_category": "weaponParts",
-    "slotSize": 3,
+    "slotSize": 2,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
     "rotation_preset": "0.0 90.0 0.0",
@@ -14627,7 +14627,7 @@
   {
     "itemName": "SCAR_StockBttstck_Black",
     "sub_category": "weaponParts",
-    "slotSize": 3,
+    "slotSize": 2,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
     "rotation_preset": "0.0 90.0 0.0",
@@ -14637,7 +14637,7 @@
     "itemName": "SCARH",
     "sub_category": "weapons_rifle",
     "slotSize": 24,
-    "attachmentsslots": 0,
+    "attachmentsslots": 6,
     "cargo_capacity": 0,
     "rotation_preset": "0.0 90.0 0.0",
     "rotation_preset2": "0.0 -90.0 0.0"
@@ -14646,7 +14646,7 @@
     "itemName": "SCARH_Black",
     "sub_category": "weapons_rifle",
     "slotSize": 24,
-    "attachmentsslots": 0,
+    "attachmentsslots": 6,
     "cargo_capacity": 0,
     "rotation_preset": "0.0 90.0 0.0",
     "rotation_preset2": "0.0 -90.0 0.0"
@@ -16526,7 +16526,7 @@
   {
     "itemName": "T56TankerHelmet_Olive",
     "sub_category": "clothes_head",
-    "slotSize": 12,
+    "slotSize": 16,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
     "rotation_preset": "0.0 90.0 0.0",
@@ -16535,7 +16535,7 @@
   {
     "itemName": "T56TankerHelmet_Tan",
     "sub_category": "clothes_head",
-    "slotSize": 12,
+    "slotSize": 16,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
     "rotation_preset": "0.0 90.0 0.0",
