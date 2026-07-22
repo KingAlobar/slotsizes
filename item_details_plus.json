@@ -36,6 +36,114 @@
     "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
+    "itemName": "AK101",
+    "sub_category": "weapons_rifle",
+    "slotSize": 24,
+    "attachmentsslots": 5,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "AK101_Black",
+    "sub_category": "weapons_rifle",
+    "slotSize": 24,
+    "attachmentsslots": 5,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "AK101_Green",
+    "sub_category": "weapons_rifle",
+    "slotSize": 24,
+    "attachmentsslots": 5,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "AK74",
+    "sub_category": "weapons_rifle",
+    "slotSize": 24,
+    "attachmentsslots": 5,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "AK74_Black",
+    "sub_category": "weapons_rifle",
+    "slotSize": 24,
+    "attachmentsslots": 5,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "AK74_Green",
+    "sub_category": "weapons_rifle",
+    "slotSize": 24,
+    "attachmentsslots": 5,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "AK74_Hndgrd",
+    "sub_category": "weaponParts",
+    "slotSize": 2,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "AK74_Hndgrd_Black",
+    "sub_category": "weaponParts",
+    "slotSize": 2,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "AK74_Hndgrd_Camo",
+    "sub_category": "weaponParts",
+    "slotSize": 2,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "AK74_WoodBttstck",
+    "sub_category": "weaponParts",
+    "slotSize": 2,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "AK74_WoodBttstck_Black",
+    "sub_category": "weaponParts",
+    "slotSize": 2,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "AK74_WoodBttstck_Camo",
+    "sub_category": "weaponParts",
+    "slotSize": 2,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
     "itemName": "AK_Bayonet",
     "sub_category": "weaponParts",
     "slotSize": 3,
@@ -190,114 +298,6 @@
   },
   {
     "itemName": "AK_WoodHndgrd_Camo",
-    "sub_category": "weaponParts",
-    "slotSize": 2,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "AK101",
-    "sub_category": "weapons_rifle",
-    "slotSize": 24,
-    "attachmentsslots": 5,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "AK101_Black",
-    "sub_category": "weapons_rifle",
-    "slotSize": 24,
-    "attachmentsslots": 5,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "AK101_Green",
-    "sub_category": "weapons_rifle",
-    "slotSize": 24,
-    "attachmentsslots": 5,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "AK74",
-    "sub_category": "weapons_rifle",
-    "slotSize": 24,
-    "attachmentsslots": 5,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "AK74_Black",
-    "sub_category": "weapons_rifle",
-    "slotSize": 24,
-    "attachmentsslots": 5,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "AK74_Green",
-    "sub_category": "weapons_rifle",
-    "slotSize": 24,
-    "attachmentsslots": 5,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "AK74_Hndgrd",
-    "sub_category": "weaponParts",
-    "slotSize": 2,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "AK74_Hndgrd_Black",
-    "sub_category": "weaponParts",
-    "slotSize": 2,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "AK74_Hndgrd_Camo",
-    "sub_category": "weaponParts",
-    "slotSize": 2,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "AK74_WoodBttstck",
-    "sub_category": "weaponParts",
-    "slotSize": 2,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "AK74_WoodBttstck_Black",
-    "sub_category": "weaponParts",
-    "slotSize": 2,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "AK74_WoodBttstck_Camo",
     "sub_category": "weaponParts",
     "slotSize": 2,
     "attachmentsslots": 0,
@@ -4249,6 +4249,15 @@
   },
   {
     "itemName": "BrassKnuckles_Dull",
+    "sub_category": "tools_melee",
+    "slotSize": 2,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "BrassKnuckles_MenAtArms",
     "sub_category": "tools_melee",
     "slotSize": 2,
     "attachmentsslots": 0,
@@ -8901,6 +8910,15 @@
     "rotation_preset2": "0.0 0.0 90.0"
   },
   {
+    "itemName": "HoloOptic",
+    "sub_category": "weaponOptics",
+    "slotSize": 3,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
     "itemName": "Honey",
     "sub_category": "food",
     "slotSize": 4,
@@ -9810,6 +9828,15 @@
     "rotation_preset2": "180.0 0.0 0.0"
   },
   {
+    "itemName": "Land_Wreck_Offroad02_Aban1_TK_DE",
+    "sub_category": "StaticObject",
+    "slotSize": 1000,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 0.0 0.0"
+  },
+  {
     "itemName": "Land_Wreck_offroad02_aban2_DE",
     "sub_category": "StaticObject",
     "slotSize": 1000,
@@ -9817,6 +9844,24 @@
     "cargo_capacity": 0,
     "rotation_preset": "0.0 0.0 0.0",
     "rotation_preset2": "180.0 0.0 0.0"
+  },
+  {
+    "itemName": "Land_Wreck_Offroad02_Aban2_TK_DE",
+    "sub_category": "StaticObject",
+    "slotSize": 1000,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 0.0 0.0"
+  },
+  {
+    "itemName": "Land_Wreck_Offroad02_Medic_TK_DE",
+    "sub_category": "StaticObject",
+    "slotSize": 1000,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 0.0 0.0"
   },
   {
     "itemName": "Land_Wreck_S1023_Medic_Beige_DE",
@@ -11052,15 +11097,6 @@
     "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
-    "itemName": "Mag_AKM_Drum_TEST",
-    "sub_category": "weapons_mag_rifle",
-    "slotSize": 9,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
     "itemName": "Mag_AKM_Drum75Rnd",
     "sub_category": "weapons_mag_rifle",
     "slotSize": 9,
@@ -11080,6 +11116,15 @@
   },
   {
     "itemName": "Mag_AKM_Drum75Rnd_Green",
+    "sub_category": "weapons_mag_rifle",
+    "slotSize": 9,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "Mag_AKM_Drum_TEST",
     "sub_category": "weapons_mag_rifle",
     "slotSize": 9,
     "attachmentsslots": 0,
@@ -11442,6 +11487,24 @@
     "itemName": "Mag_Saiga_Drum20Rnd",
     "sub_category": "weapons_mag_rifle",
     "slotSize": 4,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "Mag_SCARH_20Rnd",
+    "sub_category": "weapons_mag_rifle",
+    "slotSize": 3,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "Mag_SCARH_20Rnd_Black",
+    "sub_category": "weapons_mag_rifle",
+    "slotSize": 3,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
     "rotation_preset": "0.0 90.0 0.0",
@@ -11916,6 +11979,33 @@
     "rotation_preset2": "0.0 0.0 90.0"
   },
   {
+    "itemName": "MilitaryCap_BDU",
+    "sub_category": "clothes_head",
+    "slotSize": 3,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "MilitaryCap_Desert",
+    "sub_category": "clothes_head",
+    "slotSize": 3,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "MilitaryCap_Woodland",
+    "sub_category": "clothes_head",
+    "slotSize": 3,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
     "itemName": "MilitarySweater_Chernarus",
     "sub_category": "clothes_top",
     "slotSize": 6,
@@ -12123,18 +12213,27 @@
     "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
-    "itemName": "Mosin_Bayonet",
-    "sub_category": "weaponParts",
-    "slotSize": 4,
+    "itemName": "MorseCodeLeaflet_Blood",
+    "sub_category": "tools_special",
+    "slotSize": 2,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
     "rotation_preset": "0.0 90.0 0.0",
     "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
-    "itemName": "Mosin_Compensator",
-    "sub_category": "weaponParts",
-    "slotSize": 1,
+    "itemName": "MorseCodeLeaflet_Coffee",
+    "sub_category": "tools_special",
+    "slotSize": 2,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "MorseCodeLeaflet_Fire",
+    "sub_category": "tools_special",
+    "slotSize": 2,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
     "rotation_preset": "0.0 90.0 0.0",
@@ -12171,6 +12270,24 @@
     "itemName": "Mosin9130_Green",
     "sub_category": "weapons_rifle",
     "slotSize": 27,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "Mosin_Bayonet",
+    "sub_category": "weaponParts",
+    "slotSize": 4,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "Mosin_Compensator",
+    "sub_category": "weaponParts",
+    "slotSize": 1,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
     "rotation_preset": "0.0 90.0 0.0",
@@ -13401,6 +13518,15 @@
     "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
+    "itemName": "PlateCarrierHolster_Desert",
+    "sub_category": "clothes_vest_holsters_pouches",
+    "slotSize": 6,
+    "attachmentsslots": 1,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
     "itemName": "PlateCarrierHolster_Green",
     "sub_category": "clothes_vest_holsters_pouches",
     "slotSize": 6,
@@ -13438,6 +13564,15 @@
   },
   {
     "itemName": "PlateCarrierPouches_Camo",
+    "sub_category": "clothes_vest_holsters_pouches",
+    "slotSize": 15,
+    "attachmentsslots": 0,
+    "cargo_capacity": 15,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "PlateCarrierPouches_Desert",
     "sub_category": "clothes_vest_holsters_pouches",
     "slotSize": 15,
     "attachmentsslots": 0,
@@ -13489,6 +13624,15 @@
     "cargo_capacity": 0,
     "rotation_preset": "0.0 0.0 0.0",
     "rotation_preset2": "0.0 180.0 0.0"
+  },
+  {
+    "itemName": "PlateCarrierVest_Desert",
+    "sub_category": "clothes_vest",
+    "slotSize": 25,
+    "attachmentsslots": 6,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
     "itemName": "PlateCarrierVest_Green",
@@ -14448,6 +14592,60 @@
     "itemName": "SawedoffMosin9130_Green",
     "sub_category": "weapons_sawedoff",
     "slotSize": 10,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "SCAR_PrecisionBttstck",
+    "sub_category": "weaponParts",
+    "slotSize": 3,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "SCAR_PrecisionBttstck_Black",
+    "sub_category": "weaponParts",
+    "slotSize": 3,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "SCAR_StockBttstck",
+    "sub_category": "weaponParts",
+    "slotSize": 3,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "SCAR_StockBttstck_Black",
+    "sub_category": "weaponParts",
+    "slotSize": 3,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "SCARH",
+    "sub_category": "weapons_rifle",
+    "slotSize": 24,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "SCARH_Black",
+    "sub_category": "weapons_rifle",
+    "slotSize": 24,
     "attachmentsslots": 0,
     "cargo_capacity": 0,
     "rotation_preset": "0.0 90.0 0.0",
@@ -16002,6 +16200,24 @@
     "rotation_preset2": "180.0 0.0 0.0"
   },
   {
+    "itemName": "StaticObj_Wreck_MTVR_Cargo_DE",
+    "sub_category": "StaticObject",
+    "slotSize": 1000,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 0.0 0.0"
+  },
+  {
+    "itemName": "StaticObj_Wreck_Stryker_DE",
+    "sub_category": "StaticObject",
+    "slotSize": 1000,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 0.0 0.0"
+  },
+  {
     "itemName": "StaticObj_Wreck_T72_Chassis_DE",
     "sub_category": "StaticObject",
     "slotSize": 1000,
@@ -16308,6 +16524,24 @@
     "rotation_preset2": "0.0 0.0 90.0"
   },
   {
+    "itemName": "T56TankerHelmet_Olive",
+    "sub_category": "clothes_head",
+    "slotSize": 12,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "T56TankerHelmet_Tan",
+    "sub_category": "clothes_head",
+    "slotSize": 12,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
     "itemName": "TacticalBaconCan",
     "sub_category": "food",
     "slotSize": 4,
@@ -16585,6 +16819,15 @@
     "cargo_capacity": 56,
     "rotation_preset": "0.0 -90.0 0.0",
     "rotation_preset2": "0.0 90.0 0.0"
+  },
+  {
+    "itemName": "TortillaBag_Desert",
+    "sub_category": "containers_bag",
+    "slotSize": 30,
+    "attachmentsslots": 3,
+    "cargo_capacity": 56,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
   },
   {
     "itemName": "TortillaBag_Winter",
@@ -18036,6 +18279,15 @@
     "rotation_preset2": "0.0 180.0 0.0"
   },
   {
+    "itemName": "Worm",
+    "sub_category": "emptycategory",
+    "slotSize": 1,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 90.0 0.0",
+    "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
     "itemName": "Wreck_Mi8_Crashed",
     "sub_category": "StaticObject",
     "slotSize": 1000,
@@ -18628,6 +18880,24 @@
     "cargo_capacity": 12,
     "rotation_preset": "0.0 90.0 0.0",
     "rotation_preset2": "0.0 -90.0 0.0"
+  },
+  {
+    "itemName": "ZmbF_usSoldier_Heavy_Desert",
+    "sub_category": "emptycategory",
+    "slotSize": 1000,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 0.0 0.0"
+  },
+  {
+    "itemName": "ZmbF_usSoldier_normal_Desert",
+    "sub_category": "emptycategory",
+    "slotSize": 1000,
+    "attachmentsslots": 0,
+    "cargo_capacity": 0,
+    "rotation_preset": "0.0 0.0 0.0",
+    "rotation_preset2": "0.0 0.0 0.0"
   },
   {
     "itemName": "ZmbF_VillagerOld_Blue",
@@ -19762,275 +20032,5 @@
     "cargo_capacity": 0,
     "rotation_preset": "0.0 90.0 0.0",
     "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "BrassKnuckles_MenAtArms",
-    "sub_category": "tools_melee",
-    "slotSize": 2,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "HoloOptic",
-    "sub_category": "weaponOptics",
-    "slotSize": 3,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "Land_Wreck_Offroad02_Aban1_TK_DE",
-    "sub_category": "StaticObject",
-    "slotSize": 1000,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 0.0 0.0"
-  },
-  {
-    "itemName": "Land_Wreck_Offroad02_Aban2_TK_DE",
-    "sub_category": "StaticObject",
-    "slotSize": 1000,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 0.0 0.0"
-  },
-  {
-    "itemName": "Land_Wreck_Offroad02_Medic_TK_DE",
-    "sub_category": "StaticObject",
-    "slotSize": 1000,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 0.0 0.0"
-  },
-  {
-    "itemName": "Mag_SCARH_20Rnd",
-    "sub_category": "weapons_mag_rifle",
-    "slotSize": 3,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "Mag_SCARH_20Rnd_Black",
-    "sub_category": "weapons_mag_rifle",
-    "slotSize": 3,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "MilitaryCap_BDU",
-    "sub_category": "clothes_head",
-    "slotSize": 3,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "MilitaryCap_Desert",
-    "sub_category": "clothes_head",
-    "slotSize": 3,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "MilitaryCap_Woodland",
-    "sub_category": "clothes_head",
-    "slotSize": 3,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "MorseCodeLeaflet_Blood",
-    "sub_category": "tools_special",
-    "slotSize": 2,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "MorseCodeLeaflet_Coffee",
-    "sub_category": "tools_special",
-    "slotSize": 2,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "MorseCodeLeaflet_Fire",
-    "sub_category": "tools_special",
-    "slotSize": 2,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "PlateCarrierHolster_Desert",
-    "sub_category": "clothes_vest_holsters_pouches",
-    "slotSize": 6,
-    "attachmentsslots": 1,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "PlateCarrierPouches_Desert",
-    "sub_category": "clothes_vest_holsters_pouches",
-    "slotSize": 15,
-    "attachmentsslots": 0,
-    "cargo_capacity": 15,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "PlateCarrierVest_Desert",
-    "sub_category": "clothes_vest",
-    "slotSize": 25,
-    "attachmentsslots": 6,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "SCARH",
-    "sub_category": "weapons_rifle",
-    "slotSize": 24,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "SCARH_Black",
-    "sub_category": "weapons_rifle",
-    "slotSize": 24,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "SCAR_PrecisionBttstck",
-    "sub_category": "weaponParts",
-    "slotSize": 3,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "SCAR_PrecisionBttstck_Black",
-    "sub_category": "weaponParts",
-    "slotSize": 3,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "SCAR_StockBttstck",
-    "sub_category": "weaponParts",
-    "slotSize": 3,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "SCAR_StockBttstck_Black",
-    "sub_category": "weaponParts",
-    "slotSize": 3,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "StaticObj_Wreck_MTVR_Cargo_DE",
-    "sub_category": "StaticObject",
-    "slotSize": 1000,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 0.0 0.0"
-  },
-  {
-    "itemName": "StaticObj_Wreck_Stryker_DE",
-    "sub_category": "StaticObject",
-    "slotSize": 1000,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 0.0 0.0"
-  },
-  {
-    "itemName": "T56TankerHelmet_Olive",
-    "sub_category": "clothes_head",
-    "slotSize": 12,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "T56TankerHelmet_Tan",
-    "sub_category": "clothes_head",
-    "slotSize": 12,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "TortillaBag_Desert",
-    "sub_category": "containers_bag",
-    "slotSize": 30,
-    "attachmentsslots": 3,
-    "cargo_capacity": 56,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "Worm",
-    "sub_category": "emptycategory",
-    "slotSize": 1,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 90.0 0.0",
-    "rotation_preset2": "0.0 -90.0 0.0"
-  },
-  {
-    "itemName": "ZmbF_usSoldier_Heavy_Desert",
-    "sub_category": "emptycategory",
-    "slotSize": 1000,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 0.0 0.0"
-  },
-  {
-    "itemName": "ZmbF_usSoldier_normal_Desert",
-    "sub_category": "emptycategory",
-    "slotSize": 1000,
-    "attachmentsslots": 0,
-    "cargo_capacity": 0,
-    "rotation_preset": "0.0 0.0 0.0",
-    "rotation_preset2": "0.0 0.0 0.0"
   }
 ]
