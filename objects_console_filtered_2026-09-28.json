@@ -5438,24 +5438,6 @@
     "imageUrl": "https://samsobjectfinder.com/images/characters/shoes/athleticshoes_grey/athleticshoes_grey.jpg"
   },
   {
-    "objectName": "AtlasBipod",
-    "inGameName": "ATLAS Bipod",
-    "category": "weapons",
-    "modelType": "Config",
-    "path": "dz/weapons/attachments/support",
-    "usableOnConsole": true,
-    "searchTags": "not_enabled",
-    "image": "images/weapons/attachments/support/atlasbipod/atlasbipod.jpg",
-    "id": "dzobj_dkw50ba6ys",
-    "linked-p3d": "dzobj_t1y6kjz4h8",
-    "dimensionsVisual": [
-      0.044769268948584795,
-      0.18604198284447193,
-      0.07211359962821007
-    ],
-    "imageUrl": "https://samsobjectfinder.com/images/weapons/attachments/support/atlasbipod/atlasbipod.jpg"
-  },
-  {
     "objectName": "Attack_flashlight_Heavy2",
     "inGameName": "Raycast Scanner",
     "category": "gear",
@@ -5556,27 +5538,6 @@
       2.000645875930786
     ],
     "imageUrl": "https://samsobjectfinder.com/images/weapons/firearms/aug/aug/aug.jpg"
-  },
-  {
-    "objectName": "Aug_Barrel",
-    "inGameName": "Aug Steyr Barrel",
-    "category": "weapons",
-    "modelType": "Config",
-    "path": "dz/weapons/attachments/muzzle",
-    "usableOnConsole": true,
-    "searchTags": "not_enabled, AUG, AUR_AX, AUR_A1",
-    "image": "images/weapons/attachments/muzzle/aug_barrel/aug_barrel.jpg",
-    "id": "dzobj_9fdam0pdru",
-    "linked-variant": [
-      "dzobj_x5ols7p4n0"
-    ],
-    "linked-p3d": "dzobj_bw9xz2id4q",
-    "dimensionsVisual": [
-      0.03990896791219711,
-      0.14894545078277588,
-      0.03803820163011551
-    ],
-    "imageUrl": "https://samsobjectfinder.com/images/weapons/attachments/muzzle/aug_barrel/aug_barrel.jpg"
   },
   {
     "objectName": "AugShort",
@@ -23404,24 +23365,6 @@
     "imageUrl": "https://samsobjectfinder.com/images/weapons/firearms/ots14/grozagl_lowerreceiver/grozagl_lowerreceiver.jpg"
   },
   {
-    "objectName": "GrozaOptic",
-    "inGameName": "PO4x34 Scope",
-    "category": "weapons",
-    "modelType": "Config",
-    "path": "dz/weapons/attachments/optics",
-    "usableOnConsole": true,
-    "searchTags": "not_enabled",
-    "image": "images/weapons/attachments/optics/grozaoptic/grozaoptic.jpg",
-    "id": "dzobj_wf9jj1b6v6",
-    "linked-p3d": "dzobj_e5ilnadytk",
-    "dimensionsVisual": [
-      0.06773598864674568,
-      0.2888867110013962,
-      0.050515495240688324
-    ],
-    "imageUrl": "https://samsobjectfinder.com/images/weapons/attachments/optics/grozaoptic/grozaoptic.jpg"
-  },
-  {
     "objectName": "GulagJacket_Grey",
     "inGameName": "Heavy Labor Jacket",
     "category": "characters",
@@ -33753,42 +33696,6 @@
       16.08533000946045
     ],
     "imageUrl": "https://samsobjectfinder.com/images/structures/military/houses/land_mil_barracks6.jpg"
-  },
-  {
-    "objectName": "Land_Mil_Barracks6_Ghost1",
-    "inGameName": "-",
-    "category": "structures",
-    "modelType": "Config",
-    "path": "dz/structures/military/houses",
-    "usableOnConsole": true,
-    "searchTags": "not_enabled",
-    "image": "images/structures/military/houses/land_mil_barracks6_ghost1.jpg",
-    "id": "dzobj_9nswddfspl",
-    "linked-p3d": "dzobj_i467q9qfvn",
-    "dimensionsVisual": [
-      0.35000038146972656,
-      4.0035706758499146,
-      2
-    ],
-    "imageUrl": "https://samsobjectfinder.com/images/structures/military/houses/land_mil_barracks6_ghost1.jpg"
-  },
-  {
-    "objectName": "Land_Mil_Barracks6_Ghost2",
-    "inGameName": "-",
-    "category": "structures",
-    "modelType": "Config",
-    "path": "dz/structures/military/houses",
-    "usableOnConsole": true,
-    "searchTags": "not_enabled",
-    "image": "images/structures/military/houses/land_mil_barracks6_ghost2.jpg",
-    "id": "dzobj_77r6uukxcw",
-    "linked-p3d": "dzobj_088b0xofqc",
-    "dimensionsVisual": [
-      0.35000038146972656,
-      4.0035706758499146,
-      2
-    ],
-    "imageUrl": "https://samsobjectfinder.com/images/structures/military/houses/land_mil_barracks6_ghost2.jpg"
   },
   {
     "objectName": "Land_Mil_Barracks6_Old",
@@ -44160,24 +44067,6 @@
     "imageUrl": "https://samsobjectfinder.com/images/weapons/pistols/longhorn/longhorn/longhorn.jpg"
   },
   {
-    "objectName": "LongrangeOptic",
-    "inGameName": "Long Range Scope",
-    "category": "weapons",
-    "modelType": "Config",
-    "path": "dz/weapons/attachments/optics",
-    "usableOnConsole": true,
-    "searchTags": "not_enabled",
-    "image": "images/weapons/attachments/optics/longrangeoptic/longrangeoptic.jpg",
-    "id": "dzobj_0kh8mw5uin",
-    "linked-p3d": "dzobj_5ioq01s1pz",
-    "dimensionsVisual": [
-      0.09187970263883471,
-      0.3521164134144783,
-      0.09978301078081131
-    ],
-    "imageUrl": "https://samsobjectfinder.com/images/weapons/attachments/optics/longrangeoptic/longrangeoptic.jpg"
-  },
-  {
     "objectName": "LongTorch",
     "inGameName": "Long Torch",
     "category": "gear",
@@ -44487,24 +44376,6 @@
       0.05335886403918266
     ],
     "imageUrl": "https://samsobjectfinder.com/images/weapons/attachments/support/m249_bipod/m249_bipod.jpg"
-  },
-  {
-    "objectName": "M249_Hndgrd",
-    "inGameName": "M249 handguard",
-    "category": "weapons",
-    "modelType": "Config",
-    "path": "dz/weapons/attachments/support",
-    "usableOnConsole": true,
-    "searchTags": "not_enabled",
-    "image": "images/weapons/attachments/support/m249_hndgrd/m249_hndgrd.jpg",
-    "id": "dzobj_wf0424hi4o",
-    "linked-p3d": "dzobj_xgyeotd89u",
-    "dimensionsVisual": [
-      0.07776486501097679,
-      0.1948489546775818,
-      0.0734776146709919
-    ],
-    "imageUrl": "https://samsobjectfinder.com/images/weapons/attachments/support/m249_hndgrd/m249_hndgrd.jpg"
   },
   {
     "objectName": "M249_RisHndgrd",
@@ -45043,23 +44914,6 @@
     "imageUrl": "https://samsobjectfinder.com/images/gear/food/macrolepiotamushroom/macrolepiotamushroom.jpg"
   },
   {
-    "objectName": "Mag_12gaSnaploader_2Rnd",
-    "inGameName": "12ga Snap Loader",
-    "category": "weapons",
-    "modelType": "Config",
-    "path": "dz/weapons/attachments/magazine",
-    "usableOnConsole": true,
-    "searchTags": "not_enabled, shotgun, bk-43, b-12, buckshot, slugs",
-    "image": "images/weapons/attachments/magazine/mag_12gasnaploader_2rnd/mag_12gasnaploader_2rnd.jpg",
-    "id": "dzobj_7fukb32zkf",
-    "dimensionsVisual": [
-      0.1187683716416359,
-      0.051749423146247864,
-      0.024104381911456585
-    ],
-    "imageUrl": "https://samsobjectfinder.com/images/weapons/attachments/magazine/mag_12gasnaploader_2rnd/mag_12gasnaploader_2rnd.jpg"
-  },
-  {
     "objectName": "Mag_1911_7Rnd",
     "inGameName": "7rd Kolt 1911 Mag",
     "category": "weapons",
@@ -45075,57 +44929,6 @@
       0.014072752557694912
     ],
     "imageUrl": "https://samsobjectfinder.com/images/weapons/attachments/magazine/mag_1911_7rnd/mag_1911_7rnd.jpg"
-  },
-  {
-    "objectName": "Mag_308WinSnaploader_2Rnd",
-    "inGameName": "B95 Snaploader",
-    "category": "weapons",
-    "modelType": "Config",
-    "path": "dz/weapons/attachments/magazine",
-    "usableOnConsole": true,
-    "searchTags": "not_enabled, m70_tundra, winchester, rifles, .308",
-    "image": "images/weapons/attachments/magazine/mag_308winsnaploader_2rnd/mag_308winsnaploader_2rnd.jpg",
-    "id": "dzobj_mwsjhc79d4",
-    "dimensionsVisual": [
-      0.03173013776540756,
-      0.08344634994864464,
-      0.017383780796080828
-    ],
-    "imageUrl": "https://samsobjectfinder.com/images/weapons/attachments/magazine/mag_308winsnaploader_2rnd/mag_308winsnaploader_2rnd.jpg"
-  },
-  {
-    "objectName": "Mag_357Speedloader_6Rnd",
-    "inGameName": ".357 Speedloader",
-    "category": "weapons",
-    "modelType": "Config",
-    "path": "dz/weapons/attachments/magazine",
-    "usableOnConsole": true,
-    "searchTags": "not_enabled, deagle, magnum, pistols, colt, .357",
-    "image": "images/weapons/attachments/magazine/mag_357speedloader_6rnd/mag_357speedloader_6rnd.jpg",
-    "id": "dzobj_dij8188212",
-    "dimensionsVisual": [
-      0.0627674087882042,
-      0.037718866020441055,
-      0.03771890699863434
-    ],
-    "imageUrl": "https://samsobjectfinder.com/images/weapons/attachments/magazine/mag_357speedloader_6rnd/mag_357speedloader_6rnd.jpg"
-  },
-  {
-    "objectName": "Mag_762x54Snaploader_2Rnd",
-    "inGameName": "Snaploader",
-    "category": "weapons",
-    "modelType": "Config",
-    "path": "dz/weapons/attachments/magazine",
-    "usableOnConsole": true,
-    "searchTags": "not_enabled, mosin, rifles, 7.62x54mmr",
-    "image": "images/weapons/attachments/magazine/mag_762x54snaploader_2rnd/mag_762x54snaploader_2rnd.jpg",
-    "id": "dzobj_0sp8nssc1s",
-    "dimensionsVisual": [
-      2.5,
-      2.5,
-      2.5
-    ],
-    "imageUrl": "https://samsobjectfinder.com/images/weapons/attachments/magazine/mag_762x54snaploader_2rnd/mag_762x54snaploader_2rnd.jpg"
   },
   {
     "objectName": "Mag_AK101_30Rnd",
@@ -45247,23 +45050,6 @@
     "imageUrl": "https://samsobjectfinder.com/images/weapons/attachments/magazine/mag_akm_palm30rnd/mag_akm_palm30rnd.jpg"
   },
   {
-    "objectName": "Mag_Arrows_Quiver",
-    "inGameName": "Arrows Quiver",
-    "category": "weapons",
-    "modelType": "Config",
-    "path": "dz/weapons/attachments/magazine",
-    "usableOnConsole": true,
-    "searchTags": "not_enabled",
-    "image": "images/weapons/attachments/magazine/mag_arrows_quiver/mag_arrows_quiver.jpg",
-    "id": "dzobj_9hdkyq991c",
-    "dimensionsVisual": [
-      2.5,
-      2.5,
-      2.5
-    ],
-    "imageUrl": "https://samsobjectfinder.com/images/weapons/attachments/magazine/mag_arrows_quiver/mag_arrows_quiver.jpg"
-  },
-  {
     "objectName": "Mag_Aug_30Rnd",
     "inGameName": "30rd AUR Mag",
     "category": "weapons",
@@ -45279,74 +45065,6 @@
       0.035092974081635475
     ],
     "imageUrl": "https://samsobjectfinder.com/images/weapons/attachments/magazine/mag_aug_30rnd/mag_aug_30rnd.jpg"
-  },
-  {
-    "objectName": "Mag_Bolts_Quiver",
-    "inGameName": "Bolts Quiver",
-    "category": "weapons",
-    "modelType": "Config",
-    "path": "dz/weapons/attachments/magazine",
-    "usableOnConsole": true,
-    "searchTags": "not_enabled",
-    "image": "images/weapons/attachments/magazine/mag_bolts_quiver/mag_bolts_quiver.jpg",
-    "id": "dzobj_twl9xpnjdg",
-    "dimensionsVisual": [
-      0.2918274253606796,
-      0.4702902138233185,
-      0.14240940660238266
-    ],
-    "imageUrl": "https://samsobjectfinder.com/images/weapons/attachments/magazine/mag_bolts_quiver/mag_bolts_quiver.jpg"
-  },
-  {
-    "objectName": "Mag_CLIP762x39_10Rnd",
-    "inGameName": "10rd SK 59/66 Clip",
-    "category": "weapons",
-    "modelType": "Config",
-    "path": "dz/weapons/attachments/magazine",
-    "usableOnConsole": true,
-    "searchTags": "not_enabled, sks, rifles, 7.62x39",
-    "image": "images/weapons/attachments/magazine/mag_clip762x39_10rnd/mag_clip762x39_10rnd.jpg",
-    "id": "dzobj_t8ygh73v7w",
-    "dimensionsVisual": [
-      0.06328410282731056,
-      0.13041991740465164,
-      0.016214530915021896
-    ],
-    "imageUrl": "https://samsobjectfinder.com/images/weapons/attachments/magazine/mag_clip762x39_10rnd/mag_clip762x39_10rnd.jpg"
-  },
-  {
-    "objectName": "Mag_CLIP762x54_5Rnd",
-    "inGameName": "5rd Mosin 91/30 Clip",
-    "category": "weapons",
-    "modelType": "Config",
-    "path": "dz/weapons/attachments/magazine",
-    "usableOnConsole": true,
-    "searchTags": "not_enabled, miosin, rifles, 7.62x54mmr",
-    "image": "images/weapons/attachments/magazine/mag_clip762x54_5rnd/mag_clip762x54_5rnd.jpg",
-    "id": "dzobj_xwsxszlf9g",
-    "dimensionsVisual": [
-      0.06723270937800407,
-      0.0643727034330368,
-      0.013621830847114325
-    ],
-    "imageUrl": "https://samsobjectfinder.com/images/weapons/attachments/magazine/mag_clip762x54_5rnd/mag_clip762x54_5rnd.jpg"
-  },
-  {
-    "objectName": "Mag_CLIP9x19_10Rnd",
-    "inGameName": "10 Round Clip",
-    "category": "weapons",
-    "modelType": "Config",
-    "path": "dz/weapons/attachments/magazine",
-    "usableOnConsole": true,
-    "searchTags": "not_enabled",
-    "image": "images/weapons/attachments/magazine/mag_clip9x19_10rnd/mag_clip9x19_10rnd.jpg",
-    "id": "dzobj_y5899w45vu",
-    "dimensionsVisual": [
-      0.03232919704169035,
-      0.09457811713218689,
-      0.01550985686480999
-    ],
-    "imageUrl": "https://samsobjectfinder.com/images/weapons/attachments/magazine/mag_clip9x19_10rnd/mag_clip9x19_10rnd.jpg"
   },
   {
     "objectName": "Mag_CMAG_10Rnd",
@@ -45451,23 +45169,6 @@
     "imageUrl": "https://samsobjectfinder.com/images/weapons/attachments/magazine/mag_cz550_10rnd/mag_cz550_10rnd.jpg"
   },
   {
-    "objectName": "Mag_CZ550_4rnd",
-    "inGameName": "STR_CfgMagazines_Mag_CZ550_4rnd0",
-    "category": "weapons",
-    "modelType": "Config",
-    "path": "dz/weapons/attachments/magazine",
-    "usableOnConsole": true,
-    "searchTags": "not_enabled, savanna, cr-550, rifles, .308",
-    "image": "images/weapons/attachments/magazine/mag_cz550_4rnd/mag_cz550_4rnd.jpg",
-    "id": "dzobj_ch6g491mic",
-    "dimensionsVisual": [
-      0.10209060087800026,
-      0.05963670928031206,
-      0.029715202748775482
-    ],
-    "imageUrl": "https://samsobjectfinder.com/images/weapons/attachments/magazine/mag_cz550_4rnd/mag_cz550_4rnd.jpg"
-  },
-  {
     "objectName": "Mag_CZ61_20Rnd",
     "inGameName": "20rd CR-61 Mag",
     "category": "weapons",
@@ -45500,23 +45201,6 @@
       0.022680952213704586
     ],
     "imageUrl": "https://samsobjectfinder.com/images/weapons/attachments/magazine/mag_cz75_15rnd/mag_cz75_15rnd.jpg"
-  },
-  {
-    "objectName": "Mag_Dartgun_CO2",
-    "inGameName": "CO2",
-    "category": "weapons",
-    "modelType": "Config",
-    "path": "dz/weapons/attachments/magazine",
-    "usableOnConsole": true,
-    "searchTags": "not_enabled",
-    "image": "images/weapons/attachments/magazine/mag_dartgun_co2/mag_dartgun_co2.jpg",
-    "id": "dzobj_8nuy8q8xe2",
-    "dimensionsVisual": [
-      0.025211787782609463,
-      0.092744130641222,
-      0.025550049729645252
-    ],
-    "imageUrl": "https://samsobjectfinder.com/images/weapons/attachments/magazine/mag_dartgun_co2/mag_dartgun_co2.jpg"
   },
   {
     "objectName": "Mag_Deagle_9rnd",
@@ -45604,23 +45288,6 @@
     "imageUrl": "https://samsobjectfinder.com/images/weapons/attachments/magazine/mag_glock_15rnd/mag_glock_15rnd.jpg"
   },
   {
-    "objectName": "Mag_Groza_20Rnd",
-    "inGameName": "20Rnd Groza-4 Mag",
-    "category": "weapons",
-    "modelType": "Config",
-    "path": "dz/weapons/attachments/magazine",
-    "usableOnConsole": true,
-    "searchTags": "not_enabled, groza-4, machine_gun, automatic, 9x39",
-    "image": "images/weapons/attachments/magazine/mag_groza_20rnd/mag_groza_20rnd.jpg",
-    "id": "dzobj_gywnft8a8m",
-    "dimensionsVisual": [
-      2.5,
-      2.5,
-      2.5
-    ],
-    "imageUrl": "https://samsobjectfinder.com/images/weapons/attachments/magazine/mag_groza_20rnd/mag_groza_20rnd.jpg"
-  },
-  {
     "objectName": "Mag_IJ70_8Rnd",
     "inGameName": "12rd IJ-70 Mag",
     "category": "weapons",
@@ -45670,40 +45337,6 @@
       0.02555639948695898
     ],
     "imageUrl": "https://samsobjectfinder.com/images/weapons/attachments/magazine/mag_m14_20rnd/mag_m14_20rnd.jpg"
-  },
-  {
-    "objectName": "Mag_M249_Box200Rnd",
-    "inGameName": "200Rnd M249 box",
-    "category": "weapons",
-    "modelType": "Config",
-    "path": "dz/weapons/attachments/magazine",
-    "usableOnConsole": true,
-    "searchTags": "not_enabled, machine_gun, automatic",
-    "image": "images/weapons/attachments/magazine/mag_m249_box200rnd/mag_m249_box200rnd.jpg",
-    "id": "dzobj_hfriz9ik5z",
-    "dimensionsVisual": [
-      0.07081711990758777,
-      0.16023582872003317,
-      0.20789765566587448
-    ],
-    "imageUrl": "https://samsobjectfinder.com/images/weapons/attachments/magazine/mag_m249_box200rnd/mag_m249_box200rnd.jpg"
-  },
-  {
-    "objectName": "Mag_MakarovPB_8Rnd",
-    "inGameName": "Makarov PB6P9 magazine",
-    "category": "weapons",
-    "modelType": "Config",
-    "path": "dz/weapons/attachments/magazine",
-    "usableOnConsole": true,
-    "searchTags": "not_enabled, makarov, pistols, .380acp",
-    "image": "images/weapons/attachments/magazine/mag_makarovpb_8rnd/mag_makarovpb_8rnd.jpg",
-    "id": "dzobj_vi41bmlp6t",
-    "dimensionsVisual": [
-      0.04198720306158066,
-      0.10745270922780037,
-      0.01586130913347006
-    ],
-    "imageUrl": "https://samsobjectfinder.com/images/weapons/attachments/magazine/mag_makarovpb_8rnd/mag_makarovpb_8rnd.jpg"
   },
   {
     "objectName": "Mag_MKII_10Rnd",
@@ -45978,23 +45611,6 @@
     "imageUrl": "https://samsobjectfinder.com/images/weapons/attachments/magazine/mag_scout_5rnd/mag_scout_5rnd.jpg"
   },
   {
-    "objectName": "Mag_ShockCartridge",
-    "inGameName": "Shock Pistol Cartridge",
-    "category": "weapons",
-    "modelType": "Config",
-    "path": "dz/weapons/attachments/magazine",
-    "usableOnConsole": true,
-    "searchTags": "not_enabled",
-    "image": "images/weapons/attachments/magazine/mag_shockcartridge/mag_shockcartridge.jpg",
-    "id": "dzobj_d6hw146xke",
-    "dimensionsVisual": [
-      0.06524310447275639,
-      0.07248761504888535,
-      0.0134861059486866
-    ],
-    "imageUrl": "https://samsobjectfinder.com/images/weapons/attachments/magazine/mag_shockcartridge/mag_shockcartridge.jpg"
-  },
-  {
     "objectName": "Mag_SSG82_5rnd",
     "inGameName": "5rd SSG 82 Mag",
     "category": "weapons",
@@ -46250,24 +45866,6 @@
       2.5
     ],
     "imageUrl": "https://samsobjectfinder.com/images/weapons/pistols/pb6p9/makarovpb/makarovpb.jpg"
-  },
-  {
-    "objectName": "MakarovPBSuppressor",
-    "inGameName": "Makarov PB6P9 Suppressor",
-    "category": "weapons",
-    "modelType": "Config",
-    "path": "dz/weapons/attachments/muzzle",
-    "usableOnConsole": true,
-    "searchTags": "not_enabled, silenced, makarov, pistols, .380acp",
-    "image": "images/weapons/attachments/muzzle/makarovpbsuppressor/makarovpbsuppressor.jpg",
-    "id": "dzobj_adi5zkz6d4",
-    "linked-p3d": "dzobj_7nb5xjio0t",
-    "dimensionsVisual": [
-      0.03434569574892521,
-      0.1495100036263466,
-      0.03281959891319275
-    ],
-    "imageUrl": "https://samsobjectfinder.com/images/weapons/attachments/muzzle/makarovpbsuppressor/makarovpbsuppressor.jpg"
   },
   {
     "objectName": "MaleAdamHead",
@@ -53821,24 +53419,6 @@
       0.04207030311226845
     ],
     "imageUrl": "https://samsobjectfinder.com/images/weapons/archery/bow_recurve/recurvebow/recurvebow.jpg"
-  },
-  {
-    "objectName": "Red9Bttstck",
-    "inGameName": "Red 9 Buttstock",
-    "category": "weapons",
-    "modelType": "Config",
-    "path": "dz/weapons/attachments/support",
-    "usableOnConsole": true,
-    "searchTags": "not_enabled",
-    "image": "images/weapons/attachments/support/red9bttstck/red9bttstck.jpg",
-    "id": "dzobj_ky1eddbokg",
-    "linked-p3d": "dzobj_ebs07xdaw1",
-    "dimensionsVisual": [
-      0.1340608447790146,
-      0.3793752193450928,
-      0.04254794120788574
-    ],
-    "imageUrl": "https://samsobjectfinder.com/images/weapons/attachments/support/red9bttstck/red9bttstck.jpg"
   },
   {
     "objectName": "RedCaviar",
