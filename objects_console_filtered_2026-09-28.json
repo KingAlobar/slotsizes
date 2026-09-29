@@ -696,7 +696,7 @@
   },
   {
     "objectName": "AlarmClock_Blue",
-    "inGameName": "Raycast Scanner",
+    "inGameName": "Clock",
     "category": "gear",
     "modelType": "Config",
     "path": "dz/gear/tools",
@@ -710,15 +710,15 @@
     ],
     "linked-p3d": "dzobj_sl859bywnc",
     "dimensionsVisual": [
-      0.10000000521540642,
-      0.11023572087287903,
-      0.07153214327991009
+      0.1,
+      0.1102,
+      0.0715
     ],
     "imageUrl": "https://samsobjectfinder.com/images/gear/tools/alarmclock_blue/alarmclock_blue.jpg"
   },
   {
     "objectName": "AlarmClock_Green",
-    "inGameName": "Raycast Scanner",
+    "inGameName": "Clock",
     "category": "gear",
     "modelType": "Config",
     "path": "dz/gear/tools",
@@ -732,15 +732,15 @@
     ],
     "linked-p3d": "dzobj_sl859bywnc",
     "dimensionsVisual": [
-      0.10000000521540642,
-      0.11023572087287903,
-      0.07153214327991009
+      0.1,
+      0.1102,
+      0.0715
     ],
     "imageUrl": "https://samsobjectfinder.com/images/gear/tools/alarmclock_green/alarmclock_green.jpg"
   },
   {
     "objectName": "AlarmClock_Red",
-    "inGameName": "Raycast Scanner",
+    "inGameName": "Clock",
     "category": "gear",
     "modelType": "Config",
     "path": "dz/gear/tools",
@@ -754,9 +754,9 @@
     ],
     "linked-p3d": "dzobj_sl859bywnc",
     "dimensionsVisual": [
-      0.10000000521540642,
-      0.11023572087287903,
-      0.07153214327991009
+      0.1,
+      0.1102,
+      0.0715
     ],
     "imageUrl": "https://samsobjectfinder.com/images/gear/tools/alarmclock_red/alarmclock_red.jpg"
   },
@@ -899,7 +899,7 @@
   },
   {
     "objectName": "Ammo_12gaBeanbag",
-    "inGameName": "",
+    "inGameName": "Ammo_12gaBeanbag",
     "category": "weapons",
     "modelType": "Config",
     "path": "dz/weapons/ammunition",
@@ -908,9 +908,9 @@
     "image": "images/weapons/ammunition/ammo_12gabeanbag/ammo_12gabeanbag.jpg",
     "id": "dzobj_bko8iossxe",
     "dimensionsVisual": [
-      2.5,
-      2.5,
-      2.5
+      0.1,
+      0.1,
+      0.1
     ],
     "imageUrl": "https://samsobjectfinder.com/images/weapons/ammunition/ammo_12gabeanbag/ammo_12gabeanbag.jpg"
   },
@@ -993,9 +993,9 @@
     "image": "images/weapons/ammunition/ammo_308win/ammo_308win.jpg",
     "id": "dzobj_nnkvx9u37a",
     "dimensionsVisual": [
-      2.5,
-      2.5,
-      2.5
+      0.1,
+      0.1,
+      0.1
     ],
     "imageUrl": "https://samsobjectfinder.com/images/weapons/ammunition/ammo_308win/ammo_308win.jpg"
   },
@@ -1086,7 +1086,7 @@
   },
   {
     "objectName": "Ammo_40mm_Smoke_Black",
-    "inGameName": "-",
+    "inGameName": "Ammo_40mm_Smoke_Black",
     "category": "weapons",
     "modelType": "Config",
     "path": "dz/weapons/ammunition",
@@ -1095,15 +1095,15 @@
     "image": "images/weapons/ammunition/ammo_40mm_smoke_black/ammo_40mm_smoke_black.jpg",
     "id": "dzobj_tqezynkww8",
     "dimensionsVisual": [
-      2.5,
-      2.5,
-      2.5
+      0.1,
+      0.1,
+      0.1
     ],
     "imageUrl": "https://samsobjectfinder.com/images/weapons/ammunition/ammo_40mm_smoke_black/ammo_40mm_smoke_black.jpg"
   },
   {
     "objectName": "Ammo_40mm_Smoke_Green",
-    "inGameName": "-",
+    "inGameName": "Ammo_40mm_Smoke_Green",
     "category": "weapons",
     "modelType": "Config",
     "path": "dz/weapons/ammunition",
@@ -1112,15 +1112,15 @@
     "image": "images/weapons/ammunition/ammo_40mm_smoke_green/ammo_40mm_smoke_green.jpg",
     "id": "dzobj_mwr5s30zno",
     "dimensionsVisual": [
-      2.5,
-      2.5,
-      2.5
+      0.1,
+      0.1,
+      0.1
     ],
     "imageUrl": "https://samsobjectfinder.com/images/weapons/ammunition/ammo_40mm_smoke_green/ammo_40mm_smoke_green.jpg"
   },
   {
     "objectName": "Ammo_40mm_Smoke_Red",
-    "inGameName": "-",
+    "inGameName": "Ammo_40mm_Smoke_Red",
     "category": "weapons",
     "modelType": "Config",
     "path": "dz/weapons/ammunition",
@@ -1129,15 +1129,15 @@
     "image": "images/weapons/ammunition/ammo_40mm_smoke_red/ammo_40mm_smoke_red.jpg",
     "id": "dzobj_p9xr5d673y",
     "dimensionsVisual": [
-      2.5,
-      2.5,
-      2.5
+      0.1,
+      0.1,
+      0.1
     ],
     "imageUrl": "https://samsobjectfinder.com/images/weapons/ammunition/ammo_40mm_smoke_red/ammo_40mm_smoke_red.jpg"
   },
   {
     "objectName": "Ammo_40mm_Smoke_White",
-    "inGameName": "-",
+    "inGameName": "Ammo_40mm_Smoke_White",
     "category": "weapons",
     "modelType": "Config",
     "path": "dz/weapons/ammunition",
@@ -1146,9 +1146,9 @@
     "image": "images/weapons/ammunition/ammo_40mm_smoke_white/ammo_40mm_smoke_white.jpg",
     "id": "dzobj_67va4c9r87",
     "dimensionsVisual": [
-      2.5,
-      2.5,
-      2.5
+      0.1,
+      0.1,
+      0.1
     ],
     "imageUrl": "https://samsobjectfinder.com/images/weapons/ammunition/ammo_40mm_smoke_white/ammo_40mm_smoke_white.jpg"
   },
@@ -1180,9 +1180,9 @@
     "image": "images/weapons/ammunition/ammo_545x39/ammo_545x39.jpg",
     "id": "dzobj_5pxu9681pi",
     "dimensionsVisual": [
-      2.5,
-      2.5,
-      2.5
+      0.1,
+      0.1,
+      0.1
     ],
     "imageUrl": "https://samsobjectfinder.com/images/weapons/ammunition/ammo_545x39/ammo_545x39.jpg"
   },
@@ -1214,9 +1214,9 @@
     "image": "images/weapons/ammunition/ammo_556x45/ammo_556x45.jpg",
     "id": "dzobj_ra7x90p8ud",
     "dimensionsVisual": [
-      2.5,
-      2.5,
-      2.5
+      0.1,
+      0.1,
+      0.1
     ],
     "imageUrl": "https://samsobjectfinder.com/images/weapons/ammunition/ammo_556x45/ammo_556x45.jpg"
   },
@@ -1248,9 +1248,9 @@
     "image": "images/weapons/ammunition/ammo_762x39/ammo_762x39.jpg",
     "id": "dzobj_zwn64w5it9",
     "dimensionsVisual": [
-      2.5,
-      2.5,
-      2.5
+      0.1,
+      0.1,
+      0.1
     ],
     "imageUrl": "https://samsobjectfinder.com/images/weapons/ammunition/ammo_762x39/ammo_762x39.jpg"
   },
@@ -1282,9 +1282,9 @@
     "image": "images/weapons/ammunition/ammo_762x54/ammo_762x54.jpg",
     "id": "dzobj_58x1dun1c0",
     "dimensionsVisual": [
-      2.5,
-      2.5,
-      2.5
+      0.1,
+      0.1,
+      0.1
     ],
     "imageUrl": "https://samsobjectfinder.com/images/weapons/ammunition/ammo_762x54/ammo_762x54.jpg"
   },
@@ -1350,9 +1350,9 @@
     "image": "images/weapons/ammunition/ammo_9x39ap/ammo_9x39ap.jpg",
     "id": "dzobj_v35ynqq8ai",
     "dimensionsVisual": [
-      2.5,
-      2.5,
-      2.5
+      0.1,
+      0.1,
+      0.1
     ],
     "imageUrl": "https://samsobjectfinder.com/images/weapons/ammunition/ammo_9x39ap/ammo_9x39ap.jpg"
   },
@@ -1367,9 +1367,9 @@
     "image": "images/weapons/projectiles/ammo_cupidsbolt/ammo_cupidsbolt.jpg",
     "id": "dzobj_lg8qsx2hbn",
     "dimensionsVisual": [
-      2.5,
-      2.5,
-      2.5
+      0.1,
+      0.1,
+      0.1
     ],
     "imageUrl": "https://samsobjectfinder.com/images/weapons/projectiles/ammo_cupidsbolt/ammo_cupidsbolt.jpg"
   },
@@ -1392,7 +1392,7 @@
   },
   {
     "objectName": "Ammo_FlareBlue",
-    "inGameName": "-",
+    "inGameName": "Ammo_FlareBlue",
     "category": "weapons",
     "modelType": "Config",
     "path": "dz/weapons/ammunition",
@@ -1401,15 +1401,15 @@
     "image": "images/weapons/ammunition/ammo_flareblue/ammo_flareblue.jpg",
     "id": "dzobj_av5i890sb9",
     "dimensionsVisual": [
-      2.5,
-      2.5,
-      2.5
+      0.1,
+      0.1,
+      0.1
     ],
     "imageUrl": "https://samsobjectfinder.com/images/weapons/ammunition/ammo_flareblue/ammo_flareblue.jpg"
   },
   {
     "objectName": "Ammo_FlareGreen",
-    "inGameName": "-",
+    "inGameName": "Ammo_FlareGreen",
     "category": "weapons",
     "modelType": "Config",
     "path": "dz/weapons/ammunition",
@@ -1418,15 +1418,15 @@
     "image": "images/weapons/ammunition/ammo_flaregreen/ammo_flaregreen.jpg",
     "id": "dzobj_ekwnvt59ks",
     "dimensionsVisual": [
-      2.5,
-      2.5,
-      2.5
+      0.1,
+      0.1,
+      0.1
     ],
     "imageUrl": "https://samsobjectfinder.com/images/weapons/ammunition/ammo_flaregreen/ammo_flaregreen.jpg"
   },
   {
     "objectName": "Ammo_FlareRed",
-    "inGameName": "-",
+    "inGameName": "Ammo_FlareRed",
     "category": "weapons",
     "modelType": "Config",
     "path": "dz/weapons/ammunition",
@@ -1435,9 +1435,9 @@
     "image": "images/weapons/ammunition/ammo_flarered/ammo_flarered.jpg",
     "id": "dzobj_cvuemxfcbh",
     "dimensionsVisual": [
-      2.5,
-      2.5,
-      2.5
+      0.1,
+      0.1,
+      0.1
     ],
     "imageUrl": "https://samsobjectfinder.com/images/weapons/ammunition/ammo_flarered/ammo_flarered.jpg"
   },
@@ -1452,9 +1452,9 @@
     "image": "images/weapons/explosives/m67grenade/m67grenade.jpg",
     "id": "dzobj_w2cmjgc8in",
     "dimensionsVisual": [
-      2.5,
-      2.5,
-      2.5
+      0.1,
+      0.1,
+      0.1
     ],
     "imageUrl": "https://samsobjectfinder.com/images/weapons/explosives/m67grenade/m67grenade.jpg"
   },
@@ -1469,9 +1469,9 @@
     "image": "images/weapons/projectiles/ammo_huntingbolt/ammo_huntingbolt.jpg",
     "id": "dzobj_wpc86h0f5f",
     "dimensionsVisual": [
-      2.5,
-      2.5,
-      2.5
+      0.2,
+      0.2,
+      0.2
     ],
     "imageUrl": "https://samsobjectfinder.com/images/weapons/projectiles/ammo_huntingbolt/ammo_huntingbolt.jpg"
   },
@@ -1486,9 +1486,9 @@
     "image": "images/weapons/projectiles/ammo_improvisedbolt_1/ammo_improvisedbolt_1.jpg",
     "id": "dzobj_bhb6hh1lj8",
     "dimensionsVisual": [
-      2.5,
-      2.5,
-      2.5
+      0.2,
+      0.2,
+      0.2
     ],
     "imageUrl": "https://samsobjectfinder.com/images/weapons/projectiles/ammo_improvisedbolt_1/ammo_improvisedbolt_1.jpg"
   },
@@ -1503,62 +1503,11 @@
     "image": "images/weapons/projectiles/ammo_improvisedbolt_2/ammo_improvisedbolt_2.jpg",
     "id": "dzobj_n2eeqm4hvi",
     "dimensionsVisual": [
-      2.5,
-      2.5,
-      2.5
+      0.2,
+      0.2,
+      0.2
     ],
     "imageUrl": "https://samsobjectfinder.com/images/weapons/projectiles/ammo_improvisedbolt_2/ammo_improvisedbolt_2.jpg"
-  },
-  {
-    "objectName": "Ammo_LAW_HE",
-    "inGameName": "M72 LAW Warhead",
-    "category": "weapons",
-    "modelType": "Config",
-    "path": "dz/weapons/launchers/law",
-    "usableOnConsole": true,
-    "searchTags": "ammunition, launchers, m72, rounds, warhead, weapon, weapons",
-    "image": "images/weapons/launchers/law/ammo_law_he/ammo_law_he.jpg",
-    "id": "dzobj_sy9crqugzc",
-    "dimensionsVisual": [
-      0.4645796027034521,
-      0.07149410247802734,
-      0.059008510783314705
-    ],
-    "imageUrl": "https://samsobjectfinder.com/images/weapons/launchers/law/ammo_law_he/ammo_law_he.jpg"
-  },
-  {
-    "objectName": "Ammo_RPG7_AP",
-    "inGameName": "PG-7V Warhead, AP",
-    "category": "weapons",
-    "modelType": "Config",
-    "path": "dz/weapons/ammunition",
-    "usableOnConsole": true,
-    "searchTags": "7v, ammunition, pg, rounds, warhead, weapon, weapons",
-    "image": "images/weapons/ammunition/ammo_rpg7_ap/ammo_rpg7_ap.jpg",
-    "id": "dzobj_818n43jz85",
-    "dimensionsVisual": [
-      0.07711940258741379,
-      0.07711930572986603,
-      0.8230970501899719
-    ],
-    "imageUrl": "https://samsobjectfinder.com/images/weapons/ammunition/ammo_rpg7_ap/ammo_rpg7_ap.jpg"
-  },
-  {
-    "objectName": "Ammo_RPG7_HE",
-    "inGameName": "PG-7V Warhead",
-    "category": "weapons",
-    "modelType": "Config",
-    "path": "dz/weapons/ammunition",
-    "usableOnConsole": true,
-    "searchTags": "7v, ammunition, pg, rounds, warhead, weapon, weapons",
-    "image": "images/weapons/ammunition/ammo_rpg7_he/ammo_rpg7_he.jpg",
-    "id": "dzobj_12xlqlmsvt",
-    "dimensionsVisual": [
-      2.5,
-      2.5,
-      2.5
-    ],
-    "imageUrl": "https://samsobjectfinder.com/images/weapons/ammunition/ammo_rpg7_he/ammo_rpg7_he.jpg"
   },
   {
     "objectName": "AmmoBox",
@@ -2603,7 +2552,7 @@
   },
   {
     "objectName": "Anniversary_FireworksLauncher",
-    "inGameName": "Raycast Scanner",
+    "inGameName": "Fireworks",
     "category": "gear",
     "modelType": "Config",
     "path": "dz/gear/tools",
@@ -2616,9 +2565,9 @@
     ],
     "linked-p3d": "dzobj_0o8rnc3die",
     "dimensionsVisual": [
-      0.30000001192092896,
-      0.25049999356269836,
-      0.30000001192092896
+      0.3,
+      0.2505,
+      0.3
     ],
     "imageUrl": "https://samsobjectfinder.com/images/gear/tools/anniversary_fireworkslauncher/anniversary_fireworkslauncher.jpg"
   },
