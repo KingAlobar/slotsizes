@@ -20578,6 +20578,54 @@
         ]
     },
     {
+        "itemName": "Mosin9130_Woodland",
+        "sub_category": "weapons_rifle",
+        "slotSize": 27,
+        "attachmentsslots": 0,
+        "cargo_capacity": 0,
+        "rotation_preset": "0.0 90.0 0.0",
+        "rotation_preset2": "0.0 -90.0 0.0",
+        "imageUrl": "https://samsobjectfinder.com/images/weapons/firearms/mosin9130/mosin9130_winter/mosin9130_winter.jpg",
+        "image": "images/weapons/firearms/mosin9130/mosin9130_winter/mosin9130_winter.jpg",
+        "dimensionsVisual": [
+            2.2963438034057617,
+            0.5806884989142418,
+            1.2005788534879684
+        ]
+    },
+    {
+        "itemName": "Mosin9130_Desert",
+        "sub_category": "weapons_rifle",
+        "slotSize": 27,
+        "attachmentsslots": 0,
+        "cargo_capacity": 0,
+        "rotation_preset": "0.0 90.0 0.0",
+        "rotation_preset2": "0.0 -90.0 0.0",
+        "imageUrl": "https://samsobjectfinder.com/images/weapons/firearms/mosin9130/mosin9130_desert/mosin9130_desert.jpg",
+        "image": "images/weapons/firearms/mosin9130/mosin9130_desert/mosin9130_desert.jpg",
+        "dimensionsVisual": [
+            2.2963438034057617,
+            0.5806884989142418,
+            1.2005788534879684
+        ]
+    },
+    {
+        "itemName": "Mosin9130_Winter",
+        "sub_category": "weapons_rifle",
+        "slotSize": 27,
+        "attachmentsslots": 0,
+        "cargo_capacity": 0,
+        "rotation_preset": "0.0 90.0 0.0",
+        "rotation_preset2": "0.0 -90.0 0.0",
+        "imageUrl": "https://samsobjectfinder.com/images/weapons/firearms/mosin9130/mosin9130_winter/mosin9130_winter.jpg",
+        "image": "images/weapons/firearms/mosin9130/mosin9130_winter/mosin9130_winter.jpg",
+        "dimensionsVisual": [
+            2.2963438034057617,
+            0.5806884989142418,
+            1.2005788534879684
+        ]
+    },
+    {
         "itemName": "Mosin_Bayonet",
         "sub_category": "weaponParts",
         "slotSize": 4,
@@ -24664,6 +24712,54 @@
         "rotation_preset2": "0.0 -90.0 0.0",
         "imageUrl": "https://samsobjectfinder.com/images/weapons/firearms/mosin9130/sawedoffmosin9130_green/sawedoffmosin9130_green.jpg",
         "image": "images/weapons/firearms/mosin9130/sawedoffmosin9130_green/sawedoffmosin9130_green.jpg",
+        "dimensionsVisual": [
+            2.5,
+            2.5,
+            2.5
+        ]
+    },
+    {
+        "itemName": "SawedoffMosin9130_Woodland",
+        "sub_category": "weapons_sawedoff",
+        "slotSize": 10,
+        "attachmentsslots": 0,
+        "cargo_capacity": 0,
+        "rotation_preset": "0.0 90.0 0.0",
+        "rotation_preset2": "0.0 -90.0 0.0",
+        "imageUrl": "https://samsobjectfinder.com/images/weapons/firearms/mosin9130/sawedoffmosin9130_woodland/sawedoffmosin9130_woodland.jpg",
+        "image": "images/weapons/firearms/mosin9130/sawedoffmosin9130/sawedoffmosin9130.jpg",
+        "dimensionsVisual": [
+            2.5,
+            2.5,
+            2.5
+        ]
+    },
+    {
+        "itemName": "SawedoffMosin9130_Winter",
+        "sub_category": "weapons_sawedoff",
+        "slotSize": 10,
+        "attachmentsslots": 0,
+        "cargo_capacity": 0,
+        "rotation_preset": "0.0 90.0 0.0",
+        "rotation_preset2": "0.0 -90.0 0.0",
+        "imageUrl": "https://samsobjectfinder.com/images/weapons/firearms/mosin9130/sawedoffmosin9130_winter/sawedoffmosin9130_winter.jpg",
+        "image": "images/weapons/firearms/mosin9130/sawedoffmosin9130/sawedoffmosin9130.jpg",
+        "dimensionsVisual": [
+            2.5,
+            2.5,
+            2.5
+        ]
+    },
+    {
+        "itemName": "SawedoffMosin9130_Desert",
+        "sub_category": "weapons_sawedoff",
+        "slotSize": 10,
+        "attachmentsslots": 0,
+        "cargo_capacity": 0,
+        "rotation_preset": "0.0 90.0 0.0",
+        "rotation_preset2": "0.0 -90.0 0.0",
+        "imageUrl": "https://samsobjectfinder.com/images/weapons/firearms/mosin9130/sawedoffmosin9130_desert/sawedoffmosin9130_desert.jpg",
+        "image": "images/weapons/firearms/mosin9130/sawedoffmosin9130_desert/sawedoffmosin9130_desert.jpg",
         "dimensionsVisual": [
             2.5,
             2.5,
