@@ -27905,6 +27905,22 @@
         ]
     },
     {
+        "itemName": "StorageBox_Wooden",
+        "sub_category": "containers",
+        "slotSize": 300,
+        "attachmentsslots": 0,
+        "cargo_capacity": 0,
+        "rotation_preset": "0.0 0.0 0.0",
+        "rotation_preset2": "90.0 0.0 0.0",
+        "imageUrl": "https://samsobjectfinder.com/images/structures_takistan/props/crates/storagebox_wooden/storagebox_wooden.jpg",
+        "image": "images/structures_takistan/props/crates/storagebox_wooden/storagebox_wooden.jpg",
+        "dimensionsVisual": [
+            2.004,
+            0.832,
+            0.808
+        ]
+    },
+    {
         "itemName": "StoneKnife",
         "sub_category": "tools_crafted",
         "slotSize": 2,
