@@ -12650,6 +12650,21 @@
         ]
     },
     {
+        "itemName": "Glock19_Tan",
+        "sub_category": "weapons_pistol",
+        "slotSize": 6,
+        "attachmentsslots": 4,
+        "cargo_capacity": 0,
+        "rotation_preset": "0.0 90.0 0.0",
+        "rotation_preset2": "0.0 -90.0 0.0",
+        "imageUrl": "https://samsobjectfinder.com/images/weapons/pistols/glock/glock19_tan/glock19_tan.jpg",
+        "dimensionsVisual": [
+            0.6276293694972992,
+            2.0613387897610664,
+            1.200390949845314
+        ]
+    },
+    {
         "itemName": "GlowPlug",
         "sub_category": "tools_car",
         "slotSize": 2,
@@ -35089,21 +35104,6 @@
         "cargo_capacity": 0,
         "rotation_preset": "0.0 90.0 0.0",
         "rotation_preset2": "0.0 -90.0 0.0"
-    },
-    {
-        "itemName": "Glock19_Tan",
-        "sub_category": "weapons_pistol",
-        "slotSize": 6,
-        "attachmentsslots": 4,
-        "cargo_capacity": 0,
-        "rotation_preset": "0.0 90.0 0.0",
-        "rotation_preset2": "0.0 -90.0 0.0",
-        "imageUrl": "https://samsobjectfinder.com/images/weapons/pistols/glock/glock19_tan/glock19_tan.jpg",
-        "dimensionsVisual": [
-            0.6276293694972992,
-            2.0613387897610664,
-            1.200390949845314
-        ]
     },
     {
         "itemName": "GunCaseKeys_Blue",
