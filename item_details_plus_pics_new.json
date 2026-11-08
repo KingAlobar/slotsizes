@@ -25909,7 +25909,7 @@
         "cargo_capacity": 0,
         "rotation_preset": "0.0 90.0 0.0",
         "rotation_preset2": "0.0 -90.0 0.0",
-        "imageUrl": "https://github.com/KingAlobar/image_stuff/blob/main/ShippingContainerKeys_Blue.jpg",
+        "imageUrl": "https://dayz.wiki.gg/wiki/Container_Key#/media/File:ShippingContainerKeys_Blue.png",
         "image": "images/gear/tools/shovel/shovel.jpg",
         "dimensionsVisual": [
             0.052583541721105576,
@@ -25920,7 +25920,7 @@
     {
         "itemName": "ShippingContainerKeys_Green",
         "sub_category": "tools_special",
-        "imageUrl": "https://github.com/KingAlobar/image_stuff/blob/f8349b482810a1f15ebe3513c94f44344c46ea9a/ShippingContainerKeys_Green.png",
+        "imageUrl": "https://samsobjectfinder.com/images/gear/tools/shippingcontainerkeys_green/shippingcontainerkeys_green.jpg",
         "image": "images/gear/tools/shippingcontainerkeys_green/shippingcontainerkeys_green.jpg",
         "dimensionsVisual": [
             0.052583541721105576,
@@ -25941,7 +25941,7 @@
         "cargo_capacity": 0,
         "rotation_preset": "0.0 90.0 0.0",
         "rotation_preset2": "0.0 -90.0 0.0",
-        "imageUrl": "https://github.com/KingAlobar/image_stuff/blob/main/ShippingContainerKeys_Orange.png",
+        "imageUrl": "https://dayz.wiki.gg/wiki/Container_Key#/media/File:ShippingContainerKeys_Orange.png/2",
         "image": "images/gear/tools/shovel/shovel.jpg",
         "dimensionsVisual": [
             0.052583541721105576,
@@ -25957,7 +25957,7 @@
         "cargo_capacity": 0,
         "rotation_preset": "0.0 90.0 0.0",
         "rotation_preset2": "0.0 -90.0 0.0",
-        "imageUrl": "https://github.com/KingAlobar/image_stuff/blob/main/ShippingContainerKeys_Red.png",
+        "imageUrl": "https://dayz.wiki.gg/wiki/Container_Key#/media/File:ShippingContainerKeys_Red.png/2",
         "image": "images/gear/tools/shovel/shovel.jpg",
         "dimensionsVisual": [
             0.052583541721105576,
@@ -25973,7 +25973,7 @@
         "cargo_capacity": 0,
         "rotation_preset": "0.0 90.0 0.0",
         "rotation_preset2": "0.0 -90.0 0.0",
-        "imageUrl": "https://github.com/KingAlobar/image_stuff/blob/main/ShippingContainerKeys_Yellow.png",
+        "imageUrl": "https://dayz.wiki.gg/wiki/Container_Key#/media/File:ShippingContainerKeys_Yellow.png/2",
         "image": "images/gear/tools/shovel/shovel.jpg",
         "dimensionsVisual": [
             0.052583541721105576,
