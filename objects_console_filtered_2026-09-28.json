@@ -51678,40 +51678,6 @@
     "imageUrl": "https://samsobjectfinder.com/images/gear_takistan/drinks/lassi_mint/lassi_mint.jpg"
   },
   {
-    "objectName": "LAW",
-    "inGameName": "M72 LAW",
-    "category": "weapons",
-    "modelType": "Config",
-    "path": "dz/weapons/launchers/law",
-    "usableOnConsole": true,
-    "searchTags": "launchers, m72, weapon, weapons",
-    "image": "images/weapons/launchers/law/law/law.jpg",
-    "id": "dzobj_3dnfl6b3k8",
-    "dimensionsVisual": [
-      0.8946346938610077,
-      2.1569603607058525,
-      1.0387582331895828
-    ],
-    "imageUrl": "https://samsobjectfinder.com/images/weapons/launchers/law/law/law.jpg"
-  },
-  {
-    "objectName": "LAWBase",
-    "inGameName": "LAWBase",
-    "category": "weapons",
-    "modelType": "Config",
-    "path": "dz/weapons/launchers/law",
-    "usableOnConsole": true,
-    "searchTags": "launchers, weapon, weapons",
-    "image": "images/weapons/launchers/law/lawbase/lawbase.jpg",
-    "id": "dzobj_irun4ik7zi",
-    "dimensionsVisual": [
-      2.5,
-      2.5,
-      2.5
-    ],
-    "imageUrl": "https://samsobjectfinder.com/images/weapons/launchers/law/lawbase/lawbase.jpg"
-  },
-  {
     "objectName": "LeafCrown_Autumn",
     "inGameName": "Leaf Crown",
     "category": "characters",
