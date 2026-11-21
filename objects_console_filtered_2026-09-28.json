@@ -781,7 +781,7 @@
   },
   {
     "objectName": "AlarmClock_Blue",
-    "inGameName": "Raycast Scanner",
+    "inGameName": "AlarmClock_Blue",
     "category": "gear",
     "modelType": "Config",
     "path": "dz/gear/tools",
@@ -803,7 +803,7 @@
   },
   {
     "objectName": "AlarmClock_Green",
-    "inGameName": "Raycast Scanner",
+    "inGameName": "AlarmClock_Green",
     "category": "gear",
     "modelType": "Config",
     "path": "dz/gear/tools",
@@ -825,7 +825,7 @@
   },
   {
     "objectName": "AlarmClock_Red",
-    "inGameName": "Raycast Scanner",
+    "inGameName": "AlarmClock_Red",
     "category": "gear",
     "modelType": "Config",
     "path": "dz/gear/tools",
@@ -2824,7 +2824,7 @@
   },
   {
     "objectName": "Anniversary_FireworksLauncher",
-    "inGameName": "Raycast Scanner",
+    "inGameName": "Anniversary_FireworksLauncher",
     "category": "gear",
     "modelType": "Config",
     "path": "dz/gear/tools",
@@ -5634,23 +5634,6 @@
       0.3219200521707535
     ],
     "imageUrl": "https://samsobjectfinder.com/images/characters/shoes/athleticshoes_grey/athleticshoes_grey.jpg"
-  },
-  {
-    "objectName": "Attack_flashlight_Heavy2",
-    "inGameName": "Raycast Scanner",
-    "category": "gear",
-    "modelType": "Config",
-    "path": "dz/gear/tools",
-    "usableOnConsole": true,
-    "searchTags": "gear, raycast, scanner, tools",
-    "image": "images/gear/tools/flashlight/flashlight.jpg",
-    "id": "dzobj_h90revw1oe",
-    "dimensionsVisual": [
-      0.2020903304219246,
-      0.06748092174530029,
-      0.06748086679726839
-    ],
-    "imageUrl": "https://samsobjectfinder.com/images/gear/tools/flashlight/flashlight.jpg"
   },
   {
     "objectName": "Attack2Bag_Black",
