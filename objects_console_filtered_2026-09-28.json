@@ -66003,13 +66003,13 @@
   },
   {
     "objectName": "ShippingContainerKeys_Blue",
-    "inGameName": "Container Key",
+    "inGameName": "Container Key Blue",
     "category": "gear",
     "modelType": "Config",
     "path": "dz/gear/tools",
     "usableOnConsole": true,
     "searchTags": "sakhal, quest, locked",
-    "image": "images/gear/tools/shippingcontainerkeys_green/shippingcontainerkeys_green.jpg",
+    "image": "image_stuff/blob/main/ShippingContainerKeys_Blue.png",
     "id": "dzobj_7nn2mguacw",
     "linked-variant": [
       "dzobj_jwzviqzqli",
@@ -66022,34 +66022,34 @@
       0.061814216896891594,
       0.027204936370253563
     ],
-    "imageUrl": "https://samsobjectfinder.com/images/gear/tools/shippingcontainerkeys_green/shippingcontainerkeys_green.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/KingAlobar/image_stuff/main/ShippingContainerKeys_Blue.png"
   },
   {
     "objectName": "ShippingContainerKeys_Green",
-    "inGameName": "Container Key",
+    "inGameName": "Container Key Green",
     "category": "gear",
     "modelType": "Config",
     "path": "dz/gear/tools",
     "usableOnConsole": true,
     "searchTags": "shippingcontainerkeys, green, dz, gear, tools, v1.30-badlands",
-    "image": "images/gear/tools/shippingcontainerkeys_green/shippingcontainerkeys_green.jpg",
+    "image": "image_stuff/blob/main/ShippingContainerKeys_Green.png",
     "id": "dzobj_r8h8wtcc2s",
     "dimensionsVisual": [
       0.052583541721105576,
       0.061814216896891594,
       0.027204936370253563
     ],
-    "imageUrl": "https://samsobjectfinder.com/images/gear/tools/shippingcontainerkeys_green/shippingcontainerkeys_green.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/KingAlobar/image_stuff/main/ShippingContainerKeys_Green.png"
   },
   {
     "objectName": "ShippingContainerKeys_Orange",
-    "inGameName": "Container Key",
+    "inGameName": "Container Key Orange",
     "category": "gear",
     "modelType": "Config",
     "path": "dz/gear/tools",
     "usableOnConsole": true,
     "searchTags": "sakhal, quest, locked",
-    "image": "images/gear/tools/shippingcontainerkeys_green/shippingcontainerkeys_green.jpg",
+    "image": "image_stuff/blob/main/ShippingContainerKeys_Orange.png",
     "id": "dzobj_n1al4o0a2p",
     "linked-variant": [
       "dzobj_7nn2mguacw",
@@ -66062,17 +66062,17 @@
       0.061814216896891594,
       0.027204936370253563
     ],
-    "imageUrl": "https://samsobjectfinder.com/images/gear/tools/shippingcontainerkeys_green/shippingcontainerkeys_green.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/KingAlobar/image_stuff/main/ShippingContainerKeys_Orange.png"
   },
   {
     "objectName": "ShippingContainerKeys_Red",
-    "inGameName": "Container Key",
+    "inGameName": "Container Key Red",
     "category": "gear",
     "modelType": "Config",
     "path": "dz/gear/tools",
     "usableOnConsole": true,
     "searchTags": "sakhal, quest, locked",
-    "image": "images/gear/tools/shippingcontainerkeys_green/shippingcontainerkeys_green.jpg",
+    "image": "image_stuff/blob/main/ShippingContainerKeys_Red.png",
     "id": "dzobj_w4b3u5ip40",
     "linked-variant": [
       "dzobj_7nn2mguacw",
@@ -66085,17 +66085,17 @@
       0.061814216896891594,
       0.027204936370253563
     ],
-    "imageUrl": "https://samsobjectfinder.com/images/gear/tools/shippingcontainerkeys_green/shippingcontainerkeys_green.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/KingAlobar/image_stuff/main/ShippingContainerKeys_Red.png"
   },
   {
     "objectName": "ShippingContainerKeys_Yellow",
-    "inGameName": "Container Key",
+    "inGameName": "Container Key Yellow",
     "category": "gear",
     "modelType": "Config",
     "path": "dz/gear/tools",
     "usableOnConsole": true,
     "searchTags": "sakhal, quest, locked",
-    "image": "images/gear/tools/shippingcontainerkeys_green/shippingcontainerkeys_green.jpg",
+    "image": "image_stuff/blob/main/ShippingContainerKeys_Yellow.png",
     "id": "dzobj_jwzviqzqli",
     "linked-variant": [
       "dzobj_7nn2mguacw",
@@ -66108,7 +66108,7 @@
       0.061814216896891594,
       0.027204936370253563
     ],
-    "imageUrl": "https://samsobjectfinder.com/images/gear/tools/shippingcontainerkeys_green/shippingcontainerkeys_green.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/KingAlobar/image_stuff/main/ShippingContainerKeys_Yellow.png"
   },
   {
     "objectName": "Shirt_BlueCheck",
