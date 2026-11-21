@@ -66003,13 +66003,13 @@
   },
   {
     "objectName": "ShippingContainerKeys_Blue",
-    "inGameName": "Shovel",
+    "inGameName": "Container Key",
     "category": "gear",
     "modelType": "Config",
     "path": "dz/gear/tools",
     "usableOnConsole": true,
     "searchTags": "sakhal, quest, locked",
-    "image": "images/gear/tools/shovel/shovel.jpg",
+    "image": "images/gear/tools/shippingcontainerkeys_green/shippingcontainerkeys_green.jpg",
     "id": "dzobj_7nn2mguacw",
     "linked-variant": [
       "dzobj_jwzviqzqli",
@@ -66022,7 +66022,7 @@
       0.061814216896891594,
       0.027204936370253563
     ],
-    "imageUrl": "https://samsobjectfinder.com/images/gear/tools/shovel/shovel.jpg"
+    "imageUrl": "https://samsobjectfinder.com/images/gear/tools/shippingcontainerkeys_green/shippingcontainerkeys_green.jpg"
   },
   {
     "objectName": "ShippingContainerKeys_Green",
@@ -66043,13 +66043,13 @@
   },
   {
     "objectName": "ShippingContainerKeys_Orange",
-    "inGameName": "Shovel",
+    "inGameName": "Container Key",
     "category": "gear",
     "modelType": "Config",
     "path": "dz/gear/tools",
     "usableOnConsole": true,
     "searchTags": "sakhal, quest, locked",
-    "image": "images/gear/tools/shovel/shovel.jpg",
+    "image": "images/gear/tools/shippingcontainerkeys_green/shippingcontainerkeys_green.jpg",
     "id": "dzobj_n1al4o0a2p",
     "linked-variant": [
       "dzobj_7nn2mguacw",
@@ -66062,17 +66062,17 @@
       0.061814216896891594,
       0.027204936370253563
     ],
-    "imageUrl": "https://samsobjectfinder.com/images/gear/tools/shovel/shovel.jpg"
+    "imageUrl": "https://samsobjectfinder.com/images/gear/tools/shippingcontainerkeys_green/shippingcontainerkeys_green.jpg"
   },
   {
     "objectName": "ShippingContainerKeys_Red",
-    "inGameName": "Shovel",
+    "inGameName": "Container Key",
     "category": "gear",
     "modelType": "Config",
     "path": "dz/gear/tools",
     "usableOnConsole": true,
     "searchTags": "sakhal, quest, locked",
-    "image": "images/gear/tools/shovel/shovel.jpg",
+    "image": "images/gear/tools/shippingcontainerkeys_green/shippingcontainerkeys_green.jpg",
     "id": "dzobj_w4b3u5ip40",
     "linked-variant": [
       "dzobj_7nn2mguacw",
@@ -66085,17 +66085,17 @@
       0.061814216896891594,
       0.027204936370253563
     ],
-    "imageUrl": "https://samsobjectfinder.com/images/gear/tools/shovel/shovel.jpg"
+    "imageUrl": "https://samsobjectfinder.com/images/gear/tools/shippingcontainerkeys_green/shippingcontainerkeys_green.jpg"
   },
   {
     "objectName": "ShippingContainerKeys_Yellow",
-    "inGameName": "Shovel",
+    "inGameName": "Container Key",
     "category": "gear",
     "modelType": "Config",
     "path": "dz/gear/tools",
     "usableOnConsole": true,
     "searchTags": "sakhal, quest, locked",
-    "image": "images/gear/tools/shovel/shovel.jpg",
+    "image": "images/gear/tools/shippingcontainerkeys_green/shippingcontainerkeys_green.jpg",
     "id": "dzobj_jwzviqzqli",
     "linked-variant": [
       "dzobj_7nn2mguacw",
@@ -66108,7 +66108,7 @@
       0.061814216896891594,
       0.027204936370253563
     ],
-    "imageUrl": "https://samsobjectfinder.com/images/gear/tools/shovel/shovel.jpg"
+    "imageUrl": "https://samsobjectfinder.com/images/gear/tools/shippingcontainerkeys_green/shippingcontainerkeys_green.jpg"
   },
   {
     "objectName": "Shirt_BlueCheck",
