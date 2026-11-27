@@ -37634,7 +37634,7 @@
     },
     {
         "itemName": "OBRJacket_Beige",
-        "sub_category": "clothes_head",
+        "sub_category": "clothes_top",
         "imageUrl": "https://samsobjectfinder.com/images/characters_takistan/tops/obrjacket_beige/obrjacket_beige.jpg",
         "image": "images/characters_takistan/tops/obrjacket_beige/obrjacket_beige.jpg",
         "dimensionsVisual": [
@@ -37644,13 +37644,13 @@
         ],
         "slotSize": 6,
         "attachmentsslots": 0,
-        "cargo_capacity": 0,
+        "cargo_capacity": 20,
         "rotation_preset": "0.0 -90.0 0.0",
         "rotation_preset2": "0.0 0.0 90.0"
     },
     {
         "itemName": "OBRJacket_Officer",
-        "sub_category": "clothes_head",
+        "sub_category": "clothes_top",
         "imageUrl": "https://samsobjectfinder.com/images/characters_takistan/tops/obrjacket_officer/obrjacket_officer.jpg",
         "image": "images/characters_takistan/tops/obrjacket_officer/obrjacket_officer.jpg",
         "dimensionsVisual": [
@@ -37660,7 +37660,7 @@
         ],
         "slotSize": 6,
         "attachmentsslots": 0,
-        "cargo_capacity": 0,
+        "cargo_capacity": 20,
         "rotation_preset": "0.0 -90.0 0.0",
         "rotation_preset2": "0.0 0.0 90.0"
     },
